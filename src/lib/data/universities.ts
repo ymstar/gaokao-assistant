@@ -88,6 +88,77 @@ export async function searchUniversities(
   return filtered;
 }
 
+/** 加载全国院校基础信息（data/_all-schools.json） */
+export async function loadAllSchools(): Promise<University[]> {
+  const cacheKey = 'universities-all';
+  const cached = getCachedData<University[]>(cacheKey);
+  if (cached) return cached;
+
+  const dataPath = path.join(process.cwd(), 'data', '_all-schools.json');
+  try {
+    const data = await fs.readFile(dataPath, 'utf-8');
+    const parsed: University[] = JSON.parse(data);
+    setCachedData(cacheKey, parsed);
+    return parsed;
+  } catch {
+    return [];
+  }
+}
+
+/** 获取所有出现过的地区列表 */
+export async function getAllLocations(): Promise<string[]> {
+  const schools = await loadAllSchools();
+  const locations = [...new Set(schools.map(u => u.location).filter(Boolean))];
+  return locations.sort();
+}
+
+export interface AllSchoolsFilters {
+  keyword?: string;
+  location?: string;
+  level?: string;
+  tier?: string;
+  page?: number;
+  pageSize?: number;
+}
+
+/** 搜索全国院校（带筛选和分页） */
+export async function searchAllUniversities(
+  filters: AllSchoolsFilters
+): Promise<{ universities: University[]; total: number }> {
+  const schools = await loadAllSchools();
+  const { keyword, location, level, tier, page = 1, pageSize = 50 } = filters;
+
+  let filtered = schools;
+
+  if (keyword) {
+    const kw = keyword.toLowerCase();
+    filtered = filtered.filter(u =>
+      u.name.toLowerCase().includes(kw) ||
+      u.code.includes(keyword) ||
+      (u.location && u.location.toLowerCase().includes(kw)) ||
+      (u.city && u.city.toLowerCase().includes(kw))
+    );
+  }
+
+  if (location) {
+    filtered = filtered.filter(u => u.location === location);
+  }
+
+  if (level) {
+    filtered = filtered.filter(u => u.level === level);
+  }
+
+  if (tier) {
+    filtered = filtered.filter(u => u.tier?.includes(tier));
+  }
+
+  const total = filtered.length;
+  const start = (page - 1) * pageSize;
+  const universities = filtered.slice(start, start + pageSize);
+
+  return { universities, total };
+}
+
 export async function getUniversityByCode(
   province: string,
   code: string

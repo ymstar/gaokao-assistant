@@ -56,9 +56,9 @@ export function findScoreByRank(entries: ScoreRankEntry[], rank: number): number
     }
 
     if (midEntry.cumulative < rank) {
-      right = mid - 1;
-    } else {
       left = mid + 1;
+    } else {
+      right = mid - 1;
     }
   }
 

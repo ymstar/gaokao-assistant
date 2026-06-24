@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback, useEffect, useRef } from 'react';
 import { University } from '@/types/university';
 
 function Toggle({ value, onChange, options }: { value: string; onChange: (v: string) => void; options: { label: string; value: string }[] }) {
@@ -36,7 +36,7 @@ function SchoolCard({ u }: { u: University }) {
       <div className="min-w-0 flex-1">
         <div className="flex items-start justify-between gap-2">
           <a
-            href={u.chsiUrl || ''}
+            href={u.chsiUrl || `https://gaokao.chsi.com.cn/sch/schoolInfo--schId-${u.schId}.dhtml`}
             target="_blank"
             rel="noopener noreferrer"
             className="font-semibold text-slate-900 leading-tight hover:text-indigo-600 transition-colors"
@@ -55,7 +55,7 @@ function SchoolCard({ u }: { u: University }) {
               <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
               <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
             </svg>
-            {u.location}
+            {u.location}{u.city ? ` · ${u.city}` : ''}
           </span>
           {u.authority && <span>{u.authority}</span>}
           <span className="px-1.5 py-0.5 bg-slate-100 rounded text-slate-500">{u.level}</span>
@@ -102,63 +102,114 @@ function SchoolCard({ u }: { u: University }) {
   );
 }
 
-interface UniversitiesClientProps {
-  province: string;
-}
-
-export default function UniversitiesClient({ province }: UniversitiesClientProps) {
-  const [level, setLevel] = useState('all');
+export default function UniversitiesClient() {
   const [keyword, setKeyword] = useState('');
+  const [location, setLocation] = useState('');
+  const [level, setLevel] = useState('all');
+  const [tier, setTier] = useState('');
+  const [page, setPage] = useState(1);
   const [universities, setUniversities] = useState<University[]>([]);
+  const [total, setTotal] = useState(0);
+  const [locations, setLocations] = useState<string[]>([]);
+  const [loading, setLoading] = useState(false);
+  const pageSize = 50;
+  const keywordRef = useRef(keyword);
 
-  const fetchUniversities = useCallback(async (kw: string, lv: string) => {
+  const fetchUniversities = useCallback(async (opts: { keyword?: string; location?: string; level?: string; tier?: string; page?: number }) => {
+    setLoading(true);
     const params = new URLSearchParams();
-    if (kw) params.append('keyword', kw);
-    if (lv !== 'all') params.append('level', lv);
+    if (opts.keyword) params.append('keyword', opts.keyword);
+    if (opts.location) params.append('location', opts.location);
+    if (opts.level && opts.level !== 'all') params.append('level', opts.level);
+    if (opts.tier) params.append('tier', opts.tier);
+    params.append('page', String(opts.page || 1));
+    params.append('pageSize', String(pageSize));
     try {
-      const url = params.toString()
-        ? `/api/${province}/universities/list?${params}`
-        : `/api/${province}/universities/list`;
-      const res = await fetch(url);
+      const res = await fetch(`/api/universities/list?${params}`);
       const data = await res.json();
       setUniversities(data.universities || []);
+      setTotal(data.total || 0);
+      if (data.locations?.length) {
+        setLocations(data.locations);
+      }
     } catch (error) {
       console.error('Failed to fetch universities:', error);
+    } finally {
+      setLoading(false);
     }
-  }, [province]);
+  }, []);
 
   useEffect(() => {
-    fetchUniversities('', 'all');
+    fetchUniversities({ page: 1 });
   }, [fetchUniversities]);
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
-    fetchUniversities(keyword, level);
+    setPage(1);
+    fetchUniversities({ keyword, location, level, tier, page: 1 });
   };
 
-  const handleLevelChange = (v: string) => {
-    setLevel(v);
-    fetchUniversities(keyword, v);
+  const handleFilterChange = (updates: { location?: string; level?: string; tier?: string }) => {
+    const newLocation = updates.location !== undefined ? updates.location : location;
+    const newLevel = updates.level !== undefined ? updates.level : level;
+    const newTier = updates.tier !== undefined ? updates.tier : tier;
+    if (updates.location !== undefined) setLocation(updates.location);
+    if (updates.level !== undefined) setLevel(updates.level);
+    if (updates.tier !== undefined) setTier(updates.tier);
+    setPage(1);
+    fetchUniversities({ keyword, location: newLocation, level: newLevel, tier: newTier, page: 1 });
   };
 
-  const undergrad = universities.filter(u => u.level === '本科');
-  const vocational = universities.filter(u => u.level !== '本科');
+  const handlePageChange = (newPage: number) => {
+    setPage(newPage);
+    fetchUniversities({ keyword, location, level, tier, page: newPage });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const totalPages = Math.ceil(total / pageSize);
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8 space-y-6">
-      <h1 className="text-2xl font-bold text-slate-900">院校库</h1>
+      <div className="flex items-baseline justify-between">
+        <h1 className="text-2xl font-bold text-slate-900">院校库</h1>
+        <span className="text-sm text-slate-400">共 {total.toLocaleString()} 所院校</span>
+      </div>
 
-      <div className="bg-white rounded-2xl border border-slate-200 p-6">
-        <div className="flex flex-wrap items-end gap-6 mb-5">
+      <div className="bg-white rounded-2xl border border-slate-200 p-6 space-y-4">
+        <div className="flex flex-wrap items-end gap-4">
+          <div className="flex-1 min-w-[200px]">
+            <label className="block text-xs font-medium text-slate-400 mb-1.5">地区</label>
+            <select
+              value={location}
+              onChange={(e) => handleFilterChange({ location: e.target.value })}
+              className="w-full px-3 py-2 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all appearance-none cursor-pointer"
+            >
+              <option value="">全部地区</option>
+              {locations.map((loc) => (
+                <option key={loc} value={loc}>{loc}</option>
+              ))}
+            </select>
+          </div>
           <div>
             <label className="block text-xs font-medium text-slate-400 mb-1.5">办学层次</label>
             <Toggle
               value={level}
-              onChange={handleLevelChange}
+              onChange={(v) => handleFilterChange({ level: v })}
               options={[
                 { label: '全部', value: 'all' },
                 { label: '本科', value: '本科' },
                 { label: '高职专科', value: '高职(专科)' },
+              ]}
+            />
+          </div>
+          <div>
+            <label className="block text-xs font-medium text-slate-400 mb-1.5">院校层次</label>
+            <Toggle
+              value={tier}
+              onChange={(v) => handleFilterChange({ tier: v })}
+              options={[
+                { label: '全部', value: '' },
+                { label: '双一流', value: '双一流' },
               ]}
             />
           </div>
@@ -168,7 +219,7 @@ export default function UniversitiesClient({ province }: UniversitiesClientProps
             type="text"
             value={keyword}
             onChange={(e) => setKeyword(e.target.value)}
-            placeholder="搜索院校名称或代码"
+            placeholder="搜索院校名称、代码或地区"
             className="flex-1 px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all placeholder:text-slate-400"
           />
           <button
@@ -180,25 +231,37 @@ export default function UniversitiesClient({ province }: UniversitiesClientProps
         </form>
       </div>
 
-      {level === 'all' || level === '本科' ? (
-        <section>
-          <h2 className="text-sm font-semibold text-slate-500 mb-3">本科院校 ({undergrad.length})</h2>
+      {loading ? (
+        <div className="text-center text-slate-400 py-12">加载中...</div>
+      ) : universities.length > 0 ? (
+        <>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {undergrad.map(u => <SchoolCard key={u.code} u={u} />)}
+            {universities.map(u => <SchoolCard key={u.code} u={u} />)}
           </div>
-        </section>
-      ) : null}
 
-      {level === 'all' || level === '高职(专科)' ? (
-        <section>
-          <h2 className="text-sm font-semibold text-slate-500 mb-3">高职（专科）院校 ({vocational.length})</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {vocational.map(u => <SchoolCard key={u.code} u={u} />)}
-          </div>
-        </section>
-      ) : null}
-
-      {universities.length === 0 && (
+          {totalPages > 1 && (
+            <div className="flex items-center justify-center gap-2 pt-4">
+              <button
+                onClick={() => handlePageChange(page - 1)}
+                disabled={page <= 1}
+                className="px-3 py-1.5 rounded-lg text-sm font-medium text-slate-600 bg-white border border-slate-200 hover:bg-slate-50 disabled:opacity-40 disabled:cursor-not-allowed transition-all"
+              >
+                上一页
+              </button>
+              <span className="text-sm text-slate-400">
+                第 {page} / {totalPages} 页
+              </span>
+              <button
+                onClick={() => handlePageChange(page + 1)}
+                disabled={page >= totalPages}
+                className="px-3 py-1.5 rounded-lg text-sm font-medium text-slate-600 bg-white border border-slate-200 hover:bg-slate-50 disabled:opacity-40 disabled:cursor-not-allowed transition-all"
+              >
+                下一页
+              </button>
+            </div>
+          )}
+        </>
+      ) : (
         <div className="text-center text-slate-400 py-12">未找到匹配的院校</div>
       )}
     </div>

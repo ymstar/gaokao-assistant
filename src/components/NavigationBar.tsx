@@ -2,19 +2,22 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { getProvince } from '@/lib/provinces';
+import { provinces } from '@/lib/provinces';
+import { ProvinceSelector } from './ProvinceSelector';
+
+const provinceCodes = new Set(provinces.map(p => p.code));
 
 const navItems = [
-  { name: '一分一档', suffix: '/score-rank' },
-  { name: '等效分', suffix: '/equivalent-score' },
-  { name: '冲稳保', suffix: '/match' },
-  { name: '院校库', suffix: '/universities' },
+  { name: '一分一档', suffix: '/score-rank', provinceScoped: true },
+  { name: '等效分', suffix: '/equivalent-score', provinceScoped: true },
+  { name: '冲稳保', suffix: '/match', provinceScoped: true },
+  { name: '院校库', suffix: '/universities', provinceScoped: false },
 ];
 
 export function NavigationBar() {
   const pathname = usePathname();
-  const provinceCode = pathname.split('/')[1] || 'hebei';
-  const province = getProvince(provinceCode);
+  const segment = pathname.split('/')[1] || '';
+  const provinceCode = provinceCodes.has(segment) ? segment : 'hebei';
 
   return (
     <nav className="bg-white border-b border-slate-200 sticky top-0 z-50">
@@ -29,8 +32,10 @@ export function NavigationBar() {
 
           <div className="flex items-center gap-1">
             {navItems.map((item) => {
-              const href = `/${provinceCode}${item.suffix}`;
-              const active = pathname.startsWith(href);
+              const href = item.provinceScoped ? `/${provinceCode}${item.suffix}` : item.suffix;
+              const active = item.provinceScoped
+                ? pathname.startsWith(href)
+                : pathname.startsWith(item.suffix);
               return (
                 <Link
                   key={item.name}
@@ -47,11 +52,7 @@ export function NavigationBar() {
             })}
           </div>
 
-          {province && (
-            <div className="text-xs font-medium text-slate-400 bg-slate-100 px-2.5 py-1 rounded-full">
-              {province.nameShort}
-            </div>
-          )}
+          <ProvinceSelector />
         </div>
       </div>
     </nav>

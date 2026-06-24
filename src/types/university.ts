@@ -14,6 +14,7 @@ export interface AdmissionScoreEntry {
 
 export interface University {
   code: string;
+  schId?: string;             // 阳光高考平台学校ID
   name: string;
   nameShort?: string;
   location: string;           // 省份
