@@ -12,6 +12,7 @@ const navItems = [
   { name: '等效分', suffix: '/equivalent-score', provinceScoped: true },
   { name: '冲稳保', suffix: '/match', provinceScoped: true },
   { name: '院校库', suffix: '/universities', provinceScoped: false },
+  { name: '投档分析', suffix: '/admission-analysis', provinceScoped: false },
 ];
 
 export function NavigationBar() {

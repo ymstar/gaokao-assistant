@@ -2,12 +2,13 @@
 
 import Link from 'next/link';
 import { provinces } from '@/lib/provinces';
-import { BookOpen, Calculator, GraduationCap, Target } from 'lucide-react';
+import { BookOpen, Calculator, GraduationCap, Target, BarChart3 } from 'lucide-react';
 
 const featureCards = [
   { name: '一分一档查询', desc: '查看历年分数排名数据和趋势', icon: BookOpen, path: 'score-rank', color: 'bg-indigo-50 text-indigo-600', provinceScoped: true },
   { name: '等效分计算', desc: '根据当年分数计算历年等效分', icon: Calculator, path: 'equivalent-score', color: 'bg-emerald-50 text-emerald-600', provinceScoped: true },
   { name: '冲稳保匹配', desc: '输入分数自动匹配冲、稳、保三档院校', icon: Target, path: 'match', color: 'bg-rose-50 text-rose-600', provinceScoped: true },
+  { name: '投档分析', desc: '分析投档数据，洞察志愿号分布与竞争热度', icon: BarChart3, path: 'admission-analysis', color: 'bg-violet-50 text-violet-600', provinceScoped: false },
   { name: '院校库', desc: '查看全国所有院校基本信息', icon: GraduationCap, path: 'universities', color: 'bg-amber-50 text-amber-600', provinceScoped: false },
 ];
 
@@ -25,7 +26,7 @@ export default function HomePage() {
         </p>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
         {featureCards.map((f) => (
           <Link
             key={f.name}
