@@ -13,7 +13,7 @@ export const provinces: ProvinceConfig[] = [
     dataAvailable: {
       scoreRank: true,
       universities: true,
-      admissionLines: false,
+      admissionLines: true,
       admissionPlans: false,
     },
   },

@@ -32,7 +32,7 @@ function Toggle({ value, onChange, options }: { value: string; onChange: (v: str
 }
 
 export default function EquivalentScoreClient({ initialData = [] }: EquivalentScoreClientProps) {
-  const [year, setYear] = useState(2025);
+  const [year, setYear] = useState(2026);
   const [group, setGroup] = useState<SubjectGroup>('物理类');
   const [score, setScore] = useState('');
   const [result, setResult] = useState<EquivalentScoreResult | null>(null);
@@ -49,7 +49,10 @@ export default function EquivalentScoreClient({ initialData = [] }: EquivalentSc
     const entry = yearData.entries.find((e) => e.score === numScore);
     if (!entry) { alert(`未找到分数 ${numScore} 对应的排名数据`); return; }
 
-    const equivResult = calculateEquivalentScore(year, group, numScore, entry.cumulative, allData);
+    const rankStart = entry.cumulative - entry.count + 1;
+    const rankEnd = entry.cumulative;
+
+    const equivResult = calculateEquivalentScore(year, group, numScore, rankStart, rankEnd, allData);
     setResult(equivResult);
   };
 
@@ -65,10 +68,7 @@ export default function EquivalentScoreClient({ initialData = [] }: EquivalentSc
               <Toggle
                 value={String(year)}
                 onChange={(v) => setYear(parseInt(v))}
-                options={[
-                  { label: '2025', value: '2025' },
-                  { label: '2024', value: '2024' },
-                ]}
+                options={[...new Set(allData.map(d => d.year))].sort((a, b) => b - a).map(y => ({ label: String(y), value: String(y) }))}
               />
             </div>
             <div>
@@ -112,7 +112,7 @@ export default function EquivalentScoreClient({ initialData = [] }: EquivalentSc
               <div className="bg-slate-50 rounded-xl p-4 space-y-2.5">
                 {[
                   ['分数', `${result.inputScore} 分`],
-                  ['排名', `第 ${result.inputRank.toLocaleString()} 名`],
+                  ['位次区间', `第 ${result.inputRankStart.toLocaleString()} ~ ${result.inputRankEnd.toLocaleString()} 名`],
                   ['年份', `${result.inputYear} 年`],
                   ['科类', result.inputGroup],
                 ].map(([k, v]) => (
@@ -124,9 +124,11 @@ export default function EquivalentScoreClient({ initialData = [] }: EquivalentSc
               </div>
             </div>
             <div>
-              <h3 className="text-xs font-medium text-slate-400 mb-3">三年平均等效分</h3>
+              <h3 className="text-xs font-medium text-slate-400 mb-3">三年平均等效分区间</h3>
               <div className="bg-indigo-50 rounded-xl p-6 text-center">
-                <div className="text-5xl font-bold text-indigo-600 mb-1">{result.averageScore}</div>
+                <div className="text-5xl font-bold text-indigo-600 mb-1">
+                  {result.averageScoreRange.min} ~ {result.averageScoreRange.max}
+                </div>
                 <div className="text-sm text-slate-500">
                   {result.trend === 'rising' && '近年分数整体上涨'}
                   {result.trend === 'falling' && '近年分数整体下降'}
@@ -143,16 +145,16 @@ export default function EquivalentScoreClient({ initialData = [] }: EquivalentSc
                 <thead className="bg-slate-50">
                   <tr className="text-left text-slate-500">
                     <th className="px-4 py-2.5 font-medium">年份</th>
-                    <th className="px-4 py-2.5 font-medium">等效分</th>
-                    <th className="px-4 py-2.5 font-medium">排名</th>
+                    <th className="px-4 py-2.5 font-medium">等效分区间</th>
+                    <th className="px-4 py-2.5 font-medium">位次区间</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-slate-100">
                   {result.equivalents.map((eq) => (
                     <tr key={eq.year}>
                       <td className="px-4 py-2.5 font-medium text-slate-800">{eq.year} 年</td>
-                      <td className="px-4 py-2.5 text-indigo-600 font-semibold">{eq.score} 分</td>
-                      <td className="px-4 py-2.5 text-slate-600">第 {eq.rank.toLocaleString()} 名</td>
+                      <td className="px-4 py-2.5 text-indigo-600 font-semibold">{eq.minScore} ~ {eq.maxScore} 分</td>
+                      <td className="px-4 py-2.5 text-slate-600">第 {eq.rankStart.toLocaleString()} ~ {eq.rankEnd.toLocaleString()} 名</td>
                     </tr>
                   ))}
                 </tbody>

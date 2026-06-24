@@ -1,167 +1,150 @@
-import { MatchResult, MatchType, AdmissionLineData } from '@/types/admission-line';
-import { ScoreRankData, SubjectGroup } from '@/types/score-rank';
+import { MatchResult, MatchType, YearDetail } from '@/types/admission-line';
+import { ScoreRankData, SubjectGroup, ScoreRankEntry } from '@/types/score-rank';
+import { AdmissionBatchData, AdmissionRecord } from '@/types/admission-record';
+import { findRankByScore } from '@/lib/utils/score-rank';
 
-/**
- * 根据位次差比例判断匹配类型
- *
- * 以投档最低位次为基准：
- * - 保：用户位次比投档位次高 20% 以上（位次数字更小 = 更好）
- * - 稳：用户位次比投档位次高 5%-20%
- * - 冲：用户位次比投档位次高 0%-5%，或低于投档位次
- *
- * 注：排名数字越小越好，rankGap = userRank - targetMinRank
- * 负数 = 用户排名更靠前（好事），正数 = 用户排名更靠后
- */
-function classifyMatch(
-  userRank: number,
-  targetMinRank: number
-): { matchType: MatchType; confidence: 'high' | 'medium' | 'low' } {
-  if (targetMinRank <= 0) {
-    return { matchType: '冲', confidence: 'low' };
-  }
-
-  // rankGap 为负数表示用户排名更靠前
-  const rankGap = userRank - targetMinRank;
-  const gapRatio = rankGap / targetMinRank;
-
-  let matchType: MatchType;
-  if (gapRatio <= -0.20) {
-    matchType = '保';
-  } else if (gapRatio <= -0.05) {
-    matchType = '稳';
-  } else {
-    matchType = '冲';
-  }
-
-  return { matchType, confidence: 'medium' };
+function classifyMatch(userRank: number, targetMinRank: number): MatchType {
+  if (targetMinRank <= 0) return '冲';
+  const gapRatio = (userRank - targetMinRank) / targetMinRank;
+  if (gapRatio <= -0.20) return '保';
+  if (gapRatio <= -0.05) return '稳';
+  return '冲';
 }
 
-/**
- * 匹配冲稳保学校
- *
- * @param userScore - 用户当年分数
- * @param year - 用户成绩所在年份
- * @param group - 科类（物理类/历史类）
- * @param batch - 批次（默认"本科批"）
- * @param scoreRankData - 所有一分一档数据（需要多年数据以提高置信度）
- * @param admissionLines - 所有投档线数据（需要多年数据以提高置信度）
- * @param targetYears - 分析的目标年份（默认使用投档线数据中的所有年份）
- */
+function scoreToRank(entries: ScoreRankEntry[], score: number): number | null {
+  const result = findRankByScore(entries, score);
+  return result ? result.rank : null;
+}
+
 export function matchSchools(
   userScore: number,
   year: number,
   group: SubjectGroup,
   batch: string,
   scoreRankData: ScoreRankData[],
-  admissionLines: AdmissionLineData[],
-  targetYears?: number[]
+  admissionData: AdmissionBatchData[]
 ): MatchResult[] {
-  // 1. 用一分一档算出用户当年的位次
-  const yearData = scoreRankData.find((d) => d.year === year && d.group === group);
-  if (!yearData) return [];
+  // 1. 查用户位次
+  const sortedRankYears = scoreRankData
+    .filter(d => d.group === group).map(d => d.year).sort((a, b) => b - a);
+  const rankYear = sortedRankYears.find(y => y <= year) || sortedRankYears[0];
+  const yearScoreData = rankYear !== undefined
+    ? scoreRankData.find(d => d.year === rankYear && d.group === group) : undefined;
+  if (!yearScoreData) return [];
+  const userRank = scoreToRank(yearScoreData.entries, userScore);
+  if (!userRank) return [];
 
-  const entry = yearData.entries.find((e) => e.score === userScore);
-  if (!entry) return [];
+  // 2. 筛选批次数据
+  const relevantData = admissionData.filter(d => d.batch === batch && d.group === group);
+  if (relevantData.length === 0) return [];
 
-  const userRank = entry.cumulative;
+  // 3. 按院校聚合，保留各年各专业明细
+  type UniYearRaw = { year: number; records: AdmissionRecord[] };
+  const uniMap = new Map<string, { code: string; name: string; yearData: UniYearRaw[] }>();
 
-  // 2. 筛选目标年份和批次的投档线
-  const years = targetYears || [...new Set(admissionLines.map((d) => d.year))];
-  const relevantLines = admissionLines.filter(
-    (d) => years.includes(d.year) && d.batch === batch && d.group === group
-  );
+  for (const batchData of relevantData) {
+    const entries = scoreRankData.find(d => d.year === batchData.year && d.group === group)?.entries;
+    if (!entries) continue;
 
-  if (relevantLines.length === 0) return [];
-
-  // 3. 按 (universityCode, majorGroup) 聚合多年投档线数据
-  //    取加权平均（近期权重更高）
-  type SchoolGroupKey = string;
-  const aggregated = new Map<
-    SchoolGroupKey,
-    {
-      universityCode: string;
-      universityName: string;
-      majorGroup: string;
-      subjectRequirements?: string;
-      minRanks: { year: number; minRank: number; minScore: number }[];
+    const byUni = new Map<string, AdmissionRecord[]>();
+    for (const r of batchData.records) {
+      if (r.minScore <= 0) continue;
+      const key = r.universityName;
+      if (!byUni.has(key)) byUni.set(key, []);
+      byUni.get(key)!.push(r);
     }
-  >();
 
-  // 按年份降序排列，近期权重更高
-  const sortedYears = [...years].sort((a, b) => b - a);
-
-  for (const lineData of relevantLines) {
-    for (const entry of lineData.entries) {
-      const key = `${entry.universityCode}::${entry.majorGroup}`;
-      if (!aggregated.has(key)) {
-        aggregated.set(key, {
-          universityCode: entry.universityCode,
-          universityName: entry.universityName,
-          majorGroup: entry.majorGroup,
-          subjectRequirements: entry.subjectRequirements,
-          minRanks: [],
-        });
+    for (const [name, records] of byUni) {
+      if (!uniMap.has(name)) {
+        uniMap.set(name, { code: records[0].universityCode, name, yearData: [] });
       }
-      aggregated.get(key)!.minRanks.push({
-        year: lineData.year,
-        minRank: entry.minRank,
-        minScore: entry.minScore,
-      });
+      uniMap.get(name)!.yearData.push({ year: batchData.year, records });
     }
   }
 
-  // 4. 对每个学校专业组计算匹配结果
+  // 4. 计算匹配结果
+  const sortedYears = relevantData.map(d => d.year).sort((a, b) => b - a);
   const results: MatchResult[] = [];
 
-  for (const [, schoolData] of aggregated) {
-    const { minRanks } = schoolData;
-    if (minRanks.length === 0) continue;
+  for (const [, uni] of uniMap) {
+    // 构建各年详情（含专业位次）
+    const yearDetails: YearDetail[] = uni.yearData
+      .sort((a, b) => b.year - a.year)
+      .map(yd => {
+        const entries = scoreRankData.find(d => d.year === yd.year && d.group === group)?.entries;
+        const sorted = [...yd.records].sort((a, b) => b.minScore - a.minScore);
+        return {
+          year: yd.year,
+          minScore: Math.min(...sorted.map(r => r.minScore)),
+          avgVolunteerNum: Math.round(sorted.reduce((s, r) => s + r.volunteerNum, 0) / sorted.length * 10) / 10,
+          majors: sorted.map(r => {
+            const rank = entries ? (scoreToRank(entries, r.minScore) || 0) : 0;
+            return {
+              majorName: r.majorName,
+              minScore: r.minScore,
+              minRank: rank,
+              volunteerNum: r.volunteerNum,
+              matchType: rank > 0 ? classifyMatch(userRank, rank) : '冲',
+            };
+          }),
+        };
+      });
 
-    // 计算加权平均位次（近期权重更高：最新年=3，次年=2，最旧=1）
+    // 各年最低分 → 位次
+    const yearRanks: { year: number; minScore: number; minRank: number }[] = [];
+    for (const yd of uni.yearData) {
+      const entries = scoreRankData.find(d => d.year === yd.year && d.group === group)?.entries;
+      if (!entries) continue;
+      const minScore = Math.min(...yd.records.map(r => r.minScore));
+      const minRank = scoreToRank(entries, minScore);
+      if (!minRank) continue;
+      yearRanks.push({ year: yd.year, minScore, minRank });
+    }
+
+    if (yearRanks.length === 0) continue;
+
+    // 加权平均位次
     const weights = sortedYears.map((y, i) => {
-      const yearRank = minRanks.find((r) => r.year === y);
-      return yearRank ? { weight: sortedYears.length - i, data: yearRank } : null;
-    }).filter(Boolean) as { weight: number; data: { year: number; minRank: number; minScore: number } }[];
+      const yr = yearRanks.find(r => r.year === y);
+      return yr ? { weight: sortedYears.length - i, data: yr } : null;
+    }).filter(Boolean) as { weight: number; data: { year: number; minScore: number; minRank: number } }[];
 
     if (weights.length === 0) continue;
 
-    const totalWeight = weights.reduce((sum, w) => sum + w.weight, 0);
+    const totalWeight = weights.reduce((s, w) => s + w.weight, 0);
     const weightedAvgRank = Math.round(
-      weights.reduce((sum, w) => sum + w.data.minRank * w.weight, 0) / totalWeight
+      weights.reduce((s, w) => s + w.data.minRank * w.weight, 0) / totalWeight
     );
-    // 取最近一年的投档线分数作为展示
-    const latestData = weights[0].data;
 
-    const { matchType, confidence } = classifyMatch(userRank, weightedAvgRank);
+    const latest = weights[0].data;
+    const matchType = classifyMatch(userRank, weightedAvgRank);
 
-    // 置信度调整：数据年份越多越可信
-    let finalConfidence: 'high' | 'medium' | 'low' = confidence;
-    if (weights.length >= 3) finalConfidence = 'high';
-    else if (weights.length === 1) finalConfidence = 'low';
+    let confidence: 'high' | 'medium' | 'low' = 'medium';
+    if (weights.length >= 3) confidence = 'high';
+    else if (weights.length === 1) confidence = 'low';
 
     results.push({
-      universityCode: schoolData.universityCode,
-      universityName: schoolData.universityName,
-      majorGroup: schoolData.majorGroup,
+      universityCode: uni.code,
+      universityName: uni.name,
+      majorGroup: `${yearDetails[0]?.majors.length || 0}个专业`,
       batch,
       matchType,
-      targetMinScore: latestData.minScore,
+      targetMinScore: latest.minScore,
       targetMinRank: weightedAvgRank,
       userScore,
       userRank,
-      scoreGap: userScore - latestData.minScore,
+      scoreGap: userScore - latest.minScore,
       rankGap: userRank - weightedAvgRank,
-      confidence: finalConfidence,
-      subjectRequirements: schoolData.subjectRequirements,
+      confidence,
+      yearDetails,
     });
   }
 
-  // 5. 按匹配类型分组排序：冲 → 稳 → 保，每组内按位次差从小到大（越接近越有价值）
+  // 5. 排序
   const typeOrder: Record<MatchType, number> = { '冲': 0, '稳': 1, '保': 2 };
   results.sort((a, b) => {
-    const typeDiff = typeOrder[a.matchType] - typeOrder[b.matchType];
-    if (typeDiff !== 0) return typeDiff;
-    // 同类型内，位次差越小（越接近投档线）排越前
+    const t = typeOrder[a.matchType] - typeOrder[b.matchType];
+    if (t !== 0) return t;
     return Math.abs(a.rankGap) - Math.abs(b.rankGap);
   });
 

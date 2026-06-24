@@ -30,6 +30,23 @@ export interface AdmissionLineData {
 /** 匹配类型 */
 export type MatchType = '冲' | '稳' | '保';
 
+/** 单年某专业的投档详情 */
+export interface MajorDetail {
+  majorName: string;
+  minScore: number;
+  minRank: number;
+  volunteerNum: number;
+  matchType: MatchType;
+}
+
+/** 单年投档汇总 */
+export interface YearDetail {
+  year: number;
+  minScore: number;
+  avgVolunteerNum: number;
+  majors: MajorDetail[];
+}
+
 /** 匹配结果单条 */
 export interface MatchResult {
   universityCode: string;
@@ -45,4 +62,5 @@ export interface MatchResult {
   rankGap: number;             // 位次差 = userRank - targetMinRank（负数=用户位次更高）
   confidence: 'high' | 'medium' | 'low';
   subjectRequirements?: string;
+  yearDetails?: YearDetail[];  // 各年投档详情（含专业明细）
 }

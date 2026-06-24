@@ -33,12 +33,12 @@ function Toggle({ value, onChange, options }: { value: string; onChange: (v: str
 }
 
 export default function ScoreRankClient({ initialData = [] }: ScoreRankClientProps) {
-  const [year, setYear] = useState(2025);
+  const [year, setYear] = useState(2026);
   const [group, setGroup] = useState<SubjectGroup>('物理类');
   const [result, setResult] = useState<ScoreRankSearchResult | null>(null);
   const [allData] = useState<ScoreRankData[]>(initialData);
   const [searchedScore, setSearchedScore] = useState<number | null>(null);
-  const [distYears, setDistYears] = useState<Set<number>>(new Set([2025]));
+  const [distYears, setDistYears] = useState<Set<number>>(new Set([2026]));
 
   const handleSearch = async (score: number) => {
     setSearchedScore(score);
@@ -60,6 +60,7 @@ export default function ScoreRankClient({ initialData = [] }: ScoreRankClientPro
   };
 
   const yearData = allData.filter((d) => d.group === group);
+  const availableYears = [...new Set(allData.map(d => d.year))].sort((a, b) => b - a);
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8 space-y-6">
@@ -72,11 +73,7 @@ export default function ScoreRankClient({ initialData = [] }: ScoreRankClientPro
             <Toggle
               value={String(year)}
               onChange={(v) => setYear(parseInt(v))}
-              options={[
-                { label: '2025', value: '2025' },
-                { label: '2024', value: '2024' },
-                { label: '2023', value: '2023' },
-              ]}
+              options={availableYears.map(y => ({ label: String(y), value: String(y) }))}
             />
           </div>
           <div>

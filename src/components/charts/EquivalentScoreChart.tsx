@@ -10,6 +10,7 @@ import {
   Tooltip,
   ResponsiveContainer,
   ReferenceLine,
+  Cell,
 } from 'recharts';
 
 interface EquivalentScoreChartProps {
@@ -19,8 +20,10 @@ interface EquivalentScoreChartProps {
 export function EquivalentScoreChart({ result }: EquivalentScoreChartProps) {
   const chartData = result.equivalents.map((eq) => ({
     year: `${eq.year}`,
-    score: eq.score,
+    scoreRange: [eq.minScore, eq.maxScore] as [number, number],
   }));
+
+  const avgMid = (result.averageScoreRange.min + result.averageScoreRange.max) / 2;
 
   return (
     <div className="w-full h-56">
@@ -31,14 +34,21 @@ export function EquivalentScoreChart({ result }: EquivalentScoreChartProps) {
           <YAxis domain={['auto', 'auto']} tick={{ fontSize: 12, fill: '#94a3b8' }} />
           <Tooltip
             contentStyle={{ borderRadius: 12, border: '1px solid #e2e8f0', fontSize: 13 }}
-            formatter={(value) => [`${value} 分`, '等效分']}
+            formatter={(value) => {
+              const [min, max] = value as [number, number];
+              return [`${min} ~ ${max} 分`, '等效分区间'];
+            }}
           />
-          <Bar dataKey="score" fill="#6366f1" radius={[6, 6, 0, 0]} barSize={40} />
+          <Bar dataKey="scoreRange" fill="#6366f1" radius={[6, 6, 0, 0]} barSize={40}>
+            {chartData.map((_, index) => (
+              <Cell key={index} fillOpacity={0.6 + (index * 0.1)} />
+            ))}
+          </Bar>
           <ReferenceLine
-            y={result.averageScore}
+            y={avgMid}
             stroke="#f59e0b"
             strokeDasharray="4 4"
-            label={{ value: `均值 ${result.averageScore}`, position: 'right', fontSize: 12, fill: '#f59e0b' }}
+            label={{ value: `均值 ${result.averageScoreRange.min}~${result.averageScoreRange.max}`, position: 'right', fontSize: 11, fill: '#f59e0b' }}
           />
         </BarChart>
       </ResponsiveContainer>

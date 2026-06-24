@@ -175,6 +175,15 @@ export default function AdmissionAnalysisClient() {
       .catch(console.error);
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
+  // 切换年份时，若当前批次在该年份不可用则自动切换
+  useEffect(() => {
+    const yearBatches = available.filter(b => b.year === year && b.group === group);
+    if (yearBatches.length === 0) return;
+    if (!yearBatches.some(b => b.batch === batch)) {
+      setBatch(yearBatches[0].batch);
+    }
+  }, [year, available, group, batch]); // eslint-disable-line react-hooks/exhaustive-deps
+
   useEffect(() => {
     if (batch) fetchData({ province: 'hebei', year, batch, group, view: 'university', page: 1 });
   }, [fetchData, year, batch, group]);

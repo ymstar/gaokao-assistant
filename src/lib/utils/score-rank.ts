@@ -66,6 +66,21 @@ export function findScoreByRank(entries: ScoreRankEntry[], rank: number): number
   return entry ? entry.score : null;
 }
 
+export function findScoreRangeByRankRange(
+  entries: ScoreRankEntry[],
+  rankStart: number,
+  rankEnd: number
+): { minScore: number; maxScore: number } | null {
+  if (entries.length === 0 || rankStart > rankEnd) return null;
+
+  const highScore = findScoreByRank(entries, rankStart);
+  const lowScore = findScoreByRank(entries, rankEnd);
+
+  if (highScore === null || lowScore === null) return null;
+
+  return { minScore: lowScore, maxScore: highScore };
+}
+
 export function validateScoreRankData(data: ScoreRankData): boolean {
   const { entries, totalCandidates } = data;
 

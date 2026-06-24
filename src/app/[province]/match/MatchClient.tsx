@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { SubjectGroup, ScoreRankData } from '@/types/score-rank';
 import { MatchResult } from '@/types/admission-line';
 
@@ -12,25 +12,19 @@ interface MatchClientProps {
 interface MatchResponse {
   input: { score: number; year: number; group: string; batch: string };
   userRank: number | null;
+  rankYear?: number;
   totalCandidates: number | null;
   summary: { total: number; chong: number; wen: number; bao: number };
   results: MatchResult[];
+  batches?: string[];
 }
 
 function Toggle({ value, onChange, options }: { value: string; onChange: (v: string) => void; options: { label: string; value: string }[] }) {
   return (
     <div className="inline-flex bg-slate-100 rounded-lg p-0.5">
       {options.map((opt) => (
-        <button
-          key={opt.value}
-          type="button"
-          onClick={() => onChange(opt.value)}
-          className={`px-3 py-1.5 rounded-md text-sm font-medium transition-all ${
-            value === opt.value
-              ? 'bg-white text-slate-900 shadow-sm'
-              : 'text-slate-500 hover:text-slate-700'
-          }`}
-        >
+        <button key={opt.value} type="button" onClick={() => onChange(opt.value)}
+          className={`px-3 py-1.5 rounded-md text-sm font-medium transition-all ${value === opt.value ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-500 hover:text-slate-700'}`}>
           {opt.label}
         </button>
       ))}
@@ -53,10 +47,13 @@ const confidenceLabels = {
 function MatchCard({ result }: { result: MatchResult }) {
   const colors = matchTypeColors[result.matchType];
   const conf = confidenceLabels[result.confidence];
+  const [expanded, setExpanded] = useState(false);
+  const hasDetails = result.yearDetails && result.yearDetails.length > 0;
 
   return (
-    <div className={`bg-white rounded-xl border ${colors.border} p-4 hover:shadow-md transition-all`}>
-      <div className="flex items-start justify-between gap-3">
+    <div className={`bg-white rounded-xl border ${colors.border} overflow-hidden hover:shadow-md transition-all`}>
+      <button type="button" onClick={() => hasDetails && setExpanded(!expanded)}
+        className="w-full p-4 text-left flex items-start justify-between gap-3">
         <div className="min-w-0 flex-1">
           <div className="flex items-center gap-2 mb-1">
             <span className={`px-2 py-0.5 rounded-full text-xs font-semibold ${colors.badge}`}>
@@ -64,12 +61,7 @@ function MatchCard({ result }: { result: MatchResult }) {
             </span>
             <h3 className="font-semibold text-slate-900 truncate">{result.universityName}</h3>
           </div>
-          <div className="text-sm text-slate-500 mb-2">
-            {result.majorGroup}
-            {result.subjectRequirements && (
-              <span className="ml-2 text-xs text-slate-400">选科: {result.subjectRequirements}</span>
-            )}
-          </div>
+          <div className="text-sm text-slate-500 mb-2">{result.majorGroup}</div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs">
             <div>
               <span className="text-slate-400">投档线</span>
@@ -93,49 +85,122 @@ function MatchCard({ result }: { result: MatchResult }) {
             </div>
           </div>
         </div>
-        <span className={`text-[11px] ${conf.color} shrink-0`}>{conf.label}</span>
-      </div>
+        <div className="flex flex-col items-end gap-1 shrink-0">
+          <span className={`text-[11px] ${conf.color}`}>{conf.label}</span>
+          {hasDetails && (
+            <svg className={`w-4 h-4 text-slate-400 transition-transform ${expanded ? 'rotate-180' : ''}`}
+              fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            </svg>
+          )}
+        </div>
+      </button>
+
+      {expanded && hasDetails && (
+        <div className="border-t border-slate-100 px-4 pb-4 mt-3 overflow-x-auto">
+          <table className="w-full text-xs">
+            <thead>
+              <tr className="text-slate-400 border-b border-slate-200">
+                <th className="text-left py-2 pr-3 font-medium sticky left-0 bg-white" rowSpan={2}>专业</th>
+                {result.yearDetails!.map(yd => (
+                  <th key={yd.year} className="text-center px-2 py-2 font-medium" colSpan={3}>{yd.year} 年</th>
+                ))}
+              </tr>
+              <tr className="text-slate-400">
+                {result.yearDetails!.map(yd => (
+                  <React.Fragment key={yd.year}>
+                    <th className="text-right py-1.5 px-1 font-medium">投档分</th>
+                    <th className="text-right py-1.5 px-1 font-medium">位次</th>
+                    <th className="text-right py-1.5 px-1 font-medium">志愿号</th>
+                  </React.Fragment>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {(() => {
+                // 收集所有专业（按最新年份分数降序）
+                const allMajors = new Set<string>();
+                const majorLookup = new Map<string, Map<number, { score: number; rank: number; vol: number; matchType: string }>>();
+                for (const yd of result.yearDetails!) {
+                  for (const m of yd.majors) {
+                    allMajors.add(m.majorName);
+                    if (!majorLookup.has(m.majorName)) majorLookup.set(m.majorName, new Map());
+                    majorLookup.get(m.majorName)!.set(yd.year, { score: m.minScore, rank: m.minRank, vol: m.volunteerNum, matchType: m.matchType });
+                  }
+                }
+                // 按最新年份分数排序
+                const latestYear = result.yearDetails![0]?.year;
+                const sorted = [...allMajors].sort((a, b) => {
+                  const sa = majorLookup.get(a)?.get(latestYear)?.score ?? 0;
+                  const sb = majorLookup.get(b)?.get(latestYear)?.score ?? 0;
+                  return sb - sa;
+                });
+                return sorted.map((name, i) => {
+                  const latestData = majorLookup.get(name)?.get(latestYear);
+                  const mt = latestData?.matchType || '冲';
+                  const mtStyle = mt === '保' ? 'bg-green-100 text-green-600' : mt === '稳' ? 'bg-blue-100 text-blue-600' : 'bg-red-100 text-red-600';
+                  return (
+                  <tr key={name} className={i % 2 === 0 ? '' : 'bg-slate-50/50'}>
+                    <td className="py-1.5 pr-3 text-slate-600 sticky left-0 bg-inherit whitespace-nowrap">
+                      <span className={`mr-1.5 px-1 py-0.5 rounded text-[11px] font-semibold ${mtStyle}`}>{mt}</span>
+                      {name}
+                    </td>
+                    {result.yearDetails!.map(yd => {
+                      const d = majorLookup.get(name)?.get(yd.year);
+                      return d ? (
+                        <React.Fragment key={yd.year}>
+                          <td className="py-1.5 px-1 text-right font-medium text-slate-800">{d.score}</td>
+                          <td className="py-1.5 px-1 text-right text-slate-500">{d.rank > 0 ? d.rank.toLocaleString() : '-'}</td>
+                          <td className="py-1.5 px-1 text-right">
+                            <span className={`px-1 py-0.5 rounded text-[11px] font-medium ${
+                              d.vol <= 3 ? 'bg-green-50 text-green-600' :
+                              d.vol <= 10 ? 'bg-amber-50 text-amber-600' :
+                              'bg-slate-100 text-slate-500'
+                            }`}>{d.vol}</span>
+                          </td>
+                        </React.Fragment>
+                      ) : (
+                        <React.Fragment key={yd.year}>
+                          <td className="py-1.5 px-1 text-right text-slate-300">-</td>
+                          <td className="py-1.5 px-1 text-right text-slate-300">-</td>
+                          <td className="py-1.5 px-1 text-right text-slate-300">-</td>
+                        </React.Fragment>
+                      );
+                    })}
+                  </tr>
+                  );
+                })
+              })()}
+            </tbody>
+          </table>
+        </div>
+      )}
     </div>
   );
 }
 
-function MatchSection({ title, icon, results, type }: {
-  title: string;
-  icon: string;
-  results: MatchResult[];
-  type: '冲' | '稳' | '保';
-}) {
-  const colors = matchTypeColors[type];
-
-  if (results.length === 0) return null;
-
-  return (
-    <section>
-      <div className="flex items-center gap-2 mb-3">
-        <span className="text-lg">{icon}</span>
-        <h2 className={`text-base font-semibold ${colors.text}`}>
-          {title}
-          <span className="ml-2 text-sm font-normal text-slate-400">({results.length} 所)</span>
-        </h2>
-      </div>
-      <div className="grid grid-cols-1 gap-3">
-        {results.map((r, i) => (
-          <MatchCard key={`${r.universityCode}-${r.majorGroup}-${i}`} result={r} />
-        ))}
-      </div>
-    </section>
-  );
-}
-
 export default function MatchClient({ province, scoreRankData }: MatchClientProps) {
-  const [year, setYear] = useState(2025);
+  const [year, setYear] = useState(2026);
   const [group, setGroup] = useState<SubjectGroup>('物理类');
+  const [batch, setBatch] = useState('提前批B段');
   const [score, setScore] = useState('');
   const [loading, setLoading] = useState(false);
   const [response, setResponse] = useState<MatchResponse | null>(null);
   const [error, setError] = useState('');
+  const [batches, setBatches] = useState<string[]>(['本科批', '提前批B段']);
+  const [matchTab, setMatchTab] = useState<'冲' | '稳' | '保'>('冲');
 
   const availableYears = [...new Set(scoreRankData.map((d) => d.year))].sort((a, b) => b - a);
+
+  // 首次加载获取可用批次
+  useEffect(() => {
+    fetch(`/api/${province}/match?score=500&year=${year}&group=${group}&batch=本科批`)
+      .then(r => r.json())
+      .then(data => {
+        if (data.batches?.length) setBatches(data.batches);
+      })
+      .catch(() => {});
+  }, [province]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleSearch = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -148,10 +213,7 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
 
     try {
       const params = new URLSearchParams({
-        score: String(numScore),
-        year: String(year),
-        group,
-        batch: '本科批',
+        score: String(numScore), year: String(year), group, batch,
       });
       const res = await fetch(`/api/${province}/match?${params}`);
       const data = await res.json();
@@ -162,6 +224,7 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
         setError(data.error);
       } else {
         setResponse(data);
+        if (data.batches?.length) setBatches(data.batches);
       }
     } catch {
       setError('网络错误，请重试');
@@ -178,7 +241,7 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
     <div className="max-w-6xl mx-auto px-4 py-8 space-y-6">
       <div>
         <h1 className="text-2xl font-bold text-slate-900">冲稳保匹配</h1>
-        <p className="text-sm text-slate-400 mt-1">输入分数，自动匹配适合你的院校</p>
+        <p className="text-sm text-slate-400 mt-1">输入 2026 年高考成绩，基于 2023-2025 年历史投档数据智能推荐</p>
       </div>
 
       <div className="bg-white rounded-2xl border border-slate-200 p-6">
@@ -186,55 +249,47 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
           <div className="flex flex-wrap items-end gap-6 mb-5">
             <div>
               <label className="block text-xs font-medium text-slate-400 mb-1.5">年份</label>
-              <Toggle
-                value={String(year)}
-                onChange={(v) => setYear(parseInt(v))}
-                options={availableYears.map((y) => ({ label: String(y), value: String(y) }))}
-              />
+              <Toggle value={String(year)} onChange={(v) => setYear(parseInt(v))}
+                options={availableYears.map((y) => ({ label: String(y), value: String(y) }))} />
             </div>
             <div>
               <label className="block text-xs font-medium text-slate-400 mb-1.5">科类</label>
-              <Toggle
-                value={group}
-                onChange={(v) => setGroup(v as SubjectGroup)}
-                options={[
-                  { label: '物理类', value: '物理类' },
-                  { label: '历史类', value: '历史类' },
-                ]}
-              />
+              <Toggle value={group} onChange={(v) => setGroup(v as SubjectGroup)}
+                options={[{ label: '物理类', value: '物理类' }, { label: '历史类', value: '历史类' }]} />
+            </div>
+            <div>
+              <label className="block text-xs font-medium text-slate-400 mb-1.5">批次</label>
+              <Toggle value={batch} onChange={setBatch}
+                options={batches.map(b => ({ label: b, value: b }))} />
             </div>
             <div className="flex-1 min-w-[200px]">
               <label className="block text-xs font-medium text-slate-400 mb-1.5">高考分数</label>
-              <input
-                type="number"
-                value={score}
-                onChange={(e) => setScore(e.target.value)}
-                placeholder="输入高考分数"
-                min="0"
-                max="750"
-                className="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all placeholder:text-slate-400"
-              />
+              <input type="number" value={score} onChange={(e) => setScore(e.target.value)}
+                placeholder="输入高考分数" min="0" max="750"
+                className="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all placeholder:text-slate-400" />
             </div>
           </div>
-          <button
-            type="submit"
-            disabled={loading}
-            className="px-6 py-2.5 bg-indigo-600 text-white text-sm font-medium rounded-xl hover:bg-indigo-700 active:bg-indigo-800 disabled:opacity-50 transition-colors"
-          >
+          <button type="submit" disabled={loading}
+            className="px-6 py-2.5 bg-indigo-600 text-white text-sm font-medium rounded-xl hover:bg-indigo-700 active:bg-indigo-800 disabled:opacity-50 transition-colors">
             {loading ? '匹配中...' : '查询匹配'}
           </button>
         </form>
       </div>
 
       {error && (
-        <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 text-sm text-amber-700">
-          {error}
-        </div>
+        <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 text-sm text-amber-700">{error}</div>
       )}
 
       {response && response.userRank && (
         <div className="bg-white rounded-2xl border border-slate-200 p-6">
-          <h2 className="text-xs font-medium text-slate-400 mb-3">你的位置</h2>
+          <div className="flex items-baseline gap-2 mb-3">
+            <h2 className="text-xs font-medium text-slate-400">你的位置</h2>
+            {response.rankYear && response.rankYear !== response.input.year && (
+              <span className="text-[11px] text-amber-600 bg-amber-50 px-2 py-0.5 rounded-full">
+                位次基于 {response.rankYear} 年一分一档数据
+              </span>
+            )}
+          </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <div className="bg-slate-50 rounded-xl p-4">
               <div className="text-xs text-slate-400">分数</div>
@@ -247,9 +302,7 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
             <div className="bg-slate-50 rounded-xl p-4">
               <div className="text-xs text-slate-400">超过考生</div>
               <div className="text-2xl font-bold text-indigo-600">
-                {response.totalCandidates
-                  ? `${(((response.totalCandidates - response.userRank) / response.totalCandidates) * 100).toFixed(1)}%`
-                  : '-'}
+                {response.totalCandidates ? `${(((response.totalCandidates - response.userRank) / response.totalCandidates) * 100).toFixed(1)}%` : '-'}
               </div>
             </div>
             <div className="bg-slate-50 rounded-xl p-4">
@@ -261,38 +314,38 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
       )}
 
       {response && response.summary.total > 0 && (
-        <div className="bg-white rounded-2xl border border-slate-200 p-6">
-          <h2 className="text-xs font-medium text-slate-400 mb-3">匹配概览</h2>
-          <div className="flex gap-4 text-sm">
-            <div className="flex items-center gap-2">
-              <span className="w-3 h-3 rounded-full bg-red-400"></span>
-              <span className="text-slate-600">冲一冲</span>
-              <span className="font-semibold text-red-600">{response.summary.chong}</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="w-3 h-3 rounded-full bg-blue-400"></span>
-              <span className="text-slate-600">稳一稳</span>
-              <span className="font-semibold text-blue-600">{response.summary.wen}</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="w-3 h-3 rounded-full bg-green-400"></span>
-              <span className="text-slate-600">保一保</span>
-              <span className="font-semibold text-green-600">{response.summary.bao}</span>
-            </div>
+        <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden">
+          <div className="flex border-b border-slate-200">
+            {([
+              { key: '冲' as const, label: '冲一冲', icon: '🚀', count: response.summary.chong, active: 'border-red-500 text-red-600 bg-red-50/50', badge: 'bg-red-100 text-red-600' },
+              { key: '稳' as const, label: '稳一稳', icon: '🎯', count: response.summary.wen, active: 'border-blue-500 text-blue-600 bg-blue-50/50', badge: 'bg-blue-100 text-blue-600' },
+              { key: '保' as const, label: '保一保', icon: '🛡️', count: response.summary.bao, active: 'border-green-500 text-green-600 bg-green-50/50', badge: 'bg-green-100 text-green-600' },
+            ]).map(tab => (
+              <button key={tab.key} onClick={() => setMatchTab(tab.key)}
+                className={`flex-1 px-4 py-3 text-sm font-medium transition-all border-b-2 ${
+                  matchTab === tab.key ? tab.active : 'border-transparent text-slate-400 hover:text-slate-600'
+                }`}>
+                <span className="mr-1">{tab.icon}</span>
+                {tab.label}
+                <span className={`ml-1.5 px-1.5 py-0.5 rounded-full text-xs ${
+                  matchTab === tab.key ? tab.badge : 'bg-slate-100 text-slate-400'
+                }`}>{tab.count}</span>
+              </button>
+            ))}
+          </div>
+          <div className="p-4 space-y-3">
+            {(() => {
+              const results = matchTab === '冲' ? chongResults : matchTab === '稳' ? wenResults : baoResults;
+              return results.length === 0
+                ? <div className="text-center text-slate-400 py-8">该类别暂无匹配院校</div>
+                : results.map((r, i) => <MatchCard key={`${r.universityCode}-${i}`} result={r} />);
+            })()}
           </div>
         </div>
       )}
 
-      <div className="space-y-8">
-        <MatchSection title="冲一冲" icon="🚀" results={chongResults} type="冲" />
-        <MatchSection title="稳一稳" icon="🎯" results={wenResults} type="稳" />
-        <MatchSection title="保一保" icon="🛡️" results={baoResults} type="保" />
-      </div>
-
       {response && response.results.length === 0 && !error && (
-        <div className="text-center text-slate-400 py-12">
-          暂无匹配结果，可能是投档线数据尚未导入
-        </div>
+        <div className="text-center text-slate-400 py-12">暂无匹配结果</div>
       )}
     </div>
   );

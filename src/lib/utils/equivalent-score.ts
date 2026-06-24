@@ -1,12 +1,13 @@
 import { SubjectGroup, ScoreRankData } from '@/types/score-rank';
 import { EquivalentScoreResult } from '@/types/equivalent-score';
-import { findScoreByRank } from '@/lib/utils/score-rank';
+import { findScoreRangeByRankRange } from '@/lib/utils/score-rank';
 
 export function calculateEquivalentScore(
   year: number,
   group: SubjectGroup,
   score: number,
-  rank: number,
+  rankStart: number,
+  rankEnd: number,
   historicalData: ScoreRankData[]
 ): EquivalentScoreResult {
   const historicalScores = historicalData
@@ -15,24 +16,30 @@ export function calculateEquivalentScore(
     .slice(0, 3);
 
   const equivalents = historicalScores.map((data) => {
-    const equivalentScore = findScoreByRank(data.entries, rank);
+    const range = findScoreRangeByRankRange(data.entries, rankStart, rankEnd);
     return {
       year: data.year,
-      score: equivalentScore ?? 0,
-      rank: rank,
+      minScore: range?.minScore ?? 0,
+      maxScore: range?.maxScore ?? 0,
+      rankStart,
+      rankEnd,
     };
   });
 
-  const validEquivalents = equivalents.filter((e) => e.score > 0);
-  const averageScore = validEquivalents.length > 0
-    ? Math.round(validEquivalents.reduce((sum, e) => sum + e.score, 0) / validEquivalents.length)
-    : 0;
+  const validEquivalents = equivalents.filter((e) => e.maxScore > 0);
+
+  const averageScoreRange = validEquivalents.length > 0
+    ? {
+        min: Math.round(validEquivalents.reduce((sum, e) => sum + e.minScore, 0) / validEquivalents.length),
+        max: Math.round(validEquivalents.reduce((sum, e) => sum + e.maxScore, 0) / validEquivalents.length),
+      }
+    : { min: 0, max: 0 };
 
   let trend: 'rising' | 'falling' | 'stable' = 'stable';
   if (validEquivalents.length >= 2) {
-    const firstScore = validEquivalents[0].score;
-    const lastScore = validEquivalents[validEquivalents.length - 1].score;
-    const diff = lastScore - firstScore;
+    const firstMid = (validEquivalents[0].minScore + validEquivalents[0].maxScore) / 2;
+    const lastMid = (validEquivalents[validEquivalents.length - 1].minScore + validEquivalents[validEquivalents.length - 1].maxScore) / 2;
+    const diff = lastMid - firstMid;
 
     if (Math.abs(diff) <= 3) {
       trend = 'stable';
@@ -45,11 +52,12 @@ export function calculateEquivalentScore(
 
   return {
     inputScore: score,
-    inputRank: rank,
+    inputRankStart: rankStart,
+    inputRankEnd: rankEnd,
     inputYear: year,
     inputGroup: group,
     equivalents,
-    averageScore,
+    averageScoreRange,
     trend,
   };
 }
