@@ -77,6 +77,78 @@ data/hebei/score-rank/
     └── 历史类.json
 ```
 
+---
+
+## 投档线数据
+
+### 数据来源
+
+河北省各年度投档线数据由河北省教育考试院在每批次录取结束后发布。通常可在以下渠道获取：
+
+- 河北省教育考试院官网: https://gk.hebeea.edu.cn/
+- 阳光高考平台: https://gaokao.chsi.com.cn/
+- 各高校招生网站
+
+### 数据文件格式
+
+文件路径: `data/hebei/admission-lines/{year}/{batch}/{group}.json`
+
+```json
+{
+  "year": 2024,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "10001",
+      "universityName": "北京大学",
+      "majorGroup": "01不限",
+      "subjectRequirements": "不限",
+      "planCount": 10,
+      "minScore": 688,
+      "minRank": 52,
+      "avgScore": 692,
+      "maxScore": 700
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn/...",
+    "publishedAt": "2024-07-20",
+    "quality": "official"
+  }
+}
+```
+
+### 字段说明
+
+| 字段 | 类型 | 必填 | 说明 |
+|------|------|------|------|
+| universityCode | string | ✅ | 院校代码（与院校基本信息对应） |
+| universityName | string | ✅ | 院校名称 |
+| majorGroup | string | ✅ | 专业组名称（河北新高考按专业组投档） |
+| subjectRequirements | string | ❌ | 选科要求 |
+| planCount | number | ✅ | 招生计划数 |
+| minScore | number | ✅ | 最低投档分（>0） |
+| minRank | number | ✅ | 最低位次（>0，核心匹配依据） |
+| avgScore | number | ❌ | 平均投档分 |
+| maxScore | number | ❌ | 最高投档分 |
+
+### 验证
+
+```bash
+pnpm tsx scripts/validate-admission-lines.ts hebei
+```
+
+### 导入流程
+
+1. 从官方渠道获取投档线数据（PDF/网页/Excel）
+2. 按上述格式整理为 JSON 文件
+3. 放入对应目录: `data/hebei/admission-lines/{year}/{batch}/{group}.json`
+4. 运行验证脚本确认数据格式正确
+5. universityCode 必须与 `data/hebei/universities/_common/院校基本信息.json` 中的 code 一致
+6. minRank（最低位次）是匹配算法的核心字段，务必准确
+
 ## 重要提醒
 
 1. **禁止使用AI生成数据** - 所有数据必须来自官方来源

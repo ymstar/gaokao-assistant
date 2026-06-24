@@ -7,6 +7,7 @@ import { getProvince } from '@/lib/provinces';
 const navItems = [
   { name: '一分一档', suffix: '/score-rank' },
   { name: '等效分', suffix: '/equivalent-score' },
+  { name: '冲稳保', suffix: '/match' },
   { name: '院校库', suffix: '/universities' },
 ];
 
