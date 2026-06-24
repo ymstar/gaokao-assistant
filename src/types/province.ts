@@ -12,6 +12,7 @@ export interface ProvinceConfig {
   dataAvailable: {
     scoreRank: boolean;
     universities: boolean;
+    admissionLines: boolean;
     admissionPlans: boolean;
   };
 }
