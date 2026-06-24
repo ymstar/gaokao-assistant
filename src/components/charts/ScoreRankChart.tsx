@@ -31,7 +31,7 @@ export function ScoreRankChart({ data, highlightedScore }: ScoreRankChartProps) 
   const sortedScores = Array.from(allScores).sort((a, b) => b - a);
 
   const chartData = sortedScores.map((score) => {
-    const point: { score: number; [key: string]: number } = { score };
+    const point: Record<string, number> = { score };
     scoreMaps.forEach((sm) => {
       const cum = sm.map.get(score);
       if (cum !== undefined) point[sm.year.toString()] = cum;
@@ -56,7 +56,7 @@ export function ScoreRankChart({ data, highlightedScore }: ScoreRankChartProps) 
           />
           <Tooltip
             contentStyle={{ borderRadius: 12, border: '1px solid #e2e8f0', fontSize: 13 }}
-            formatter={(value: number, name: string) => [value.toLocaleString(), `${name}年`]}
+            formatter={(value, name) => [Number(value).toLocaleString(), `${name}年`]}
           />
           <Legend wrapperStyle={{ fontSize: 12 }} />
           {data.map((yearData, idx) => (

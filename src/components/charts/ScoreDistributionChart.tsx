@@ -57,7 +57,7 @@ export function ScoreDistributionChart({ data }: ScoreDistributionChartProps) {
           />
           <Tooltip
             contentStyle={{ borderRadius: 12, border: '1px solid #e2e8f0', fontSize: 13 }}
-            formatter={(value: number, name: string) => [value.toLocaleString(), `${name}年`]}
+            formatter={(value, name) => [Number(value).toLocaleString(), `${name}年`]}
           />
           <Legend wrapperStyle={{ fontSize: 12 }} />
           {data.map((yearData, idx) => (
