@@ -1,0 +1,610 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市长安区就业",
+      "planCount": 0,
+      "minScore": 576,
+      "minRank": 31850,
+      "avgScore": 576
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市桥西区就业",
+      "planCount": 0,
+      "minScore": 571,
+      "minRank": 35924,
+      "avgScore": 571
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市裕华区就业",
+      "planCount": 0,
+      "minScore": 567,
+      "minRank": 39432,
+      "avgScore": 567
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市新华区就业",
+      "planCount": 0,
+      "minScore": 566,
+      "minRank": 40370,
+      "avgScore": 566
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向雄安新区容城县就业",
+      "planCount": 0,
+      "minScore": 562,
+      "minRank": 44007,
+      "avgScore": 571
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市鹿泉区就业",
+      "planCount": 0,
+      "minScore": 561,
+      "minRank": 44969,
+      "avgScore": 561
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向雄安新区雄县就业",
+      "planCount": 0,
+      "minScore": 561,
+      "minRank": 44969,
+      "avgScore": 567
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向秦皇岛市北戴河新区就业",
+      "planCount": 0,
+      "minScore": 561,
+      "minRank": 44969,
+      "avgScore": 561
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市高新技术产业开发区就业",
+      "planCount": 0,
+      "minScore": 560,
+      "minRank": 45895,
+      "avgScore": 560
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市高新技术产业开发区就业",
+      "planCount": 0,
+      "minScore": 559,
+      "minRank": 46811,
+      "avgScore": 559
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市竞秀区就业",
+      "planCount": 0,
+      "minScore": 556,
+      "minRank": 49791,
+      "avgScore": 557
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市国家高新技术产业开发区就业",
+      "planCount": 0,
+      "minScore": 555,
+      "minRank": 50808,
+      "avgScore": 555
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市徐水区就业",
+      "planCount": 0,
+      "minScore": 554,
+      "minRank": 51876,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向雄安新区安新县就业",
+      "planCount": 0,
+      "minScore": 554,
+      "minRank": 51876,
+      "avgScore": 555
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市新乐市就业",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 52953,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市无极县就业",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 52953,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市柏乡县就业",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 52953,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市经济开发区就业",
+      "planCount": 0,
+      "minScore": 552,
+      "minRank": 53989,
+      "avgScore": 552
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市正定县就业",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 55045,
+      "avgScore": 555
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市藁城区就业",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 55045,
+      "avgScore": 565
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市南宫市就业",
+      "planCount": 0,
+      "minScore": 548,
+      "minRank": 58236,
+      "avgScore": 548
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市涿州市就业",
+      "planCount": 0,
+      "minScore": 547,
+      "minRank": 59388,
+      "avgScore": 547
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市行唐县就业",
+      "planCount": 0,
+      "minScore": 547,
+      "minRank": 59388,
+      "avgScore": 556
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市临城县就业",
+      "planCount": 0,
+      "minScore": 546,
+      "minRank": 60449,
+      "avgScore": 546
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市井陉矿区就业",
+      "planCount": 0,
+      "minScore": 545,
+      "minRank": 61567,
+      "avgScore": 545
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市安国市就业",
+      "planCount": 0,
+      "minScore": 544,
+      "minRank": 62750,
+      "avgScore": 548
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市涞源县就业",
+      "planCount": 0,
+      "minScore": 544,
+      "minRank": 62750,
+      "avgScore": 544
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市襄都区就业",
+      "planCount": 0,
+      "minScore": 542,
+      "minRank": 65074,
+      "avgScore": 542
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市平山县就业",
+      "planCount": 0,
+      "minScore": 541,
+      "minRank": 66174,
+      "avgScore": 541
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市莲池区就业",
+      "planCount": 0,
+      "minScore": 538,
+      "minRank": 69761,
+      "avgScore": 544
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市栾城区就业",
+      "planCount": 0,
+      "minScore": 538,
+      "minRank": 69761,
+      "avgScore": 543
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市唐县就业",
+      "planCount": 0,
+      "minScore": 537,
+      "minRank": 70986,
+      "avgScore": 537
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市新河县就业",
+      "planCount": 0,
+      "minScore": 537,
+      "minRank": 70986,
+      "avgScore": 537
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市信都区就业",
+      "planCount": 0,
+      "minScore": 536,
+      "minRank": 72204,
+      "avgScore": 536
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市曲阳县就业",
+      "planCount": 0,
+      "minScore": 536,
+      "minRank": 72204,
+      "avgScore": 544
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市灵寿县就业",
+      "planCount": 0,
+      "minScore": 536,
+      "minRank": 72204,
+      "avgScore": 536
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市赞皇县就业",
+      "planCount": 0,
+      "minScore": 536,
+      "minRank": 72204,
+      "avgScore": 536
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市南和区就业",
+      "planCount": 0,
+      "minScore": 535,
+      "minRank": 73434,
+      "avgScore": 551
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市高邑县就业",
+      "planCount": 0,
+      "minScore": 535,
+      "minRank": 73434,
+      "avgScore": 535
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市井陉县就业",
+      "planCount": 0,
+      "minScore": 534,
+      "minRank": 74627,
+      "avgScore": 534
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市晋州市就业",
+      "planCount": 0,
+      "minScore": 534,
+      "minRank": 74627,
+      "avgScore": 538
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向秦皇岛市昌黎县就业",
+      "planCount": 0,
+      "minScore": 533,
+      "minRank": 75867,
+      "avgScore": 535
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市元氏县就业",
+      "planCount": 0,
+      "minScore": 532,
+      "minRank": 77131,
+      "avgScore": 533
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市平乡县就业",
+      "planCount": 0,
+      "minScore": 532,
+      "minRank": 77131,
+      "avgScore": 532
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市望都县就业",
+      "planCount": 0,
+      "minScore": 532,
+      "minRank": 77131,
+      "avgScore": 532
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市高碑店市就业",
+      "planCount": 0,
+      "minScore": 532,
+      "minRank": 77131,
+      "avgScore": 532
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市广宗县就业",
+      "planCount": 0,
+      "minScore": 531,
+      "minRank": 78429,
+      "avgScore": 531
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市威县就业",
+      "planCount": 0,
+      "minScore": 531,
+      "minRank": 78429,
+      "avgScore": 531
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市沙河市就业",
+      "planCount": 0,
+      "minScore": 531,
+      "minRank": 78429,
+      "avgScore": 532
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市满城区就业",
+      "planCount": 0,
+      "minScore": 530,
+      "minRank": 79669,
+      "avgScore": 531
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市任泽区就业",
+      "planCount": 0,
+      "minScore": 530,
+      "minRank": 79669,
+      "avgScore": 530
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市清河县就业",
+      "planCount": 0,
+      "minScore": 529,
+      "minRank": 80942,
+      "avgScore": 538
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市博野县就业",
+      "planCount": 0,
+      "minScore": 528,
+      "minRank": 82247,
+      "avgScore": 528
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市宁晋县就业",
+      "planCount": 0,
+      "minScore": 527,
+      "minRank": 83566,
+      "avgScore": 537
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市赵县就业",
+      "planCount": 0,
+      "minScore": 526,
+      "minRank": 84920,
+      "avgScore": 528
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市临西县就业",
+      "planCount": 0,
+      "minScore": 526,
+      "minRank": 84920,
+      "avgScore": 526
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市内丘县就业",
+      "planCount": 0,
+      "minScore": 525,
+      "minRank": 86309,
+      "avgScore": 526
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市高阳县就业",
+      "planCount": 0,
+      "minScore": 525,
+      "minRank": 86309,
+      "avgScore": 535
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市定兴县就业",
+      "planCount": 0,
+      "minScore": 524,
+      "minRank": 87643,
+      "avgScore": 525
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市顺平县就业",
+      "planCount": 0,
+      "minScore": 524,
+      "minRank": 87643,
+      "avgScore": 526
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市隆尧县就业",
+      "planCount": 0,
+      "minScore": 524,
+      "minRank": 87643,
+      "avgScore": 530
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市易县就业",
+      "planCount": 0,
+      "minScore": 520,
+      "minRank": 93055,
+      "avgScore": 520
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向邢台市巨鹿县就业",
+      "planCount": 0,
+      "minScore": 518,
+      "minRank": 95680,
+      "avgScore": 518
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向石家庄市深泽县就业",
+      "planCount": 0,
+      "minScore": 518,
+      "minRank": 95680,
+      "avgScore": 531
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市阜平县就业",
+      "planCount": 0,
+      "minScore": 516,
+      "minRank": 98499,
+      "avgScore": 531
+    },
+    {
+      "universityCode": "0830",
+      "universityName": "河北医科大学(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向保定市涞水县就业",
+      "planCount": 0,
+      "minScore": 512,
+      "minRank": 104398,
+      "avgScore": 518
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

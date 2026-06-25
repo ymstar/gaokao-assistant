@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1259,
+      "universityCode": "1491",
+      "universityName": "上海交通大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "工科试验班类(海洋学院)",
+      "majorNote": "含海洋科学(物理海洋与观测技术)专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 1260,
+      "universityCode": "1491",
+      "universityName": "上海交通大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "工科试验班类",
+      "majorNote": "含机械类、海洋工程类、材料科学与工程、航空航天工程、智慧能源工程、可持续能源专业；含机械动力类-数学与应用数学、能源与动力工程-化学、船舶与海洋工程-数学与应用数学、材料科学与工程-应用物理学双学士学位项目",
+      "subjectRequirement": "化学",
+      "planCount": 13,
+      "duration": 4,
+      "tuition": 7000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

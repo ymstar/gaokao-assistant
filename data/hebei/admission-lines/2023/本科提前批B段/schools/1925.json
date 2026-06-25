@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1925",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(水利类)",
+      "planCount": 0,
+      "minScore": 646,
+      "minRank": 2514,
+      "avgScore": 646
+    },
+    {
+      "universityCode": "1925",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "遥感科学与技术",
+      "planCount": 0,
+      "minScore": 645,
+      "minRank": 2643,
+      "avgScore": 647
+    },
+    {
+      "universityCode": "1925",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(土木类)",
+      "planCount": 0,
+      "minScore": 639,
+      "minRank": 3615,
+      "avgScore": 642
+    },
+    {
+      "universityCode": "1925",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(空间信息与国土资源类)",
+      "planCount": 0,
+      "minScore": 637,
+      "minRank": 3975,
+      "avgScore": 639
+    },
+    {
+      "universityCode": "1925",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(环境类)",
+      "planCount": 0,
+      "minScore": 626,
+      "minRank": 6430,
+      "avgScore": 628
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

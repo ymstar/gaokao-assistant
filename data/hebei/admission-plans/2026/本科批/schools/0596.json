@@ -1,0 +1,44 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 4193,
+      "universityCode": "0596",
+      "universityName": "河北大学(保定市)(按高考文化课成绩录取的艺术类专业)[公办]",
+      "majorCode": "03",
+      "majorName": "戏剧影视文学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 25,
+      "duration": 4,
+      "tuition": 8000
+    },
+    {
+      "index": 4194,
+      "universityCode": "0596",
+      "universityName": "河北大学(保定市)(按高考文化课成绩录取的艺术类专业)[公办]",
+      "majorCode": "04",
+      "majorName": "戏剧影视文学(中外合作办学)",
+      "majorNote": "单科成绩要求：外语>=75；与英国兰开夏大学合作，采用4+0培养模式，符合中外双方毕业条件与学位授予条件的学生可同时获得河北大学颁发的毕业证书、学位证书和英国兰开夏大学颁发的学位证书;专业采用英语教学，非英语语种考生慎重报考;学费为65000元/年，在第三年或第四年学生也可选择赴英国兰开夏大学进行交流学习，期间学费按国外大学的收费标准由国外大学收取，在国外交流学习期间不再收取国内学费；在第三年或第四年学生也可选择赴英国兰开夏大学进行交流学习，赴外方学习不作为获得外方学位的必要条件",
+      "subjectRequirement": "不限",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 65000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

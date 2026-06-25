@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0958",
+      "universityName": "华中农业大学(国家专项计划)[公办]",
+      "majorGroup": "计算机类",
+      "planCount": 0,
+      "minScore": 602,
+      "minRank": 14804,
+      "avgScore": 603
+    },
+    {
+      "universityCode": "0958",
+      "universityName": "华中农业大学(国家专项计划)[公办]",
+      "majorGroup": "机械类",
+      "planCount": 0,
+      "minScore": 595,
+      "minRank": 18004,
+      "avgScore": 598
+    },
+    {
+      "universityCode": "0958",
+      "universityName": "华中农业大学(国家专项计划)[公办]",
+      "majorGroup": "生物工程",
+      "planCount": 0,
+      "minScore": 591,
+      "minRank": 20057,
+      "avgScore": 592
+    },
+    {
+      "universityCode": "0958",
+      "universityName": "华中农业大学(国家专项计划)[公办]",
+      "majorGroup": "水产类",
+      "planCount": 0,
+      "minScore": 575,
+      "minRank": 29516,
+      "avgScore": 576
+    },
+    {
+      "universityCode": "0958",
+      "universityName": "华中农业大学(国家专项计划)[公办]",
+      "majorGroup": "动物科学(国家卓越农林人才计划)",
+      "planCount": 0,
+      "minScore": 572,
+      "minRank": 31495,
+      "avgScore": 578
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

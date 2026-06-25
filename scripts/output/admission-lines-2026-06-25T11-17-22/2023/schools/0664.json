@@ -1,0 +1,97 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0664",
+      "universityName": "河北大学(国家专项计划)[公办]",
+      "majorGroup": "数学与应用数学",
+      "planCount": 0,
+      "minScore": 561,
+      "minRank": 39366,
+      "avgScore": 565
+    },
+    {
+      "universityCode": "0664",
+      "universityName": "河北大学(国家专项计划)[公办]",
+      "majorGroup": "物理学类",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 47295,
+      "avgScore": 555
+    },
+    {
+      "universityCode": "0664",
+      "universityName": "河北大学(国家专项计划)[公办]",
+      "majorGroup": "土木工程",
+      "planCount": 0,
+      "minScore": 547,
+      "minRank": 50798,
+      "avgScore": 552
+    },
+    {
+      "universityCode": "0664",
+      "universityName": "河北大学(国家专项计划)[公办]",
+      "majorGroup": "药学类",
+      "planCount": 0,
+      "minScore": 547,
+      "minRank": 50798,
+      "avgScore": 556
+    },
+    {
+      "universityCode": "0664",
+      "universityName": "河北大学(国家专项计划)[公办]",
+      "majorGroup": "化学",
+      "planCount": 0,
+      "minScore": 546,
+      "minRank": 51613,
+      "avgScore": 550
+    },
+    {
+      "universityCode": "0664",
+      "universityName": "河北大学(国家专项计划)[公办]",
+      "majorGroup": "生物科学类",
+      "planCount": 0,
+      "minScore": 544,
+      "minRank": 53343,
+      "avgScore": 547
+    },
+    {
+      "universityCode": "0664",
+      "universityName": "河北大学(国家专项计划)[公办]",
+      "majorGroup": "质量管理工程",
+      "planCount": 0,
+      "minScore": 539,
+      "minRank": 57829,
+      "avgScore": 545
+    },
+    {
+      "universityCode": "0664",
+      "universityName": "河北大学(国家专项计划)[公办]",
+      "majorGroup": "图书馆学",
+      "planCount": 0,
+      "minScore": 536,
+      "minRank": 60653,
+      "avgScore": 541
+    },
+    {
+      "universityCode": "0664",
+      "universityName": "河北大学(国家专项计划)[公办]",
+      "majorGroup": "材料化学",
+      "planCount": 0,
+      "minScore": 535,
+      "minRank": 61651,
+      "avgScore": 540
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1586,
+      "universityCode": "2050",
+      "universityName": "中国科学技术大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "经济管理试验班",
+      "majorNote": "含管理科学、金融学、统计学、大数据管理与应用专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 1587,
+      "universityCode": "2050",
+      "universityName": "中国科学技术大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "工科试验班(力学及航天、人形机器人、未来能源及安全)",
+      "majorNote": "含理论与应用力学、能源与动力工程、安全工程、机器人工程、测控技术与仪器专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 1588,
+      "universityCode": "2050",
+      "universityName": "中国科学技术大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "材料类",
+      "majorNote": "含材料物理、材料化学、高分子材料与工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4800
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

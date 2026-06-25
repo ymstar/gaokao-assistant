@@ -1,0 +1,70 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0160",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorGroup": "英语",
+      "planCount": 0,
+      "minScore": 585,
+      "minRank": 25041,
+      "avgScore": 585
+    },
+    {
+      "universityCode": "0160",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorGroup": "新闻学",
+      "planCount": 0,
+      "minScore": 583,
+      "minRank": 26440,
+      "avgScore": 583
+    },
+    {
+      "universityCode": "0160",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorGroup": "体育经济与管理",
+      "planCount": 0,
+      "minScore": 576,
+      "minRank": 31850,
+      "avgScore": 576
+    },
+    {
+      "universityCode": "0160",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorGroup": "运动康复",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 34252,
+      "avgScore": 580
+    },
+    {
+      "universityCode": "0160",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorGroup": "运动人体科学",
+      "planCount": 0,
+      "minScore": 572,
+      "minRank": 35109,
+      "avgScore": 573
+    },
+    {
+      "universityCode": "0160",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorGroup": "应用心理学",
+      "planCount": 0,
+      "minScore": 572,
+      "minRank": 35109,
+      "avgScore": 572
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0398",
+      "universityName": "东北师范大学(长春市)(公费师范生)[公办]",
+      "majorGroup": "数学与应用数学(公费师范)",
+      "planCount": 0,
+      "minScore": 635,
+      "minRank": 4398,
+      "avgScore": 635
+    },
+    {
+      "universityCode": "0398",
+      "universityName": "东北师范大学(长春市)(公费师范生)[公办]",
+      "majorGroup": "物理学(公费师范)",
+      "planCount": 0,
+      "minScore": 624,
+      "minRank": 6968,
+      "avgScore": 628
+    },
+    {
+      "universityCode": "0398",
+      "universityName": "东北师范大学(长春市)(公费师范生)[公办]",
+      "majorGroup": "英语(公费师范)",
+      "planCount": 0,
+      "minScore": 623,
+      "minRank": 7222,
+      "avgScore": 623
+    },
+    {
+      "universityCode": "0398",
+      "universityName": "东北师范大学(长春市)(公费师范生)[公办]",
+      "majorGroup": "化学(公费师范)",
+      "planCount": 0,
+      "minScore": 621,
+      "minRank": 7805,
+      "avgScore": 621
+    },
+    {
+      "universityCode": "0398",
+      "universityName": "东北师范大学(长春市)(公费师范生)[公办]",
+      "majorGroup": "生物科学(公费师范)",
+      "planCount": 0,
+      "minScore": 621,
+      "minRank": 7805,
+      "avgScore": 621
+    },
+    {
+      "universityCode": "0398",
+      "universityName": "东北师范大学(长春市)(公费师范生)[公办]",
+      "majorGroup": "小学教育(公费师范)",
+      "planCount": 0,
+      "minScore": 619,
+      "minRank": 8388,
+      "avgScore": 619
+    },
+    {
+      "universityCode": "0398",
+      "universityName": "东北师范大学(长春市)(公费师范生)[公办]",
+      "majorGroup": "地理科学(公费师范)",
+      "planCount": 0,
+      "minScore": 618,
+      "minRank": 8703,
+      "avgScore": 618
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

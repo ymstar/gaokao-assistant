@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 616,
+      "universityCode": "0077",
+      "universityName": "北华大学(吉林市)(国际创新课程项目)[公办]",
+      "majorCode": "02",
+      "majorName": "计算机科学与技术",
+      "majorNote": "国际创新课程(ICC)项目",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 30000
+    },
+    {
+      "index": 617,
+      "universityCode": "0077",
+      "universityName": "北华大学(吉林市)(国际创新课程项目)[公办]",
+      "majorCode": "03",
+      "majorName": "土木工程",
+      "majorNote": "国际创新课程(ICC)项目",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 30000
+    },
+    {
+      "index": 618,
+      "universityCode": "0077",
+      "universityName": "北华大学(吉林市)(国际创新课程项目)[公办]",
+      "majorCode": "04",
+      "majorName": "药学",
+      "majorNote": "国际创新课程(ICC)项目;色盲、色弱、单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 30000
+    },
+    {
+      "index": 619,
+      "universityCode": "0077",
+      "universityName": "北华大学(吉林市)(国际创新课程项目)[公办]",
+      "majorCode": "05",
+      "majorName": "会计学",
+      "majorNote": "国际创新课程(ICC)项目",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 30000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

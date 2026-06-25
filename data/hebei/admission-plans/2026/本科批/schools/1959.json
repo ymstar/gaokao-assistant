@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15548,
+      "universityCode": "1959",
+      "universityName": "云南师范大学(昆明市)[公办]",
+      "majorCode": "06",
+      "majorName": "教育技术学",
+      "majorNote": "师范类",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 15549,
+      "universityCode": "1959",
+      "universityName": "云南师范大学(昆明市)[公办]",
+      "majorCode": "07",
+      "majorName": "化学",
+      "majorNote": "师范类；不招收色弱、色盲以及不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者，体检要求详见我校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 15550,
+      "universityCode": "1959",
+      "universityName": "云南师范大学(昆明市)[公办]",
+      "majorCode": "08",
+      "majorName": "新能源材料与器件",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 15551,
+      "universityCode": "1959",
+      "universityName": "云南师范大学(昆明市)[公办]",
+      "majorCode": "09",
+      "majorName": "电子信息科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 15552,
+      "universityCode": "1959",
+      "universityName": "云南师范大学(昆明市)[公办]",
+      "majorCode": "10",
+      "majorName": "计算机科学与技术",
+      "majorNote": "不招收不能准确在显示器上识别红、黄、绿、兰、紫各颜色中任何一种颜色的数码、字母者，体检要求详见我校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

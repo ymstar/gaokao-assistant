@@ -1,0 +1,52 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0944",
+      "universityName": "华东师范大学(国家专项计划)[公办]",
+      "majorGroup": "数学与应用数学",
+      "planCount": 0,
+      "minScore": 629,
+      "minRank": 5686,
+      "avgScore": 631
+    },
+    {
+      "universityCode": "0944",
+      "universityName": "华东师范大学(国家专项计划)[公办]",
+      "majorGroup": "化学",
+      "planCount": 0,
+      "minScore": 623,
+      "minRank": 7222,
+      "avgScore": 623
+    },
+    {
+      "universityCode": "0944",
+      "universityName": "华东师范大学(国家专项计划)[公办]",
+      "majorGroup": "物理学",
+      "planCount": 0,
+      "minScore": 619,
+      "minRank": 8388,
+      "avgScore": 619
+    },
+    {
+      "universityCode": "0944",
+      "universityName": "华东师范大学(国家专项计划)[公办]",
+      "majorGroup": "地理科学",
+      "planCount": 0,
+      "minScore": 617,
+      "minRank": 9004,
+      "avgScore": 617
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

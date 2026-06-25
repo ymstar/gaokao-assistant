@@ -1,0 +1,32 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 9198,
+      "universityCode": "1179",
+      "universityName": "南方科技大学(深圳市)[公办]",
+      "majorCode": "02",
+      "majorName": "计算机科学与技术",
+      "majorNote": "入学时不分专业，在大学一、二年级根据自己的兴趣和能力，结合国家发展和社会进步对人才的需求，按照学校专业设置的实际情况，自主选择专业（中外合作办学专业除外）；特优考生可进入卓越计划",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

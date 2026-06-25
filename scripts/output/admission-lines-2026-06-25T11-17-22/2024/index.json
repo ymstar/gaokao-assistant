@@ -1,0 +1,927 @@
+[
+  {
+    "universityCode": "0083",
+    "universityName": "保定学院(公费师范生)[公办]",
+    "entryCount": 14
+  },
+  {
+    "universityCode": "0089",
+    "universityName": "北方民族大学(国家专项计划)[公办]",
+    "entryCount": 8
+  },
+  {
+    "universityCode": "0101",
+    "universityName": "北京大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "0103",
+    "universityName": "北京大学医学部(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "0120",
+    "universityName": "北京航空航天大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "0122",
+    "universityName": "北京化工大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "0126",
+    "universityName": "北京交通大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "0137",
+    "universityName": "北京科技大学(国家专项计划)[公办]",
+    "entryCount": 6
+  },
+  {
+    "universityCode": "0143",
+    "universityName": "北京理工大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "0147",
+    "universityName": "北京林业大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "0154",
+    "universityName": "北京师范大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "0157",
+    "universityName": "北京师范大学(珠海校区)(优师专项)[公办]",
+    "entryCount": 6
+  },
+  {
+    "universityCode": "0160",
+    "universityName": "北京体育大学(国家专项计划)[公办]",
+    "entryCount": 6
+  },
+  {
+    "universityCode": "0163",
+    "universityName": "北京外国语大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "0168",
+    "universityName": "北京物资学院(国家专项计划)[公办]",
+    "entryCount": 8
+  },
+  {
+    "universityCode": "0175",
+    "universityName": "北京印刷学院(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "0177",
+    "universityName": "北京邮电大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "0181",
+    "universityName": "北京语言大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "0185",
+    "universityName": "北京中医药大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "0201",
+    "universityName": "沧州师范学院(公费师范生)[公办]",
+    "entryCount": 11
+  },
+  {
+    "universityCode": "0217",
+    "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+    "entryCount": 14
+  },
+  {
+    "universityCode": "0304",
+    "universityName": "承德医学院(免费医学定向生)[公办]",
+    "entryCount": 21
+  },
+  {
+    "universityCode": "0320",
+    "universityName": "重庆大学(国家专项计划)[公办]",
+    "entryCount": 8
+  },
+  {
+    "universityCode": "0385",
+    "universityName": "大连大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "0392",
+    "universityName": "大连海事大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "0397",
+    "universityName": "大连交通大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "0401",
+    "universityName": "大连理工大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "0404",
+    "universityName": "大连民族大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "0408",
+    "universityName": "大连医科大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "0432",
+    "universityName": "电子科技大学(国家专项计划)[公办]",
+    "entryCount": 6
+  },
+  {
+    "universityCode": "0435",
+    "universityName": "东北财经大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "0438",
+    "universityName": "东北大学(沈阳市)(国家专项计划)[公办]",
+    "entryCount": 7
+  },
+  {
+    "universityCode": "0442",
+    "universityName": "东北林业大学(国家专项计划)[公办]",
+    "entryCount": 5
+  },
+  {
+    "universityCode": "0446",
+    "universityName": "东北师范大学(长春市)(公费师范生)[公办]",
+    "entryCount": 7
+  },
+  {
+    "universityCode": "0447",
+    "universityName": "东北师范大学(长春市)(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "0448",
+    "universityName": "东北师范大学(优师专项)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "0450",
+    "universityName": "东华大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "0455",
+    "universityName": "东南大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "0463",
+    "universityName": "对外经济贸易大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "0469",
+    "universityName": "防灾科技学院(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "0481",
+    "universityName": "福州大学(国家专项计划)[公办]",
+    "entryCount": 5
+  },
+  {
+    "universityCode": "0494",
+    "universityName": "复旦大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "0497",
+    "universityName": "复旦大学医学院(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "0663",
+    "universityName": "哈尔滨工程大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "0665",
+    "universityName": "哈尔滨工业大学(国家专项计划)[公办]",
+    "entryCount": 7
+  },
+  {
+    "universityCode": "0668",
+    "universityName": "哈尔滨工业大学(威海)(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "0675",
+    "universityName": "哈尔滨理工大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "0712",
+    "universityName": "邯郸学院(公费师范生)[公办]",
+    "entryCount": 40
+  },
+  {
+    "universityCode": "0723",
+    "universityName": "杭州师范大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "0729",
+    "universityName": "合肥工业大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "0731",
+    "universityName": "合肥工业大学(宣城校区)(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "0741",
+    "universityName": "河北北方学院(免费医学定向生)[公办]",
+    "entryCount": 16
+  },
+  {
+    "universityCode": "0748",
+    "universityName": "河北大学(保定市)(国家专项计划)[公办]",
+    "entryCount": 9
+  },
+  {
+    "universityCode": "0752",
+    "universityName": "河北地质大学(国家专项计划)[公办]",
+    "entryCount": 9
+  },
+  {
+    "universityCode": "0757",
+    "universityName": "河北工程大学(国家专项计划)[公办]",
+    "entryCount": 8
+  },
+  {
+    "universityCode": "0760",
+    "universityName": "河北工程大学(免费医学定向生)[公办]",
+    "entryCount": 14
+  },
+  {
+    "universityCode": "0764",
+    "universityName": "河北工业大学(国家专项计划)[公办]",
+    "entryCount": 23
+  },
+  {
+    "universityCode": "0783",
+    "universityName": "河北经贸大学(国家专项计划)[公办]",
+    "entryCount": 15
+  },
+  {
+    "universityCode": "0788",
+    "universityName": "河北科技大学(国家专项计划)[公办]",
+    "entryCount": 12
+  },
+  {
+    "universityCode": "0799",
+    "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+    "entryCount": 72
+  },
+  {
+    "universityCode": "0804",
+    "universityName": "河北农业大学(国家专项计划)[公办]",
+    "entryCount": 6
+  },
+  {
+    "universityCode": "0814",
+    "universityName": "河北师范大学(公费师范生)[公办]",
+    "entryCount": 186
+  },
+  {
+    "universityCode": "0815",
+    "universityName": "河北师范大学(国家专项计划)[公办]",
+    "entryCount": 20
+  },
+  {
+    "universityCode": "0819",
+    "universityName": "河北师范大学(优师专项)[公办]",
+    "entryCount": 46
+  },
+  {
+    "universityCode": "0828",
+    "universityName": "河北医科大学(国家专项计划)[公办]",
+    "entryCount": 13
+  },
+  {
+    "universityCode": "0830",
+    "universityName": "河北医科大学(免费医学定向生)[公办]",
+    "entryCount": 66
+  },
+  {
+    "universityCode": "0836",
+    "universityName": "河北中医药大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "0837",
+    "universityName": "河北中医药大学(免费医学定向生)[公办]",
+    "entryCount": 56
+  },
+  {
+    "universityCode": "0841",
+    "universityName": "河海大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "0920",
+    "universityName": "衡水学院(公费师范生)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "0983",
+    "universityName": "湖南大学(国家专项计划)[公办]",
+    "entryCount": 6
+  },
+  {
+    "universityCode": "1037",
+    "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+    "entryCount": 6
+  },
+  {
+    "universityCode": "1039",
+    "universityName": "华北电力大学(北京)(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "1040",
+    "universityName": "华北科技学院(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1043",
+    "universityName": "华北理工大学(国家专项计划)[公办]",
+    "entryCount": 17
+  },
+  {
+    "universityCode": "1045",
+    "universityName": "华北理工大学(免费医学定向生)[公办]",
+    "entryCount": 42
+  },
+  {
+    "universityCode": "1052",
+    "universityName": "华东理工大学(上海市)(国家专项计划)[公办]",
+    "entryCount": 7
+  },
+  {
+    "universityCode": "1053",
+    "universityName": "华东师范大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "1055",
+    "universityName": "华东师范大学(优师专项)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1056",
+    "universityName": "华东政法大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1059",
+    "universityName": "华南理工大学(国家专项计划)[公办]",
+    "entryCount": 7
+  },
+  {
+    "universityCode": "1061",
+    "universityName": "华南农业大学(国家专项计划)[公办]",
+    "entryCount": 9
+  },
+  {
+    "universityCode": "1066",
+    "universityName": "华中科技大学(国家专项计划)[公办]",
+    "entryCount": 5
+  },
+  {
+    "universityCode": "1067",
+    "universityName": "华中农业大学(国家专项计划)[公办]",
+    "entryCount": 5
+  },
+  {
+    "universityCode": "1069",
+    "universityName": "华中师范大学(公费师范生)[公办]",
+    "entryCount": 7
+  },
+  {
+    "universityCode": "1070",
+    "universityName": "华中师范大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1072",
+    "universityName": "华中师范大学(优师专项)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "1101",
+    "universityName": "吉林大学(国家专项计划)[公办]",
+    "entryCount": 5
+  },
+  {
+    "universityCode": "1132",
+    "universityName": "集美大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1144",
+    "universityName": "暨南大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1156",
+    "universityName": "江南大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "1164",
+    "universityName": "江苏大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1177",
+    "universityName": "江苏科技大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1300",
+    "universityName": "兰州大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "1316",
+    "universityName": "廊坊师范学院(公费师范生)[公办]",
+    "entryCount": 7
+  },
+  {
+    "universityCode": "1331",
+    "universityName": "辽宁大学(沈阳市)(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1335",
+    "universityName": "辽宁工程技术大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1345",
+    "universityName": "辽宁科技大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1358",
+    "universityName": "辽宁石油化工大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1449",
+    "universityName": "南京大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1452",
+    "universityName": "南京工业大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1456",
+    "universityName": "南京航空航天大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "1462",
+    "universityName": "南京理工大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "1465",
+    "universityName": "南京林业大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1468",
+    "universityName": "南京农业大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "1472",
+    "universityName": "南京师范大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "1479",
+    "universityName": "南京信息工程大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1486",
+    "universityName": "南京邮电大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1489",
+    "universityName": "南开大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1608",
+    "universityName": "清华大学(国家专项计划)[公办]",
+    "entryCount": 9
+  },
+  {
+    "universityCode": "1649",
+    "universityName": "山东大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1651",
+    "universityName": "山东大学威海分校(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "1674",
+    "universityName": "山东理工大学(国家专项计划)[公办]",
+    "entryCount": 7
+  },
+  {
+    "universityCode": "1765",
+    "universityName": "陕西师范大学(公费师范生)[公办]",
+    "entryCount": 5
+  },
+  {
+    "universityCode": "1766",
+    "universityName": "陕西师范大学(国家专项计划)[公办]",
+    "entryCount": 6
+  },
+  {
+    "universityCode": "1768",
+    "universityName": "陕西师范大学(优师专项)[公办]",
+    "entryCount": 6
+  },
+  {
+    "universityCode": "1785",
+    "universityName": "上海财经大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1792",
+    "universityName": "上海电机学院(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1798",
+    "universityName": "上海对外经贸大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "1811",
+    "universityName": "上海交通大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1813",
+    "universityName": "上海交通大学医学院(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1818",
+    "universityName": "上海理工大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1834",
+    "universityName": "上海外国语大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1865",
+    "universityName": "沈阳工业大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1867",
+    "universityName": "沈阳航空航天大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1870",
+    "universityName": "沈阳建筑大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1873",
+    "universityName": "沈阳理工大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1875",
+    "universityName": "沈阳农业大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "1879",
+    "universityName": "沈阳药科大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1884",
+    "universityName": "石河子大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "1897",
+    "universityName": "石家庄铁道大学(国家专项计划)[公办]",
+    "entryCount": 13
+  },
+  {
+    "universityCode": "1904",
+    "universityName": "石家庄学院(公费师范生)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "1926",
+    "universityName": "四川大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "1968",
+    "universityName": "苏州大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "1986",
+    "universityName": "塔里木大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "2005",
+    "universityName": "唐山师范学院(公费师范生)[公办]",
+    "entryCount": 68
+  },
+  {
+    "universityCode": "2025",
+    "universityName": "天津大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "2028",
+    "universityName": "天津工业大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "2037",
+    "universityName": "天津科技大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "2062",
+    "universityName": "天津医科大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "2070",
+    "universityName": "天津中医药大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "2078",
+    "universityName": "同济大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "2134",
+    "universityName": "武汉大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "2152",
+    "universityName": "武汉理工大学(国家专项计划)[公办]",
+    "entryCount": 8
+  },
+  {
+    "universityCode": "2180",
+    "universityName": "西安电子科技大学(国家专项计划)[公办]",
+    "entryCount": 6
+  },
+  {
+    "universityCode": "2196",
+    "universityName": "西安交通大学(国家专项计划)[公办]",
+    "entryCount": 11
+  },
+  {
+    "universityCode": "2229",
+    "universityName": "西北工业大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "2232",
+    "universityName": "西北农林科技大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "2248",
+    "universityName": "西南财经大学(成都市)(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "2251",
+    "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+    "entryCount": 10
+  },
+  {
+    "universityCode": "2252",
+    "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+    "entryCount": 9
+  },
+  {
+    "universityCode": "2254",
+    "universityName": "西南大学(优师专项)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "2256",
+    "universityName": "西南交通大学(国家专项计划)[公办]",
+    "entryCount": 14
+  },
+  {
+    "universityCode": "2261",
+    "universityName": "西南民族大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "2270",
+    "universityName": "厦门大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "2382",
+    "universityName": "燕山大学(国家专项计划)[公办]",
+    "entryCount": 7
+  },
+  {
+    "universityCode": "2386",
+    "universityName": "扬州大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "2462",
+    "universityName": "浙江财经大学(国家专项计划)[公办]",
+    "entryCount": 5
+  },
+  {
+    "universityCode": "2468",
+    "universityName": "浙江大学(杭州市)(国家专项计划)[公办]",
+    "entryCount": 5
+  },
+  {
+    "universityCode": "2471",
+    "universityName": "浙江大学医学院(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "2475",
+    "universityName": "浙江工业大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "2534",
+    "universityName": "中国传媒大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "2536",
+    "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "2538",
+    "universityName": "中国地质大学(武汉)(国家专项计划)[公办]",
+    "entryCount": 6
+  },
+  {
+    "universityCode": "2540",
+    "universityName": "中国海洋大学(青岛市)(国家专项计划)[公办]",
+    "entryCount": 5
+  },
+  {
+    "universityCode": "2543",
+    "universityName": "中国科学技术大学(国家专项计划)[公办]",
+    "entryCount": 5
+  },
+  {
+    "universityCode": "2547",
+    "universityName": "中国矿业大学(北京)(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "2548",
+    "universityName": "中国矿业大学(国家专项计划)[公办]",
+    "entryCount": 8
+  },
+  {
+    "universityCode": "2551",
+    "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+    "entryCount": 5
+  },
+  {
+    "universityCode": "2553",
+    "universityName": "中国民航大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "2556",
+    "universityName": "中国民用航空飞行学院(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "2558",
+    "universityName": "中国农业大学(北京市)(国家专项计划)[公办]",
+    "entryCount": 8
+  },
+  {
+    "universityCode": "2560",
+    "universityName": "中国人民大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "2564",
+    "universityName": "中国人民警察大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "2569",
+    "universityName": "中国石油大学(北京)(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "2571",
+    "universityName": "中国石油大学(北京)克拉玛依校区(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "2572",
+    "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+    "entryCount": 7
+  },
+  {
+    "universityCode": "2578",
+    "universityName": "中国药科大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "2580",
+    "universityName": "中国医科大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "2584",
+    "universityName": "中国政法大学(国家专项计划)[公办]",
+    "entryCount": 1
+  },
+  {
+    "universityCode": "2586",
+    "universityName": "中南财经政法大学(国家专项计划)[公办]",
+    "entryCount": 3
+  },
+  {
+    "universityCode": "2589",
+    "universityName": "中南大学(国家专项计划)[公办]",
+    "entryCount": 2
+  },
+  {
+    "universityCode": "2594",
+    "universityName": "中山大学(国家专项计划)[公办]",
+    "entryCount": 9
+  },
+  {
+    "universityCode": "2596",
+    "universityName": "中央财经大学(国家专项计划)[公办]",
+    "entryCount": 4
+  },
+  {
+    "universityCode": "2599",
+    "universityName": "中央民族大学(国家专项计划)[公办]",
+    "entryCount": 2
+  }
+]

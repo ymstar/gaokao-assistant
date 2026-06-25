@@ -1,0 +1,25 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1566",
+      "universityName": "天津中医药大学(国家专项计划)[公办]",
+      "majorGroup": "护理学类",
+      "planCount": 0,
+      "minScore": 568,
+      "minRank": 58000,
+      "avgScore": 574
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

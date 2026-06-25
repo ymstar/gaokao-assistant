@@ -1,0 +1,52 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1892",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "海洋科学",
+      "planCount": 0,
+      "minScore": 631,
+      "minRank": 9012,
+      "avgScore": 631
+    },
+    {
+      "universityCode": "1892",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "软件工程",
+      "planCount": 0,
+      "minScore": 629,
+      "minRank": 9827,
+      "avgScore": 629
+    },
+    {
+      "universityCode": "1892",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "遥感科学与技术",
+      "planCount": 0,
+      "minScore": 621,
+      "minRank": 13587,
+      "avgScore": 621
+    },
+    {
+      "universityCode": "1892",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "会计学",
+      "planCount": 0,
+      "minScore": 616,
+      "minRank": 16339,
+      "avgScore": 616
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

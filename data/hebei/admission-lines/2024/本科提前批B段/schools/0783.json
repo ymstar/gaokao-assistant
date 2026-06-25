@@ -1,0 +1,151 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "法学",
+      "planCount": 0,
+      "minScore": 566,
+      "minRank": 40370,
+      "avgScore": 567
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "审计学",
+      "planCount": 0,
+      "minScore": 563,
+      "minRank": 43129,
+      "avgScore": 565
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "财务管理",
+      "planCount": 0,
+      "minScore": 562,
+      "minRank": 44007,
+      "avgScore": 563
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 558,
+      "minRank": 47783,
+      "avgScore": 558
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "税收学",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 52953,
+      "avgScore": 555
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "应用统计学",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 55045,
+      "avgScore": 555
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "经济学",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 55045,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "商务英语",
+      "planCount": 0,
+      "minScore": 541,
+      "minRank": 66174,
+      "avgScore": 542
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "国际经济与贸易",
+      "planCount": 0,
+      "minScore": 538,
+      "minRank": 69761,
+      "avgScore": 540
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "人力资源管理",
+      "planCount": 0,
+      "minScore": 536,
+      "minRank": 72204,
+      "avgScore": 542
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "投资学",
+      "planCount": 0,
+      "minScore": 536,
+      "minRank": 72204,
+      "avgScore": 540
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "行政管理",
+      "planCount": 0,
+      "minScore": 529,
+      "minRank": 80942,
+      "avgScore": 530
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "物流管理",
+      "planCount": 0,
+      "minScore": 526,
+      "minRank": 84920,
+      "avgScore": 534
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "劳动与社会保障",
+      "planCount": 0,
+      "minScore": 524,
+      "minRank": 87643,
+      "avgScore": 524
+    },
+    {
+      "universityCode": "0783",
+      "universityName": "河北经贸大学(国家专项计划)[公办]",
+      "majorGroup": "旅游管理",
+      "planCount": 0,
+      "minScore": 521,
+      "minRank": 91697,
+      "avgScore": 526
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

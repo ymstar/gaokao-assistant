@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1075,
+      "universityCode": "0885",
+      "universityName": "华中科技大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "化学类",
+      "majorNote": "含化学、应用化学专业；色盲、单色识别不全者不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1076,
+      "universityCode": "0885",
+      "universityName": "华中科技大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "材料类",
+      "majorNote": "含材料成型及控制工程、材料科学与工程、电子封装技术专业",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5850
+    },
+    {
+      "index": 1077,
+      "universityCode": "0885",
+      "universityName": "华中科技大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "电子信息类(电信学院)",
+      "majorNote": "含电子信息工程、通信工程、电磁场与无线技术专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5850
+    },
+    {
+      "index": 1078,
+      "universityCode": "0885",
+      "universityName": "华中科技大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "土木类",
+      "majorNote": "含智能建造、土木工程、工程管理专业；面向城市及基础设施建设等领域，人工智能、土木工程等多学科交叉培养",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1079,
+      "universityCode": "0885",
+      "universityName": "华中科技大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "船舶与海洋工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5850
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

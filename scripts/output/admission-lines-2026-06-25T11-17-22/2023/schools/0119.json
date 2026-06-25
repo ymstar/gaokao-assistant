@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0119",
+      "universityName": "北京交通大学(国家专项计划)[公办]",
+      "majorGroup": "机械类(智能制造与智能装备，含双学士学位项目)",
+      "planCount": 0,
+      "minScore": 628,
+      "minRank": 5897,
+      "avgScore": 629
+    },
+    {
+      "universityCode": "0119",
+      "universityName": "北京交通大学(国家专项计划)[公办]",
+      "majorGroup": "土木类(智慧建造与智能工程，含双学士学位项目)",
+      "planCount": 0,
+      "minScore": 609,
+      "minRank": 11883,
+      "avgScore": 611
+    },
+    {
+      "universityCode": "0119",
+      "universityName": "北京交通大学(国家专项计划)[公办]",
+      "majorGroup": "环境工程(智慧环境与低碳技术)",
+      "planCount": 0,
+      "minScore": 600,
+      "minRank": 15687,
+      "avgScore": 607
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

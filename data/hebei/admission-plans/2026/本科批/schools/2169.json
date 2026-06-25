@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17315,
+      "universityCode": "2169",
+      "universityName": "华南农业大学珠江学院[独立学院]",
+      "majorCode": "09",
+      "majorName": "金融工程(智慧金融方向)",
+      "majorNote": "办学地点：第一学年肇庆校区，第二至四学年广州校区",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 17316,
+      "universityCode": "2169",
+      "universityName": "华南农业大学珠江学院[独立学院]",
+      "majorCode": "10",
+      "majorName": "汉语言文学(国际班)",
+      "majorNote": "办学地点：广州校区。国际班学生大一实行通识大类培养，同时入校即开始修读英语强化及国际化能力提升课程，四年国内毕业后符合相关条件可自主选择申请赴国外院校攻读硕士学位。除本科学费外，雅思相关培养费用四年共计79800元，报考前务必向院校咨询",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 17317,
+      "universityCode": "2169",
+      "universityName": "华南农业大学珠江学院[独立学院]",
+      "majorCode": "11",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "办学地点：第一学年肇庆校区，第二至四学年广州校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 17318,
+      "universityCode": "2169",
+      "universityName": "华南农业大学珠江学院[独立学院]",
+      "majorCode": "12",
+      "majorName": "电子信息工程(无人机技术与应用方向)",
+      "majorNote": "办学地点：第一学年肇庆校区，第二至四学年广州校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 17319,
+      "universityCode": "2169",
+      "universityName": "华南农业大学珠江学院[独立学院]",
+      "majorCode": "13",
+      "majorName": "人工智能(百度创新班)",
+      "majorNote": "办学地点：第一学年肇庆校区，第二至四学年广州校区。校企联合培养项目，学习费用除学费外，另需6800元每学年",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 17320,
+      "universityCode": "2169",
+      "universityName": "华南农业大学珠江学院[独立学院]",
+      "majorCode": "14",
+      "majorName": "人工智能(国际班)",
+      "majorNote": "办学地点：广州校区。国际班学生大一实行通识大类培养，同时入校即开始修读英语强化及国际化能力提升课程，四年国内毕业后符合相关条件可自主选择申请赴国外院校攻读硕士学位。除本科学费外，雅思相关培养费用四年共计79800元，报考前务必向院校咨询",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 17321,
+      "universityCode": "2169",
+      "universityName": "华南农业大学珠江学院[独立学院]",
+      "majorCode": "15",
+      "majorName": "计算机科学与技术(百度创新班)",
+      "majorNote": "办学地点：第一学年肇庆校区，第二至四学年广州校区。校企联合培养项目，学习费用除学费外，另需6800元每学年",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 17322,
+      "universityCode": "2169",
+      "universityName": "华南农业大学珠江学院[独立学院]",
+      "majorCode": "16",
+      "majorName": "计算机科学与技术(国际班)",
+      "majorNote": "办学地点：广州校区。国际班学生大一实行通识大类培养，同时入校即开始修读英语强化及国际化能力提升课程，四年国内毕业后符合相关条件可自主选择申请赴国外院校攻读硕士学位。除本科学费外，雅思相关培养费用四年共计79800元，报考前务必向院校咨询",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 17323,
+      "universityCode": "2169",
+      "universityName": "华南农业大学珠江学院[独立学院]",
+      "majorCode": "17",
+      "majorName": "会计学",
+      "majorNote": "办学地点：第一学年肇庆校区，第二至四学年广州校区",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 17324,
+      "universityCode": "2169",
+      "universityName": "华南农业大学珠江学院[独立学院]",
+      "majorCode": "18",
+      "majorName": "会计学(国际班)",
+      "majorNote": "办学地点：广州校区。国际班学生大一实行通识大类培养，同时入校即开始修读英语强化及国际化能力提升课程，四年国内毕业后符合相关条件可自主选择申请赴国外院校攻读硕士学位。除本科学费外，雅思相关培养费用四年共计79800元，报考前务必向院校咨询",
+      "subjectRequirement": "不限",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 35000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

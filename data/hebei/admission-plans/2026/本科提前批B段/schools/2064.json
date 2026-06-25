@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1626,
+      "universityCode": "2064",
+      "universityName": "中国民用航空飞行学院(德阳市)(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "电子信息工程(航空电子设备维修)",
+      "majorNote": "建议女生谨慎报考,无色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 1627,
+      "universityCode": "2064",
+      "universityName": "中国民用航空飞行学院(德阳市)(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "交通运输(空中交通管制、飞行签派、航行情报)",
+      "majorNote": "应满足《民用航空人员体检合格证管理规则》（CCAR-67FS-R2）规定，无色盲色弱，无显斜视，无语言、发音或听力障碍，无精神疾病病史等，建议报考该专业每眼裸眼视力低于4.0（E字表）的考生谨慎报考。建议女生谨慎报考",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

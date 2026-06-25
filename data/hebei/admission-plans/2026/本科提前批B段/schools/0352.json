@@ -1,0 +1,125 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 263,
+      "universityCode": "0352",
+      "universityName": "东北林业大学(哈尔滨市)(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "英语",
+      "majorNote": "只招英语语种考生",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 264,
+      "universityCode": "0352",
+      "universityName": "东北林业大学(哈尔滨市)(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "俄语",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 265,
+      "universityCode": "0352",
+      "universityName": "东北林业大学(哈尔滨市)(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "日语",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 266,
+      "universityCode": "0352",
+      "universityName": "东北林业大学(哈尔滨市)(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "土木工程",
+      "majorNote": "国家级“卓越工程师教育培养计划”",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 267,
+      "universityCode": "0352",
+      "universityName": "东北林业大学(哈尔滨市)(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "城乡规划",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 268,
+      "universityCode": "0352",
+      "universityName": "东北林业大学(哈尔滨市)(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "风景园林",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 269,
+      "universityCode": "0352",
+      "universityName": "东北林业大学(哈尔滨市)(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "野生动物与自然保护区管理",
+      "majorNote": "国家级“卓越农林人才教育培养计划”",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 3000
+    },
+    {
+      "index": 270,
+      "universityCode": "0352",
+      "universityName": "东北林业大学(哈尔滨市)(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "园林",
+      "majorNote": "国家级“卓越农林人才教育培养计划”",
+      "subjectRequirement": "生物",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 3600
+    },
+    {
+      "index": 271,
+      "universityCode": "0352",
+      "universityName": "东北林业大学(哈尔滨市)(国家专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "工商管理类",
+      "majorNote": "含工商管理、市场营销、会计学、农林经济管理专业",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 3500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

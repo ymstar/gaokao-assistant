@@ -1,0 +1,25 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0806",
+      "universityName": "华东政法大学(国家专项计划)[公办]",
+      "majorGroup": "经济学类",
+      "planCount": 0,
+      "minScore": 597,
+      "minRank": 29374,
+      "avgScore": 603
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

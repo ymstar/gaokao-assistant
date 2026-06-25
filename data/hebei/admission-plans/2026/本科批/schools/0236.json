@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1630,
+      "universityCode": "0236",
+      "universityName": "朝阳师范学院[公办]",
+      "majorCode": "14",
+      "majorName": "学前教育(师范类)",
+      "majorNote": "师范类；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4400
+    },
+    {
+      "index": 1631,
+      "universityCode": "0236",
+      "universityName": "朝阳师范学院[公办]",
+      "majorCode": "15",
+      "majorName": "小学教育(师范类)",
+      "majorNote": "师范类",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4400
+    },
+    {
+      "index": 1632,
+      "universityCode": "0236",
+      "universityName": "朝阳师范学院[公办]",
+      "majorCode": "16",
+      "majorName": "汉语言文学(师范类)",
+      "majorNote": "师范类",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4400
+    },
+    {
+      "index": 1633,
+      "universityCode": "0236",
+      "universityName": "朝阳师范学院[公办]",
+      "majorCode": "17",
+      "majorName": "英语(师范类)",
+      "majorNote": "师范类",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4400
+    },
+    {
+      "index": 1634,
+      "universityCode": "0236",
+      "universityName": "朝阳师范学院[公办]",
+      "majorCode": "18",
+      "majorName": "数学与应用数学(师范类)",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 1635,
+      "universityCode": "0236",
+      "universityName": "朝阳师范学院[公办]",
+      "majorCode": "19",
+      "majorName": "机械工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 1636,
+      "universityCode": "0236",
+      "universityName": "朝阳师范学院[公办]",
+      "majorCode": "20",
+      "majorName": "食品科学与工程",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4900
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

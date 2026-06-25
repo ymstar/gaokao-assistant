@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3595,
+      "universityCode": "0535",
+      "universityName": "哈尔滨工业大学(深圳)[公办]",
+      "majorCode": "02",
+      "majorName": "工科试验班(未来信息)",
+      "majorNote": "含计算机科学与技术、通信工程专业；本专业类内任选专业",
+      "subjectRequirement": "化学",
+      "planCount": 19,
+      "duration": 4,
+      "tuition": 6230
+    },
+    {
+      "index": 3596,
+      "universityCode": "0535",
+      "universityName": "哈尔滨工业大学(深圳)[公办]",
+      "majorCode": "03",
+      "majorName": "工科试验班(自主智能)",
+      "majorNote": "含人工智能、机器人工程、自动化专业；本专业类内任选专业",
+      "subjectRequirement": "化学",
+      "planCount": 16,
+      "duration": 4,
+      "tuition": 6230
+    },
+    {
+      "index": 3597,
+      "universityCode": "0535",
+      "universityName": "哈尔滨工业大学(深圳)[公办]",
+      "majorCode": "04",
+      "majorName": "通信工程(中外合作办学)",
+      "majorNote": "该专业是与韩国汉阳大学合作办学，学生入学后不得转专业，“4+0”培养模式，中英文授课",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 100000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

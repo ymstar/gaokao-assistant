@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 20216,
+      "universityCode": "2701",
+      "universityName": "武汉华夏理工学院[民办]",
+      "majorCode": "03",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 22000
+    },
+    {
+      "index": 20217,
+      "universityCode": "2701",
+      "universityName": "武汉华夏理工学院[民办]",
+      "majorCode": "04",
+      "majorName": "电子信息工程(华为精英班)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21000
+    },
+    {
+      "index": 20218,
+      "universityCode": "2701",
+      "universityName": "武汉华夏理工学院[民办]",
+      "majorCode": "05",
+      "majorName": "人工智能(华为精英班)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 22000
+    },
+    {
+      "index": 20219,
+      "universityCode": "2701",
+      "universityName": "武汉华夏理工学院[民办]",
+      "majorCode": "06",
+      "majorName": "计算机科学与技术(华为精英班)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 22000
+    },
+    {
+      "index": 20220,
+      "universityCode": "2701",
+      "universityName": "武汉华夏理工学院[民办]",
+      "majorCode": "07",
+      "majorName": "大数据管理与应用",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 22000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

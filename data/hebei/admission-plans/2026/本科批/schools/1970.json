@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15575,
+      "universityCode": "1970",
+      "universityName": "枣庄学院[公办]",
+      "majorCode": "01",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 6325
+    },
+    {
+      "index": 15576,
+      "universityCode": "1970",
+      "universityName": "枣庄学院[公办]",
+      "majorCode": "02",
+      "majorName": "材料科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 15577,
+      "universityCode": "1970",
+      "universityName": "枣庄学院[公办]",
+      "majorCode": "03",
+      "majorName": "通信工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 15578,
+      "universityCode": "1970",
+      "universityName": "枣庄学院[公办]",
+      "majorCode": "04",
+      "majorName": "机器人工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 15579,
+      "universityCode": "1970",
+      "universityName": "枣庄学院[公办]",
+      "majorCode": "05",
+      "majorName": "给排水科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 15580,
+      "universityCode": "1970",
+      "universityName": "枣庄学院[公办]",
+      "majorCode": "06",
+      "majorName": "城市地下空间工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

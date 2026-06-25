@@ -1,0 +1,430 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向衡水市枣强县就业",
+      "planCount": 0,
+      "minScore": 589,
+      "minRank": 22433,
+      "avgScore": 589
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "英语*定向沧州市东光县就业",
+      "planCount": 0,
+      "minScore": 588,
+      "minRank": 23055,
+      "avgScore": 589
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "英语*定向沧州市南皮县就业",
+      "planCount": 0,
+      "minScore": 585,
+      "minRank": 25041,
+      "avgScore": 585
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向邢台市临城县就业",
+      "planCount": 0,
+      "minScore": 585,
+      "minRank": 25041,
+      "avgScore": 585
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "科学教育*定向邯郸市鸡泽县就业",
+      "planCount": 0,
+      "minScore": 584,
+      "minRank": 25721,
+      "avgScore": 586
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向邯郸市魏县就业",
+      "planCount": 0,
+      "minScore": 584,
+      "minRank": 25721,
+      "avgScore": 590
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向保定市曲阳县就业",
+      "planCount": 0,
+      "minScore": 583,
+      "minRank": 26440,
+      "avgScore": 583
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向沧州市盐山县就业",
+      "planCount": 0,
+      "minScore": 583,
+      "minRank": 26440,
+      "avgScore": 585
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向邯郸市鸡泽县就业",
+      "planCount": 0,
+      "minScore": 580,
+      "minRank": 28695,
+      "avgScore": 580
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "英语*定向衡水市枣强县就业",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 29456,
+      "avgScore": 579
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向沧州市东光县就业",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 29456,
+      "avgScore": 584
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "科学教育*定向石家庄市灵寿县就业",
+      "planCount": 0,
+      "minScore": 577,
+      "minRank": 31080,
+      "avgScore": 583
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "科学教育*定向邯郸市魏县就业",
+      "planCount": 0,
+      "minScore": 577,
+      "minRank": 31080,
+      "avgScore": 580
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "英语*定向保定市唐县就业",
+      "planCount": 0,
+      "minScore": 576,
+      "minRank": 31850,
+      "avgScore": 580
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "英语*定向沧州市海兴县就业",
+      "planCount": 0,
+      "minScore": 575,
+      "minRank": 32673,
+      "avgScore": 578
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向石家庄市灵寿县就业",
+      "planCount": 0,
+      "minScore": 574,
+      "minRank": 33476,
+      "avgScore": 577
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "科学教育*定向衡水市枣强县就业",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 34252,
+      "avgScore": 574
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向邢台市广宗县就业",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 34252,
+      "avgScore": 573
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向保定市博野县就业",
+      "planCount": 0,
+      "minScore": 572,
+      "minRank": 35109,
+      "avgScore": 572
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向石家庄市赞皇县就业",
+      "planCount": 0,
+      "minScore": 571,
+      "minRank": 35924,
+      "avgScore": 577
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向沧州市南皮县就业",
+      "planCount": 0,
+      "minScore": 570,
+      "minRank": 36748,
+      "avgScore": 570
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "地理科学*定向沧州市盐山县就业",
+      "planCount": 0,
+      "minScore": 569,
+      "minRank": 37617,
+      "avgScore": 575
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "英语*定向保定市易县就业",
+      "planCount": 0,
+      "minScore": 568,
+      "minRank": 38490,
+      "avgScore": 568
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向承德市围场县就业",
+      "planCount": 0,
+      "minScore": 567,
+      "minRank": 39432,
+      "avgScore": 567
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "地理科学*定向沧州市东光县就业",
+      "planCount": 0,
+      "minScore": 566,
+      "minRank": 40370,
+      "avgScore": 566
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "科学教育*定向邢台市新河县就业",
+      "planCount": 0,
+      "minScore": 565,
+      "minRank": 41291,
+      "avgScore": 572
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "英语*定向保定市博野县就业",
+      "planCount": 0,
+      "minScore": 564,
+      "minRank": 42211,
+      "avgScore": 568
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "科学教育*定向石家庄市赞皇县就业",
+      "planCount": 0,
+      "minScore": 563,
+      "minRank": 43129,
+      "avgScore": 566
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "地理科学*定向衡水市枣强县就业",
+      "planCount": 0,
+      "minScore": 563,
+      "minRank": 43129,
+      "avgScore": 563
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "地理科学*定向衡水市饶阳县就业",
+      "planCount": 0,
+      "minScore": 561,
+      "minRank": 44969,
+      "avgScore": 563
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "科学教育*定向承德市平泉市就业",
+      "planCount": 0,
+      "minScore": 560,
+      "minRank": 45895,
+      "avgScore": 567
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "英语*定向承德市围场县就业",
+      "planCount": 0,
+      "minScore": 559,
+      "minRank": 46811,
+      "avgScore": 561
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "科学教育*定向衡水市饶阳县就业",
+      "planCount": 0,
+      "minScore": 557,
+      "minRank": 48790,
+      "avgScore": 563
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "地理科学*定向承德市平泉市就业",
+      "planCount": 0,
+      "minScore": 556,
+      "minRank": 49791,
+      "avgScore": 557
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向保定市易县就业",
+      "planCount": 0,
+      "minScore": 556,
+      "minRank": 49791,
+      "avgScore": 557
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向承德市隆化县就业",
+      "planCount": 0,
+      "minScore": 556,
+      "minRank": 49791,
+      "avgScore": 566
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "地理科学*定向沧州市南皮县就业",
+      "planCount": 0,
+      "minScore": 554,
+      "minRank": 51876,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "地理科学*定向承德市隆化县就业",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 52953,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向秦皇岛市青龙县就业",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 52953,
+      "avgScore": 557
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "地理科学*定向承德市丰宁县就业",
+      "planCount": 0,
+      "minScore": 552,
+      "minRank": 53989,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向承德市丰宁县就业",
+      "planCount": 0,
+      "minScore": 552,
+      "minRank": 53989,
+      "avgScore": 558
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "科学教育*定向承德市兴隆县就业",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 55045,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "科学教育*定向沧州市南皮县就业",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 55045,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "地理科学*定向承德市围场县就业",
+      "planCount": 0,
+      "minScore": 550,
+      "minRank": 56080,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "科学教育*定向保定市易县就业",
+      "planCount": 0,
+      "minScore": 550,
+      "minRank": 56080,
+      "avgScore": 559
+    },
+    {
+      "universityCode": "0819",
+      "universityName": "河北师范大学(优师专项)[公办]",
+      "majorGroup": "生物科学*定向承德市兴隆县就业",
+      "planCount": 0,
+      "minScore": 549,
+      "minRank": 57150,
+      "avgScore": 553
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

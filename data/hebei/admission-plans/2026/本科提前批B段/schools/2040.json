@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1545,
+      "universityCode": "2040",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "地质学类",
+      "majorNote": "含地质学、地质学(地质地震学)、地质学(旅游地学)、资源勘查工程(固体矿产)、地球化学、地球信息科学与技术(大数据与数字地球)、行星科学专业；不招色盲、色弱、单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1546,
+      "universityCode": "2040",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "软件工程",
+      "majorNote": "一年级在北京校区，二年级起在雄安校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1547,
+      "universityCode": "2040",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "石油工程",
+      "majorNote": "不招色盲、色弱、单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1548,
+      "universityCode": "2040",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "环境生态工程",
+      "majorNote": "一年级在北京校区，二年级起在雄安校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1549,
+      "universityCode": "2040",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "会计学",
+      "majorNote": "一年级在北京校区，二年级起在雄安校区；不招单色不识别考生",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

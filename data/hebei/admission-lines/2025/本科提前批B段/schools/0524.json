@@ -1,0 +1,43 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0524",
+      "universityName": "杭州师范大学(国家专项计划)[公办]",
+      "majorGroup": "金融工程",
+      "planCount": 0,
+      "minScore": 581,
+      "minRank": 43929,
+      "avgScore": 584
+    },
+    {
+      "universityCode": "0524",
+      "universityName": "杭州师范大学(国家专项计划)[公办]",
+      "majorGroup": "大数据管理与应用",
+      "planCount": 0,
+      "minScore": 578,
+      "minRank": 47025,
+      "avgScore": 582
+    },
+    {
+      "universityCode": "0524",
+      "universityName": "杭州师范大学(国家专项计划)[公办]",
+      "majorGroup": "数字经济",
+      "planCount": 0,
+      "minScore": 574,
+      "minRank": 51275,
+      "avgScore": 578
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

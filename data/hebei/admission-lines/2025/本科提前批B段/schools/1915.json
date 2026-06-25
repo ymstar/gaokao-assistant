@@ -1,0 +1,61 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1915",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "数学类",
+      "planCount": 0,
+      "minScore": 668,
+      "minRank": 868,
+      "avgScore": 669
+    },
+    {
+      "universityCode": "1915",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(商业数据分析与AI管理)",
+      "planCount": 0,
+      "minScore": 665,
+      "minRank": 1135,
+      "avgScore": 666
+    },
+    {
+      "universityCode": "1915",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "资源与环境经济学",
+      "planCount": 0,
+      "minScore": 664,
+      "minRank": 1236,
+      "avgScore": 664
+    },
+    {
+      "universityCode": "1915",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班类(物理)",
+      "planCount": 0,
+      "minScore": 661,
+      "minRank": 1570,
+      "avgScore": 663
+    },
+    {
+      "universityCode": "1915",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(化学与生命资源)",
+      "planCount": 0,
+      "minScore": 651,
+      "minRank": 3105,
+      "avgScore": 652
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1326",
+      "universityName": "南京信息工程大学(国家专项计划)[公办]",
+      "majorGroup": "生态学",
+      "planCount": 0,
+      "minScore": 572,
+      "minRank": 31495,
+      "avgScore": 574
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

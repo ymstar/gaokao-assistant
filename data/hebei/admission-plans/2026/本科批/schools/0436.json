@@ -1,0 +1,32 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3130,
+      "universityCode": "0436",
+      "universityName": "广东技术师范大学[公办]",
+      "majorCode": "02",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "四年全部在广州校区",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5710
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

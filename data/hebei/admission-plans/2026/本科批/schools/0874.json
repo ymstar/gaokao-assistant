@@ -1,0 +1,44 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 6702,
+      "universityCode": "0874",
+      "universityName": "华东政法大学[公办]",
+      "majorCode": "05",
+      "majorName": "法学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 6703,
+      "universityCode": "0874",
+      "universityName": "华东政法大学[公办]",
+      "majorCode": "06",
+      "majorName": "知识产权",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

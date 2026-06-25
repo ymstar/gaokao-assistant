@@ -1,0 +1,664 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向石家庄市行唐县就业",
+      "planCount": 0,
+      "minScore": 580,
+      "minRank": 28695,
+      "avgScore": 581
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向邯郸市鸡泽县就业",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 34252,
+      "avgScore": 576
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向邢台市临城县就业",
+      "planCount": 0,
+      "minScore": 570,
+      "minRank": 36748,
+      "avgScore": 570
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向衡水市枣强县就业",
+      "planCount": 0,
+      "minScore": 568,
+      "minRank": 38490,
+      "avgScore": 568
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向石家庄市灵寿县就业",
+      "planCount": 0,
+      "minScore": 567,
+      "minRank": 39432,
+      "avgScore": 568
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向邯郸市鸡泽县就业",
+      "planCount": 0,
+      "minScore": 566,
+      "minRank": 40370,
+      "avgScore": 566
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向邯郸市魏县就业",
+      "planCount": 0,
+      "minScore": 564,
+      "minRank": 42211,
+      "avgScore": 570
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向邢台市临城县就业",
+      "planCount": 0,
+      "minScore": 564,
+      "minRank": 42211,
+      "avgScore": 564
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向秦皇岛市青龙县就业",
+      "planCount": 0,
+      "minScore": 564,
+      "minRank": 42211,
+      "avgScore": 564
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向邢台市广宗县就业",
+      "planCount": 0,
+      "minScore": 563,
+      "minRank": 43129,
+      "avgScore": 563
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向保定市曲阳县就业",
+      "planCount": 0,
+      "minScore": 562,
+      "minRank": 44007,
+      "avgScore": 564
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向石家庄市行唐县就业",
+      "planCount": 0,
+      "minScore": 562,
+      "minRank": 44007,
+      "avgScore": 566
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向石家庄市行唐县就业",
+      "planCount": 0,
+      "minScore": 561,
+      "minRank": 44969,
+      "avgScore": 569
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向石家庄市灵寿县就业",
+      "planCount": 0,
+      "minScore": 560,
+      "minRank": 45895,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向衡水市枣强县就业",
+      "planCount": 0,
+      "minScore": 560,
+      "minRank": 45895,
+      "avgScore": 560
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向邯郸市鸡泽县就业",
+      "planCount": 0,
+      "minScore": 560,
+      "minRank": 45895,
+      "avgScore": 561
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向邢台市广宗县就业",
+      "planCount": 0,
+      "minScore": 559,
+      "minRank": 46811,
+      "avgScore": 559
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向沧州市东光县就业",
+      "planCount": 0,
+      "minScore": 559,
+      "minRank": 46811,
+      "avgScore": 560
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向石家庄市灵寿县就业",
+      "planCount": 0,
+      "minScore": 559,
+      "minRank": 46811,
+      "avgScore": 560
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向衡水市枣强县就业",
+      "planCount": 0,
+      "minScore": 558,
+      "minRank": 47783,
+      "avgScore": 559
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "小学教育*定向邯郸市鸡泽县就业",
+      "planCount": 0,
+      "minScore": 557,
+      "minRank": 48790,
+      "avgScore": 566
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向石家庄市赞皇县就业",
+      "planCount": 0,
+      "minScore": 557,
+      "minRank": 48790,
+      "avgScore": 557
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "小学教育*定向衡水市枣强县就业",
+      "planCount": 0,
+      "minScore": 557,
+      "minRank": 48790,
+      "avgScore": 557
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向邢台市广宗县就业",
+      "planCount": 0,
+      "minScore": 556,
+      "minRank": 49791,
+      "avgScore": 556
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "小学教育*定向石家庄市灵寿县就业",
+      "planCount": 0,
+      "minScore": 556,
+      "minRank": 49791,
+      "avgScore": 558
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向沧州市海兴县就业",
+      "planCount": 0,
+      "minScore": 555,
+      "minRank": 50808,
+      "avgScore": 555
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向邯郸市魏县就业",
+      "planCount": 0,
+      "minScore": 554,
+      "minRank": 51876,
+      "avgScore": 565
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向石家庄市赞皇县就业",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 52953,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向邯郸市魏县就业",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 52953,
+      "avgScore": 555
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向沧州市南皮县就业",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 52953,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "小学教育*定向邯郸市魏县就业",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 52953,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向邢台市新河县就业",
+      "planCount": 0,
+      "minScore": 552,
+      "minRank": 53989,
+      "avgScore": 552
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向保定市唐县就业",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 55045,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "小学教育*定向石家庄市赞皇县就业",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 55045,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向保定市曲阳县就业",
+      "planCount": 0,
+      "minScore": 550,
+      "minRank": 56080,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向承德市承德县就业",
+      "planCount": 0,
+      "minScore": 550,
+      "minRank": 56080,
+      "avgScore": 552
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向沧州市东光县就业",
+      "planCount": 0,
+      "minScore": 550,
+      "minRank": 56080,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向保定市博野县就业",
+      "planCount": 0,
+      "minScore": 549,
+      "minRank": 57150,
+      "avgScore": 549
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向沧州市南皮县就业",
+      "planCount": 0,
+      "minScore": 549,
+      "minRank": 57150,
+      "avgScore": 549
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向承德市平泉市就业",
+      "planCount": 0,
+      "minScore": 549,
+      "minRank": 57150,
+      "avgScore": 549
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向沧州市盐山县就业",
+      "planCount": 0,
+      "minScore": 548,
+      "minRank": 58236,
+      "avgScore": 564
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向沧州市南皮县就业",
+      "planCount": 0,
+      "minScore": 548,
+      "minRank": 58236,
+      "avgScore": 550
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向保定市曲阳县就业",
+      "planCount": 0,
+      "minScore": 547,
+      "minRank": 59388,
+      "avgScore": 550
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向沧州市海兴县就业",
+      "planCount": 0,
+      "minScore": 547,
+      "minRank": 59388,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向保定市唐县就业",
+      "planCount": 0,
+      "minScore": 547,
+      "minRank": 59388,
+      "avgScore": 548
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向保定市博野县就业",
+      "planCount": 0,
+      "minScore": 546,
+      "minRank": 60449,
+      "avgScore": 550
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向沧州市盐山县就业",
+      "planCount": 0,
+      "minScore": 546,
+      "minRank": 60449,
+      "avgScore": 548
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向沧州市东光县就业",
+      "planCount": 0,
+      "minScore": 546,
+      "minRank": 60449,
+      "avgScore": 560
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "小学教育*定向承德市承德县就业",
+      "planCount": 0,
+      "minScore": 545,
+      "minRank": 61567,
+      "avgScore": 561
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向承德市隆化县就业",
+      "planCount": 0,
+      "minScore": 544,
+      "minRank": 62750,
+      "avgScore": 545
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向保定市易县就业",
+      "planCount": 0,
+      "minScore": 543,
+      "minRank": 63909,
+      "avgScore": 547
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向保定市唐县就业",
+      "planCount": 0,
+      "minScore": 543,
+      "minRank": 63909,
+      "avgScore": 544
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "小学教育*定向保定市唐县就业",
+      "planCount": 0,
+      "minScore": 543,
+      "minRank": 63909,
+      "avgScore": 548
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向秦皇岛市青龙县就业",
+      "planCount": 0,
+      "minScore": 541,
+      "minRank": 66174,
+      "avgScore": 544
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "小学教育*定向承德市隆化县就业",
+      "planCount": 0,
+      "minScore": 541,
+      "minRank": 66174,
+      "avgScore": 543
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "小学教育*定向保定市博野县就业",
+      "planCount": 0,
+      "minScore": 541,
+      "minRank": 66174,
+      "avgScore": 544
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向承德市兴隆县就业",
+      "planCount": 0,
+      "minScore": 540,
+      "minRank": 67377,
+      "avgScore": 541
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向秦皇岛市青龙县就业",
+      "planCount": 0,
+      "minScore": 540,
+      "minRank": 67377,
+      "avgScore": 542
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向承德市丰宁县就业",
+      "planCount": 0,
+      "minScore": 540,
+      "minRank": 67377,
+      "avgScore": 542
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向承德市隆化县就业",
+      "planCount": 0,
+      "minScore": 539,
+      "minRank": 68573,
+      "avgScore": 542
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "小学教育*定向保定市易县就业",
+      "planCount": 0,
+      "minScore": 539,
+      "minRank": 68573,
+      "avgScore": 541
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向保定市博野县就业",
+      "planCount": 0,
+      "minScore": 538,
+      "minRank": 69761,
+      "avgScore": 541
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向承德市承德县就业",
+      "planCount": 0,
+      "minScore": 538,
+      "minRank": 69761,
+      "avgScore": 541
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "小学教育*定向承德市围场县就业",
+      "planCount": 0,
+      "minScore": 536,
+      "minRank": 72204,
+      "avgScore": 538
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向承德市隆化县就业",
+      "planCount": 0,
+      "minScore": 534,
+      "minRank": 74627,
+      "avgScore": 536
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "化学*定向承德市围场县就业",
+      "planCount": 0,
+      "minScore": 534,
+      "minRank": 74627,
+      "avgScore": 547
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向保定市易县就业",
+      "planCount": 0,
+      "minScore": 534,
+      "minRank": 74627,
+      "avgScore": 537
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向承德市兴隆县就业",
+      "planCount": 0,
+      "minScore": 534,
+      "minRank": 74627,
+      "avgScore": 538
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向承德市围场县就业",
+      "planCount": 0,
+      "minScore": 534,
+      "minRank": 74627,
+      "avgScore": 536
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向保定市易县就业",
+      "planCount": 0,
+      "minScore": 533,
+      "minRank": 75867,
+      "avgScore": 539
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "数学与应用数学*定向承德市围场县就业",
+      "planCount": 0,
+      "minScore": 532,
+      "minRank": 77131,
+      "avgScore": 534
+    },
+    {
+      "universityCode": "0799",
+      "universityName": "河北民族师范学院(承德市)(优师专项)[公办]",
+      "majorGroup": "物理学*定向承德市丰宁县就业",
+      "planCount": 0,
+      "minScore": 531,
+      "minRank": 78429,
+      "avgScore": 532
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

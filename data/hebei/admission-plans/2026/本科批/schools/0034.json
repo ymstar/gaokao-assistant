@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 329,
+      "universityCode": "0034",
+      "universityName": "安徽医科大学(合肥市)[公办]",
+      "majorCode": "01",
+      "majorName": "运动康复",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 330,
+      "universityCode": "0034",
+      "universityName": "安徽医科大学(合肥市)[公办]",
+      "majorCode": "02",
+      "majorName": "化学生物学",
+      "majorNote": "不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 331,
+      "universityCode": "0034",
+      "universityName": "安徽医科大学(合肥市)[公办]",
+      "majorCode": "03",
+      "majorName": "临床医学",
+      "majorNote": "不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 6050
+    },
+    {
+      "index": 332,
+      "universityCode": "0034",
+      "universityName": "安徽医科大学(合肥市)[公办]",
+      "majorCode": "04",
+      "majorName": "医学影像学",
+      "majorNote": "不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 6050
+    },
+    {
+      "index": 333,
+      "universityCode": "0034",
+      "universityName": "安徽医科大学(合肥市)[公办]",
+      "majorCode": "05",
+      "majorName": "预防医学",
+      "majorNote": "不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 5500
+    },
+    {
+      "index": 334,
+      "universityCode": "0034",
+      "universityName": "安徽医科大学(合肥市)[公办]",
+      "majorCode": "06",
+      "majorName": "医学检验技术",
+      "majorNote": "不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 335,
+      "universityCode": "0034",
+      "universityName": "安徽医科大学(合肥市)[公办]",
+      "majorCode": "07",
+      "majorName": "护理学",
+      "majorNote": "不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 336,
+      "universityCode": "0034",
+      "universityName": "安徽医科大学(合肥市)[公办]",
+      "majorCode": "08",
+      "majorName": "智能医学工程",
+      "majorNote": "不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

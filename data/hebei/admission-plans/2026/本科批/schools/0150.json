@@ -1,0 +1,44 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 991,
+      "universityCode": "0150",
+      "universityName": "北京协和医学院[公办]",
+      "majorCode": "01",
+      "majorName": "药学",
+      "majorNote": "不招色弱、色盲及单色识别不全考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 992,
+      "universityCode": "0150",
+      "universityName": "北京协和医学院[公办]",
+      "majorCode": "02",
+      "majorName": "护理学",
+      "majorNote": "不招色弱、色盲及单色识别不全考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

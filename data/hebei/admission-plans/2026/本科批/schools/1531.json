@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11724,
+      "universityCode": "1531",
+      "universityName": "沈阳大学[公办]",
+      "majorCode": "04",
+      "majorName": "经济统计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 11725,
+      "universityCode": "1531",
+      "universityName": "沈阳大学[公办]",
+      "majorCode": "05",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 11726,
+      "universityCode": "1531",
+      "universityName": "沈阳大学[公办]",
+      "majorCode": "06",
+      "majorName": "焊接技术与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 11727,
+      "universityCode": "1531",
+      "universityName": "沈阳大学[公办]",
+      "majorCode": "07",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 11728,
+      "universityCode": "1531",
+      "universityName": "沈阳大学[公办]",
+      "majorCode": "08",
+      "majorName": "土木工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 11729,
+      "universityCode": "1531",
+      "universityName": "沈阳大学[公办]",
+      "majorCode": "09",
+      "majorName": "建筑环境与能源应用工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 11730,
+      "universityCode": "1531",
+      "universityName": "沈阳大学[公办]",
+      "majorCode": "10",
+      "majorName": "环境工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 11731,
+      "universityCode": "1531",
+      "universityName": "沈阳大学[公办]",
+      "majorCode": "11",
+      "majorName": "环境生态工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 11732,
+      "universityCode": "1531",
+      "universityName": "沈阳大学[公办]",
+      "majorCode": "12",
+      "majorName": "建筑学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 5200
+    },
+    {
+      "index": 11733,
+      "universityCode": "1531",
+      "universityName": "沈阳大学[公办]",
+      "majorCode": "13",
+      "majorName": "大数据管理与应用",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

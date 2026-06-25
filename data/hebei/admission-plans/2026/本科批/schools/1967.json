@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15567,
+      "universityCode": "1967",
+      "universityName": "运城学院[公办]",
+      "majorCode": "05",
+      "majorName": "金融工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 15568,
+      "universityCode": "1967",
+      "universityName": "运城学院[公办]",
+      "majorCode": "06",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 15569,
+      "universityCode": "1967",
+      "universityName": "运城学院[公办]",
+      "majorCode": "07",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5376
+    },
+    {
+      "index": 15570,
+      "universityCode": "1967",
+      "universityName": "运城学院[公办]",
+      "majorCode": "08",
+      "majorName": "智能制造工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5376
+    },
+    {
+      "index": 15571,
+      "universityCode": "1967",
+      "universityName": "运城学院[公办]",
+      "majorCode": "09",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5376
+    },
+    {
+      "index": 15572,
+      "universityCode": "1967",
+      "universityName": "运城学院[公办]",
+      "majorCode": "10",
+      "majorName": "电子科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5376
+    },
+    {
+      "index": 15573,
+      "universityCode": "1967",
+      "universityName": "运城学院[公办]",
+      "majorCode": "11",
+      "majorName": "通信工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5376
+    },
+    {
+      "index": 15574,
+      "universityCode": "1967",
+      "universityName": "运城学院[公办]",
+      "majorCode": "12",
+      "majorName": "数字媒体技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5376
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

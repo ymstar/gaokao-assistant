@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11549,
+      "universityCode": "1499",
+      "universityName": "上海理工大学[公办]",
+      "majorCode": "03",
+      "majorName": "工科试验班(智能化制造类)",
+      "majorNote": "含机械设计制造及其自动化、材料成型及控制工程、工业设计、过程装备与控制工程、车辆工程、材料科学与工程、能源与动力工程、新能源科学与工程、储能科学与工程、机器人工程、土木工程、建筑环境与能源应用工程、交通工程、环境工程、生物医学工程、康复工程、食品科学与工程、食品质量与安全、应用化学、生物技术、医学影像技术、智能医学工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 41,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 11550,
+      "universityCode": "1499",
+      "universityName": "上海理工大学[公办]",
+      "majorCode": "04",
+      "majorName": "工科试验班(电子与信息类)",
+      "majorNote": "含测控技术与仪器、电气工程及其自动化、电子信息工程、电子科学与技术、通信工程、光电信息科学与工程、医学信息工程、人工智能、自动化、计算机科学与技术、智能科学与技术、数据科学与大数据技术、新媒体技术专业",
+      "subjectRequirement": "化学",
+      "planCount": 20,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 11551,
+      "universityCode": "1499",
+      "universityName": "上海理工大学[公办]",
+      "majorCode": "05",
+      "majorName": "理科试验班",
+      "majorNote": "含数学与应用数学、应用物理学、系统科学与工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 11552,
+      "universityCode": "1499",
+      "universityName": "上海理工大学[公办]",
+      "majorCode": "06",
+      "majorName": "电子信息科学与技术(中外合作办学)(中英合作)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 30000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

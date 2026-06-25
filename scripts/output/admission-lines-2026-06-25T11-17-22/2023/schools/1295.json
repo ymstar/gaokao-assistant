@@ -1,0 +1,52 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1295",
+      "universityName": "南京大学(国家专项计划)[公办]",
+      "majorGroup": "技术科学试验班",
+      "planCount": 0,
+      "minScore": 657,
+      "minRank": 1266,
+      "avgScore": 659
+    },
+    {
+      "universityCode": "1295",
+      "universityName": "南京大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班",
+      "planCount": 0,
+      "minScore": 656,
+      "minRank": 1360,
+      "avgScore": 658
+    },
+    {
+      "universityCode": "1295",
+      "universityName": "南京大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班类(化学与生命科学类)",
+      "planCount": 0,
+      "minScore": 651,
+      "minRank": 1862,
+      "avgScore": 652
+    },
+    {
+      "universityCode": "1295",
+      "universityName": "南京大学(国家专项计划)[公办]",
+      "majorGroup": "经济管理试验班",
+      "planCount": 0,
+      "minScore": 645,
+      "minRank": 2643,
+      "avgScore": 646
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

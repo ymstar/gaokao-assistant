@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2220",
+      "universityName": "浙江财经大学(国家专项计划)[公办]",
+      "majorGroup": "计算机类",
+      "planCount": 0,
+      "minScore": 587,
+      "minRank": 22232,
+      "avgScore": 588
+    },
+    {
+      "universityCode": "2220",
+      "universityName": "浙江财经大学(国家专项计划)[公办]",
+      "majorGroup": "经济与贸易类",
+      "planCount": 0,
+      "minScore": 583,
+      "minRank": 24519,
+      "avgScore": 584
+    },
+    {
+      "universityCode": "2220",
+      "universityName": "浙江财经大学(国家专项计划)[公办]",
+      "majorGroup": "法学",
+      "planCount": 0,
+      "minScore": 575,
+      "minRank": 29516,
+      "avgScore": 577
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

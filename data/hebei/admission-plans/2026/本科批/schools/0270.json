@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1858,
+      "universityCode": "0270",
+      "universityName": "重庆电子科技职业大学[公办]",
+      "majorCode": "03",
+      "majorName": "机器人技术",
+      "majorNote": "在永川校区【大一永川校区，大二起沙坪坝校区】就读",
+      "subjectRequirement": "不限",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 7590
+    },
+    {
+      "index": 1859,
+      "universityCode": "0270",
+      "universityName": "重庆电子科技职业大学[公办]",
+      "majorCode": "04",
+      "majorName": "电子信息工程技术",
+      "majorNote": "在沙坪坝校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 7590
+    },
+    {
+      "index": 1860,
+      "universityCode": "0270",
+      "universityName": "重庆电子科技职业大学[公办]",
+      "majorCode": "05",
+      "majorName": "物联网工程技术",
+      "majorNote": "在沙坪坝校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 7590
+    },
+    {
+      "index": 1861,
+      "universityCode": "0270",
+      "universityName": "重庆电子科技职业大学[公办]",
+      "majorCode": "06",
+      "majorName": "光电信息工程技术",
+      "majorNote": "在沙坪坝校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 7590
+    },
+    {
+      "index": 1862,
+      "universityCode": "0270",
+      "universityName": "重庆电子科技职业大学[公办]",
+      "majorCode": "07",
+      "majorName": "虚拟现实技术",
+      "majorNote": "在永川校区【大一永川校区，大二起沙坪坝校区】就读",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 7590
+    },
+    {
+      "index": 1863,
+      "universityCode": "0270",
+      "universityName": "重庆电子科技职业大学[公办]",
+      "majorCode": "08",
+      "majorName": "卫星通信工程",
+      "majorNote": "在永川校区【大一永川校区，大二起沙坪坝校区】就读",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 7260
+    },
+    {
+      "index": 1864,
+      "universityCode": "0270",
+      "universityName": "重庆电子科技职业大学[公办]",
+      "majorCode": "09",
+      "majorName": "集成电路工程技术",
+      "majorNote": "在沙坪坝校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 7590
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

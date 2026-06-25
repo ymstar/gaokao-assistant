@@ -1,0 +1,52 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1941",
+      "universityName": "中南财经政法大学(国家专项计划)[公办]",
+      "majorGroup": "外国语言文学类",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 26287,
+      "avgScore": 602
+    },
+    {
+      "universityCode": "1941",
+      "universityName": "中南财经政法大学(国家专项计划)[公办]",
+      "majorGroup": "工商管理类",
+      "planCount": 0,
+      "minScore": 600,
+      "minRank": 27073,
+      "avgScore": 600
+    },
+    {
+      "universityCode": "1941",
+      "universityName": "中南财经政法大学(国家专项计划)[公办]",
+      "majorGroup": "新闻传播学类",
+      "planCount": 0,
+      "minScore": 592,
+      "minRank": 33539,
+      "avgScore": 592
+    },
+    {
+      "universityCode": "1941",
+      "universityName": "中南财经政法大学(国家专项计划)[公办]",
+      "majorGroup": "哲学",
+      "planCount": 0,
+      "minScore": 582,
+      "minRank": 42923,
+      "avgScore": 582
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

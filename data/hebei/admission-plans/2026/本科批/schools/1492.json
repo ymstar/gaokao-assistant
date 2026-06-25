@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11544,
+      "universityCode": "1492",
+      "universityName": "上海交通大学医学院[公办]",
+      "majorCode": "01",
+      "majorName": "临床医学(八年制本博连读)",
+      "majorNote": "含欧洲、澳洲等国家和地区的临床实践交流项目",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 8,
+      "tuition": 8140
+    },
+    {
+      "index": 11545,
+      "universityCode": "1492",
+      "universityName": "上海交通大学医学院[公办]",
+      "majorCode": "02",
+      "majorName": "临床医学(五年制)",
+      "majorNote": "含欧洲、澳洲等国家和地区的临床实践交流项目",
+      "subjectRequirement": "化学",
+      "planCount": 18,
+      "duration": 5,
+      "tuition": 8140
+    },
+    {
+      "index": 11546,
+      "universityCode": "1492",
+      "universityName": "上海交通大学医学院[公办]",
+      "majorCode": "03",
+      "majorName": "临床医学(眼视光方向)",
+      "majorNote": "含国际临床实践",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 8140
+    },
+    {
+      "index": 11547,
+      "universityCode": "1492",
+      "universityName": "上海交通大学医学院[公办]",
+      "majorCode": "04",
+      "majorName": "口腔医学(5+3一体化)",
+      "majorNote": "“5+3”一体化培养",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 5,
+      "tuition": 8140
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

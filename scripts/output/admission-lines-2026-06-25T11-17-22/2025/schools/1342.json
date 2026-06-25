@@ -1,0 +1,97 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1342",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "数学与应用数学",
+      "planCount": 0,
+      "minScore": 639,
+      "minRank": 6181,
+      "avgScore": 639
+    },
+    {
+      "universityCode": "1342",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "生物科学",
+      "planCount": 0,
+      "minScore": 637,
+      "minRank": 6838,
+      "avgScore": 637
+    },
+    {
+      "universityCode": "1342",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "物理学",
+      "planCount": 0,
+      "minScore": 636,
+      "minRank": 7186,
+      "avgScore": 636
+    },
+    {
+      "universityCode": "1342",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "化学",
+      "planCount": 0,
+      "minScore": 634,
+      "minRank": 7879,
+      "avgScore": 635
+    },
+    {
+      "universityCode": "1342",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "科学教育",
+      "planCount": 0,
+      "minScore": 631,
+      "minRank": 9012,
+      "avgScore": 631
+    },
+    {
+      "universityCode": "1342",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 631,
+      "minRank": 9012,
+      "avgScore": 634
+    },
+    {
+      "universityCode": "1342",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "心理学",
+      "planCount": 0,
+      "minScore": 628,
+      "minRank": 10271,
+      "avgScore": 628
+    },
+    {
+      "universityCode": "1342",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "教育技术学",
+      "planCount": 0,
+      "minScore": 627,
+      "minRank": 10703,
+      "avgScore": 627
+    },
+    {
+      "universityCode": "1342",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "地理科学",
+      "planCount": 0,
+      "minScore": 626,
+      "minRank": 11148,
+      "avgScore": 626
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0122",
+      "universityName": "北京化工大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(绿色化工与生物医药)",
+      "planCount": 0,
+      "minScore": 603,
+      "minRank": 14334,
+      "avgScore": 605
+    },
+    {
+      "universityCode": "0122",
+      "universityName": "北京化工大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(绿色化学)",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 15387,
+      "avgScore": 603
+    },
+    {
+      "universityCode": "0122",
+      "universityName": "北京化工大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(先进材料)",
+      "planCount": 0,
+      "minScore": 600,
+      "minRank": 15950,
+      "avgScore": 602
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

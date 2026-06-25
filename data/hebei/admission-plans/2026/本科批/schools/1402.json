@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10932,
+      "universityCode": "1402",
+      "universityName": "山东医药大学[公办]",
+      "majorCode": "02",
+      "majorName": "临床医学",
+      "majorNote": "在烟台校区就读；不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 7920
+    },
+    {
+      "index": 10933,
+      "universityCode": "1402",
+      "universityName": "山东医药大学[公办]",
+      "majorCode": "03",
+      "majorName": "临床医学(卓越班)",
+      "majorNote": "在烟台校区就读；不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 7920
+    },
+    {
+      "index": 10934,
+      "universityCode": "1402",
+      "universityName": "山东医药大学[公办]",
+      "majorCode": "04",
+      "majorName": "麻醉学",
+      "majorNote": "在烟台校区就读；不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 7590
+    },
+    {
+      "index": 10935,
+      "universityCode": "1402",
+      "universityName": "山东医药大学[公办]",
+      "majorCode": "05",
+      "majorName": "预防医学",
+      "majorNote": "在烟台校区就读；不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 7590
+    },
+    {
+      "index": 10936,
+      "universityCode": "1402",
+      "universityName": "山东医药大学[公办]",
+      "majorCode": "06",
+      "majorName": "中医学",
+      "majorNote": "在烟台校区就读；不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 7920
+    },
+    {
+      "index": 10937,
+      "universityCode": "1402",
+      "universityName": "山东医药大学[公办]",
+      "majorCode": "07",
+      "majorName": "中医学(国医传承班)",
+      "majorNote": "在烟台校区就读；不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 7920
+    },
+    {
+      "index": 10938,
+      "universityCode": "1402",
+      "universityName": "山东医药大学[公办]",
+      "majorCode": "08",
+      "majorName": "护理学(麻醉护理班)",
+      "majorNote": "不招收色盲、色弱考生，滨州校区",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 7920
+    },
+    {
+      "index": 10939,
+      "universityCode": "1402",
+      "universityName": "山东医药大学[公办]",
+      "majorCode": "09",
+      "majorName": "信息管理与信息系统",
+      "majorNote": "滨州校区",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6325
+    },
+    {
+      "index": 10940,
+      "universityCode": "1402",
+      "universityName": "山东医药大学[公办]",
+      "majorCode": "10",
+      "majorName": "康复治疗学(中外合作办学)",
+      "majorNote": "在烟台校区就读；德国柏林健康与运动学院，不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 49000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 959,
+      "universityCode": "0758",
+      "universityName": "衡水学院(公费师范生)[公办]",
+      "majorCode": "02",
+      "majorName": "小学教育",
+      "majorNote": "地方公费师范生；师范类；定向到衡水市冀州区就业",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1069",
+      "universityName": "华中师范大学(公费师范生)[公办]",
+      "majorGroup": "化学",
+      "planCount": 0,
+      "minScore": 639,
+      "minRank": 2952,
+      "avgScore": 639
+    },
+    {
+      "universityCode": "1069",
+      "universityName": "华中师范大学(公费师范生)[公办]",
+      "majorGroup": "生物科学",
+      "planCount": 0,
+      "minScore": 637,
+      "minRank": 3263,
+      "avgScore": 637
+    },
+    {
+      "universityCode": "1069",
+      "universityName": "华中师范大学(公费师范生)[公办]",
+      "majorGroup": "英语",
+      "planCount": 0,
+      "minScore": 630,
+      "minRank": 4705,
+      "avgScore": 630
+    },
+    {
+      "universityCode": "1069",
+      "universityName": "华中师范大学(公费师范生)[公办]",
+      "majorGroup": "数学与应用数学",
+      "planCount": 0,
+      "minScore": 627,
+      "minRank": 5409,
+      "avgScore": 630
+    },
+    {
+      "universityCode": "1069",
+      "universityName": "华中师范大学(公费师范生)[公办]",
+      "majorGroup": "物理学",
+      "planCount": 0,
+      "minScore": 622,
+      "minRank": 6766,
+      "avgScore": 623
+    },
+    {
+      "universityCode": "1069",
+      "universityName": "华中师范大学(公费师范生)[公办]",
+      "majorGroup": "特殊教育",
+      "planCount": 0,
+      "minScore": 605,
+      "minRank": 13385,
+      "avgScore": 605
+    },
+    {
+      "universityCode": "1069",
+      "universityName": "华中师范大学(公费师范生)[公办]",
+      "majorGroup": "地理科学",
+      "planCount": 0,
+      "minScore": 604,
+      "minRank": 13836,
+      "avgScore": 607
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

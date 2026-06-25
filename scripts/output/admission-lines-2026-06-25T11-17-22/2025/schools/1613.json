@@ -1,0 +1,52 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1613",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "时空信息工程",
+      "planCount": 0,
+      "minScore": 659,
+      "minRank": 1816,
+      "avgScore": 660
+    },
+    {
+      "universityCode": "1613",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(数智建维与软件类)",
+      "planCount": 0,
+      "minScore": 645,
+      "minRank": 4467,
+      "avgScore": 650
+    },
+    {
+      "universityCode": "1613",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "智慧城市与空间规划",
+      "planCount": 0,
+      "minScore": 643,
+      "minRank": 4995,
+      "avgScore": 645
+    },
+    {
+      "universityCode": "1613",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "公共卫生与预防医学类",
+      "planCount": 0,
+      "minScore": 635,
+      "minRank": 7522,
+      "avgScore": 636
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

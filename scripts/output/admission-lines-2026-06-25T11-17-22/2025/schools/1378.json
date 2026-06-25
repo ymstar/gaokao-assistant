@@ -1,0 +1,43 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1378",
+      "universityName": "上海交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班类(溥渊未来技术学院，健康方向)",
+      "planCount": 0,
+      "minScore": 678,
+      "minRank": 330,
+      "avgScore": 678
+    },
+    {
+      "universityCode": "1378",
+      "universityName": "上海交通大学(国家专项计划)[公办]",
+      "majorGroup": "经济管理试验班(含双学士学位项目)",
+      "planCount": 0,
+      "minScore": 674,
+      "minRank": 501,
+      "avgScore": 674
+    },
+    {
+      "universityCode": "1378",
+      "universityName": "上海交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班类",
+      "planCount": 0,
+      "minScore": 668,
+      "minRank": 868,
+      "avgScore": 670
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

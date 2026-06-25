@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 5048,
+      "universityCode": "0667",
+      "universityName": "河北体育学院[公办]",
+      "majorCode": "04",
+      "majorName": "学前教育",
+      "majorNote": "师范类；正定新区校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 5049,
+      "universityCode": "0667",
+      "universityName": "河北体育学院[公办]",
+      "majorCode": "05",
+      "majorName": "运动人体科学",
+      "majorNote": "正定新区校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 30,
+      "duration": 4,
+      "tuition": 8000
+    },
+    {
+      "index": 5050,
+      "universityCode": "0667",
+      "universityName": "河北体育学院[公办]",
+      "majorCode": "06",
+      "majorName": "运动康复",
+      "majorNote": "正定新区校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 80,
+      "duration": 4,
+      "tuition": 8000
+    },
+    {
+      "index": 5051,
+      "universityCode": "0667",
+      "universityName": "河北体育学院[公办]",
+      "majorCode": "07",
+      "majorName": "体育康养",
+      "majorNote": "正定新区校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 30,
+      "duration": 4,
+      "tuition": 8000
+    },
+    {
+      "index": 5052,
+      "universityCode": "0667",
+      "universityName": "河北体育学院[公办]",
+      "majorCode": "08",
+      "majorName": "体育经济与管理",
+      "majorNote": "正定新区校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 25,
+      "duration": 4,
+      "tuition": 4600
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

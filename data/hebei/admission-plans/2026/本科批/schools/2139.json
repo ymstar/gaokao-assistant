@@ -1,0 +1,44 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17033,
+      "universityCode": "2139",
+      "universityName": "长江大学文理学院[独立学院]",
+      "majorCode": "06",
+      "majorName": "外国语言文学类",
+      "majorNote": "含英语(师范类)、英语(英日或英韩)、商务英语专业",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 16500
+    },
+    {
+      "index": 17034,
+      "universityCode": "2139",
+      "universityName": "长江大学文理学院[独立学院]",
+      "majorCode": "07",
+      "majorName": "土木工程(工业与民用建筑、水利构筑物、造价管理)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 16500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

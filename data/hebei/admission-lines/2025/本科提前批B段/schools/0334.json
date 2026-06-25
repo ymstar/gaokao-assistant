@@ -1,0 +1,34 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0334",
+      "universityName": "对外经济贸易大学(国家专项计划)[公办]",
+      "majorGroup": "保险学(全部进入大数据双学士学位项目)",
+      "planCount": 0,
+      "minScore": 632,
+      "minRank": 8622,
+      "avgScore": 632
+    },
+    {
+      "universityCode": "0334",
+      "universityName": "对外经济贸易大学(国家专项计划)[公办]",
+      "majorGroup": "数据科学与大数据技术(大类招生，项目选拔进入，分流时专业任选)",
+      "planCount": 0,
+      "minScore": 631,
+      "minRank": 9012,
+      "avgScore": 633
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

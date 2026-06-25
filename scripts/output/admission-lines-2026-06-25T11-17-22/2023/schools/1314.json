@@ -1,0 +1,52 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1314",
+      "universityName": "南京农业大学(国家专项计划)[公办]",
+      "majorGroup": "生物科学类",
+      "planCount": 0,
+      "minScore": 594,
+      "minRank": 18450,
+      "avgScore": 595
+    },
+    {
+      "universityCode": "1314",
+      "universityName": "南京农业大学(国家专项计划)[公办]",
+      "majorGroup": "机械类",
+      "planCount": 0,
+      "minScore": 590,
+      "minRank": 20607,
+      "avgScore": 592
+    },
+    {
+      "universityCode": "1314",
+      "universityName": "南京农业大学(国家专项计划)[公办]",
+      "majorGroup": "应用化学",
+      "planCount": 0,
+      "minScore": 580,
+      "minRank": 26321,
+      "avgScore": 582
+    },
+    {
+      "universityCode": "1314",
+      "universityName": "南京农业大学(国家专项计划)[公办]",
+      "majorGroup": "日语",
+      "planCount": 0,
+      "minScore": 555,
+      "minRank": 43976,
+      "avgScore": 565
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0280",
+      "universityName": "大连海事大学(国家专项计划)[公办]",
+      "majorGroup": "交通运输类",
+      "planCount": 0,
+      "minScore": 620,
+      "minRank": 14098,
+      "avgScore": 620
+    },
+    {
+      "universityCode": "0280",
+      "universityName": "大连海事大学(国家专项计划)[公办]",
+      "majorGroup": "英语",
+      "planCount": 0,
+      "minScore": 589,
+      "minRank": 36180,
+      "avgScore": 592
+    },
+    {
+      "universityCode": "0280",
+      "universityName": "大连海事大学(国家专项计划)[公办]",
+      "majorGroup": "日语",
+      "planCount": 0,
+      "minScore": 570,
+      "minRank": 55712,
+      "avgScore": 573
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19591,
+      "universityCode": "2560",
+      "universityName": "青岛滨海学院[民办]",
+      "majorCode": "06",
+      "majorName": "智能制造工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 22800
+    },
+    {
+      "index": 19592,
+      "universityCode": "2560",
+      "universityName": "青岛滨海学院[民办]",
+      "majorCode": "07",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 24800
+    },
+    {
+      "index": 19593,
+      "universityCode": "2560",
+      "universityName": "青岛滨海学院[民办]",
+      "majorCode": "08",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 24800
+    },
+    {
+      "index": 19594,
+      "universityCode": "2560",
+      "universityName": "青岛滨海学院[民办]",
+      "majorCode": "09",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 22800
+    },
+    {
+      "index": 19595,
+      "universityCode": "2560",
+      "universityName": "青岛滨海学院[民办]",
+      "majorCode": "10",
+      "majorName": "智能建造",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 22800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

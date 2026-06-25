@@ -5,10 +5,17 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import { University } from '@/types/university';
 import UniversityFilterBar, { FilterOptions, FilterValues } from '@/components/UniversityFilterBar';
 
-function SchoolCard({ u }: { u: University }) {
+function SchoolCard({ u, planSummary, lineSummary }: {
+  u: University;
+  planSummary?: { entryCount: number; totalPlans: number };
+  lineSummary?: { years: number[]; minScore: number; minRank: number };
+}) {
   const hasDetail = !!u.address || !!u.phone;
   return (
-    <div className="bg-white rounded-2xl border border-slate-200 p-5 hover:border-indigo-200 hover:shadow-md transition-all flex gap-4">
+    <a
+      href={`/school/${u.code}`}
+      className="bg-white rounded-2xl border border-slate-200 p-5 hover:border-indigo-200 hover:shadow-md transition-all flex gap-4 group cursor-pointer"
+    >
       <img
         src={`https://t1.chei.com.cn/common/xh/${u.code}.jpg`}
         alt={u.name}
@@ -17,14 +24,11 @@ function SchoolCard({ u }: { u: University }) {
       />
       <div className="min-w-0 flex-1">
         <div className="flex items-start justify-between gap-2">
-          <a
-            href={u.chsiUrl || `https://gaokao.chsi.com.cn/sch/schoolInfo--schId-${u.schId}.dhtml`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="font-semibold text-slate-900 leading-tight hover:text-indigo-600 transition-colors"
+          <span
+            className="font-semibold text-slate-900 leading-tight group-hover:text-indigo-600 transition-colors"
           >
             {u.name}
-          </a>
+          </span>
           {u.tier && (
             <span className="shrink-0 px-2 py-0.5 bg-amber-50 text-amber-700 text-[11px] font-medium rounded-full border border-amber-200">
               {u.tier.replace(/[""]/g, '"').replace(/[""]/g, '"')}
@@ -42,6 +46,23 @@ function SchoolCard({ u }: { u: University }) {
           {u.authority && <span>{u.authority}</span>}
           <span className="px-1.5 py-0.5 bg-slate-100 rounded text-slate-500">{u.level}</span>
         </div>
+
+        {/* 招生数据摘要 */}
+        {(planSummary || lineSummary) && (
+          <div className="mt-2.5 pt-2.5 border-t border-slate-100 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs">
+            {planSummary && (
+              <span className="text-emerald-600">
+                📊 2026计划: {planSummary.entryCount}个专业 / {planSummary.totalPlans.toLocaleString()}人
+              </span>
+            )}
+            {lineSummary && lineSummary.years.length > 0 && (
+              <span className="text-indigo-600">
+                📈 {lineSummary.years.sort().join('/')} 录取数据
+              </span>
+            )}
+          </div>
+        )}
+
         {hasDetail && (
           <div className="mt-2.5 pt-2.5 border-t border-slate-100 space-y-1 text-xs text-slate-500">
             {u.address && (
@@ -66,21 +87,18 @@ function SchoolCard({ u }: { u: University }) {
                 <svg className="w-3 h-3 shrink-0" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 21a9.004 9.004 0 0 0 8.716-6.747M12 21a9.004 9.004 0 0 1-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 0 1 7.843 4.582M12 3a8.997 8.997 0 0 0-7.843 4.582m15.686 0A11.953 11.953 0 0 1 12 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0 1 21 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0 1 12 16.5a17.92 17.92 0 0 1-8.716-2.247m0 0A9.015 9.015 0 0 1 3 12c0-1.605.42-3.113 1.157-4.418" />
                 </svg>
-                <a
-                  href={u.officialWebsite}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <span
                   className="truncate hover:text-indigo-600 hover:underline transition-colors"
                   onClick={(e) => e.stopPropagation()}
                 >
                   {u.officialWebsite}
-                </a>
+                </span>
               </div>
             )}
           </div>
         )}
       </div>
-    </div>
+    </a>
   );
 }
 
@@ -101,6 +119,8 @@ export default function UniversitiesClient() {
   const [universities, setUniversities] = useState<University[]>([]);
   const [total, setTotal] = useState(0);
   const [options, setOptions] = useState<FilterOptions>({ locations: [], cityTiers: [], tiers: [] });
+  const [planSummaryMap, setPlanSummaryMap] = useState<Record<string, { entryCount: number; totalPlans: number }>>({});
+  const [lineSummaryMap, setLineSummaryMap] = useState<Record<string, { years: number[]; minScore: number; minRank: number }>>({});
   const [loading, setLoading] = useState(false);
   const pageSize = 50;
   const isInitialized = useRef(false);
@@ -135,6 +155,8 @@ export default function UniversitiesClient() {
       const data = await res.json();
       setUniversities(data.universities || []);
       setTotal(data.total || 0);
+      setPlanSummaryMap(data.planSummaryMap || {});
+      setLineSummaryMap(data.lineSummaryMap || {});
       setOptions({
         locations: data.locations || [],
         cityTiers: data.cityTiers || [],
@@ -198,7 +220,9 @@ export default function UniversitiesClient() {
       ) : universities.length > 0 ? (
         <>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {universities.map(u => <SchoolCard key={u.code} u={u} />)}
+            {universities.map(u => <SchoolCard key={u.code} u={u}
+              planSummary={planSummaryMap[u.code]}
+              lineSummary={lineSummaryMap[u.code]} />)}
           </div>
 
           {totalPages > 1 && (

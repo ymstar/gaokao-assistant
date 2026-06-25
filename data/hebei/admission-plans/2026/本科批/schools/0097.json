@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 733,
+      "universityCode": "0097",
+      "universityName": "北京航空航天大学(国际合作专项)[公办]",
+      "majorCode": "01",
+      "majorName": "工科试验班类(中外合作办学，中法航空试验班)",
+      "majorNote": "含飞行器适航技术、测控技术与仪器、电子信息工程、交通运输专业；在杭州就读；中外合作办学，与法国国立民航大学联合培养，本科阶段不可转入北京市各校区设立的学院学习",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 50000
+    },
+    {
+      "index": 734,
+      "universityCode": "0097",
+      "universityName": "北京航空航天大学(国际合作专项)[公办]",
+      "majorCode": "02",
+      "majorName": "工科试验班类(中外合作办学，中法未来科技试验班)",
+      "majorNote": "含计算机科学与技术、微电子科学与工程、生物医学工程、材料科学与工程、航空航天工程专业；在杭州就读；中外合作办学，与法国国立应用科学学院联合培养，本科阶段不可转入北京市各校区设立的学院学习",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 50000
+    },
+    {
+      "index": 735,
+      "universityCode": "0097",
+      "universityName": "北京航空航天大学(国际合作专项)[公办]",
+      "majorCode": "03",
+      "majorName": "工科试验班类(中外合作办学，中西智能试验班)",
+      "majorNote": "含计算机科学与技术、智能制造工程、通信工程、机器人工程专业；在杭州就读；中外合作办学，与西班牙瓦伦西亚理工大学联合培养，本科阶段不可转入北京市各校区设立的学院学习",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 80000
+    },
+    {
+      "index": 736,
+      "universityCode": "0097",
+      "universityName": "北京航空航天大学(国际合作专项)[公办]",
+      "majorCode": "04",
+      "majorName": "理科试验班类(中外合作办学，中法工程师试验班)",
+      "majorNote": "含人工智能、数学与应用数学、应用物理学、信息与计算科学专业；在学院路校区就读；中外合作办学，与法国中央理工集团联合培养",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 50000
+    },
+    {
+      "index": 737,
+      "universityCode": "0097",
+      "universityName": "北京航空航天大学(国际合作专项)[公办]",
+      "majorCode": "05",
+      "majorName": "飞行器动力工程(国际合作专项)",
+      "majorNote": "在沙河校区就读；中外合作办学，与俄罗斯莫斯科航空学院“2+2”联合培养，双学籍，双学位，本科阶段原则上不可转专业",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

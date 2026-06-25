@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3697,
+      "universityCode": "0547",
+      "universityName": "哈尔滨体育学院[公办]",
+      "majorCode": "02",
+      "majorName": "运动人体科学",
+      "majorNote": "不招色盲、色弱、单色识别不全考生，其他体检要求详见学校招生章程",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 3698,
+      "universityCode": "0547",
+      "universityName": "哈尔滨体育学院[公办]",
+      "majorCode": "03",
+      "majorName": "运动康复",
+      "majorNote": "体检要求详见学校招生章程",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 3699,
+      "universityCode": "0547",
+      "universityName": "哈尔滨体育学院[公办]",
+      "majorCode": "04",
+      "majorName": "智能体育工程",
+      "majorNote": "学费暂定4500元/年，最终以发改委批复为准；体检要求详见学校招生章程",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

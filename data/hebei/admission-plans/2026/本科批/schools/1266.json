@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10038,
+      "universityCode": "1266",
+      "universityName": "宁德师范学院[公办]",
+      "majorCode": "03",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类；大一在蕉城校区，大二至大四在东侨校区；其他要求详见院校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5460
+    },
+    {
+      "index": 10039,
+      "universityCode": "1266",
+      "universityName": "宁德师范学院[公办]",
+      "majorCode": "04",
+      "majorName": "计算机科学与技术",
+      "majorNote": "东侨校区；不招收单色识别不全考生；其他要求详见院校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 10040,
+      "universityCode": "1266",
+      "universityName": "宁德师范学院[公办]",
+      "majorCode": "05",
+      "majorName": "护理学",
+      "majorNote": "东侨校区；不招收色弱、色盲及单色识别不全考生；其他要求详见院校招生章程",
+      "subjectRequirement": "生物",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6240
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

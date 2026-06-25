@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3964,
+      "universityCode": "0579",
+      "universityName": "杭州医学院[公办]",
+      "majorCode": "01",
+      "majorName": "生物统计学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 3965,
+      "universityCode": "0579",
+      "universityName": "杭州医学院[公办]",
+      "majorCode": "02",
+      "majorName": "食品质量与安全",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 3966,
+      "universityCode": "0579",
+      "universityName": "杭州医学院[公办]",
+      "majorCode": "03",
+      "majorName": "口腔医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 6300
+    },
+    {
+      "index": 3967,
+      "universityCode": "0579",
+      "universityName": "杭州医学院[公办]",
+      "majorCode": "04",
+      "majorName": "预防医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 6300
+    },
+    {
+      "index": 3968,
+      "universityCode": "0579",
+      "universityName": "杭州医学院[公办]",
+      "majorCode": "05",
+      "majorName": "法医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 5500
+    },
+    {
+      "index": 3969,
+      "universityCode": "0579",
+      "universityName": "杭州医学院[公办]",
+      "majorCode": "06",
+      "majorName": "康复治疗学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 3970,
+      "universityCode": "0579",
+      "universityName": "杭州医学院[公办]",
+      "majorCode": "07",
+      "majorName": "护理学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 3971,
+      "universityCode": "0579",
+      "universityName": "杭州医学院[公办]",
+      "majorCode": "08",
+      "majorName": "智能医学工程",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

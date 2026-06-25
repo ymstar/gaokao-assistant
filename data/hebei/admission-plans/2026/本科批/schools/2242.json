@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17977,
+      "universityCode": "2242",
+      "universityName": "安阳学院[民办]",
+      "majorCode": "04",
+      "majorName": "学前教育",
+      "majorNote": "师范类",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 15000
+    },
+    {
+      "index": 17978,
+      "universityCode": "2242",
+      "universityName": "安阳学院[民办]",
+      "majorCode": "05",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 16000
+    },
+    {
+      "index": 17979,
+      "universityCode": "2242",
+      "universityName": "安阳学院[民办]",
+      "majorCode": "06",
+      "majorName": "网络工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 16000
+    },
+    {
+      "index": 17980,
+      "universityCode": "2242",
+      "universityName": "安阳学院[民办]",
+      "majorCode": "07",
+      "majorName": "会计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 15000
+    },
+    {
+      "index": 17981,
+      "universityCode": "2242",
+      "universityName": "安阳学院[民办]",
+      "majorCode": "08",
+      "majorName": "物流管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 15000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

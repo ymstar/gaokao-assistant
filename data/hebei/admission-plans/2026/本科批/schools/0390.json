@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 2896,
+      "universityCode": "0390",
+      "universityName": "福建中医药大学(福州市)[公办]",
+      "majorCode": "01",
+      "majorName": "临床医学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 6760
+    },
+    {
+      "index": 2897,
+      "universityCode": "0390",
+      "universityName": "福建中医药大学(福州市)[公办]",
+      "majorCode": "02",
+      "majorName": "中医学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "生物",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 6760
+    },
+    {
+      "index": 2898,
+      "universityCode": "0390",
+      "universityName": "福建中医药大学(福州市)[公办]",
+      "majorCode": "03",
+      "majorName": "针灸推拿学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "生物",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 6760
+    },
+    {
+      "index": 2899,
+      "universityCode": "0390",
+      "universityName": "福建中医药大学(福州市)[公办]",
+      "majorCode": "04",
+      "majorName": "中医康复学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "生物",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 6760
+    },
+    {
+      "index": 2900,
+      "universityCode": "0390",
+      "universityName": "福建中医药大学(福州市)[公办]",
+      "majorCode": "05",
+      "majorName": "中医骨伤科学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "生物",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 6760
+    },
+    {
+      "index": 2901,
+      "universityCode": "0390",
+      "universityName": "福建中医药大学(福州市)[公办]",
+      "majorCode": "06",
+      "majorName": "中西医临床医学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 6760
+    },
+    {
+      "index": 2902,
+      "universityCode": "0390",
+      "universityName": "福建中医药大学(福州市)[公办]",
+      "majorCode": "07",
+      "majorName": "药学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6760
+    },
+    {
+      "index": 2903,
+      "universityCode": "0390",
+      "universityName": "福建中医药大学(福州市)[公办]",
+      "majorCode": "08",
+      "majorName": "中药学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6760
+    },
+    {
+      "index": 2904,
+      "universityCode": "0390",
+      "universityName": "福建中医药大学(福州市)[公办]",
+      "majorCode": "09",
+      "majorName": "康复治疗学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6760
+    },
+    {
+      "index": 2905,
+      "universityCode": "0390",
+      "universityName": "福建中医药大学(福州市)[公办]",
+      "majorCode": "10",
+      "majorName": "听力与言语康复学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6760
+    },
+    {
+      "index": 2906,
+      "universityCode": "0390",
+      "universityName": "福建中医药大学(福州市)[公办]",
+      "majorCode": "11",
+      "majorName": "护理学(中外合作办学)",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "生物",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 20000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

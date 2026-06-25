@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2150",
+      "universityName": "扬州大学(国家专项计划)[公办]",
+      "majorGroup": "自动化",
+      "planCount": 0,
+      "minScore": 592,
+      "minRank": 19512,
+      "avgScore": 592
+    },
+    {
+      "universityCode": "2150",
+      "universityName": "扬州大学(国家专项计划)[公办]",
+      "majorGroup": "化学工程与工艺",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 30842,
+      "avgScore": 573
+    },
+    {
+      "universityCode": "2150",
+      "universityName": "扬州大学(国家专项计划)[公办]",
+      "majorGroup": "交通工程",
+      "planCount": 0,
+      "minScore": 571,
+      "minRank": 32135,
+      "avgScore": 571
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

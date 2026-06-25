@@ -1,0 +1,32 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15706,
+      "universityCode": "1995",
+      "universityName": "浙江大学医学院(中外合作办学)[公办]",
+      "majorCode": "01",
+      "majorName": "生物医学(中外合作办学)(ZJUUoE联合学院，含生物信息)",
+      "majorNote": "在海宁国际校区就读；同时获浙江大学毕业证书、学士学位证书和英国爱丁堡大学学士学位证书",
+      "subjectRequirement": "化学",
+      "planCount": 11,
+      "duration": 4,
+      "tuition": 160000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

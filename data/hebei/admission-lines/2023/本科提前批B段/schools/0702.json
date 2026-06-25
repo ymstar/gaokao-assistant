@@ -1,0 +1,124 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 556,
+      "minRank": 43165,
+      "avgScore": 556
+    },
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "电气工程及其自动化",
+      "planCount": 0,
+      "minScore": 552,
+      "minRank": 46436,
+      "avgScore": 556
+    },
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "软件工程",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 47295,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "机械设计制造及其自动化",
+      "planCount": 0,
+      "minScore": 547,
+      "minRank": 50798,
+      "avgScore": 551
+    },
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "机械电子工程",
+      "planCount": 0,
+      "minScore": 545,
+      "minRank": 52496,
+      "avgScore": 547
+    },
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "土木工程",
+      "planCount": 0,
+      "minScore": 534,
+      "minRank": 62613,
+      "avgScore": 535
+    },
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "材料成型及控制工程",
+      "planCount": 0,
+      "minScore": 532,
+      "minRank": 64617,
+      "avgScore": 537
+    },
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "食品科学与工程类",
+      "planCount": 0,
+      "minScore": 530,
+      "minRank": 66510,
+      "avgScore": 533
+    },
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "应用物理学",
+      "planCount": 0,
+      "minScore": 527,
+      "minRank": 69642,
+      "avgScore": 532
+    },
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "化学工程与工艺",
+      "planCount": 0,
+      "minScore": 527,
+      "minRank": 69642,
+      "avgScore": 536
+    },
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "能源化学工程",
+      "planCount": 0,
+      "minScore": 527,
+      "minRank": 69642,
+      "avgScore": 531
+    },
+    {
+      "universityCode": "0702",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "环境科学与工程类",
+      "planCount": 0,
+      "minScore": 521,
+      "minRank": 75935,
+      "avgScore": 528
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

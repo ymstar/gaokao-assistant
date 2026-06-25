@@ -1,0 +1,43 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1908",
+      "universityName": "中国民航大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(智能与计算机)",
+      "planCount": 0,
+      "minScore": 600,
+      "minRank": 27073,
+      "avgScore": 604
+    },
+    {
+      "universityCode": "1908",
+      "universityName": "中国民航大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(电子信息与电气自动化)",
+      "planCount": 0,
+      "minScore": 597,
+      "minRank": 29374,
+      "avgScore": 601
+    },
+    {
+      "universityCode": "1908",
+      "universityName": "中国民航大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(航空航天)",
+      "planCount": 0,
+      "minScore": 596,
+      "minRank": 30194,
+      "avgScore": 599
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

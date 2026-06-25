@@ -1,0 +1,61 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1847",
+      "universityName": "浙江大学(杭州市)(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(信息)",
+      "planCount": 0,
+      "minScore": 677,
+      "minRank": 361,
+      "avgScore": 677
+    },
+    {
+      "universityCode": "1847",
+      "universityName": "浙江大学(杭州市)(国家专项计划)[公办]",
+      "majorGroup": "工科试验班",
+      "planCount": 0,
+      "minScore": 672,
+      "minRank": 622,
+      "avgScore": 674
+    },
+    {
+      "universityCode": "1847",
+      "universityName": "浙江大学(杭州市)(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(材料、化工与高分子)",
+      "planCount": 0,
+      "minScore": 670,
+      "minRank": 733,
+      "avgScore": 670
+    },
+    {
+      "universityCode": "1847",
+      "universityName": "浙江大学(杭州市)(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(智慧城市与建筑工程)",
+      "planCount": 0,
+      "minScore": 665,
+      "minRank": 1135,
+      "avgScore": 665
+    },
+    {
+      "universityCode": "1847",
+      "universityName": "浙江大学(杭州市)(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(海洋，含智慧海洋卓越班)",
+      "planCount": 0,
+      "minScore": 654,
+      "minRank": 2505,
+      "avgScore": 657
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

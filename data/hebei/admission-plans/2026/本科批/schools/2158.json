@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17252,
+      "universityCode": "2158",
+      "universityName": "河北医科大学临床学院[独立学院]",
+      "majorCode": "02",
+      "majorName": "临床医学",
+      "majorNote": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+      "subjectRequirement": "化学和生物",
+      "planCount": 101,
+      "duration": 5,
+      "tuition": 10000
+    },
+    {
+      "index": 17253,
+      "universityCode": "2158",
+      "universityName": "河北医科大学临床学院[独立学院]",
+      "majorCode": "03",
+      "majorName": "麻醉学",
+      "majorNote": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+      "subjectRequirement": "化学和生物",
+      "planCount": 46,
+      "duration": 5,
+      "tuition": 10000
+    },
+    {
+      "index": 17254,
+      "universityCode": "2158",
+      "universityName": "河北医科大学临床学院[独立学院]",
+      "majorCode": "04",
+      "majorName": "口腔医学",
+      "majorNote": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生,不招收左利（即左撇子）的考生",
+      "subjectRequirement": "化学和生物",
+      "planCount": 64,
+      "duration": 5,
+      "tuition": 10000
+    },
+    {
+      "index": 17255,
+      "universityCode": "2158",
+      "universityName": "河北医科大学临床学院[独立学院]",
+      "majorCode": "05",
+      "majorName": "中西医临床医学",
+      "majorNote": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+      "subjectRequirement": "化学",
+      "planCount": 27,
+      "duration": 5,
+      "tuition": 10000
+    },
+    {
+      "index": 17256,
+      "universityCode": "2158",
+      "universityName": "河北医科大学临床学院[独立学院]",
+      "majorCode": "06",
+      "majorName": "医学检验技术",
+      "majorNote": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+      "subjectRequirement": "化学和生物",
+      "planCount": 37,
+      "duration": 4,
+      "tuition": 10000
+    },
+    {
+      "index": 17257,
+      "universityCode": "2158",
+      "universityName": "河北医科大学临床学院[独立学院]",
+      "majorCode": "07",
+      "majorName": "医学影像技术",
+      "majorNote": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+      "subjectRequirement": "化学",
+      "planCount": 30,
+      "duration": 4,
+      "tuition": 10000
+    },
+    {
+      "index": 17258,
+      "universityCode": "2158",
+      "universityName": "河北医科大学临床学院[独立学院]",
+      "majorCode": "08",
+      "majorName": "护理学",
+      "majorNote": "不招收色盲、色弱和不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生",
+      "subjectRequirement": "生物",
+      "planCount": 93,
+      "duration": 4,
+      "tuition": 10000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

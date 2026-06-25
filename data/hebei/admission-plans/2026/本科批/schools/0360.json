@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 2621,
+      "universityCode": "0360",
+      "universityName": "东北石油大学(秦皇岛校区)[公办]",
+      "majorCode": "02",
+      "majorName": "地质学",
+      "majorNote": "秦皇岛校区就读。不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 2622,
+      "universityCode": "0360",
+      "universityName": "东北石油大学(秦皇岛校区)[公办]",
+      "majorCode": "03",
+      "majorName": "地球化学",
+      "majorNote": "秦皇岛校区就读。不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 2623,
+      "universityCode": "0360",
+      "universityName": "东北石油大学(秦皇岛校区)[公办]",
+      "majorCode": "04",
+      "majorName": "高分子材料与工程",
+      "majorNote": "秦皇岛校区就读。不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 2624,
+      "universityCode": "0360",
+      "universityName": "东北石油大学(秦皇岛校区)[公办]",
+      "majorCode": "05",
+      "majorName": "智能材料与结构",
+      "majorNote": "秦皇岛校区就读；学费暂定5500元/年，最终以主管部门批复为准",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 2625,
+      "universityCode": "0360",
+      "universityName": "东北石油大学(秦皇岛校区)[公办]",
+      "majorCode": "06",
+      "majorName": "储能科学与工程",
+      "majorNote": "秦皇岛校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 2626,
+      "universityCode": "0360",
+      "universityName": "东北石油大学(秦皇岛校区)[公办]",
+      "majorCode": "07",
+      "majorName": "机器人工程",
+      "majorNote": "秦皇岛校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 2627,
+      "universityCode": "0360",
+      "universityName": "东北石油大学(秦皇岛校区)[公办]",
+      "majorCode": "08",
+      "majorName": "物联网工程",
+      "majorNote": "秦皇岛校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 2628,
+      "universityCode": "0360",
+      "universityName": "东北石油大学(秦皇岛校区)[公办]",
+      "majorCode": "09",
+      "majorName": "海洋油气工程",
+      "majorNote": "秦皇岛校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 2629,
+      "universityCode": "0360",
+      "universityName": "东北石油大学(秦皇岛校区)[公办]",
+      "majorCode": "10",
+      "majorName": "碳储科学与工程",
+      "majorNote": "秦皇岛校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 2630,
+      "universityCode": "0360",
+      "universityName": "东北石油大学(秦皇岛校区)[公办]",
+      "majorCode": "11",
+      "majorName": "环境工程",
+      "majorNote": "秦皇岛校区就读；不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 2631,
+      "universityCode": "0360",
+      "universityName": "东北石油大学(秦皇岛校区)[公办]",
+      "majorCode": "12",
+      "majorName": "工程造价",
+      "majorNote": "秦皇岛校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

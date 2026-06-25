@@ -1,0 +1,44 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 18811,
+      "universityCode": "2415",
+      "universityName": "海口经济学院(按高考文化课成绩录取的艺术类专业)[民办]",
+      "majorCode": "02",
+      "majorName": "影视技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 49900
+    },
+    {
+      "index": 18812,
+      "universityCode": "2415",
+      "universityName": "海口经济学院(按高考文化课成绩录取的艺术类专业)[民办]",
+      "majorCode": "03",
+      "majorName": "智能人居设计",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 36900
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

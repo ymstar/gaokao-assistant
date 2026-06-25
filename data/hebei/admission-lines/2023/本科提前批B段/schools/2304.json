@@ -1,0 +1,97 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2304",
+      "universityName": "中国农业大学(北京市)(国家专项计划)[公办]",
+      "majorGroup": "农业工程类",
+      "planCount": 0,
+      "minScore": 634,
+      "minRank": 4593,
+      "avgScore": 634
+    },
+    {
+      "universityCode": "2304",
+      "universityName": "中国农业大学(北京市)(国家专项计划)[公办]",
+      "majorGroup": "电子信息类",
+      "planCount": 0,
+      "minScore": 633,
+      "minRank": 4796,
+      "avgScore": 633
+    },
+    {
+      "universityCode": "2304",
+      "universityName": "中国农业大学(北京市)(国家专项计划)[公办]",
+      "majorGroup": "水利类",
+      "planCount": 0,
+      "minScore": 621,
+      "minRank": 7805,
+      "avgScore": 621
+    },
+    {
+      "universityCode": "2304",
+      "universityName": "中国农业大学(北京市)(国家专项计划)[公办]",
+      "majorGroup": "工程力学",
+      "planCount": 0,
+      "minScore": 620,
+      "minRank": 8089,
+      "avgScore": 620
+    },
+    {
+      "universityCode": "2304",
+      "universityName": "中国农业大学(北京市)(国家专项计划)[公办]",
+      "majorGroup": "地理科学类",
+      "planCount": 0,
+      "minScore": 616,
+      "minRank": 9339,
+      "avgScore": 616
+    },
+    {
+      "universityCode": "2304",
+      "universityName": "中国农业大学(北京市)(国家专项计划)[公办]",
+      "majorGroup": "植物保护",
+      "planCount": 0,
+      "minScore": 616,
+      "minRank": 9339,
+      "avgScore": 616
+    },
+    {
+      "universityCode": "2304",
+      "universityName": "中国农业大学(北京市)(国家专项计划)[公办]",
+      "majorGroup": "化学类",
+      "planCount": 0,
+      "minScore": 614,
+      "minRank": 10020,
+      "avgScore": 614
+    },
+    {
+      "universityCode": "2304",
+      "universityName": "中国农业大学(北京市)(国家专项计划)[公办]",
+      "majorGroup": "园艺",
+      "planCount": 0,
+      "minScore": 614,
+      "minRank": 10020,
+      "avgScore": 614
+    },
+    {
+      "universityCode": "2304",
+      "universityName": "中国农业大学(北京市)(国家专项计划)[公办]",
+      "majorGroup": "环境科学与工程类",
+      "planCount": 0,
+      "minScore": 607,
+      "minRank": 12700,
+      "avgScore": 607
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 345,
+      "universityCode": "0536",
+      "universityName": "哈尔滨工业大学(深圳)(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "工科试验班(未来智造卓越联培班)",
+      "majorNote": "含集成电路设计与集成系统、电气工程及其自动化专业；本专业类内任选专业，考生投档成绩若在我校本科普通类统招录取投档分数线以上的，按照学校规定享有申请转专业机会，详询院校。培养地点：第1年校本部，后3年深圳校区",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6230
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

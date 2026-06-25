@@ -1,0 +1,52 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2324",
+      "universityName": "中国药科大学(国家专项计划)[公办]",
+      "majorGroup": "药学类",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 15231,
+      "avgScore": 604
+    },
+    {
+      "universityCode": "2324",
+      "universityName": "中国药科大学(国家专项计划)[公办]",
+      "majorGroup": "中药学类",
+      "planCount": 0,
+      "minScore": 597,
+      "minRank": 17039,
+      "avgScore": 597
+    },
+    {
+      "universityCode": "2324",
+      "universityName": "中国药科大学(国家专项计划)[公办]",
+      "majorGroup": "化工与制药类",
+      "planCount": 0,
+      "minScore": 592,
+      "minRank": 19512,
+      "avgScore": 592
+    },
+    {
+      "universityCode": "2324",
+      "universityName": "中国药科大学(国家专项计划)[公办]",
+      "majorGroup": "英语(医药方向)",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 26949,
+      "avgScore": 584
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

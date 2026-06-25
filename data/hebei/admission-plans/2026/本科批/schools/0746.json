@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 5697,
+      "universityCode": "0746",
+      "universityName": "黑龙江农业工程职业技术大学[公办]",
+      "majorCode": "13",
+      "majorName": "作物生产与品质改良",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 5698,
+      "universityCode": "0746",
+      "universityName": "黑龙江农业工程职业技术大学[公办]",
+      "majorCode": "14",
+      "majorName": "智能化农业装备技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 5699,
+      "universityCode": "0746",
+      "universityName": "黑龙江农业工程职业技术大学[公办]",
+      "majorCode": "15",
+      "majorName": "现代畜牧",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 5700,
+      "universityCode": "0746",
+      "universityName": "黑龙江农业工程职业技术大学[公办]",
+      "majorCode": "16",
+      "majorName": "智能控制技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 13,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 5701,
+      "universityCode": "0746",
+      "universityName": "黑龙江农业工程职业技术大学[公办]",
+      "majorCode": "17",
+      "majorName": "生物制药技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 6000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

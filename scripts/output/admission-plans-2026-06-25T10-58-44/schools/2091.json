@@ -1,0 +1,53 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1684,
+      "universityCode": "2091",
+      "universityName": "中国药科大学(南京市)(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "化工与制药类",
+      "majorNote": "含制药工程、食品营养与健康、环境科学专业；不招色盲、色弱考生；录取分数不低于特殊类型招生录取控制分数线上30分",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 1685,
+      "universityCode": "2091",
+      "universityName": "中国药科大学(南京市)(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "药事管理",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线上30分",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6800
+    },
+    {
+      "index": 1686,
+      "universityCode": "2091",
+      "universityName": "中国药科大学(南京市)(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "中药学类",
+      "majorNote": "含中药学、中药资源与开发、中药制药专业；不招色盲、色弱考生；录取分数不低于特殊类型招生录取控制分数线上30分",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 7480
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

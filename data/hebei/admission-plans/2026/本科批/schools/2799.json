@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 20831,
+      "universityCode": "2799",
+      "universityName": "郑州西亚斯学院[民办]",
+      "majorCode": "06",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 16000
+    },
+    {
+      "index": 20832,
+      "universityCode": "2799",
+      "universityName": "郑州西亚斯学院[民办]",
+      "majorCode": "07",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 16000
+    },
+    {
+      "index": 20833,
+      "universityCode": "2799",
+      "universityName": "郑州西亚斯学院[民办]",
+      "majorCode": "08",
+      "majorName": "区块链工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 16000
+    },
+    {
+      "index": 20834,
+      "universityCode": "2799",
+      "universityName": "郑州西亚斯学院[民办]",
+      "majorCode": "09",
+      "majorName": "金融学(中外合作办学)",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 39850
+    },
+    {
+      "index": 20835,
+      "universityCode": "2799",
+      "universityName": "郑州西亚斯学院[民办]",
+      "majorCode": "10",
+      "majorName": "工商管理(中外合作办学)",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 39850
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

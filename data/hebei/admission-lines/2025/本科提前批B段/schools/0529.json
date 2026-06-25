@@ -1,0 +1,52 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0529",
+      "universityName": "合肥工业大学(国家专项计划)[公办]",
+      "majorGroup": "机械设计制造及其自动化",
+      "planCount": 0,
+      "minScore": 625,
+      "minRank": 11635,
+      "avgScore": 628
+    },
+    {
+      "universityCode": "0529",
+      "universityName": "合肥工业大学(国家专项计划)[公办]",
+      "majorGroup": "测控技术与仪器",
+      "planCount": 0,
+      "minScore": 620,
+      "minRank": 14098,
+      "avgScore": 622
+    },
+    {
+      "universityCode": "0529",
+      "universityName": "合肥工业大学(国家专项计划)[公办]",
+      "majorGroup": "无机非金属材料工程",
+      "planCount": 0,
+      "minScore": 609,
+      "minRank": 20698,
+      "avgScore": 611
+    },
+    {
+      "universityCode": "0529",
+      "universityName": "合肥工业大学(国家专项计划)[公办]",
+      "majorGroup": "建筑学",
+      "planCount": 0,
+      "minScore": 581,
+      "minRank": 43929,
+      "avgScore": 583
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

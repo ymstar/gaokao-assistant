@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15986,
+      "universityCode": "2024",
+      "universityName": "郑州工程技术学院[公办]",
+      "majorCode": "02",
+      "majorName": "智能测控工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 15987,
+      "universityCode": "2024",
+      "universityName": "郑州工程技术学院[公办]",
+      "majorCode": "03",
+      "majorName": "智能建造",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 15988,
+      "universityCode": "2024",
+      "universityName": "郑州工程技术学院[公办]",
+      "majorCode": "04",
+      "majorName": "食品安全与检测",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

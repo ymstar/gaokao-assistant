@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19245,
+      "universityCode": "2501",
+      "universityName": "兰州博文科技学院[民办]",
+      "majorCode": "05",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 22800
+    },
+    {
+      "index": 19246,
+      "universityCode": "2501",
+      "universityName": "兰州博文科技学院[民办]",
+      "majorCode": "06",
+      "majorName": "车辆工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21800
+    },
+    {
+      "index": 19247,
+      "universityCode": "2501",
+      "universityName": "兰州博文科技学院[民办]",
+      "majorCode": "07",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 22800
+    },
+    {
+      "index": 19248,
+      "universityCode": "2501",
+      "universityName": "兰州博文科技学院[民办]",
+      "majorCode": "08",
+      "majorName": "轨道交通信号与控制",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21800
+    },
+    {
+      "index": 19249,
+      "universityCode": "2501",
+      "universityName": "兰州博文科技学院[民办]",
+      "majorCode": "09",
+      "majorName": "土木工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 22800
+    },
+    {
+      "index": 19250,
+      "universityCode": "2501",
+      "universityName": "兰州博文科技学院[民办]",
+      "majorCode": "10",
+      "majorName": "测绘工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21800
+    },
+    {
+      "index": 19251,
+      "universityCode": "2501",
+      "universityName": "兰州博文科技学院[民办]",
+      "majorCode": "11",
+      "majorName": "工程造价",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

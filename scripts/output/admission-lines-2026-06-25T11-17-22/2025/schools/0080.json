@@ -1,0 +1,52 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0080",
+      "universityName": "北京大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班类",
+      "planCount": 0,
+      "minScore": 680,
+      "minRank": 267,
+      "avgScore": 680
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "北京大学(国家专项计划)[公办]",
+      "majorGroup": "地球物理学类",
+      "planCount": 0,
+      "minScore": 679,
+      "minRank": 297,
+      "avgScore": 679
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "北京大学(国家专项计划)[公办]",
+      "majorGroup": "法学",
+      "planCount": 0,
+      "minScore": 678,
+      "minRank": 330,
+      "avgScore": 678
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "北京大学(国家专项计划)[公办]",
+      "majorGroup": "心理学类",
+      "planCount": 0,
+      "minScore": 677,
+      "minRank": 361,
+      "avgScore": 677
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

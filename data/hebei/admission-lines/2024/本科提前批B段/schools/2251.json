@@ -1,0 +1,106 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2251",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "思想政治教育",
+      "planCount": 0,
+      "minScore": 636,
+      "minRank": 3432,
+      "avgScore": 636
+    },
+    {
+      "universityCode": "2251",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "英语",
+      "planCount": 0,
+      "minScore": 619,
+      "minRank": 7713,
+      "avgScore": 621
+    },
+    {
+      "universityCode": "2251",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "数学与应用数学",
+      "planCount": 0,
+      "minScore": 616,
+      "minRank": 8750,
+      "avgScore": 617
+    },
+    {
+      "universityCode": "2251",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "教育技术学",
+      "planCount": 0,
+      "minScore": 613,
+      "minRank": 9908,
+      "avgScore": 613
+    },
+    {
+      "universityCode": "2251",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "生物科学",
+      "planCount": 0,
+      "minScore": 613,
+      "minRank": 9908,
+      "avgScore": 614
+    },
+    {
+      "universityCode": "2251",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "化学",
+      "planCount": 0,
+      "minScore": 612,
+      "minRank": 10308,
+      "avgScore": 615
+    },
+    {
+      "universityCode": "2251",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 610,
+      "minRank": 11140,
+      "avgScore": 610
+    },
+    {
+      "universityCode": "2251",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "物理学",
+      "planCount": 0,
+      "minScore": 609,
+      "minRank": 11565,
+      "avgScore": 612
+    },
+    {
+      "universityCode": "2251",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "心理学",
+      "planCount": 0,
+      "minScore": 608,
+      "minRank": 12000,
+      "avgScore": 608
+    },
+    {
+      "universityCode": "2251",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "地理科学",
+      "planCount": 0,
+      "minScore": 598,
+      "minRank": 16972,
+      "avgScore": 608
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

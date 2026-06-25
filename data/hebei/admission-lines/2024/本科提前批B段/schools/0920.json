@@ -1,0 +1,52 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0920",
+      "universityName": "衡水学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向衡水市桃城区就业",
+      "planCount": 0,
+      "minScore": 581,
+      "minRank": 27901,
+      "avgScore": 585
+    },
+    {
+      "universityCode": "0920",
+      "universityName": "衡水学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向衡水市故城县就业",
+      "planCount": 0,
+      "minScore": 554,
+      "minRank": 51876,
+      "avgScore": 559
+    },
+    {
+      "universityCode": "0920",
+      "universityName": "衡水学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向衡水市冀州区就业",
+      "planCount": 0,
+      "minScore": 554,
+      "minRank": 51876,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0920",
+      "universityName": "衡水学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向衡水市枣强县就业",
+      "planCount": 0,
+      "minScore": 549,
+      "minRank": 57150,
+      "avgScore": 555
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

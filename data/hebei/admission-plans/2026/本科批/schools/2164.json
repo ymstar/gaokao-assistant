@@ -1,0 +1,44 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17292,
+      "universityCode": "2164",
+      "universityName": "湖北经济学院法商学院[独立学院]",
+      "majorCode": "03",
+      "majorName": "税收学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 17293,
+      "universityCode": "2164",
+      "universityName": "湖北经济学院法商学院[独立学院]",
+      "majorCode": "04",
+      "majorName": "会计学(注册会计师)",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 20000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

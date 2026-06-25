@@ -1,0 +1,43 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0463",
+      "universityName": "对外经济贸易大学(国家专项计划)[公办]",
+      "majorGroup": "人工智能",
+      "planCount": 0,
+      "minScore": 618,
+      "minRank": 8071,
+      "avgScore": 621
+    },
+    {
+      "universityCode": "0463",
+      "universityName": "对外经济贸易大学(国家专项计划)[公办]",
+      "majorGroup": "公共管理类",
+      "planCount": 0,
+      "minScore": 606,
+      "minRank": 12898,
+      "avgScore": 606
+    },
+    {
+      "universityCode": "0463",
+      "universityName": "对外经济贸易大学(国家专项计划)[公办]",
+      "majorGroup": "物流管理(与国贸双学士学位项目)",
+      "planCount": 0,
+      "minScore": 600,
+      "minRank": 15950,
+      "avgScore": 600
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

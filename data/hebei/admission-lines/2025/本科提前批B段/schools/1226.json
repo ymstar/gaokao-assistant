@@ -1,0 +1,115 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1226",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(无穹书院)",
+      "planCount": 0,
+      "minScore": 686,
+      "minRank": 121,
+      "avgScore": 686
+    },
+    {
+      "universityCode": "1226",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "电子信息类",
+      "planCount": 0,
+      "minScore": 685,
+      "minRank": 146,
+      "avgScore": 685
+    },
+    {
+      "universityCode": "1226",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(智能制造与装备类)",
+      "planCount": 0,
+      "minScore": 685,
+      "minRank": 146,
+      "avgScore": 685
+    },
+    {
+      "universityCode": "1226",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(为先书院)",
+      "planCount": 0,
+      "minScore": 685,
+      "minRank": 146,
+      "avgScore": 685
+    },
+    {
+      "universityCode": "1226",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(笃实书院)",
+      "planCount": 0,
+      "minScore": 684,
+      "minRank": 159,
+      "avgScore": 684
+    },
+    {
+      "universityCode": "1226",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(自强书院)",
+      "planCount": 0,
+      "minScore": 684,
+      "minRank": 159,
+      "avgScore": 685
+    },
+    {
+      "universityCode": "1226",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(数理类)",
+      "planCount": 0,
+      "minScore": 682,
+      "minRank": 206,
+      "avgScore": 683
+    },
+    {
+      "universityCode": "1226",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "临床医学类(卓越医师科学家)",
+      "planCount": 0,
+      "minScore": 682,
+      "minRank": 206,
+      "avgScore": 682
+    },
+    {
+      "universityCode": "1226",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(水木书院)",
+      "planCount": 0,
+      "minScore": 681,
+      "minRank": 233,
+      "avgScore": 681
+    },
+    {
+      "universityCode": "1226",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(秀钟书院)",
+      "planCount": 0,
+      "minScore": 680,
+      "minRank": 267,
+      "avgScore": 680
+    },
+    {
+      "universityCode": "1226",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(建筑、规划、景观)",
+      "planCount": 0,
+      "minScore": 678,
+      "minRank": 330,
+      "avgScore": 678
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

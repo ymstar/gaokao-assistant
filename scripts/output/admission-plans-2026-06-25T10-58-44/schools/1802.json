@@ -1,0 +1,53 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1442,
+      "universityCode": "1802",
+      "universityName": "西北农林科技大学(咸阳市)(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "动物科学",
+      "majorNote": "色弱色盲不能录取",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1443,
+      "universityCode": "1802",
+      "universityName": "西北农林科技大学(咸阳市)(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "动物药学",
+      "majorNote": "色弱色盲不能录取",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1444,
+      "universityCode": "1802",
+      "universityName": "西北农林科技大学(咸阳市)(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "草业科学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 6600
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

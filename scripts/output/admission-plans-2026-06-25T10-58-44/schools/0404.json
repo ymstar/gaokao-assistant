@@ -1,0 +1,53 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 311,
+      "universityCode": "0404",
+      "universityName": "复旦大学(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "经济管理试验班(统计、运筹与AI)",
+      "majorNote": "含统计学、财务管理、信息管理与信息系统(商业AI应用、AI系统开发)、会计学、市场营销、工商管理(战略管理、国际经营、人力资源)、管理科学(智能决策、智慧供应链)专业；含管理科学与商业智能卓研博英班。含财务管理（金融与财务）-人工智能、市场营销-人工智能双学士学位；录取分数不低于特殊类型招生录取控制分数线上70分",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 312,
+      "universityCode": "0404",
+      "universityName": "复旦大学(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "生物科学类",
+      "majorNote": "含生物科学、生物技术、生态学专业；含生物科学-人工智能、生态学-人工智能双学士学位；录取分数不低于特殊类型招生录取控制分数线上70分",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7700
+    },
+    {
+      "index": 313,
+      "universityCode": "0404",
+      "universityName": "复旦大学(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "心理学",
+      "majorNote": "含心理学菁英班。含认知与智能方向、健康与社会应用方向；录取分数不低于特殊类型招生录取控制分数线上70分",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 7000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

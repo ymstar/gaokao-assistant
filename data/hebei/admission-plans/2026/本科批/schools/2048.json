@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 16337,
+      "universityCode": "2048",
+      "universityName": "中国科学技术大学[公办]",
+      "majorCode": "01",
+      "majorName": "工科试验班(力学及航天、人形机器人、未来能源及安全)",
+      "majorNote": "含理论与应用力学、机器人工程、测控技术与仪器、能源与动力工程、安全工程、核工程类、力学类(钱学森力学科技英才班)专业",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 16338,
+      "universityCode": "2048",
+      "universityName": "中国科学技术大学[公办]",
+      "majorCode": "02",
+      "majorName": "工科试验班(信息智能与集成电路)",
+      "majorNote": "含计算机类、计算机类(华夏计算机科技英才班)、电子信息类(信息科技)、电子信息类(信息科技英才班)、网络空间安全、网络空间安全(王小谟网络空间科技英才班)、人工智能、人工智能(科技英才班)、集成电路设计与集成系统、集成电路设计与集成系统(中微集成电路科技英才班)专业",
+      "subjectRequirement": "化学",
+      "planCount": 17,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 16339,
+      "universityCode": "2048",
+      "universityName": "中国科学技术大学[公办]",
+      "majorCode": "03",
+      "majorName": "理科试验班类",
+      "majorNote": "含数学类、数学类(华罗庚数学科技英才班)、物理学类、物理学类(严济慈物理科技英才班)、化学类(智能化学与先进材料)、化学类(卢嘉锡化学科技英才班)、生物科学类、生物科学类(贝时璋生命科技英才班)、空间科学与技术、空间科学与技术(赵九章现代地球和空间科技英才班)、行星科学、量子信息科学(量子未来技术试点班)、统计学(统计大数据与商业AI试验班)、商业人工智能(统计大数据与商业AI试验班)、环境科学与工程(环境AI双学位试验班)专业",
+      "subjectRequirement": "化学",
+      "planCount": 14,
+      "duration": 4,
+      "tuition": 4800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

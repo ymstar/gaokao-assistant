@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0957",
+      "universityName": "华中科技大学(国家专项计划)[公办]",
+      "majorGroup": "管理科学与工程类(大数据管理与供应链优化试验班)",
+      "planCount": 0,
+      "minScore": 640,
+      "minRank": 3450,
+      "avgScore": 640
+    },
+    {
+      "universityCode": "0957",
+      "universityName": "华中科技大学(国家专项计划)[公办]",
+      "majorGroup": "核工程与核技术",
+      "planCount": 0,
+      "minScore": 635,
+      "minRank": 4398,
+      "avgScore": 637
+    },
+    {
+      "universityCode": "0957",
+      "universityName": "华中科技大学(国家专项计划)[公办]",
+      "majorGroup": "材料类(3D打印、智能成型、智能材料、新能源)",
+      "planCount": 0,
+      "minScore": 634,
+      "minRank": 4593,
+      "avgScore": 634
+    },
+    {
+      "universityCode": "0957",
+      "universityName": "华中科技大学(国家专项计划)[公办]",
+      "majorGroup": "土木类(智能化建造试验班)",
+      "planCount": 0,
+      "minScore": 632,
+      "minRank": 5009,
+      "avgScore": 632
+    },
+    {
+      "universityCode": "0957",
+      "universityName": "华中科技大学(国家专项计划)[公办]",
+      "majorGroup": "船舶与海洋工程",
+      "planCount": 0,
+      "minScore": 626,
+      "minRank": 6430,
+      "avgScore": 630
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

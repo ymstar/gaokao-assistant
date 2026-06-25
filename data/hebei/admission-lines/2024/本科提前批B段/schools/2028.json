@@ -1,0 +1,43 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2028",
+      "universityName": "天津工业大学(国家专项计划)[公办]",
+      "majorGroup": "工业工程",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 29456,
+      "avgScore": 580
+    },
+    {
+      "universityCode": "2028",
+      "universityName": "天津工业大学(国家专项计划)[公办]",
+      "majorGroup": "化学工程与工艺",
+      "planCount": 0,
+      "minScore": 576,
+      "minRank": 31850,
+      "avgScore": 580
+    },
+    {
+      "universityCode": "2028",
+      "universityName": "天津工业大学(国家专项计划)[公办]",
+      "majorGroup": "复合材料与工程",
+      "planCount": 0,
+      "minScore": 575,
+      "minRank": 32673,
+      "avgScore": 576
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10071,
+      "universityCode": "1268",
+      "universityName": "宁夏工商职业技术大学[公办]",
+      "majorCode": "09",
+      "majorName": "机械设计制造及自动化",
+      "majorNote": "学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 10072,
+      "universityCode": "1268",
+      "universityName": "宁夏工商职业技术大学[公办]",
+      "majorCode": "10",
+      "majorName": "电气工程及自动化",
+      "majorNote": "学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 10073,
+      "universityCode": "1268",
+      "universityName": "宁夏工商职业技术大学[公办]",
+      "majorCode": "11",
+      "majorName": "应用化工技术",
+      "majorNote": "不招色盲、色弱考生，详见院校章程。学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

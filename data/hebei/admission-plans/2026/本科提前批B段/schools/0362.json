@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 283,
+      "universityCode": "0362",
+      "universityName": "东华大学(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "化学类",
+      "majorNote": "含轻化工程(卓越班)、应用化学专业；录取分数不低于特殊类型招生录取控制分数线上30分；不招色弱、色盲、单色不识别考生，详见院校章程；其中轻化工程含颜色科学与功能实现、绿色染整与生态检测方向。应用化学含精细有机化学品、功能高分子材料、绿色化学工艺及过程方向",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 284,
+      "universityCode": "0362",
+      "universityName": "东华大学(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "材料类",
+      "majorNote": "含高分子材料与工程、无机非金属材料工程、复合材料与工程(卓越班)专业；录取分数不低于特殊类型招生录取控制分数线上30分",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 7700
+    },
+    {
+      "index": 285,
+      "universityCode": "0362",
+      "universityName": "东华大学(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "纺织类(智能纺织与设计)",
+      "majorNote": "含纺织工程(含智能纺织与设计、纺织材料方向)、非织造材料与工程专业；录取分数不低于特殊类型招生录取控制分数线上30分",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 7700
+    },
+    {
+      "index": 286,
+      "universityCode": "0362",
+      "universityName": "东华大学(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "环境科学与工程类(新能源与储能技术方向)",
+      "majorNote": "含建筑环境与能源应用工程、能源与环境系统工程专业；录取分数不低于特殊类型招生录取控制分数线上30分",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 287,
+      "universityCode": "0362",
+      "universityName": "东华大学(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "管理科学与工程类",
+      "majorNote": "含信息管理与信息系统、电子商务、供应链管理专业；录取分数不低于特殊类型招生录取控制分数线上30分；其中信息管理与信息系统专业、电子商务专业授予工学学士学位",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

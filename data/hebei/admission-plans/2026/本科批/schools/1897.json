@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15126,
+      "universityCode": "1897",
+      "universityName": "徐州工程学院[公办]",
+      "majorCode": "05",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 15127,
+      "universityCode": "1897",
+      "universityName": "徐州工程学院[公办]",
+      "majorCode": "06",
+      "majorName": "食品质量与安全",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 15128,
+      "universityCode": "1897",
+      "universityName": "徐州工程学院[公办]",
+      "majorCode": "07",
+      "majorName": "工程管理",
+      "majorNote": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不能录取",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 15129,
+      "universityCode": "1897",
+      "universityName": "徐州工程学院[公办]",
+      "majorCode": "08",
+      "majorName": "物流工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

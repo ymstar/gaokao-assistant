@@ -1,0 +1,29 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 76,
+      "universityCode": "0132",
+      "universityName": "北京师范大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "理科试验班",
+      "majorNote": "含化学、化学(励耘实验班)、生物科学类、生物科学(励耘实验班)、环境科学与工程类、碳中和科学与工程、心理学、地理科学类、地理科学(励耘实验班)、心理学(北师大心理学、北航AI联合学位培养项目)、环境工程(统计学、环工双学士学位项目)、化学(卓师计划实验班)、地理科学(卓师计划实验班)、生物科学(卓师计划实验班)专业；双学位项目信息详见学校报考指南。不招色盲考生及单色识别不全考生，详见学校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5400
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

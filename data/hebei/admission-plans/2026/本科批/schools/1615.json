@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 12478,
+      "universityCode": "1615",
+      "universityName": "宿州学院[公办]",
+      "majorCode": "04",
+      "majorName": "生物技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 12479,
+      "universityCode": "1615",
+      "universityName": "宿州学院[公办]",
+      "majorCode": "05",
+      "majorName": "水文与水资源工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 12480,
+      "universityCode": "1615",
+      "universityName": "宿州学院[公办]",
+      "majorCode": "06",
+      "majorName": "测绘工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 12481,
+      "universityCode": "1615",
+      "universityName": "宿州学院[公办]",
+      "majorCode": "07",
+      "majorName": "化学工程与工艺",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 12482,
+      "universityCode": "1615",
+      "universityName": "宿州学院[公办]",
+      "majorCode": "08",
+      "majorName": "地质工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 12483,
+      "universityCode": "1615",
+      "universityName": "宿州学院[公办]",
+      "majorCode": "09",
+      "majorName": "食品科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 12484,
+      "universityCode": "1615",
+      "universityName": "宿州学院[公办]",
+      "majorCode": "10",
+      "majorName": "物流工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 4600
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

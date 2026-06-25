@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 18546,
+      "universityCode": "2358",
+      "universityName": "广东科技学院[民办]",
+      "majorCode": "04",
+      "majorName": "机械电子工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 34800
+    },
+    {
+      "index": 18547,
+      "universityCode": "2358",
+      "universityName": "广东科技学院[民办]",
+      "majorCode": "05",
+      "majorName": "新能源汽车工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 34800
+    },
+    {
+      "index": 18548,
+      "universityCode": "2358",
+      "universityName": "广东科技学院[民办]",
+      "majorCode": "06",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 34800
+    },
+    {
+      "index": 18549,
+      "universityCode": "2358",
+      "universityName": "广东科技学院[民办]",
+      "majorCode": "07",
+      "majorName": "机器人工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 34800
+    },
+    {
+      "index": 18550,
+      "universityCode": "2358",
+      "universityName": "广东科技学院[民办]",
+      "majorCode": "08",
+      "majorName": "网络工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 34800
+    },
+    {
+      "index": 18551,
+      "universityCode": "2358",
+      "universityName": "广东科技学院[民办]",
+      "majorCode": "09",
+      "majorName": "物联网工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 34800
+    },
+    {
+      "index": 18552,
+      "universityCode": "2358",
+      "universityName": "广东科技学院[民办]",
+      "majorCode": "10",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 34800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

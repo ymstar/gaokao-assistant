@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15332,
+      "universityCode": "1932",
+      "universityName": "宜宾学院[公办]",
+      "majorCode": "05",
+      "majorName": "数字经济",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5520
+    },
+    {
+      "index": 15333,
+      "universityCode": "1932",
+      "universityName": "宜宾学院[公办]",
+      "majorCode": "06",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5980
+    },
+    {
+      "index": 15334,
+      "universityCode": "1932",
+      "universityName": "宜宾学院[公办]",
+      "majorCode": "07",
+      "majorName": "物理学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5980
+    },
+    {
+      "index": 15335,
+      "universityCode": "1932",
+      "universityName": "宜宾学院[公办]",
+      "majorCode": "08",
+      "majorName": "应用化学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5980
+    },
+    {
+      "index": 15336,
+      "universityCode": "1932",
+      "universityName": "宜宾学院[公办]",
+      "majorCode": "09",
+      "majorName": "机械电子工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5980
+    },
+    {
+      "index": 15337,
+      "universityCode": "1932",
+      "universityName": "宜宾学院[公办]",
+      "majorCode": "10",
+      "majorName": "智能制造工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5980
+    },
+    {
+      "index": 15338,
+      "universityCode": "1932",
+      "universityName": "宜宾学院[公办]",
+      "majorCode": "11",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5980
+    },
+    {
+      "index": 15339,
+      "universityCode": "1932",
+      "universityName": "宜宾学院[公办]",
+      "majorCode": "12",
+      "majorName": "制药工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5980
+    },
+    {
+      "index": 15340,
+      "universityCode": "1932",
+      "universityName": "宜宾学院[公办]",
+      "majorCode": "13",
+      "majorName": "食品质量与安全",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5980
+    },
+    {
+      "index": 15341,
+      "universityCode": "1932",
+      "universityName": "宜宾学院[公办]",
+      "majorCode": "14",
+      "majorName": "标准化工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5520
+    },
+    {
+      "index": 15342,
+      "universityCode": "1932",
+      "universityName": "宜宾学院[公办]",
+      "majorCode": "15",
+      "majorName": "质量管理工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5520
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

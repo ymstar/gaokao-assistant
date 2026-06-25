@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 20021,
+      "universityCode": "2655",
+      "universityName": "四川文化艺术学院(绵阳市)[民办]",
+      "majorCode": "09",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 20022,
+      "universityCode": "2655",
+      "universityName": "四川文化艺术学院(绵阳市)[民办]",
+      "majorCode": "10",
+      "majorName": "人工智能",
+      "majorNote": "大模型开发与应用",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 20023,
+      "universityCode": "2655",
+      "universityName": "四川文化艺术学院(绵阳市)[民办]",
+      "majorCode": "11",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 20024,
+      "universityCode": "2655",
+      "universityName": "四川文化艺术学院(绵阳市)[民办]",
+      "majorCode": "12",
+      "majorName": "物流管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 14840
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

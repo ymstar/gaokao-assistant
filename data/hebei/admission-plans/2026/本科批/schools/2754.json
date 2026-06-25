@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 20520,
+      "universityCode": "2754",
+      "universityName": "烟台科技学院(烟台市)[民办]",
+      "majorCode": "06",
+      "majorName": "数字经济",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 20521,
+      "universityCode": "2754",
+      "universityName": "烟台科技学院(烟台市)[民办]",
+      "majorCode": "07",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 20522,
+      "universityCode": "2754",
+      "universityName": "烟台科技学院(烟台市)[民办]",
+      "majorCode": "08",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 20523,
+      "universityCode": "2754",
+      "universityName": "烟台科技学院(烟台市)[民办]",
+      "majorCode": "09",
+      "majorName": "电机电器智能化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 20524,
+      "universityCode": "2754",
+      "universityName": "烟台科技学院(烟台市)[民办]",
+      "majorCode": "10",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 20525,
+      "universityCode": "2754",
+      "universityName": "烟台科技学院(烟台市)[民办]",
+      "majorCode": "11",
+      "majorName": "网络工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 13,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 20526,
+      "universityCode": "2754",
+      "universityName": "烟台科技学院(烟台市)[民办]",
+      "majorCode": "12",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 17,
+      "duration": 4,
+      "tuition": 19000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

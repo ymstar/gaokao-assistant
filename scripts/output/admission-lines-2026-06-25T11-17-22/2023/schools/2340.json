@@ -1,0 +1,79 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2340",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "信息管理与信息系统",
+      "planCount": 0,
+      "minScore": 635,
+      "minRank": 4398,
+      "avgScore": 635
+    },
+    {
+      "universityCode": "2340",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "材料科学与工程",
+      "planCount": 0,
+      "minScore": 627,
+      "minRank": 6150,
+      "avgScore": 631
+    },
+    {
+      "universityCode": "2340",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "智慧交通",
+      "planCount": 0,
+      "minScore": 626,
+      "minRank": 6430,
+      "avgScore": 626
+    },
+    {
+      "universityCode": "2340",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "土木、水利与海洋工程",
+      "planCount": 0,
+      "minScore": 621,
+      "minRank": 7805,
+      "avgScore": 622
+    },
+    {
+      "universityCode": "2340",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "核工程与核技术(含中法合作办学)",
+      "planCount": 0,
+      "minScore": 614,
+      "minRank": 10020,
+      "avgScore": 620
+    },
+    {
+      "universityCode": "2340",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "药学(深圳)",
+      "planCount": 0,
+      "minScore": 614,
+      "minRank": 10020,
+      "avgScore": 619
+    },
+    {
+      "universityCode": "2340",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "环境科学与工程类",
+      "planCount": 0,
+      "minScore": 609,
+      "minRank": 11883,
+      "avgScore": 613
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

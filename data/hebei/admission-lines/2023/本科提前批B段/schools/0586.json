@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0586",
+      "universityName": "哈尔滨工程大学(国家专项计划)[公办]",
+      "majorGroup": "机械类",
+      "planCount": 0,
+      "minScore": 619,
+      "minRank": 8388,
+      "avgScore": 619
+    },
+    {
+      "universityCode": "0586",
+      "universityName": "哈尔滨工程大学(国家专项计划)[公办]",
+      "majorGroup": "光电信息科学与工程",
+      "planCount": 0,
+      "minScore": 613,
+      "minRank": 10360,
+      "avgScore": 613
+    },
+    {
+      "universityCode": "0586",
+      "universityName": "哈尔滨工程大学(国家专项计划)[公办]",
+      "majorGroup": "能源动力类",
+      "planCount": 0,
+      "minScore": 612,
+      "minRank": 10718,
+      "avgScore": 613
+    },
+    {
+      "universityCode": "0586",
+      "universityName": "哈尔滨工程大学(国家专项计划)[公办]",
+      "majorGroup": "新能源材料与器件",
+      "planCount": 0,
+      "minScore": 609,
+      "minRank": 11883,
+      "avgScore": 609
+    },
+    {
+      "universityCode": "0586",
+      "universityName": "哈尔滨工程大学(国家专项计划)[公办]",
+      "majorGroup": "材料类",
+      "planCount": 0,
+      "minScore": 598,
+      "minRank": 16589,
+      "avgScore": 607
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

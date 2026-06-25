@@ -1,0 +1,137 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 398,
+      "universityCode": "0594",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorCode": "01",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向保定市涞水县就业，色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 399,
+      "universityCode": "0594",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorCode": "02",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向保定市涞源县就业，色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 400,
+      "universityCode": "0594",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorCode": "03",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向张家口市赤城县就业，色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 401,
+      "universityCode": "0594",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorCode": "04",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向张家口市沽源县就业，色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 402,
+      "universityCode": "0594",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorCode": "05",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向张家口市怀安县就业，色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 403,
+      "universityCode": "0594",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorCode": "06",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向张家口市怀来县就业，色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 404,
+      "universityCode": "0594",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorCode": "07",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向张家口市康保县就业，色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 405,
+      "universityCode": "0594",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorCode": "08",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向张家口市尚义县就业，色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 406,
+      "universityCode": "0594",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorCode": "09",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向张家口市蔚县就业，色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 407,
+      "universityCode": "0594",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorCode": "10",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向张家口市涿鹿县就业，色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

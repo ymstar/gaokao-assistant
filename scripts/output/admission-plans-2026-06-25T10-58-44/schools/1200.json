@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1163,
+      "universityCode": "1200",
+      "universityName": "南京理工大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "兵器类(含能材料方向)",
+      "majorNote": "含制药工程、高分子材料与工程专业；第一学年在江阴校区学习，第二、三、四学年在南京校区学习。不招色盲、色弱考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 6380
+    },
+    {
+      "index": 1164,
+      "universityCode": "1200",
+      "universityName": "南京理工大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "兵器类(智能发射与动力方向)",
+      "majorNote": "含能源与动力工程、储能科学与工程、武器发射工程专业；第一学年在江阴校区学习，第二、三、四学年在南京校区学习",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5800
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

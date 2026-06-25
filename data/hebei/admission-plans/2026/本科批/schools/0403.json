@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 2929,
+      "universityCode": "0403",
+      "universityName": "复旦大学[公办]",
+      "majorCode": "04",
+      "majorName": "工科试验班(相辉学堂香农计划)",
+      "majorNote": "含集成电路科学与工程、人工智能、智能科学与技术、生物医学工程、电子信息科学与技术、材料科学与工程专业；含集成电路、计算与智能、智能机器人与先进制造、生物医学工程、未来信息、智能材料与未来能源领军人才班",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 7700
+    },
+    {
+      "index": 2930,
+      "universityCode": "0403",
+      "universityName": "复旦大学[公办]",
+      "majorCode": "05",
+      "majorName": "工科试验班(集成电路与微纳电子创新学院)",
+      "majorNote": "含微电子科学与工程专业；含微电子科学与工程（集成电路方向）-信息与计算科学专业双学士学位",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 7700
+    },
+    {
+      "index": 2931,
+      "universityCode": "0403",
+      "universityName": "复旦大学[公办]",
+      "majorCode": "06",
+      "majorName": "工科试验班(计算与智能领军人才班)",
+      "majorNote": "含人工智能专业；含下一代多模态大模型与智能体体系方向、数字安全方向",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 2932,
+      "universityCode": "0403",
+      "universityName": "复旦大学[公办]",
+      "majorCode": "07",
+      "majorName": "工科试验班(未来信息领军人才班)",
+      "majorNote": "含电子信息科学与技术专业；含“光子计划”院士班",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 2933,
+      "universityCode": "0403",
+      "universityName": "复旦大学[公办]",
+      "majorCode": "08",
+      "majorName": "工科试验班(未来信息创新学院)",
+      "majorNote": "含电子信息科学与技术、通信工程、光电信息科学与工程专业；含未来信息产教融合班。含光电信息科学与工程-信息与计算科学（人工智能方向）、电子信息科学与技术-信息与计算科学（人工智能方向）双学士学位",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 2934,
+      "universityCode": "0403",
+      "universityName": "复旦大学[公办]",
+      "majorCode": "09",
+      "majorName": "理科试验班(相辉学堂相辉计划)",
+      "majorNote": "含数学与应用数学、物理学、化学、生物科学专业；含数学、物理、化学、生物科学英才班",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 7700
+    },
+    {
+      "index": 2935,
+      "universityCode": "0403",
+      "universityName": "复旦大学[公办]",
+      "majorCode": "10",
+      "majorName": "计算机科学与技术(拔尖人才试验班)",
+      "majorNote": "含下一代多模态大模型与智能体体系方向、数字安全方向",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 2936,
+      "universityCode": "0403",
+      "universityName": "复旦大学[公办]",
+      "majorCode": "11",
+      "majorName": "数据科学与大数据技术(数字孪生)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 7700
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

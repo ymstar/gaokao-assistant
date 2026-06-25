@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 5548,
+      "universityCode": "0725",
+      "universityName": "贺州学院[公办]",
+      "majorCode": "01",
+      "majorName": "应用心理学",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 5549,
+      "universityCode": "0725",
+      "universityName": "贺州学院[公办]",
+      "majorCode": "02",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 5550,
+      "universityCode": "0725",
+      "universityName": "贺州学院[公办]",
+      "majorCode": "03",
+      "majorName": "集成电路设计与集成系统",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 5551,
+      "universityCode": "0725",
+      "universityName": "贺州学院[公办]",
+      "majorCode": "04",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 5552,
+      "universityCode": "0725",
+      "universityName": "贺州学院[公办]",
+      "majorCode": "05",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 5553,
+      "universityCode": "0725",
+      "universityName": "贺州学院[公办]",
+      "majorCode": "06",
+      "majorName": "土木工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 5554,
+      "universityCode": "0725",
+      "universityName": "贺州学院[公办]",
+      "majorCode": "07",
+      "majorName": "食品质量与安全",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

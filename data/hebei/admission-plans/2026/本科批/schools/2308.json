@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 18333,
+      "universityCode": "2308",
+      "universityName": "重庆机电职业技术大学[民办]",
+      "majorCode": "01",
+      "majorName": "机械设计制造及自动化",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 16000
+    },
+    {
+      "index": 18334,
+      "universityCode": "2308",
+      "universityName": "重庆机电职业技术大学[民办]",
+      "majorCode": "02",
+      "majorName": "智能制造工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 16000
+    },
+    {
+      "index": 18335,
+      "universityCode": "2308",
+      "universityName": "重庆机电职业技术大学[民办]",
+      "majorCode": "03",
+      "majorName": "材料成型及控制工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 16000
+    },
+    {
+      "index": 18336,
+      "universityCode": "2308",
+      "universityName": "重庆机电职业技术大学[民办]",
+      "majorCode": "04",
+      "majorName": "汽车工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 16000
+    },
+    {
+      "index": 18337,
+      "universityCode": "2308",
+      "universityName": "重庆机电职业技术大学[民办]",
+      "majorCode": "05",
+      "majorName": "新能源汽车工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 16000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

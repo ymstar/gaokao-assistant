@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 62,
+      "universityCode": "0119",
+      "universityName": "北京理工大学(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "工科试验班(智能制造与智能车辆菁英班)",
+      "majorNote": "含车辆工程、装甲车辆工程、能源与动力工程、机械工程、工业工程、智能制造工程、能源与动力工程(含管理双学位)、机械工程(含德语双学位)专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 63,
+      "universityCode": "0119",
+      "universityName": "北京理工大学(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "理科试验班(理学与材料菁英班)",
+      "majorNote": "含碳中和科学与工程、数学与应用数学、量子信息科学、材料科学与工程、生物技术、材料成型及控制工程、高分子材料与工程、材料化学、新能源材料与器件、电子封装技术、化学、应用化学、化学工程与工艺、制药工程、能源化学工程、生物医学工程、智能医学工程、信息与计算科学、统计学、应用物理学、化学工程与工艺(含管理双学位)、新能源材料与器件(含管理双学位)、应用化学(含机械双学位)、生物技术(含AI双学位)、生物技术(中国农业大学生物专业联合培养)专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

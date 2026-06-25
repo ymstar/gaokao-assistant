@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2005",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorGroup": "计算机类",
+      "planCount": 0,
+      "minScore": 647,
+      "minRank": 2368,
+      "avgScore": 648
+    },
+    {
+      "universityCode": "2005",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorGroup": "机械类(航宇智能制造试验班)",
+      "planCount": 0,
+      "minScore": 645,
+      "minRank": 2643,
+      "avgScore": 645
+    },
+    {
+      "universityCode": "2005",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorGroup": "自动化类",
+      "planCount": 0,
+      "minScore": 643,
+      "minRank": 2941,
+      "avgScore": 643
+    },
+    {
+      "universityCode": "2005",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorGroup": "材料类(新材料与化工试验班)",
+      "planCount": 0,
+      "minScore": 634,
+      "minRank": 4593,
+      "avgScore": 634
+    },
+    {
+      "universityCode": "2005",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorGroup": "建筑学",
+      "planCount": 0,
+      "minScore": 613,
+      "minRank": 10360,
+      "avgScore": 619
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1668,
+      "universityCode": "2082",
+      "universityName": "中国石油大学(北京)克拉玛依校区(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "过程装备与控制工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5100
+    },
+    {
+      "index": 1669,
+      "universityCode": "2082",
+      "universityName": "中国石油大学(北京)克拉玛依校区(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "材料科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1670,
+      "universityCode": "2082",
+      "universityName": "中国石油大学(北京)克拉玛依校区(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "资源勘查工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5100
+    },
+    {
+      "index": 1671,
+      "universityCode": "2082",
+      "universityName": "中国石油大学(北京)克拉玛依校区(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "安全工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

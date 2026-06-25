@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 804,
+      "universityCode": "0106",
+      "universityName": "北京交通大学(威海校区)[公办]",
+      "majorCode": "02",
+      "majorName": "通信工程(中外合作办学)",
+      "majorNote": "合作方英国兰卡斯特大学，4+0模式。大量全英文授课，专业课全英文教材，要求较好的英语基础",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 100000
+    },
+    {
+      "index": 805,
+      "universityCode": "0106",
+      "universityName": "北京交通大学(威海校区)[公办]",
+      "majorCode": "03",
+      "majorName": "计算机科学与技术(中外合作办学)",
+      "majorNote": "合作方英国兰卡斯特大学，4+0模式。大量全英文授课，专业课全英文教材，要求较好的英语基础",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 100000
+    },
+    {
+      "index": 806,
+      "universityCode": "0106",
+      "universityName": "北京交通大学(威海校区)[公办]",
+      "majorCode": "04",
+      "majorName": "环境工程(中外合作办学)",
+      "majorNote": "色弱、色盲、单色不识别考生不予录取；合作方英国兰卡斯特大学，4+0模式。大量全英文授课，专业课全英文教材，要求较好的英语基础",
+      "subjectRequirement": "化学",
+      "planCount": 12,
+      "duration": 4,
+      "tuition": 100000
+    },
+    {
+      "index": 807,
+      "universityCode": "0106",
+      "universityName": "北京交通大学(威海校区)[公办]",
+      "majorCode": "05",
+      "majorName": "会计学(中外合作办学)",
+      "majorNote": "合作方英国兰卡斯特大学，4+0模式。大量全英文授课，专业课全英文教材，要求较好的英语基础",
+      "subjectRequirement": "不限",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 100000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

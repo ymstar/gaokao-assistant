@@ -1,0 +1,29 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 346,
+      "universityCode": "0538",
+      "universityName": "哈尔滨工业大学(威海)(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "工科试验班(未来城市卓越优才计划)",
+      "majorNote": "含智能建造、船舶与海洋工程、生物工程、化学工程与工艺、环境工程、信息管理与信息系统、大数据管理与应用、智慧交通专业；录取分数不低于特殊类型招生录取控制分数线；本专业类内任选专业。考生投档成绩若在我校本科普通类统招录取投档分数线以上的，按照学校规定享有申请转专业机会，详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 6600
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

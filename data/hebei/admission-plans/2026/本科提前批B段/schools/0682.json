@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 947,
+      "universityCode": "0682",
+      "universityName": "河海大学(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "海洋科学",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6050
+    },
+    {
+      "index": 948,
+      "universityCode": "0682",
+      "universityName": "河海大学(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "土木工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6380
+    },
+    {
+      "index": 949,
+      "universityCode": "0682",
+      "universityName": "河海大学(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "测绘工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 950,
+      "universityCode": "0682",
+      "universityName": "河海大学(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "海洋资源开发技术",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；大一、大三、大四在南京相应校区学习，大二在常州校区学习",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6380
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

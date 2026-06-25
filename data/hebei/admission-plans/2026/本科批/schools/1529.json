@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11716,
+      "universityCode": "1529",
+      "universityName": "深圳职业技术大学[公办]",
+      "majorCode": "01",
+      "majorName": "生态环境工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11717,
+      "universityCode": "1529",
+      "universityName": "深圳职业技术大学[公办]",
+      "majorCode": "02",
+      "majorName": "智能制造工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11718,
+      "universityCode": "1529",
+      "universityName": "深圳职业技术大学[公办]",
+      "majorCode": "03",
+      "majorName": "智能网联汽车工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11719,
+      "universityCode": "1529",
+      "universityName": "深圳职业技术大学[公办]",
+      "majorCode": "04",
+      "majorName": "制药工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11720,
+      "universityCode": "1529",
+      "universityName": "深圳职业技术大学[公办]",
+      "majorCode": "05",
+      "majorName": "信息安全与管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11721,
+      "universityCode": "1529",
+      "universityName": "深圳职业技术大学[公办]",
+      "majorCode": "06",
+      "majorName": "人工智能工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11722,
+      "universityCode": "1529",
+      "universityName": "深圳职业技术大学[公办]",
+      "majorCode": "07",
+      "majorName": "现代通信工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11723,
+      "universityCode": "1529",
+      "universityName": "深圳职业技术大学[公办]",
+      "majorCode": "08",
+      "majorName": "药学",
+      "majorNote": "不招色盲考生",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

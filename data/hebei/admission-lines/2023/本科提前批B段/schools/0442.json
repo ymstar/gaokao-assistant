@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0442",
+      "universityName": "复旦大学医学院(国家专项计划)[公办]",
+      "majorGroup": "药学(拔尖学生培养基地)",
+      "planCount": 0,
+      "minScore": 656,
+      "minRank": 1360,
+      "avgScore": 659
+    },
+    {
+      "universityCode": "0442",
+      "universityName": "复旦大学医学院(国家专项计划)[公办]",
+      "majorGroup": "公共事业管理",
+      "planCount": 0,
+      "minScore": 646,
+      "minRank": 2514,
+      "avgScore": 646
+    },
+    {
+      "universityCode": "0442",
+      "universityName": "复旦大学医学院(国家专项计划)[公办]",
+      "majorGroup": "预防医学",
+      "planCount": 0,
+      "minScore": 642,
+      "minRank": 3106,
+      "avgScore": 642
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

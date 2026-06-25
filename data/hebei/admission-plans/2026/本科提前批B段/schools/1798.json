@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1435,
+      "universityCode": "1798",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "数学类(数学与交叉科学试验班)",
+      "majorNote": "含数学与应用数学、信息与计算科学、统计学专业；专业分流时，100%类内专业任选",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5250
+    },
+    {
+      "index": 1436,
+      "universityCode": "1798",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "物理学类(空天应用物理试验班)",
+      "majorNote": "含应用物理学、材料物理、光电信息科学与工程专业；专业分流时，100%类内专业任选",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1437,
+      "universityCode": "1798",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "化学类(先进高分子试验班)",
+      "majorNote": "含高分子材料与工程、化学工程与工艺、分子科学与工程专业；专业分流时，100%类内专业任选",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1438,
+      "universityCode": "1798",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "航空航天类(航宇力学)",
+      "majorNote": "含工程力学专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0134",
+      "universityName": "北京理工大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(宇航与机电类)",
+      "planCount": 0,
+      "minScore": 653,
+      "minRank": 1660,
+      "avgScore": 654
+    },
+    {
+      "universityCode": "0134",
+      "universityName": "北京理工大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(智能制造与智能车辆菁英班)",
+      "planCount": 0,
+      "minScore": 650,
+      "minRank": 1984,
+      "avgScore": 650
+    },
+    {
+      "universityCode": "0134",
+      "universityName": "北京理工大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(理学与材料菁英班)",
+      "planCount": 0,
+      "minScore": 648,
+      "minRank": 2236,
+      "avgScore": 649
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

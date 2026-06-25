@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 16848,
+      "universityCode": "2121",
+      "universityName": "中原工学院(郑州市)[公办]",
+      "majorCode": "04",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 16849,
+      "universityCode": "2121",
+      "universityName": "中原工学院(郑州市)[公办]",
+      "majorCode": "05",
+      "majorName": "材料类",
+      "majorNote": "含材料科学与工程、高分子材料与工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 16850,
+      "universityCode": "2121",
+      "universityName": "中原工学院(郑州市)[公办]",
+      "majorCode": "06",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 16851,
+      "universityCode": "2121",
+      "universityName": "中原工学院(郑州市)[公办]",
+      "majorCode": "07",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 16852,
+      "universityCode": "2121",
+      "universityName": "中原工学院(郑州市)[公办]",
+      "majorCode": "08",
+      "majorName": "网络空间安全",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 16853,
+      "universityCode": "2121",
+      "universityName": "中原工学院(郑州市)[公办]",
+      "majorCode": "09",
+      "majorName": "土木类",
+      "majorNote": "含土木工程、城市地下空间工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 16854,
+      "universityCode": "2121",
+      "universityName": "中原工学院(郑州市)[公办]",
+      "majorCode": "10",
+      "majorName": "建筑环境与能源应用工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 9,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 16855,
+      "universityCode": "2121",
+      "universityName": "中原工学院(郑州市)[公办]",
+      "majorCode": "11",
+      "majorName": "轻化工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 16856,
+      "universityCode": "2121",
+      "universityName": "中原工学院(郑州市)[公办]",
+      "majorCode": "12",
+      "majorName": "环境工程",
+      "majorNote": "",
+      "subjectRequirement": "化学和生物",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

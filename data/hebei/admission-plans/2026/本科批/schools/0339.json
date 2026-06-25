@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 2379,
+      "universityCode": "0339",
+      "universityName": "电子科技大学(沙河校区)(成都市)[公办]",
+      "majorCode": "01",
+      "majorName": "软件工程(AI交叉创新人才培养实验班)",
+      "majorNote": "沙河校区",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 9800
+    },
+    {
+      "index": 2380,
+      "universityCode": "0339",
+      "universityName": "电子科技大学(沙河校区)(成都市)[公办]",
+      "majorCode": "02",
+      "majorName": "软件工程(国家卓越工程师教育培养计划特色班)",
+      "majorNote": "沙河校区",
+      "subjectRequirement": "化学",
+      "planCount": 18,
+      "duration": 4,
+      "tuition": 9800
+    },
+    {
+      "index": 2381,
+      "universityCode": "0339",
+      "universityName": "电子科技大学(沙河校区)(成都市)[公办]",
+      "majorCode": "03",
+      "majorName": "临床医学",
+      "majorNote": "对患有轻度色觉异常（俗称色弱）、色觉异常II度（俗称色盲）或不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生不予录取。其他体检要求详见我校有关补充规定。沙河校区",
+      "subjectRequirement": "化学",
+      "planCount": 13,
+      "duration": 5,
+      "tuition": 7200
+    },
+    {
+      "index": 2382,
+      "universityCode": "0339",
+      "universityName": "电子科技大学(沙河校区)(成都市)[公办]",
+      "majorCode": "04",
+      "majorName": "护理学(AI交叉创新人才培养实验班)",
+      "majorNote": "对患有轻度色觉异常（俗称色弱）、色觉异常II度（俗称色盲）或不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形的考生不予录取。其他体检要求详见我校有关补充规定。沙河校区",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 2383,
+      "universityCode": "0339",
+      "universityName": "电子科技大学(沙河校区)(成都市)[公办]",
+      "majorCode": "05",
+      "majorName": "电子信息类(中外合作办学)(通信、微电子)",
+      "majorNote": "含通信工程、微电子科学与工程专业；清水河校区",
+      "subjectRequirement": "化学",
+      "planCount": 18,
+      "duration": 4,
+      "tuition": 100000
+    },
+    {
+      "index": 2384,
+      "universityCode": "0339",
+      "universityName": "电子科技大学(沙河校区)(成都市)[公办]",
+      "majorCode": "06",
+      "majorName": "电子信息类(中外合作办学)(电子信息)",
+      "majorNote": "含电子信息工程专业；清水河校区",
+      "subjectRequirement": "化学",
+      "planCount": 13,
+      "duration": 4,
+      "tuition": 100000
+    },
+    {
+      "index": 2385,
+      "universityCode": "0339",
+      "universityName": "电子科技大学(沙河校区)(成都市)[公办]",
+      "majorCode": "07",
+      "majorName": "电子信息类(中外合作办学)(海南陵水国际教育创新区)",
+      "majorNote": "含通信工程、电子信息工程、微电子科学与工程专业；海南校区",
+      "subjectRequirement": "化学",
+      "planCount": 13,
+      "duration": 4,
+      "tuition": 100000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

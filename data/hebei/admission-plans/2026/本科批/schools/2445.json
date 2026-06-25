@@ -1,0 +1,44 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19071,
+      "universityCode": "2445",
+      "universityName": "湖北商贸学院[民办]",
+      "majorCode": "05",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "就读校区：大一在咸宁校区就读，大二起在武汉校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21800
+    },
+    {
+      "index": 19072,
+      "universityCode": "2445",
+      "universityName": "湖北商贸学院[民办]",
+      "majorCode": "06",
+      "majorName": "计算机科学与技术(中软信创班)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 25800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

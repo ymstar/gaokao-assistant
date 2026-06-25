@@ -1,0 +1,101 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1706,
+      "universityCode": "2110",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "化学类",
+      "majorNote": "含化学、高分子材料与工程、应用化学专业；不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 1707,
+      "universityCode": "2110",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "地理科学类",
+      "majorNote": "含自然地理与资源环境、人文地理与城乡规划、地理信息科学、城乡规划专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 1708,
+      "universityCode": "2110",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "海洋科学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 1709,
+      "universityCode": "2110",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "海洋工程与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 1710,
+      "universityCode": "2110",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "环境科学与工程类",
+      "majorNote": "含环境科学、环境工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 1711,
+      "universityCode": "2110",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "预防医学(广州)",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 7660
+    },
+    {
+      "index": 1712,
+      "universityCode": "2110",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "药学(深圳)",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 7660
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

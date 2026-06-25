@@ -1,0 +1,113 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1389,
+      "universityCode": "1750",
+      "universityName": "武汉理工大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "材料类",
+      "majorNote": "含材料成型及控制工程、材料科学与工程、无机非金属材料工程、高分子材料与工程、复合材料与工程、新能源材料与器件专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1390,
+      "universityCode": "1750",
+      "universityName": "武汉理工大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "电子信息类",
+      "majorNote": "含电子信息工程、电子科学与技术、智能科学与技术、通信工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5850
+    },
+    {
+      "index": 1391,
+      "universityCode": "1750",
+      "universityName": "武汉理工大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "土木类",
+      "majorNote": "含土木工程、建筑环境与能源应用工程、给排水科学与工程、工程管理专业",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 5850
+    },
+    {
+      "index": 1392,
+      "universityCode": "1750",
+      "universityName": "武汉理工大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "道路桥梁与渡河工程(交通设施设计与建造)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1393,
+      "universityCode": "1750",
+      "universityName": "武汉理工大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "环境科学与工程类",
+      "majorNote": "含环境工程、采矿工程、矿物加工工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1394,
+      "universityCode": "1750",
+      "universityName": "武汉理工大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "管理科学与工程类(大数据与智慧安全应急)",
+      "majorNote": "含大数据管理与应用、安全工程、应急管理专业；不招收单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1395,
+      "universityCode": "1750",
+      "universityName": "武汉理工大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "海事管理",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1396,
+      "universityCode": "1750",
+      "universityName": "武汉理工大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "物流工程(智慧物流技术与装备)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

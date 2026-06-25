@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1134,
+      "universityCode": "0986",
+      "universityName": "江苏科技大学(镇江市)(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "应用化学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1135,
+      "universityCode": "0986",
+      "universityName": "江苏科技大学(镇江市)(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "材料成型及控制工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5800
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

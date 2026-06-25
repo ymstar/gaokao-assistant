@@ -1,0 +1,133 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "机械类",
+      "planCount": 0,
+      "minScore": 624,
+      "minRank": 12091,
+      "avgScore": 626
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "经济学类",
+      "planCount": 0,
+      "minScore": 618,
+      "minRank": 15171,
+      "avgScore": 618
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "生物科学",
+      "planCount": 0,
+      "minScore": 617,
+      "minRank": 15775,
+      "avgScore": 617
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "材料类",
+      "planCount": 0,
+      "minScore": 612,
+      "minRank": 18720,
+      "avgScore": 612
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "生物技术",
+      "planCount": 0,
+      "minScore": 605,
+      "minRank": 23383,
+      "avgScore": 607
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "环境科学与工程",
+      "planCount": 0,
+      "minScore": 603,
+      "minRank": 24833,
+      "avgScore": 604
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "食品科学与工程类",
+      "planCount": 0,
+      "minScore": 603,
+      "minRank": 24833,
+      "avgScore": 605
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "工商管理类",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 26287,
+      "avgScore": 604
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "自然保护与环境生态类",
+      "planCount": 0,
+      "minScore": 596,
+      "minRank": 30194,
+      "avgScore": 597
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "公共管理类",
+      "planCount": 0,
+      "minScore": 588,
+      "minRank": 37123,
+      "avgScore": 589
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "风景园林",
+      "planCount": 0,
+      "minScore": 588,
+      "minRank": 37123,
+      "avgScore": 595
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "园林",
+      "planCount": 0,
+      "minScore": 587,
+      "minRank": 38007,
+      "avgScore": 588
+    },
+    {
+      "universityCode": "1685",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "植物生产类",
+      "planCount": 0,
+      "minScore": 586,
+      "minRank": 38943,
+      "avgScore": 589
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1695,
+      "universityCode": "2101",
+      "universityName": "中南财经政法大学(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "金融数学",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1696,
+      "universityCode": "2101",
+      "universityName": "中南财经政法大学(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "工商管理类",
+      "majorNote": "含工商管理、工商管理(商务分析方向)、工商管理(AI应用与管理方向)、工商管理(数智农商管理方向)、市场营销(数智营销方向)、人力资源管理、旅游管理、供应链管理专业；录取分数不低于特殊类型招生录取控制分数线；本专业类内专业任选",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

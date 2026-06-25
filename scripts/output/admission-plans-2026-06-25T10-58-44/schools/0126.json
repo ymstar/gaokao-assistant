@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 72,
+      "universityCode": "0126",
+      "universityName": "北京林业大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "家具设计与工程(卓越人才实验班)",
+      "majorNote": "一二年级在北京校区培养，三年级起在雄安校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 73,
+      "universityCode": "0126",
+      "universityName": "北京林业大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "食品科学与工程",
+      "majorNote": "一二年级在北京校区培养，三年级起在雄安校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 74,
+      "universityCode": "0126",
+      "universityName": "北京林业大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "风景园林",
+      "majorNote": "一二年级在北京校区培养，三年级起在雄安校区培养",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 75,
+      "universityCode": "0126",
+      "universityName": "北京林业大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "水土保持与荒漠化防治",
+      "majorNote": "一二年级在北京校区培养，三年级起在雄安校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 2500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

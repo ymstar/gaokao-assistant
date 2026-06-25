@@ -1,0 +1,97 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1906",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 572,
+      "minRank": 53452,
+      "avgScore": 575
+    },
+    {
+      "universityCode": "1906",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "新闻学",
+      "planCount": 0,
+      "minScore": 570,
+      "minRank": 55712,
+      "avgScore": 570
+    },
+    {
+      "universityCode": "1906",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "财务管理",
+      "planCount": 0,
+      "minScore": 562,
+      "minRank": 65166,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "1906",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "工商管理",
+      "planCount": 0,
+      "minScore": 554,
+      "minRank": 75607,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "1906",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "社会工作",
+      "planCount": 0,
+      "minScore": 552,
+      "minRank": 78313,
+      "avgScore": 552
+    },
+    {
+      "universityCode": "1906",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "安全工程",
+      "planCount": 0,
+      "minScore": 543,
+      "minRank": 91027,
+      "avgScore": 544
+    },
+    {
+      "universityCode": "1906",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "应急技术与管理",
+      "planCount": 0,
+      "minScore": 540,
+      "minRank": 95459,
+      "avgScore": 540
+    },
+    {
+      "universityCode": "1906",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "酒店管理",
+      "planCount": 0,
+      "minScore": 533,
+      "minRank": 106095,
+      "avgScore": 535
+    },
+    {
+      "universityCode": "1906",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "职业卫生工程",
+      "planCount": 0,
+      "minScore": 528,
+      "minRank": 114051,
+      "avgScore": 530
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1101",
+      "universityName": "吉林大学(国家专项计划)[公办]",
+      "majorGroup": "网络空间安全",
+      "planCount": 0,
+      "minScore": 627,
+      "minRank": 5409,
+      "avgScore": 628
+    },
+    {
+      "universityCode": "1101",
+      "universityName": "吉林大学(国家专项计划)[公办]",
+      "majorGroup": "农业机械化及其自动化",
+      "planCount": 0,
+      "minScore": 609,
+      "minRank": 11565,
+      "avgScore": 611
+    },
+    {
+      "universityCode": "1101",
+      "universityName": "吉林大学(国家专项计划)[公办]",
+      "majorGroup": "管理科学与工程类",
+      "planCount": 0,
+      "minScore": 608,
+      "minRank": 12000,
+      "avgScore": 612
+    },
+    {
+      "universityCode": "1101",
+      "universityName": "吉林大学(国家专项计划)[公办]",
+      "majorGroup": "食品科学与工程类",
+      "planCount": 0,
+      "minScore": 603,
+      "minRank": 14334,
+      "avgScore": 605
+    },
+    {
+      "universityCode": "1101",
+      "universityName": "吉林大学(国家专项计划)[公办]",
+      "majorGroup": "动物医学",
+      "planCount": 0,
+      "minScore": 592,
+      "minRank": 20511,
+      "avgScore": 596
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

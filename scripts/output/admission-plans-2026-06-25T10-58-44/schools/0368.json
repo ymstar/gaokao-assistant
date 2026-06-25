@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 296,
+      "universityCode": "0368",
+      "universityName": "东南大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "工科试验班(物质科学与生态)",
+      "majorNote": "含材料科学与工程、环境工程、化学工程与工艺、制药工程、化学专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6380
+    },
+    {
+      "index": 297,
+      "universityCode": "0368",
+      "universityName": "东南大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "工科试验班(智慧建造与智能交通)",
+      "majorNote": "含智慧交通、智能建造、交通工程、交通运输、土木工程、给排水科学与工程、工程管理、城市地下空间工程、道路桥梁与渡河工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6380
+    },
+    {
+      "index": 298,
+      "universityCode": "0368",
+      "universityName": "东南大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "理科试验班",
+      "majorNote": "含数学与应用数学、信息与计算科学、系统科学与工程、统计学、应用物理学、物理学、工程力学、密码科学与技术专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 299,
+      "universityCode": "0368",
+      "universityName": "东南大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "理科试验班(数智科学与智慧金融)",
+      "majorNote": "含信息管理与信息系统、金融工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5720
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

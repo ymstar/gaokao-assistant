@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1499,
+      "universityCode": "1921",
+      "universityName": "燕山大学(秦皇岛市)(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "机械类",
+      "majorNote": "含机械设计制造及其自动化、智能制造工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 1500,
+      "universityCode": "1921",
+      "universityName": "燕山大学(秦皇岛市)(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "车辆工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 1501,
+      "universityCode": "1921",
+      "universityName": "燕山大学(秦皇岛市)(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 1502,
+      "universityCode": "1921",
+      "universityName": "燕山大学(秦皇岛市)(国家专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 1503,
+      "universityCode": "1921",
+      "universityName": "燕山大学(秦皇岛市)(国家专项计划)[公办]",
+      "majorCode": "10",
+      "majorName": "计算机科学与技术",
+      "majorNote": "不招不能准确在显示器上识别红、黄、绿、蓝、紫各颜色中任何一种颜色的数码、字母考生",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 1504,
+      "universityCode": "1921",
+      "universityName": "燕山大学(秦皇岛市)(国家专项计划)[公办]",
+      "majorCode": "11",
+      "majorName": "土木类",
+      "majorNote": "含土木工程、建筑环境与能源应用工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 38,
+      "duration": 4,
+      "tuition": 5390
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

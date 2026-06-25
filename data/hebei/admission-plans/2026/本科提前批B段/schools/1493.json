@@ -1,0 +1,29 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1261,
+      "universityCode": "1493",
+      "universityName": "上海交通大学医学院(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "医学技术类(四年制，部分专业含双学士学位项目)",
+      "majorNote": "含医学检验技术、食品卫生与营养学、医学影像技术、听力与言语康复学专业；录取分数不低于特殊类型招生录取控制分数线上70分",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7400
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

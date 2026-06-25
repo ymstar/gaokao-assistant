@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 215,
+      "universityCode": "0318",
+      "universityName": "大连理工大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "工业设计",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 216,
+      "universityCode": "0318",
+      "universityName": "大连理工大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "智能建造",
+      "majorNote": "含智能建造、水利水电工程、港口航道与海岸工程、建筑环境与能源应用工程、土木工程，上述五个专业分流任选",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 217,
+      "universityCode": "0318",
+      "universityName": "大连理工大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "化工与制药类",
+      "majorNote": "含化学工程与工艺、精细化工、制药工程、高分子材料与工程、安全工程专业；本专业类内分流任选。不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 218,
+      "universityCode": "0318",
+      "universityName": "大连理工大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "生物工程",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6240
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

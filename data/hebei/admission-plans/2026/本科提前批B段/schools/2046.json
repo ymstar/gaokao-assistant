@@ -1,0 +1,101 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1577,
+      "universityCode": "2046",
+      "universityName": "中国海洋大学(青岛市)(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "数学类",
+      "majorNote": "含数学与应用数学、信息与计算科学专业；入校后可选拔至金融科技（金融学+数学与应用数学）双学位项目、数学拔尖班",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1578,
+      "universityCode": "2046",
+      "universityName": "中国海洋大学(青岛市)(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "材料类",
+      "majorNote": "含材料科学与工程、高分子材料与工程、新能源材料与器件专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1579,
+      "universityCode": "2046",
+      "universityName": "中国海洋大学(青岛市)(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1580,
+      "universityCode": "2046",
+      "universityName": "中国海洋大学(青岛市)(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "计算机类",
+      "majorNote": "含计算机科学与技术、数据科学与大数据技术、网络空间安全、软件工程、保密技术专业；设有软件工程五八卓越人才班、计算机科学与技术卓越工程师班、中法卓越工程师班",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1581,
+      "universityCode": "2046",
+      "universityName": "中国海洋大学(青岛市)(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "水产养殖学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1582,
+      "universityCode": "2046",
+      "universityName": "中国海洋大学(青岛市)(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "海洋渔业科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1583,
+      "universityCode": "2046",
+      "universityName": "中国海洋大学(青岛市)(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "药学",
+      "majorNote": "入校后可选拔至药学拔尖班",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 7920
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

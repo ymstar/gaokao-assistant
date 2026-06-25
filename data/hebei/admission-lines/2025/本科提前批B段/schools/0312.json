@@ -1,0 +1,79 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0312",
+      "universityName": "东北大学(沈阳市)(国家专项计划)[公办]",
+      "majorGroup": "数学类",
+      "planCount": 0,
+      "minScore": 638,
+      "minRank": 6503,
+      "avgScore": 638
+    },
+    {
+      "universityCode": "0312",
+      "universityName": "东北大学(沈阳市)(国家专项计划)[公办]",
+      "majorGroup": "机械类",
+      "planCount": 0,
+      "minScore": 638,
+      "minRank": 6503,
+      "avgScore": 638
+    },
+    {
+      "universityCode": "0312",
+      "universityName": "东北大学(沈阳市)(国家专项计划)[公办]",
+      "majorGroup": "材料类",
+      "planCount": 0,
+      "minScore": 634,
+      "minRank": 7879,
+      "avgScore": 634
+    },
+    {
+      "universityCode": "0312",
+      "universityName": "东北大学(沈阳市)(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(1)",
+      "planCount": 0,
+      "minScore": 632,
+      "minRank": 8622,
+      "avgScore": 633
+    },
+    {
+      "universityCode": "0312",
+      "universityName": "东北大学(沈阳市)(国家专项计划)[公办]",
+      "majorGroup": "化学类",
+      "planCount": 0,
+      "minScore": 627,
+      "minRank": 10703,
+      "avgScore": 627
+    },
+    {
+      "universityCode": "0312",
+      "universityName": "东北大学(沈阳市)(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(2)",
+      "planCount": 0,
+      "minScore": 622,
+      "minRank": 13077,
+      "avgScore": 623
+    },
+    {
+      "universityCode": "0312",
+      "universityName": "东北大学(沈阳市)(国家专项计划)[公办]",
+      "majorGroup": "智能采矿工程",
+      "planCount": 0,
+      "minScore": 615,
+      "minRank": 16934,
+      "avgScore": 618
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

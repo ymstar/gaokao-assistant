@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 12324,
+      "universityCode": "1586",
+      "universityName": "四川旅游学院[公办]",
+      "majorCode": "04",
+      "majorName": "智能装备与系统",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 12325,
+      "universityCode": "1586",
+      "universityName": "四川旅游学院[公办]",
+      "majorCode": "05",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 12326,
+      "universityCode": "1586",
+      "universityName": "四川旅游学院[公办]",
+      "majorCode": "06",
+      "majorName": "数字媒体技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 12327,
+      "universityCode": "1586",
+      "universityName": "四川旅游学院[公办]",
+      "majorCode": "07",
+      "majorName": "烹饪与营养教育",
+      "majorNote": "要求考生裸眼或矫正视力（戴上眼镜）达到4.8及以上且无色盲",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 12328,
+      "universityCode": "1586",
+      "universityName": "四川旅游学院[公办]",
+      "majorCode": "08",
+      "majorName": "会计学(ACCA方向)",
+      "majorNote": "ACCA方向，每年另收课程培训费10000元",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

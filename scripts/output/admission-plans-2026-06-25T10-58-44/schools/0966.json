@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1129,
+      "universityCode": "0966",
+      "universityName": "江南大学(无锡市)(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "机械工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 1130,
+      "universityCode": "0966",
+      "universityName": "江南大学(无锡市)(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "环境工程",
+      "majorNote": "不招色盲、色弱、单色不识别考生；第一、二学年在蠡湖校区学习，第三、四学年在宜兴校区学习",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 1131,
+      "universityCode": "0966",
+      "universityName": "江南大学(无锡市)(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "药学",
+      "majorNote": "不招色盲、色弱、单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6800
+    },
+    {
+      "index": 1132,
+      "universityCode": "0966",
+      "universityName": "江南大学(无锡市)(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "护理学",
+      "majorNote": "",
+      "subjectRequirement": "生物",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6800
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

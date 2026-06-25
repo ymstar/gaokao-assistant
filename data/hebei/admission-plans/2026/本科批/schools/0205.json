@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1404,
+      "universityCode": "0205",
+      "universityName": "长春师范大学[公办]",
+      "majorCode": "07",
+      "majorName": "智能制造工程",
+      "majorNote": "我校与长春三友汽车部件制造有限公司合作办学专业",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 13000
+    },
+    {
+      "index": 1405,
+      "universityCode": "0205",
+      "universityName": "长春师范大学[公办]",
+      "majorCode": "08",
+      "majorName": "人工智能",
+      "majorNote": "我校与科大讯飞股份有限公司合作办学专业；学费暂定8500元/年，最终以发改委批复为准",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 1406,
+      "universityCode": "0205",
+      "universityName": "长春师范大学[公办]",
+      "majorCode": "09",
+      "majorName": "跨境电子商务",
+      "majorNote": "我校与福建海狮集团有限公司合作办学专业",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 13000
+    },
+    {
+      "index": 1407,
+      "universityCode": "0205",
+      "universityName": "长春师范大学[公办]",
+      "majorCode": "10",
+      "majorName": "计算机科学与技术(中外合作办学)",
+      "majorNote": "我校与澳大利亚南十字星大学合作办学专业。主干课用英语授课，非英语语种考生慎重报考",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 26000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

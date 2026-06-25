@@ -1,0 +1,113 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1639,
+      "universityCode": "2067",
+      "universityName": "中国农业大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "化学类",
+      "majorNote": "含化学、应用化学专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 1640,
+      "universityCode": "2067",
+      "universityName": "中国农业大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "地理科学类",
+      "majorNote": "含地理信息科学、土地资源管理专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 1641,
+      "universityCode": "2067",
+      "universityName": "中国农业大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "工程力学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 1642,
+      "universityCode": "2067",
+      "universityName": "中国农业大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "水利类",
+      "majorNote": "含农业水利工程、水利水电工程、能源与动力工程、农业建筑环境与能源工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 1643,
+      "universityCode": "2067",
+      "universityName": "中国农业大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "环境科学与工程类",
+      "majorNote": "含应用气象学、生态学、资源环境科学、环境工程专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 1644,
+      "universityCode": "2067",
+      "universityName": "中国农业大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "园艺",
+      "majorNote": "该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 3000
+    },
+    {
+      "index": 1645,
+      "universityCode": "2067",
+      "universityName": "中国农业大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "动物医学类",
+      "majorNote": "含动物医学、中兽医学、兽医公共卫生专业；该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 3000
+    },
+    {
+      "index": 1646,
+      "universityCode": "2067",
+      "universityName": "中国农业大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "园林",
+      "majorNote": "该专业对色觉异常考生有要求，请报考前务必查阅院校章程",
+      "subjectRequirement": "生物",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 3000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

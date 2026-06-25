@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 986,
+      "universityCode": "0855",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "测控技术与仪器",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 987,
+      "universityCode": "0855",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "能源与动力工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 988,
+      "universityCode": "0855",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 989,
+      "universityCode": "0855",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 990,
+      "universityCode": "0855",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "工程造价",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 991,
+      "universityCode": "0855",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "会计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

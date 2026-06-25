@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3972,
+      "universityCode": "0580",
+      "universityName": "杭州职业技术大学[公办]",
+      "majorCode": "06",
+      "majorName": "电梯工程技术",
+      "majorNote": "在钱塘校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 7500
+    },
+    {
+      "index": 3973,
+      "universityCode": "0580",
+      "universityName": "杭州职业技术大学[公办]",
+      "majorCode": "07",
+      "majorName": "机械电子工程技术",
+      "majorNote": "在新安江校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 3974,
+      "universityCode": "0580",
+      "universityName": "杭州职业技术大学[公办]",
+      "majorCode": "08",
+      "majorName": "机器人技术",
+      "majorNote": "在钱塘校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 3975,
+      "universityCode": "0580",
+      "universityName": "杭州职业技术大学[公办]",
+      "majorCode": "09",
+      "majorName": "新能源汽车工程技术",
+      "majorNote": "在钱塘校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 7500
+    },
+    {
+      "index": 3976,
+      "universityCode": "0580",
+      "universityName": "杭州职业技术大学[公办]",
+      "majorCode": "10",
+      "majorName": "生物制药技术",
+      "majorNote": "在钱塘校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 3977,
+      "universityCode": "0580",
+      "universityName": "杭州职业技术大学[公办]",
+      "majorCode": "11",
+      "majorName": "物联网工程技术",
+      "majorNote": "在新安江校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 11,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 3978,
+      "universityCode": "0580",
+      "universityName": "杭州职业技术大学[公办]",
+      "majorCode": "12",
+      "majorName": "人工智能工程技术",
+      "majorNote": "在钱塘校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

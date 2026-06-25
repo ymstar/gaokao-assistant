@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 969,
+      "universityCode": "0142",
+      "universityName": "北京外国语大学[公办]",
+      "majorCode": "34",
+      "majorName": "数字经济",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 970,
+      "universityCode": "0142",
+      "universityName": "北京外国语大学[公办]",
+      "majorCode": "35",
+      "majorName": "法学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 971,
+      "universityCode": "0142",
+      "universityName": "北京外国语大学[公办]",
+      "majorCode": "36",
+      "majorName": "英语(北京理工大学信息管理与系统专业联培)",
+      "majorNote": "只招英语语种考生",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 972,
+      "universityCode": "0142",
+      "universityName": "北京外国语大学[公办]",
+      "majorCode": "37",
+      "majorName": "英语(中央财经大学金融学专业联合培养)",
+      "majorNote": "只招英语语种考生",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 973,
+      "universityCode": "0142",
+      "universityName": "北京外国语大学[公办]",
+      "majorCode": "38",
+      "majorName": "德语(双学位)",
+      "majorNote": "德语+大数据管理与应用双学位",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 974,
+      "universityCode": "0142",
+      "universityName": "北京外国语大学[公办]",
+      "majorCode": "39",
+      "majorName": "翻译(外交外事高级翻译)",
+      "majorNote": "只招英语语种考生",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 77,
+      "universityCode": "0134",
+      "universityName": "北京师范大学(珠海校区)(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "化学",
+      "majorNote": "国家公费师范生；师范类；录取分数不低于特殊类型招生录取控制分数线；不招色弱、色盲考生及单色识别不全考生，详见学校招生章程；本专业为本研衔接公费教育，履约任教范围：邯郸市、承德市、沧州市、衡水市，具体要求详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 78,
+      "universityCode": "0134",
+      "universityName": "北京师范大学(珠海校区)(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "地理科学",
+      "majorNote": "国家公费师范生；师范类；录取分数不低于特殊类型招生录取控制分数线；不招色盲考生及单色识别不全考生，详见学校招生章程；本专业为本研衔接公费教育，履约任教范围：邯郸市、邢台市、定州市、廊坊市、衡水市，具体要求详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

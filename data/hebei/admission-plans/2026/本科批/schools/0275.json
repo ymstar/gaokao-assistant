@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1899,
+      "universityCode": "0275",
+      "universityName": "重庆工业职业技术大学[公办]",
+      "majorCode": "01",
+      "majorName": "建筑智能检测与修复",
+      "majorNote": "在南川校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7260
+    },
+    {
+      "index": 1900,
+      "universityCode": "0275",
+      "universityName": "重庆工业职业技术大学[公办]",
+      "majorCode": "02",
+      "majorName": "机械设计制造及自动化",
+      "majorNote": "大一南川校区，大二起两江校区",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7590
+    },
+    {
+      "index": 1901,
+      "universityCode": "0275",
+      "universityName": "重庆工业职业技术大学[公办]",
+      "majorCode": "03",
+      "majorName": "材料成型及控制工程",
+      "majorNote": "大一南川校区，大二起两江校区",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7590
+    },
+    {
+      "index": 1902,
+      "universityCode": "0275",
+      "universityName": "重庆工业职业技术大学[公办]",
+      "majorCode": "04",
+      "majorName": "新能源汽车工程技术",
+      "majorNote": "大一南川校区，大二起两江校区",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7590
+    },
+    {
+      "index": 1903,
+      "universityCode": "0275",
+      "universityName": "重庆工业职业技术大学[公办]",
+      "majorCode": "05",
+      "majorName": "汽车芯片与软件工程技术",
+      "majorNote": "大一南川校区，大二起两江校区",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7260
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1061",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "农学",
+      "planCount": 0,
+      "minScore": 559,
+      "minRank": 46811,
+      "avgScore": 564
+    },
+    {
+      "universityCode": "1061",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "园艺",
+      "planCount": 0,
+      "minScore": 549,
+      "minRank": 57150,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "1061",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "林学(低碳林业)",
+      "planCount": 0,
+      "minScore": 547,
+      "minRank": 59388,
+      "avgScore": 556
+    },
+    {
+      "universityCode": "1061",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "设施农业科学与工程",
+      "planCount": 0,
+      "minScore": 546,
+      "minRank": 60449,
+      "avgScore": 550
+    },
+    {
+      "universityCode": "1061",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "植物保护(智慧植保)",
+      "planCount": 0,
+      "minScore": 545,
+      "minRank": 61567,
+      "avgScore": 545
+    },
+    {
+      "universityCode": "1061",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "森林保护",
+      "planCount": 0,
+      "minScore": 545,
+      "minRank": 61567,
+      "avgScore": 545
+    },
+    {
+      "universityCode": "1061",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "木材科学与工程",
+      "planCount": 0,
+      "minScore": 544,
+      "minRank": 62750,
+      "avgScore": 549
+    },
+    {
+      "universityCode": "1061",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "草业科学",
+      "planCount": 0,
+      "minScore": 544,
+      "minRank": 62750,
+      "avgScore": 550
+    },
+    {
+      "universityCode": "1061",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "植物保护",
+      "planCount": 0,
+      "minScore": 542,
+      "minRank": 65074,
+      "avgScore": 552
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

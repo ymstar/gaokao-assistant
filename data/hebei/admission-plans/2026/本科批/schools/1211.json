@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 9509,
+      "universityCode": "1211",
+      "universityName": "南京特殊教育师范学院[公办]",
+      "majorCode": "10",
+      "majorName": "学前教育",
+      "majorNote": "师范类；不招色盲、色弱及单色识别不全者",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 9510,
+      "universityCode": "1211",
+      "universityName": "南京特殊教育师范学院[公办]",
+      "majorCode": "11",
+      "majorName": "小学教育",
+      "majorNote": "师范类",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 9511,
+      "universityCode": "1211",
+      "universityName": "南京特殊教育师范学院[公办]",
+      "majorCode": "12",
+      "majorName": "特殊教育",
+      "majorNote": "师范类；不招色盲、色弱及单色识别不全者",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 9512,
+      "universityCode": "1211",
+      "universityName": "南京特殊教育师范学院[公办]",
+      "majorCode": "13",
+      "majorName": "英语",
+      "majorNote": "师范类；只招英语语种考生",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 9513,
+      "universityCode": "1211",
+      "universityName": "南京特殊教育师范学院[公办]",
+      "majorCode": "14",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 9514,
+      "universityCode": "1211",
+      "universityName": "南京特殊教育师范学院[公办]",
+      "majorCode": "15",
+      "majorName": "康复治疗学",
+      "majorNote": "不招色盲、色弱及单色识别不全者",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

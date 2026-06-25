@@ -1,0 +1,142 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 45972,
+      "avgScore": 581
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "电气工程及其自动化",
+      "planCount": 0,
+      "minScore": 578,
+      "minRank": 47025,
+      "avgScore": 581
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "电子信息工程",
+      "planCount": 0,
+      "minScore": 575,
+      "minRank": 50224,
+      "avgScore": 579
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "机械设计制造及其自动化",
+      "planCount": 0,
+      "minScore": 574,
+      "minRank": 51275,
+      "avgScore": 576
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "机械电子工程",
+      "planCount": 0,
+      "minScore": 572,
+      "minRank": 53452,
+      "avgScore": 573
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "材料成型及控制工程",
+      "planCount": 0,
+      "minScore": 562,
+      "minRank": 65166,
+      "avgScore": 564
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "能源化学工程",
+      "planCount": 0,
+      "minScore": 559,
+      "minRank": 68977,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "食品科学与工程",
+      "planCount": 0,
+      "minScore": 554,
+      "minRank": 75607,
+      "avgScore": 557
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "化学工程与工艺",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 79754,
+      "avgScore": 555
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "食品质量与安全",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 79754,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "环境工程",
+      "planCount": 0,
+      "minScore": 545,
+      "minRank": 88117,
+      "avgScore": 546
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "环境科学",
+      "planCount": 0,
+      "minScore": 544,
+      "minRank": 89552,
+      "avgScore": 545
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "环境工程",
+      "planCount": 0,
+      "minScore": 543,
+      "minRank": 91027,
+      "avgScore": 547
+    },
+    {
+      "universityCode": "0581",
+      "universityName": "河北科技大学(国家专项计划)[公办]",
+      "majorGroup": "土木工程",
+      "planCount": 0,
+      "minScore": 537,
+      "minRank": 99987,
+      "avgScore": 542
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

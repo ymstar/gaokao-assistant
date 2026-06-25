@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10692,
+      "universityCode": "1364",
+      "universityName": "山东工艺美术学院[公办]",
+      "majorCode": "01",
+      "majorName": "工业设计",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 9000
+    },
+    {
+      "index": 10693,
+      "universityCode": "1364",
+      "universityName": "山东工艺美术学院[公办]",
+      "majorCode": "02",
+      "majorName": "智能交互设计",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 9000
+    },
+    {
+      "index": 10694,
+      "universityCode": "1364",
+      "universityName": "山东工艺美术学院[公办]",
+      "majorCode": "03",
+      "majorName": "智能工程与创意设计",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 9000
+    },
+    {
+      "index": 10695,
+      "universityCode": "1364",
+      "universityName": "山东工艺美术学院[公办]",
+      "majorCode": "04",
+      "majorName": "服装设计与工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 9000
+    },
+    {
+      "index": 10696,
+      "universityCode": "1364",
+      "universityName": "山东工艺美术学院[公办]",
+      "majorCode": "05",
+      "majorName": "家具设计与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 9000
+    },
+    {
+      "index": 10697,
+      "universityCode": "1364",
+      "universityName": "山东工艺美术学院[公办]",
+      "majorCode": "06",
+      "majorName": "建筑学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 9000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

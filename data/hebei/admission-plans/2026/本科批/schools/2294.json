@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 18270,
+      "universityCode": "2294",
+      "universityName": "成都外国语学院[民办]",
+      "majorCode": "31",
+      "majorName": "金融科技",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 18271,
+      "universityCode": "2294",
+      "universityName": "成都外国语学院[民办]",
+      "majorCode": "32",
+      "majorName": "国际经济与贸易",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 18272,
+      "universityCode": "2294",
+      "universityName": "成都外国语学院[民办]",
+      "majorCode": "33",
+      "majorName": "汉语言文学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 18273,
+      "universityCode": "2294",
+      "universityName": "成都外国语学院[民办]",
+      "majorCode": "34",
+      "majorName": "汉语国际教育",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 18274,
+      "universityCode": "2294",
+      "universityName": "成都外国语学院[民办]",
+      "majorCode": "35",
+      "majorName": "英语",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 18275,
+      "universityCode": "2294",
+      "universityName": "成都外国语学院[民办]",
+      "majorCode": "36",
+      "majorName": "日语",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 18276,
+      "universityCode": "2294",
+      "universityName": "成都外国语学院[民办]",
+      "majorCode": "37",
+      "majorName": "翻译",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 18277,
+      "universityCode": "2294",
+      "universityName": "成都外国语学院[民办]",
+      "majorCode": "38",
+      "majorName": "商务英语",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 18278,
+      "universityCode": "2294",
+      "universityName": "成都外国语学院[民办]",
+      "majorCode": "39",
+      "majorName": "网络与新媒体",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 18279,
+      "universityCode": "2294",
+      "universityName": "成都外国语学院[民办]",
+      "majorCode": "40",
+      "majorName": "国际新闻与传播",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 17000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

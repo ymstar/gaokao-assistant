@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 20209,
+      "universityCode": "2697",
+      "universityName": "武汉东湖学院[民办]",
+      "majorCode": "15",
+      "majorName": "法学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 24800
+    },
+    {
+      "index": 20210,
+      "universityCode": "2697",
+      "universityName": "武汉东湖学院[民办]",
+      "majorCode": "16",
+      "majorName": "汉语言文学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 24800
+    },
+    {
+      "index": 20211,
+      "universityCode": "2697",
+      "universityName": "武汉东湖学院[民办]",
+      "majorCode": "17",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 24800
+    },
+    {
+      "index": 20212,
+      "universityCode": "2697",
+      "universityName": "武汉东湖学院[民办]",
+      "majorCode": "18",
+      "majorName": "计算机类",
+      "majorNote": "含计算机科学与技术、网络空间安全、物联网工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 24800
+    },
+    {
+      "index": 20213,
+      "universityCode": "2697",
+      "universityName": "武汉东湖学院[民办]",
+      "majorCode": "19",
+      "majorName": "护理学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 24800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

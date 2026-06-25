@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1613",
+      "universityName": "上海对外经贸大学(国家专项计划)[公办]",
+      "majorGroup": "数据科学与大数据技术",
+      "planCount": 0,
+      "minScore": 595,
+      "minRank": 18004,
+      "avgScore": 596
+    },
+    {
+      "universityCode": "1613",
+      "universityName": "上海对外经贸大学(国家专项计划)[公办]",
+      "majorGroup": "应用统计学",
+      "planCount": 0,
+      "minScore": 589,
+      "minRank": 21159,
+      "avgScore": 590
+    },
+    {
+      "universityCode": "1613",
+      "universityName": "上海对外经贸大学(国家专项计划)[公办]",
+      "majorGroup": "信息管理与信息系统",
+      "planCount": 0,
+      "minScore": 583,
+      "minRank": 24519,
+      "avgScore": 585
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

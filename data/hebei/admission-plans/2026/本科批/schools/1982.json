@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15602,
+      "universityCode": "1982",
+      "universityName": "肇庆医学院[公办]",
+      "majorCode": "01",
+      "majorName": "临床医学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 5,
+      "tuition": 5800
+    },
+    {
+      "index": 15603,
+      "universityCode": "1982",
+      "universityName": "肇庆医学院[公办]",
+      "majorCode": "02",
+      "majorName": "药学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 15604,
+      "universityCode": "1982",
+      "universityName": "肇庆医学院[公办]",
+      "majorCode": "03",
+      "majorName": "医学检验技术",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 15605,
+      "universityCode": "1982",
+      "universityName": "肇庆医学院[公办]",
+      "majorCode": "04",
+      "majorName": "医学影像技术",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 15606,
+      "universityCode": "1982",
+      "universityName": "肇庆医学院[公办]",
+      "majorCode": "05",
+      "majorName": "康复治疗学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 15607,
+      "universityCode": "1982",
+      "universityName": "肇庆医学院[公办]",
+      "majorCode": "06",
+      "majorName": "口腔医学技术",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 15608,
+      "universityCode": "1982",
+      "universityName": "肇庆医学院[公办]",
+      "majorCode": "07",
+      "majorName": "护理学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

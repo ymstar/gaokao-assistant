@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11,
+      "universityCode": "0082",
+      "universityName": "北京大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "工科试验班类",
+      "majorNote": "含理论与应用力学、工程力学、能源与环境系统工程、航空航天工程、生物医学工程、材料科学与工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 12,
+      "universityCode": "0082",
+      "universityName": "北京大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "法学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 13,
+      "universityCode": "0082",
+      "universityName": "北京大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "地球物理学类",
+      "majorNote": "含地球物理学、地理信息科学(遥感与地理信息系统)、空间科学与技术专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 14,
+      "universityCode": "0082",
+      "universityName": "北京大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "心理学类",
+      "majorNote": "含应用心理学专业",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

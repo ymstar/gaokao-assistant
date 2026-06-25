@@ -1,0 +1,44 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1342,
+      "universityCode": "0201",
+      "universityName": "长春工业大学(八协计划)[公办]",
+      "majorCode": "04",
+      "majorName": "机械工程",
+      "majorNote": "八协计划，招加试蒙古语文考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5940
+    },
+    {
+      "index": 1343,
+      "universityCode": "0201",
+      "universityName": "长春工业大学(八协计划)[公办]",
+      "majorCode": "05",
+      "majorName": "环境工程",
+      "majorNote": "八协计划，招加试蒙古语文考生，不招色盲色弱且不招单色识别不全者",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5940
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

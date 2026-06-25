@@ -1,0 +1,79 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2299",
+      "universityName": "中国民航大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(智能与计算机)",
+      "planCount": 0,
+      "minScore": 581,
+      "minRank": 25677,
+      "avgScore": 584
+    },
+    {
+      "universityCode": "2299",
+      "universityName": "中国民航大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(电子信息与电气自动化)",
+      "planCount": 0,
+      "minScore": 578,
+      "minRank": 27571,
+      "avgScore": 581
+    },
+    {
+      "universityCode": "2299",
+      "universityName": "中国民航大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(航空航天)",
+      "planCount": 0,
+      "minScore": 577,
+      "minRank": 28237,
+      "avgScore": 579
+    },
+    {
+      "universityCode": "2299",
+      "universityName": "中国民航大学(国家专项计划)[公办]",
+      "majorGroup": "工商管理类(航空运输管理)",
+      "planCount": 0,
+      "minScore": 574,
+      "minRank": 30144,
+      "avgScore": 577
+    },
+    {
+      "universityCode": "2299",
+      "universityName": "中国民航大学(国家专项计划)[公办]",
+      "majorGroup": "交通工程",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 30842,
+      "avgScore": 574
+    },
+    {
+      "universityCode": "2299",
+      "universityName": "中国民航大学(国家专项计划)[公办]",
+      "majorGroup": "材料物理(无损检测与表面工程)",
+      "planCount": 0,
+      "minScore": 571,
+      "minRank": 32135,
+      "avgScore": 572
+    },
+    {
+      "universityCode": "2299",
+      "universityName": "中国民航大学(国家专项计划)[公办]",
+      "majorGroup": "交通运输(空中交通管制)",
+      "planCount": 0,
+      "minScore": 570,
+      "minRank": 32803,
+      "avgScore": 573
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

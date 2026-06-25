@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10022,
+      "universityCode": "1264",
+      "universityName": "宁波诺丁汉大学[中外合作办学]",
+      "majorCode": "07",
+      "majorName": "经济学(中外合作办学)",
+      "majorNote": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 110000
+    },
+    {
+      "index": 10023,
+      "universityCode": "1264",
+      "universityName": "宁波诺丁汉大学[中外合作办学]",
+      "majorCode": "08",
+      "majorName": "金融科技(中外合作办学)",
+      "majorNote": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 110000
+    },
+    {
+      "index": 10024,
+      "universityCode": "1264",
+      "universityName": "宁波诺丁汉大学[中外合作办学]",
+      "majorCode": "09",
+      "majorName": "国际经济与贸易(中外合作办学)",
+      "majorNote": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 110000
+    },
+    {
+      "index": 10025,
+      "universityCode": "1264",
+      "universityName": "宁波诺丁汉大学[中外合作办学]",
+      "majorCode": "10",
+      "majorName": "传播学(中外合作办学)",
+      "majorNote": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 110000
+    },
+    {
+      "index": 10026,
+      "universityCode": "1264",
+      "universityName": "宁波诺丁汉大学[中外合作办学]",
+      "majorCode": "11",
+      "majorName": "数学与应用数学(中外合作办学)",
+      "majorNote": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报，含2+2和4+0两种学制，进校后自由选择学制，2+2后两年在英国诺丁汉大学就读，学费另计",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 110000
+    },
+    {
+      "index": 10027,
+      "universityCode": "1264",
+      "universityName": "宁波诺丁汉大学[中外合作办学]",
+      "majorCode": "12",
+      "majorName": "统计学(中外合作办学)",
+      "majorNote": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报，含2+2和4+0两种学制，进校后自由选择学制，2+2后两年在英国诺丁汉大学就读，学费另计",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 110000
+    },
+    {
+      "index": 10028,
+      "universityCode": "1264",
+      "universityName": "宁波诺丁汉大学[中外合作办学]",
+      "majorCode": "13",
+      "majorName": "电气类(中外合作办学)",
+      "majorNote": "含材料成型及控制工程(中外合作办学)、工业设计(中外合作办学)、电气工程及其自动化(中外合作办学)、土木工程(中外合作办学)、建筑环境与能源应用工程(中外合作办学)、航空航天工程(中外合作办学)、化学工程与工艺(中外合作办学)、环境工程(中外合作办学)专业；单科成绩要求：外语>=110；含2+2和4+0两种学制，进校后自由选择学制，2+2后两年在英国诺丁汉大学就读，学费另计",
+      "subjectRequirement": "化学",
+      "planCount": 20,
+      "duration": 4,
+      "tuition": 110000
+    },
+    {
+      "index": 10029,
+      "universityCode": "1264",
+      "universityName": "宁波诺丁汉大学[中外合作办学]",
+      "majorCode": "14",
+      "majorName": "计算机科学与技术(中外合作办学)",
+      "majorNote": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报，含2个专业方向：计算机科学、计算机科学与人工智能。含2+2和4+0两种学制，进校后自由选择学制，2+2后两年在英国诺丁汉大学就读，学费另计",
+      "subjectRequirement": "化学",
+      "planCount": 9,
+      "duration": 4,
+      "tuition": 110000
+    },
+    {
+      "index": 10030,
+      "universityCode": "1264",
+      "universityName": "宁波诺丁汉大学[中外合作办学]",
+      "majorCode": "15",
+      "majorName": "建筑学(中外合作办学)",
+      "majorNote": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 110000
+    },
+    {
+      "index": 10031,
+      "universityCode": "1264",
+      "universityName": "宁波诺丁汉大学[中外合作办学]",
+      "majorCode": "16",
+      "majorName": "财务管理(中外合作办学)",
+      "majorNote": "单科成绩要求：外语>=110；全英文授课，非英语语种考生请慎重填报",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 110000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

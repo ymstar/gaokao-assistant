@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 5805,
+      "universityCode": "0777",
+      "universityName": "湖北第二师范学院[公办]",
+      "majorCode": "05",
+      "majorName": "国际经济与贸易",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 5806,
+      "universityCode": "0777",
+      "universityName": "湖北第二师范学院[公办]",
+      "majorCode": "06",
+      "majorName": "化学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 5807,
+      "universityCode": "0777",
+      "universityName": "湖北第二师范学院[公办]",
+      "majorCode": "07",
+      "majorName": "材料物理(新能源电池方向)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 5808,
+      "universityCode": "0777",
+      "universityName": "湖北第二师范学院[公办]",
+      "majorCode": "08",
+      "majorName": "计算机类",
+      "majorNote": "含计算机科学与技术、软件工程、数据科学与大数据技术专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 5809,
+      "universityCode": "0777",
+      "universityName": "湖北第二师范学院[公办]",
+      "majorCode": "09",
+      "majorName": "工程管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

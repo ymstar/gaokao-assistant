@@ -1,0 +1,43 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2229",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorGroup": "海洋工程类(智慧海洋试验班)",
+      "planCount": 0,
+      "minScore": 632,
+      "minRank": 4220,
+      "avgScore": 633
+    },
+    {
+      "universityCode": "2229",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorGroup": "化学类(先进高分子试验班)",
+      "planCount": 0,
+      "minScore": 624,
+      "minRank": 6190,
+      "avgScore": 626
+    },
+    {
+      "universityCode": "2229",
+      "universityName": "西北工业大学(国家专项计划)[公办]",
+      "majorGroup": "建筑学",
+      "planCount": 0,
+      "minScore": 609,
+      "minRank": 11565,
+      "avgScore": 612
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

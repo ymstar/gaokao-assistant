@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0167",
+      "universityName": "北京邮电大学(国家专项计划)[公办]",
+      "majorGroup": "电子信息类",
+      "planCount": 0,
+      "minScore": 642,
+      "minRank": 3106,
+      "avgScore": 645
+    },
+    {
+      "universityCode": "0167",
+      "universityName": "北京邮电大学(国家专项计划)[公办]",
+      "majorGroup": "智能交互设计",
+      "planCount": 0,
+      "minScore": 633,
+      "minRank": 4796,
+      "avgScore": 636
+    },
+    {
+      "universityCode": "0167",
+      "universityName": "北京邮电大学(国家专项计划)[公办]",
+      "majorGroup": "管理科学与工程类(商务智能与智慧供应链)",
+      "planCount": 0,
+      "minScore": 626,
+      "minRank": 6430,
+      "avgScore": 629
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

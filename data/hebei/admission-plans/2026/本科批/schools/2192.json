@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17531,
+      "universityCode": "2192",
+      "universityName": "南京邮电大学通达学院(扬州市)[独立学院]",
+      "majorCode": "01",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 22000
+    },
+    {
+      "index": 17532,
+      "universityCode": "2192",
+      "universityName": "南京邮电大学通达学院(扬州市)[独立学院]",
+      "majorCode": "02",
+      "majorName": "电子科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 17533,
+      "universityCode": "2192",
+      "universityName": "南京邮电大学通达学院(扬州市)[独立学院]",
+      "majorCode": "03",
+      "majorName": "通信工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 22000
+    },
+    {
+      "index": 17534,
+      "universityCode": "2192",
+      "universityName": "南京邮电大学通达学院(扬州市)[独立学院]",
+      "majorCode": "04",
+      "majorName": "信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 22000
+    },
+    {
+      "index": 17535,
+      "universityCode": "2192",
+      "universityName": "南京邮电大学通达学院(扬州市)[独立学院]",
+      "majorCode": "05",
+      "majorName": "集成电路设计与集成系统",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 17536,
+      "universityCode": "2192",
+      "universityName": "南京邮电大学通达学院(扬州市)[独立学院]",
+      "majorCode": "06",
+      "majorName": "自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 17537,
+      "universityCode": "2192",
+      "universityName": "南京邮电大学通达学院(扬州市)[独立学院]",
+      "majorCode": "07",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 17538,
+      "universityCode": "2192",
+      "universityName": "南京邮电大学通达学院(扬州市)[独立学院]",
+      "majorCode": "08",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 17539,
+      "universityCode": "2192",
+      "universityName": "南京邮电大学通达学院(扬州市)[独立学院]",
+      "majorCode": "09",
+      "majorName": "信息安全",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 17540,
+      "universityCode": "2192",
+      "universityName": "南京邮电大学通达学院(扬州市)[独立学院]",
+      "majorCode": "10",
+      "majorName": "物联网工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 22000
+    },
+    {
+      "index": 17541,
+      "universityCode": "2192",
+      "universityName": "南京邮电大学通达学院(扬州市)[独立学院]",
+      "majorCode": "11",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 20000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

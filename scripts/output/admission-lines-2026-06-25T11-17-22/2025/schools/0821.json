@@ -1,0 +1,43 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0821",
+      "universityName": "华中师范大学(优师专项)[公办]",
+      "majorGroup": "数学与应用数学",
+      "planCount": 0,
+      "minScore": 617,
+      "minRank": 15775,
+      "avgScore": 622
+    },
+    {
+      "universityCode": "0821",
+      "universityName": "华中师范大学(优师专项)[公办]",
+      "majorGroup": "英语",
+      "planCount": 0,
+      "minScore": 616,
+      "minRank": 16339,
+      "avgScore": 616
+    },
+    {
+      "universityCode": "0821",
+      "universityName": "华中师范大学(优师专项)[公办]",
+      "majorGroup": "物理学",
+      "planCount": 0,
+      "minScore": 609,
+      "minRank": 20698,
+      "avgScore": 610
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

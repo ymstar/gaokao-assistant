@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 4195,
+      "universityCode": "0597",
+      "universityName": "河北大学(保定市)(地方专项计划)[公办]",
+      "majorCode": "16",
+      "majorName": "数学与应用数学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 30,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 4196,
+      "universityCode": "0597",
+      "universityName": "河北大学(保定市)(地方专项计划)[公办]",
+      "majorCode": "17",
+      "majorName": "应用物理学",
+      "majorNote": "不招色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 4197,
+      "universityCode": "0597",
+      "universityName": "河北大学(保定市)(地方专项计划)[公办]",
+      "majorCode": "18",
+      "majorName": "化学",
+      "majorNote": "不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+      "subjectRequirement": "化学",
+      "planCount": 30,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 4198,
+      "universityCode": "0597",
+      "universityName": "河北大学(保定市)(地方专项计划)[公办]",
+      "majorCode": "19",
+      "majorName": "生物科学类",
+      "majorNote": "含生物科学、生物技术、生物信息学专业；不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+      "subjectRequirement": "化学",
+      "planCount": 54,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 4199,
+      "universityCode": "0597",
+      "universityName": "河北大学(保定市)(地方专项计划)[公办]",
+      "majorCode": "20",
+      "majorName": "材料化学",
+      "majorNote": "不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 4200,
+      "universityCode": "0597",
+      "universityName": "河北大学(保定市)(地方专项计划)[公办]",
+      "majorCode": "21",
+      "majorName": "土木工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 40,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 4201,
+      "universityCode": "0597",
+      "universityName": "河北大学(保定市)(地方专项计划)[公办]",
+      "majorCode": "22",
+      "majorName": "药学类",
+      "majorNote": "含药学、药物制剂专业；不招色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+      "subjectRequirement": "化学",
+      "planCount": 20,
+      "duration": 4,
+      "tuition": 5720
+    },
+    {
+      "index": 4202,
+      "universityCode": "0597",
+      "universityName": "河北大学(保定市)(地方专项计划)[公办]",
+      "majorCode": "23",
+      "majorName": "图书馆学",
+      "majorNote": "不招不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5060
+    },
+    {
+      "index": 4203,
+      "universityCode": "0597",
+      "universityName": "河北大学(保定市)(地方专项计划)[公办]",
+      "majorCode": "24",
+      "majorName": "质量管理工程",
+      "majorNote": "不招不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5060
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

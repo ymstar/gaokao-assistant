@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 4314,
+      "universityCode": "0607",
+      "universityName": "河北工程大学(邯郸市)(地方专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "金融工程",
+      "majorNote": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 4315,
+      "universityCode": "0607",
+      "universityName": "河北工程大学(邯郸市)(地方专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 19,
+      "duration": 4,
+      "tuition": 5300
+    },
+    {
+      "index": 4316,
+      "universityCode": "0607",
+      "universityName": "河北工程大学(邯郸市)(地方专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "材料成型及控制工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 11,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 4317,
+      "universityCode": "0607",
+      "universityName": "河北工程大学(邯郸市)(地方专项计划)[公办]",
+      "majorCode": "10",
+      "majorName": "能源与动力工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 9,
+      "duration": 4,
+      "tuition": 5300
+    },
+    {
+      "index": 4318,
+      "universityCode": "0607",
+      "universityName": "河北工程大学(邯郸市)(地方专项计划)[公办]",
+      "majorCode": "11",
+      "majorName": "机器人工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 4319,
+      "universityCode": "0607",
+      "universityName": "河北工程大学(邯郸市)(地方专项计划)[公办]",
+      "majorCode": "12",
+      "majorName": "给排水科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 24,
+      "duration": 4,
+      "tuition": 5300
+    },
+    {
+      "index": 4320,
+      "universityCode": "0607",
+      "universityName": "河北工程大学(邯郸市)(地方专项计划)[公办]",
+      "majorCode": "13",
+      "majorName": "水利水电工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 25,
+      "duration": 4,
+      "tuition": 5300
+    },
+    {
+      "index": 4321,
+      "universityCode": "0607",
+      "universityName": "河北工程大学(邯郸市)(地方专项计划)[公办]",
+      "majorCode": "14",
+      "majorName": "工程管理",
+      "majorNote": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 4322,
+      "universityCode": "0607",
+      "universityName": "河北工程大学(邯郸市)(地方专项计划)[公办]",
+      "majorCode": "15",
+      "majorName": "大数据管理与应用",
+      "majorNote": "不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 12,
+      "duration": 4,
+      "tuition": 4600
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

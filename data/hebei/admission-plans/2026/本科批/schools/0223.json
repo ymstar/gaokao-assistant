@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1591,
+      "universityCode": "0223",
+      "universityName": "长沙学院[公办]",
+      "majorCode": "05",
+      "majorName": "英语",
+      "majorNote": "只招英语语种考生；单科成绩要求：外语>=100；只招英语语种考生",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1592,
+      "universityCode": "0223",
+      "universityName": "长沙学院[公办]",
+      "majorCode": "06",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5900
+    },
+    {
+      "index": 1593,
+      "universityCode": "0223",
+      "universityName": "长沙学院[公办]",
+      "majorCode": "07",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5900
+    },
+    {
+      "index": 1594,
+      "universityCode": "0223",
+      "universityName": "长沙学院[公办]",
+      "majorCode": "08",
+      "majorName": "智能建造",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5900
+    },
+    {
+      "index": 1595,
+      "universityCode": "0223",
+      "universityName": "长沙学院[公办]",
+      "majorCode": "09",
+      "majorName": "环境工程",
+      "majorNote": "不招色盲、色弱考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5900
+    },
+    {
+      "index": 1596,
+      "universityCode": "0223",
+      "universityName": "长沙学院[公办]",
+      "majorCode": "10",
+      "majorName": "工程管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5900
+    },
+    {
+      "index": 1597,
+      "universityCode": "0223",
+      "universityName": "长沙学院[公办]",
+      "majorCode": "11",
+      "majorName": "公共事业管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 1598,
+      "universityCode": "0223",
+      "universityName": "长沙学院[公办]",
+      "majorCode": "12",
+      "majorName": "物流管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 16,
+      "universityCode": "0092",
+      "universityName": "北京工业大学(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "生物技术(实验班)",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；不招色盲考生；第一年在平乐园校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 17,
+      "universityCode": "0092",
+      "universityName": "北京工业大学(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "机械类",
+      "majorNote": "含机械工程、智能制造工程、增材制造工程专业；录取分数不低于特殊类型招生录取控制分数线；第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区，大一下学期可参加碳中和未来技术学院二次选拔，碳院简介详见招生网站",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 18,
+      "universityCode": "0092",
+      "universityName": "北京工业大学(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "工业设计",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；不招色盲、色弱考生；第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 19,
+      "universityCode": "0092",
+      "universityName": "北京工业大学(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "材料类(实验班)",
+      "majorNote": "含材料科学与工程、纳米材料与技术、资源循环科学与工程、焊接技术与工程专业；录取分数不低于特殊类型招生录取控制分数线；不招色盲考生；第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区，大一下学期可参加碳中和未来技术学院二次选拔，碳院简介详见招生网站",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 20,
+      "universityCode": "0092",
+      "universityName": "北京工业大学(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "土木类",
+      "majorNote": "含土木工程、建筑环境与能源应用工程、给排水科学与工程专业；录取分数不低于特殊类型招生录取控制分数线；不招色盲考生；第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区，大一下学期可参加碳中和未来技术学院二次选拔，碳院简介详见招生网站",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 21,
+      "universityCode": "0092",
+      "universityName": "北京工业大学(高校专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "智能建造",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；不招色盲考生；第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 22,
+      "universityCode": "0092",
+      "universityName": "北京工业大学(高校专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "交通运输类(实验班)",
+      "majorNote": "含交通工程、交通设备与控制工程专业；录取分数不低于特殊类型招生录取控制分数线；不招色盲考生；第一年在通州校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区，大一下学期可参加碳中和未来技术学院二次选拔，碳院简介详见招生网站",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 23,
+      "universityCode": "0092",
+      "universityName": "北京工业大学(高校专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "环境科学与工程类",
+      "majorNote": "含环境工程、环境科学专业；录取分数不低于特殊类型招生录取控制分数线；不招色盲、色弱考生；第一年在平乐园校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区，大一下学期可参加碳中和未来技术学院二次选拔，碳院简介详见招生网站",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 24,
+      "universityCode": "0092",
+      "universityName": "北京工业大学(高校专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "建筑学",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；不招色盲、色弱考生；第一年在平乐园校区，第二至第五学年根据学校规划安排在平乐园校区或房山校区",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 5000
+    },
+    {
+      "index": 25,
+      "universityCode": "0092",
+      "universityName": "北京工业大学(高校专项计划)[公办]",
+      "majorCode": "10",
+      "majorName": "城乡规划",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；不招色盲、色弱考生；第一年在平乐园校区，第二、三、四学年根据学校规划安排在平乐园校区或房山校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

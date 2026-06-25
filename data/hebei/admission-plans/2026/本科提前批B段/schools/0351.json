@@ -1,0 +1,125 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 254,
+      "universityCode": "0351",
+      "universityName": "东北林业大学(哈尔滨市)(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "俄语",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 255,
+      "universityCode": "0351",
+      "universityName": "东北林业大学(哈尔滨市)(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "农林智能装备工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 256,
+      "universityCode": "0351",
+      "universityName": "东北林业大学(哈尔滨市)(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "材料类",
+      "majorNote": "含材料化学、高分子材料与工程专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 3500
+    },
+    {
+      "index": 257,
+      "universityCode": "0351",
+      "universityName": "东北林业大学(哈尔滨市)(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "自动化",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 258,
+      "universityCode": "0351",
+      "universityName": "东北林业大学(哈尔滨市)(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "土木工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；国家级“卓越工程师教育培养计划”",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 259,
+      "universityCode": "0351",
+      "universityName": "东北林业大学(哈尔滨市)(高校专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "智能建造与智慧交通",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 260,
+      "universityCode": "0351",
+      "universityName": "东北林业大学(哈尔滨市)(高校专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "交通运输类",
+      "majorNote": "含交通运输、交通工程专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 261,
+      "universityCode": "0351",
+      "universityName": "东北林业大学(哈尔滨市)(高校专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "林业工程类",
+      "majorNote": "含木材科学与工程、林产化工专业；录取分数不低于特殊类型招生录取控制分数线；国家级“卓越工程师、卓越农林人才教育培养计划”",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 3500
+    },
+    {
+      "index": 262,
+      "universityCode": "0351",
+      "universityName": "东北林业大学(哈尔滨市)(高校专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "园林",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；国家级“卓越农林人才教育培养计划”",
+      "subjectRequirement": "生物",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 3600
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

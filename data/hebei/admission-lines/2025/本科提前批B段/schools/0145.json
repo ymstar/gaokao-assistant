@@ -1,0 +1,61 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0145",
+      "universityName": "北京语言大学(国家专项计划)[公办]",
+      "majorGroup": "计算机类",
+      "planCount": 0,
+      "minScore": 610,
+      "minRank": 20009,
+      "avgScore": 611
+    },
+    {
+      "universityCode": "0145",
+      "universityName": "北京语言大学(国家专项计划)[公办]",
+      "majorGroup": "会计学(数智会计)",
+      "planCount": 0,
+      "minScore": 600,
+      "minRank": 27073,
+      "avgScore": 600
+    },
+    {
+      "universityCode": "0145",
+      "universityName": "北京语言大学(国家专项计划)[公办]",
+      "majorGroup": "语言学",
+      "planCount": 0,
+      "minScore": 597,
+      "minRank": 29374,
+      "avgScore": 597
+    },
+    {
+      "universityCode": "0145",
+      "universityName": "北京语言大学(国家专项计划)[公办]",
+      "majorGroup": "心理学(脑科学与智能工程)",
+      "planCount": 0,
+      "minScore": 593,
+      "minRank": 32692,
+      "avgScore": 593
+    },
+    {
+      "universityCode": "0145",
+      "universityName": "北京语言大学(国家专项计划)[公办]",
+      "majorGroup": "听力与言语康复学",
+      "planCount": 0,
+      "minScore": 584,
+      "minRank": 40924,
+      "avgScore": 584
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

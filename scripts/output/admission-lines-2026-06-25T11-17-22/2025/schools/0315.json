@@ -1,0 +1,61 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0315",
+      "universityName": "东北林业大学(国家专项计划)[公办]",
+      "majorGroup": "工商管理类",
+      "planCount": 0,
+      "minScore": 595,
+      "minRank": 30996,
+      "avgScore": 598
+    },
+    {
+      "universityCode": "0315",
+      "universityName": "东北林业大学(国家专项计划)[公办]",
+      "majorGroup": "英语",
+      "planCount": 0,
+      "minScore": 591,
+      "minRank": 34450,
+      "avgScore": 594
+    },
+    {
+      "universityCode": "0315",
+      "universityName": "东北林业大学(国家专项计划)[公办]",
+      "majorGroup": "土木工程",
+      "planCount": 0,
+      "minScore": 581,
+      "minRank": 43929,
+      "avgScore": 583
+    },
+    {
+      "universityCode": "0315",
+      "universityName": "东北林业大学(国家专项计划)[公办]",
+      "majorGroup": "俄语",
+      "planCount": 0,
+      "minScore": 577,
+      "minRank": 48060,
+      "avgScore": 579
+    },
+    {
+      "universityCode": "0315",
+      "universityName": "东北林业大学(国家专项计划)[公办]",
+      "majorGroup": "日语",
+      "planCount": 0,
+      "minScore": 574,
+      "minRank": 51275,
+      "avgScore": 574
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 18619,
+      "universityCode": "2384",
+      "universityName": "广州新华学院[民办]",
+      "majorCode": "07",
+      "majorName": "网络与新媒体",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 31980
+    },
+    {
+      "index": 18620,
+      "universityCode": "2384",
+      "universityName": "广州新华学院[民办]",
+      "majorCode": "08",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 31980
+    },
+    {
+      "index": 18621,
+      "universityCode": "2384",
+      "universityName": "广州新华学院[民办]",
+      "majorCode": "09",
+      "majorName": "集成电路设计与集成系统",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31980
+    },
+    {
+      "index": 18622,
+      "universityCode": "2384",
+      "universityName": "广州新华学院[民办]",
+      "majorCode": "10",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31980
+    },
+    {
+      "index": 18623,
+      "universityCode": "2384",
+      "universityName": "广州新华学院[民办]",
+      "majorCode": "11",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31980
+    },
+    {
+      "index": 18624,
+      "universityCode": "2384",
+      "universityName": "广州新华学院[民办]",
+      "majorCode": "12",
+      "majorName": "药学",
+      "majorNote": "不招色盲色弱，因用人单位可能对考生身体素质有要求，请有听觉和语言功能障碍、嗅觉迟钝的考生慎重报考",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31980
+    },
+    {
+      "index": 18625,
+      "universityCode": "2384",
+      "universityName": "广州新华学院[民办]",
+      "majorCode": "13",
+      "majorName": "眼视光学",
+      "majorNote": "不招色盲色弱，因用人单位可能对考生身体素质有要求，请有听觉和语言功能障碍的考生慎重报考",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 18626,
+      "universityCode": "2384",
+      "universityName": "广州新华学院[民办]",
+      "majorCode": "14",
+      "majorName": "护理学",
+      "majorNote": "不招色盲色弱，因用人单位可能对考生身体素质有要求，请听觉和语言功能障碍、面部有明显疤痕的考生慎重报考",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31980
+    },
+    {
+      "index": 18627,
+      "universityCode": "2384",
+      "universityName": "广州新华学院[民办]",
+      "majorCode": "15",
+      "majorName": "会计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31980
+    },
+    {
+      "index": 18628,
+      "universityCode": "2384",
+      "universityName": "广州新华学院[民办]",
+      "majorCode": "16",
+      "majorName": "供应链管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31980
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

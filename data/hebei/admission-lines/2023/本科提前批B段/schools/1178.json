@@ -1,0 +1,70 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1178",
+      "universityName": "廊坊师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向廊坊市三河市就业",
+      "planCount": 0,
+      "minScore": 575,
+      "minRank": 29516,
+      "avgScore": 589
+    },
+    {
+      "universityCode": "1178",
+      "universityName": "廊坊师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向廊坊市霸州市就业",
+      "planCount": 0,
+      "minScore": 547,
+      "minRank": 50798,
+      "avgScore": 554
+    },
+    {
+      "universityCode": "1178",
+      "universityName": "廊坊师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向廊坊市固安县就业",
+      "planCount": 0,
+      "minScore": 543,
+      "minRank": 54267,
+      "avgScore": 549
+    },
+    {
+      "universityCode": "1178",
+      "universityName": "廊坊师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向廊坊市文安县就业",
+      "planCount": 0,
+      "minScore": 535,
+      "minRank": 61651,
+      "avgScore": 546
+    },
+    {
+      "universityCode": "1178",
+      "universityName": "廊坊师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向廊坊市永清县就业",
+      "planCount": 0,
+      "minScore": 535,
+      "minRank": 61651,
+      "avgScore": 540
+    },
+    {
+      "universityCode": "1178",
+      "universityName": "廊坊师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向廊坊市大城县就业",
+      "planCount": 0,
+      "minScore": 533,
+      "minRank": 63584,
+      "avgScore": 542
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

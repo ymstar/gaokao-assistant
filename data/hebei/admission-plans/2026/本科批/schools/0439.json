@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3131,
+      "universityCode": "0439",
+      "universityName": "广东金融学院[公办]",
+      "majorCode": "03",
+      "majorName": "金融学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5050
+    },
+    {
+      "index": 3132,
+      "universityCode": "0439",
+      "universityName": "广东金融学院[公办]",
+      "majorCode": "04",
+      "majorName": "计算机科学与技术",
+      "majorNote": "第一、二学年在清远校区就读，第三、四学年在广州校本部就读",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 3133,
+      "universityCode": "0439",
+      "universityName": "广东金融学院[公办]",
+      "majorCode": "05",
+      "majorName": "会计学",
+      "majorNote": "第一、二学年在肇庆校区就读，第三、四学年在广州校本部就读",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5050
+    },
+    {
+      "index": 3134,
+      "universityCode": "0439",
+      "universityName": "广东金融学院[公办]",
+      "majorCode": "06",
+      "majorName": "财务管理",
+      "majorNote": "第一、二学年在肇庆校区就读，第三、四学年在广州校本部就读",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5050
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

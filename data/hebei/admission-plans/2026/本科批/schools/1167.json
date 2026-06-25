@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 9047,
+      "universityCode": "1167",
+      "universityName": "闽南师范大学(漳州市)[公办]",
+      "majorCode": "06",
+      "majorName": "经济与金融",
+      "majorNote": "单色不识别考生不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 9048,
+      "universityCode": "1167",
+      "universityName": "闽南师范大学(漳州市)[公办]",
+      "majorCode": "07",
+      "majorName": "英语",
+      "majorNote": "师范类；只招英语语种考生；须口试合格",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 9049,
+      "universityCode": "1167",
+      "universityName": "闽南师范大学(漳州市)[公办]",
+      "majorCode": "08",
+      "majorName": "物理学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 9050,
+      "universityCode": "1167",
+      "universityName": "闽南师范大学(漳州市)[公办]",
+      "majorCode": "09",
+      "majorName": "心理学",
+      "majorNote": "师范类；色弱、色盲、单色不识别考生不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5460
+    },
+    {
+      "index": 9051,
+      "universityCode": "1167",
+      "universityName": "闽南师范大学(漳州市)[公办]",
+      "majorCode": "10",
+      "majorName": "统计学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5460
+    },
+    {
+      "index": 9052,
+      "universityCode": "1167",
+      "universityName": "闽南师范大学(漳州市)[公办]",
+      "majorCode": "11",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5460
+    },
+    {
+      "index": 9053,
+      "universityCode": "1167",
+      "universityName": "闽南师范大学(漳州市)[公办]",
+      "majorCode": "12",
+      "majorName": "软件工程",
+      "majorNote": "一、二年学费5040元/生·学年，三、四年学费13360元/生·学年",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 9200
+    },
+    {
+      "index": 9054,
+      "universityCode": "1167",
+      "universityName": "闽南师范大学(漳州市)[公办]",
+      "majorCode": "13",
+      "majorName": "环境科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 9055,
+      "universityCode": "1167",
+      "universityName": "闽南师范大学(漳州市)[公办]",
+      "majorCode": "14",
+      "majorName": "食品科学与工程",
+      "majorNote": "色弱、色盲、单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5460
+    },
+    {
+      "index": 9056,
+      "universityCode": "1167",
+      "universityName": "闽南师范大学(漳州市)[公办]",
+      "majorCode": "15",
+      "majorName": "人工智能(中外合作办学)",
+      "majorNote": "该专业与英国阿斯顿大学合作办学，学生前三年在我校学习，学费暂定58000元/学年，最终按福建省发展和改革委员会核准标准执行；第四年赴阿斯顿大学学习，学费按照英国阿斯顿大学当年标准执行。符合毕业要求和学位授予条件者可获得我校本科毕业证书、学士学位证书以及阿斯顿大学学士学位证书。部分课程以英语授课，建议英语语种考生报考。详见项目招生简章",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

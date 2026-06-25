@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 13319,
+      "universityCode": "1717",
+      "universityName": "渭南师范学院[公办]",
+      "majorCode": "04",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5250
+    },
+    {
+      "index": 13320,
+      "universityCode": "1717",
+      "universityName": "渭南师范学院[公办]",
+      "majorCode": "05",
+      "majorName": "物理学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5250
+    },
+    {
+      "index": 13321,
+      "universityCode": "1717",
+      "universityName": "渭南师范学院[公办]",
+      "majorCode": "06",
+      "majorName": "信息安全",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 6000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

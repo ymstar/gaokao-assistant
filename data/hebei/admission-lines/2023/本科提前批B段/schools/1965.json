@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1965",
+      "universityName": "西安电子科技大学(国家专项计划)[公办]",
+      "majorGroup": "计算机类",
+      "planCount": 0,
+      "minScore": 635,
+      "minRank": 4398,
+      "avgScore": 635
+    },
+    {
+      "universityCode": "1965",
+      "universityName": "西安电子科技大学(国家专项计划)[公办]",
+      "majorGroup": "自动化类(智能制造及智能测控)",
+      "planCount": 0,
+      "minScore": 628,
+      "minRank": 5897,
+      "avgScore": 629
+    },
+    {
+      "universityCode": "1965",
+      "universityName": "西安电子科技大学(国家专项计划)[公办]",
+      "majorGroup": "材料类(电子信息材料与微纳器件)",
+      "planCount": 0,
+      "minScore": 610,
+      "minRank": 11481,
+      "avgScore": 613
+    },
+    {
+      "universityCode": "1965",
+      "universityName": "西安电子科技大学(国家专项计划)[公办]",
+      "majorGroup": "生物医学工程类(电子信息交叉融合班)",
+      "planCount": 0,
+      "minScore": 609,
+      "minRank": 11883,
+      "avgScore": 615
+    },
+    {
+      "universityCode": "1965",
+      "universityName": "西安电子科技大学(国家专项计划)[公办]",
+      "majorGroup": "管理科学与工程类(信息化、智能商务与卓越领导力融合培养)",
+      "planCount": 0,
+      "minScore": 603,
+      "minRank": 14383,
+      "avgScore": 610
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

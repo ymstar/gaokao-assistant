@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19690,
+      "universityCode": "2575",
+      "universityName": "泉州职业技术大学[民办]",
+      "majorCode": "03",
+      "majorName": "油气储运工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 24800
+    },
+    {
+      "index": 19691,
+      "universityCode": "2575",
+      "universityName": "泉州职业技术大学[民办]",
+      "majorCode": "04",
+      "majorName": "机械设计制造及自动化",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 24800
+    },
+    {
+      "index": 19692,
+      "universityCode": "2575",
+      "universityName": "泉州职业技术大学[民办]",
+      "majorCode": "05",
+      "majorName": "人工智能工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 24800
+    },
+    {
+      "index": 19693,
+      "universityCode": "2575",
+      "universityName": "泉州职业技术大学[民办]",
+      "majorCode": "06",
+      "majorName": "集成电路工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 24800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

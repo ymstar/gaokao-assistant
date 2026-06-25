@@ -1,0 +1,133 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "机械类",
+      "planCount": 0,
+      "minScore": 634,
+      "minRank": 7879,
+      "avgScore": 634
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "自动化类",
+      "planCount": 0,
+      "minScore": 632,
+      "minRank": 8622,
+      "avgScore": 632
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "汽车服务工程",
+      "planCount": 0,
+      "minScore": 615,
+      "minRank": 16934,
+      "avgScore": 615
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "材料类",
+      "planCount": 0,
+      "minScore": 615,
+      "minRank": 16934,
+      "avgScore": 616
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "水利类",
+      "planCount": 0,
+      "minScore": 611,
+      "minRank": 19367,
+      "avgScore": 611
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "化学工程与工艺",
+      "planCount": 0,
+      "minScore": 605,
+      "minRank": 23383,
+      "avgScore": 606
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "测绘类",
+      "planCount": 0,
+      "minScore": 603,
+      "minRank": 24833,
+      "avgScore": 603
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "地球物理学类",
+      "planCount": 0,
+      "minScore": 599,
+      "minRank": 27821,
+      "avgScore": 602
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "土地整治工程",
+      "planCount": 0,
+      "minScore": 595,
+      "minRank": 30996,
+      "avgScore": 595
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "地质工程",
+      "planCount": 0,
+      "minScore": 594,
+      "minRank": 31807,
+      "avgScore": 596
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "地质学类",
+      "planCount": 0,
+      "minScore": 594,
+      "minRank": 31807,
+      "avgScore": 596
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "土地资源管理",
+      "planCount": 0,
+      "minScore": 593,
+      "minRank": 32692,
+      "avgScore": 593
+    },
+    {
+      "universityCode": "0174",
+      "universityName": "长安大学(西安市)(国家专项计划)[公办]",
+      "majorGroup": "土木类",
+      "planCount": 0,
+      "minScore": 583,
+      "minRank": 41921,
+      "avgScore": 591
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3700,
+      "universityCode": "0549",
+      "universityName": "哈尔滨学院[公办]",
+      "majorCode": "06",
+      "majorName": "智能制造工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 3701,
+      "universityCode": "0549",
+      "universityName": "哈尔滨学院[公办]",
+      "majorCode": "07",
+      "majorName": "电气工程与智能控制",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 3702,
+      "universityCode": "0549",
+      "universityName": "哈尔滨学院[公办]",
+      "majorCode": "08",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 3703,
+      "universityCode": "0549",
+      "universityName": "哈尔滨学院[公办]",
+      "majorCode": "09",
+      "majorName": "计算机科学与技术",
+      "majorNote": "不招单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 3704,
+      "universityCode": "0549",
+      "universityName": "哈尔滨学院[公办]",
+      "majorCode": "10",
+      "majorName": "软件工程",
+      "majorNote": "学费前两年6000元/生/学年，后两年14000元/生/学年",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 3705,
+      "universityCode": "0549",
+      "universityName": "哈尔滨学院[公办]",
+      "majorCode": "11",
+      "majorName": "建筑电气与智能化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 3706,
+      "universityCode": "0549",
+      "universityName": "哈尔滨学院[公办]",
+      "majorCode": "12",
+      "majorName": "智能建造",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 3707,
+      "universityCode": "0549",
+      "universityName": "哈尔滨学院[公办]",
+      "majorCode": "13",
+      "majorName": "环境生态工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 3708,
+      "universityCode": "0549",
+      "universityName": "哈尔滨学院[公办]",
+      "majorCode": "14",
+      "majorName": "食品科学与工程",
+      "majorNote": "不招色弱、色盲、单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4200
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

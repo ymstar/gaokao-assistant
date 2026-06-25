@@ -1,0 +1,79 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0668",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorGroup": "计算机类",
+      "planCount": 0,
+      "minScore": 545,
+      "minRank": 52496,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0668",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorGroup": "法学",
+      "planCount": 0,
+      "minScore": 536,
+      "minRank": 60653,
+      "avgScore": 540
+    },
+    {
+      "universityCode": "0668",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorGroup": "工商管理类",
+      "planCount": 0,
+      "minScore": 531,
+      "minRank": 65566,
+      "avgScore": 534
+    },
+    {
+      "universityCode": "0668",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorGroup": "数学类",
+      "planCount": 0,
+      "minScore": 527,
+      "minRank": 69642,
+      "avgScore": 535
+    },
+    {
+      "universityCode": "0668",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorGroup": "水利类",
+      "planCount": 0,
+      "minScore": 522,
+      "minRank": 74834,
+      "avgScore": 525
+    },
+    {
+      "universityCode": "0668",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorGroup": "土木类",
+      "planCount": 0,
+      "minScore": 521,
+      "minRank": 75935,
+      "avgScore": 524
+    },
+    {
+      "universityCode": "0668",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorGroup": "物流管理与工程类",
+      "planCount": 0,
+      "minScore": 515,
+      "minRank": 82588,
+      "avgScore": 519
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

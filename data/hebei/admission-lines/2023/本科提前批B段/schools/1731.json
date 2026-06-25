@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1731",
+      "universityName": "四川大学(国家专项计划)[公办]",
+      "majorGroup": "医学技术类",
+      "planCount": 0,
+      "minScore": 619,
+      "minRank": 8388,
+      "avgScore": 620
+    },
+    {
+      "universityCode": "1731",
+      "universityName": "四川大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(绿色化工与生物医药)",
+      "planCount": 0,
+      "minScore": 618,
+      "minRank": 8703,
+      "avgScore": 623
+    },
+    {
+      "universityCode": "1731",
+      "universityName": "四川大学(国家专项计划)[公办]",
+      "majorGroup": "土木工程",
+      "planCount": 0,
+      "minScore": 612,
+      "minRank": 10718,
+      "avgScore": 615
+    },
+    {
+      "universityCode": "1731",
+      "universityName": "四川大学(国家专项计划)[公办]",
+      "majorGroup": "预防医学",
+      "planCount": 0,
+      "minScore": 610,
+      "minRank": 11481,
+      "avgScore": 615
+    },
+    {
+      "universityCode": "1731",
+      "universityName": "四川大学(国家专项计划)[公办]",
+      "majorGroup": "公共管理类",
+      "planCount": 0,
+      "minScore": 609,
+      "minRank": 11883,
+      "avgScore": 610
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

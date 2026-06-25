@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1360,
+      "universityCode": "1650",
+      "universityName": "天津大学(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "工科试验班(国家学科培优计划智慧与低碳化工类)",
+      "majorNote": "含化学工程与工艺、精细化工、过程装备与控制工程专业；录取分数不低于特殊类型招生录取控制分数线；大类分流专业任选；转专业无次数限制；设有化工卓越领军班；拥有化学工程与低碳技术全国重点实验室。不招色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 1361,
+      "universityCode": "1650",
+      "universityName": "天津大学(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "工科试验班(智慧海洋类)",
+      "majorNote": "含海洋科学、海洋技术专业；录取分数不低于特殊类型招生录取控制分数线；大类分流专业任选；转专业无次数限制；教育部自然资源部科教融合平台；设有智慧海洋拔尖班。不招色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5800
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

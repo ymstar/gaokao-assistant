@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 14781,
+      "universityCode": "1866",
+      "universityName": "新疆交通职业技术大学[公办]",
+      "majorCode": "08",
+      "majorName": "新能源汽车工程技术",
+      "majorNote": "单科成绩要求：语文>=56",
+      "subjectRequirement": "不限",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 3500
+    },
+    {
+      "index": 14782,
+      "universityCode": "1866",
+      "universityName": "新疆交通职业技术大学[公办]",
+      "majorCode": "09",
+      "majorName": "道路与桥梁工程",
+      "majorNote": "单科成绩要求：语文>=56",
+      "subjectRequirement": "不限",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 3500
+    },
+    {
+      "index": 14783,
+      "universityCode": "1866",
+      "universityName": "新疆交通职业技术大学[公办]",
+      "majorCode": "10",
+      "majorName": "智能交通管理",
+      "majorNote": "单科成绩要求：语文>=56",
+      "subjectRequirement": "不限",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 3500
+    },
+    {
+      "index": 14784,
+      "universityCode": "1866",
+      "universityName": "新疆交通职业技术大学[公办]",
+      "majorCode": "11",
+      "majorName": "汽车服务工程技术",
+      "majorNote": "单科成绩要求：语文>=56",
+      "subjectRequirement": "不限",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 3500
+    },
+    {
+      "index": 14785,
+      "universityCode": "1866",
+      "universityName": "新疆交通职业技术大学[公办]",
+      "majorCode": "12",
+      "majorName": "城市轨道交通设备与控制技术",
+      "majorNote": "单科成绩要求：语文>=56",
+      "subjectRequirement": "不限",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 3500
+    },
+    {
+      "index": 14786,
+      "universityCode": "1866",
+      "universityName": "新疆交通职业技术大学[公办]",
+      "majorCode": "13",
+      "majorName": "国际经济与贸易",
+      "majorNote": "单科成绩要求：语文>=56",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 3500
+    },
+    {
+      "index": 14787,
+      "universityCode": "1866",
+      "universityName": "新疆交通职业技术大学[公办]",
+      "majorCode": "14",
+      "majorName": "现代物流管理",
+      "majorNote": "单科成绩要求：语文>=56",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 3500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

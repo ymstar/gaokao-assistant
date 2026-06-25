@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 18280,
+      "universityCode": "2295",
+      "universityName": "成都文理学院[民办]",
+      "majorCode": "04",
+      "majorName": "艺术教育",
+      "majorNote": "师范类；该专业设置为创新实验班，另需缴纳培养费79800元，学生毕业后符合相关条件可继续深造。考生请咨询院校后报考",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 17000
+    },
+    {
+      "index": 18281,
+      "universityCode": "2295",
+      "universityName": "成都文理学院[民办]",
+      "majorCode": "05",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 18282,
+      "universityCode": "2295",
+      "universityName": "成都文理学院[民办]",
+      "majorCode": "06",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 18283,
+      "universityCode": "2295",
+      "universityName": "成都文理学院[民办]",
+      "majorCode": "07",
+      "majorName": "智能科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 18000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

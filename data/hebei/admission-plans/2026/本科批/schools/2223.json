@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17835,
+      "universityCode": "2223",
+      "universityName": "西南财经大学天府学院[独立学院]",
+      "majorCode": "04",
+      "majorName": "金融学",
+      "majorNote": "4年均在成都校区",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 17836,
+      "universityCode": "2223",
+      "universityName": "西南财经大学天府学院[独立学院]",
+      "majorCode": "05",
+      "majorName": "金融学(智能金融联合双学位创新班)",
+      "majorNote": "第1、3、4年在我校成都校区，第2年在电子科技大学成都学院成都校区",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 17837,
+      "universityCode": "2223",
+      "universityName": "西南财经大学天府学院[独立学院]",
+      "majorCode": "06",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "前2年在绵阳校区，后2年在成都校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 17838,
+      "universityCode": "2223",
+      "universityName": "西南财经大学天府学院[独立学院]",
+      "majorCode": "07",
+      "majorName": "会计学",
+      "majorNote": "前3年在德阳校区，第4年在成都校区",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 17839,
+      "universityCode": "2223",
+      "universityName": "西南财经大学天府学院[独立学院]",
+      "majorCode": "08",
+      "majorName": "数字经济(中外合作办学)",
+      "majorNote": "4+0模式，成都校区就读，无英语单科要求，双语教学，小班授课。毕业颁发我校数字经济专业本科毕业证书、经济学学士学位证书和英国西英格兰大学经济学学士学位证书",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 68000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

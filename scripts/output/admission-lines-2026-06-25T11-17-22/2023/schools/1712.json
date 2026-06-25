@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1712",
+      "universityName": "石家庄学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向石家庄市新乐市就业",
+      "planCount": 0,
+      "minScore": 552,
+      "minRank": 46436,
+      "avgScore": 559
+    },
+    {
+      "universityCode": "1712",
+      "universityName": "石家庄学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向石家庄市赵县就业",
+      "planCount": 0,
+      "minScore": 549,
+      "minRank": 49073,
+      "avgScore": 556
+    },
+    {
+      "universityCode": "1712",
+      "universityName": "石家庄学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向石家庄市无极县就业",
+      "planCount": 0,
+      "minScore": 545,
+      "minRank": 52496,
+      "avgScore": 549
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 18249,
+      "universityCode": "2291",
+      "universityName": "成都东软学院[民办]",
+      "majorCode": "06",
+      "majorName": "信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19080
+    },
+    {
+      "index": 18250,
+      "universityCode": "2291",
+      "universityName": "成都东软学院[民办]",
+      "majorCode": "07",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 18251,
+      "universityCode": "2291",
+      "universityName": "成都东软学院[民办]",
+      "majorCode": "08",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19080
+    },
+    {
+      "index": 18252,
+      "universityCode": "2291",
+      "universityName": "成都东软学院[民办]",
+      "majorCode": "09",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19080
+    },
+    {
+      "index": 18253,
+      "universityCode": "2291",
+      "universityName": "成都东软学院[民办]",
+      "majorCode": "10",
+      "majorName": "网络工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19080
+    },
+    {
+      "index": 18254,
+      "universityCode": "2291",
+      "universityName": "成都东软学院[民办]",
+      "majorCode": "11",
+      "majorName": "数字媒体技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19080
+    },
+    {
+      "index": 18255,
+      "universityCode": "2291",
+      "universityName": "成都东软学院[民办]",
+      "majorCode": "12",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19080
+    },
+    {
+      "index": 18256,
+      "universityCode": "2291",
+      "universityName": "成都东软学院[民办]",
+      "majorCode": "13",
+      "majorName": "医学影像技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 18257,
+      "universityCode": "2291",
+      "universityName": "成都东软学院[民办]",
+      "majorCode": "14",
+      "majorName": "信息管理与信息系统",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19080
+    },
+    {
+      "index": 18258,
+      "universityCode": "2291",
+      "universityName": "成都东软学院[民办]",
+      "majorCode": "15",
+      "majorName": "大数据管理与应用",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 18259,
+      "universityCode": "2291",
+      "universityName": "成都东软学院[民办]",
+      "majorCode": "16",
+      "majorName": "数据科学与大数据技术(中外合作办学)",
+      "majorNote": "第1-3年在成都东软学院学习（学费68000元/年），符合条件者第4年在美国东康涅狄格州立大学学习（学费约150000元/年）。达到两校毕业及学位授予条件者，分别授予成都东软学院毕业证、学位证书，东康涅狄格州立大学学位证书。进校后不得转专业，非英语语种慎重报考",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 68000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

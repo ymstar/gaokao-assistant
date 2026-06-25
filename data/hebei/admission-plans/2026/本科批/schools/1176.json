@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 9177,
+      "universityCode": "1176",
+      "universityName": "南昌师范学院[公办]",
+      "majorCode": "04",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4120
+    },
+    {
+      "index": 9178,
+      "universityCode": "1176",
+      "universityName": "南昌师范学院[公办]",
+      "majorCode": "05",
+      "majorName": "生物科学",
+      "majorNote": "师范类；不招色盲、色弱、不能准确识别红、黄、绿、蓝，紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4120
+    },
+    {
+      "index": 9179,
+      "universityCode": "1176",
+      "universityName": "南昌师范学院[公办]",
+      "majorCode": "06",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4350
+    },
+    {
+      "index": 9180,
+      "universityCode": "1176",
+      "universityName": "南昌师范学院[公办]",
+      "majorCode": "07",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4350
+    },
+    {
+      "index": 9181,
+      "universityCode": "1176",
+      "universityName": "南昌师范学院[公办]",
+      "majorCode": "08",
+      "majorName": "会展经济与管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 3880
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

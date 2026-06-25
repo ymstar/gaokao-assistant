@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11014,
+      "universityCode": "1410",
+      "universityName": "山西大同大学[公办]",
+      "majorCode": "02",
+      "majorName": "文物保护技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 11015,
+      "universityCode": "1410",
+      "universityName": "山西大同大学[公办]",
+      "majorCode": "03",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 11016,
+      "universityCode": "1410",
+      "universityName": "山西大同大学[公办]",
+      "majorCode": "04",
+      "majorName": "临床医学",
+      "majorNote": "不招色盲色弱且不招单色识别不全者",
+      "subjectRequirement": "化学和生物",
+      "planCount": 20,
+      "duration": 5,
+      "tuition": 5480
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

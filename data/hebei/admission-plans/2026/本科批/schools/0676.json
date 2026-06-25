@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 5115,
+      "universityCode": "0676",
+      "universityName": "河北中医药大学(地方专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "中医学",
+      "majorNote": "色盲、色弱不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 5700
+    },
+    {
+      "index": 5116,
+      "universityCode": "0676",
+      "universityName": "河北中医药大学(地方专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "针灸推拿学",
+      "majorNote": "色盲、色弱不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 5700
+    },
+    {
+      "index": 5117,
+      "universityCode": "0676",
+      "universityName": "河北中医药大学(地方专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "中医儿科学",
+      "majorNote": "色盲、色弱不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 5,
+      "tuition": 5200
+    },
+    {
+      "index": 5118,
+      "universityCode": "0676",
+      "universityName": "河北中医药大学(地方专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "中西医临床医学",
+      "majorNote": "色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 18,
+      "duration": 5,
+      "tuition": 5700
+    },
+    {
+      "index": 5119,
+      "universityCode": "0676",
+      "universityName": "河北中医药大学(地方专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "中药学",
+      "majorNote": "色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5700
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

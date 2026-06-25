@@ -1,0 +1,25 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2580",
+      "universityName": "中国医科大学(国家专项计划)[公办]",
+      "majorGroup": "预防医学",
+      "planCount": 0,
+      "minScore": 582,
+      "minRank": 27183,
+      "avgScore": 582
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

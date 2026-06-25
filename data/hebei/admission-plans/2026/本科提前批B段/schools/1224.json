@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1183,
+      "universityCode": "1224",
+      "universityName": "南开大学(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "理科试验班(物质科学)",
+      "majorNote": "含化学、应用化学、生物科学、材料物理、材料化学专业；录取分数不低于特殊类型招生录取控制分数线；本专业大类内专业任选。身体条件要求详见学校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 6200
+    },
+    {
+      "index": 1184,
+      "universityCode": "1224",
+      "universityName": "南开大学(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "理科试验班(环境与资源)",
+      "majorNote": "含环境科学、环境工程、资源循环科学与工程专业；录取分数不低于特殊类型招生录取控制分数线；本专业大类内专业任选。身体条件要求详见学校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 6200
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

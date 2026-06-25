@@ -1,0 +1,52 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0289",
+      "universityName": "大连民族大学(国家专项计划)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 586,
+      "minRank": 38943,
+      "avgScore": 587
+    },
+    {
+      "universityCode": "0289",
+      "universityName": "大连民族大学(国家专项计划)[公办]",
+      "majorGroup": "通信工程",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 45972,
+      "avgScore": 582
+    },
+    {
+      "universityCode": "0289",
+      "universityName": "大连民族大学(国家专项计划)[公办]",
+      "majorGroup": "软件工程",
+      "planCount": 0,
+      "minScore": 578,
+      "minRank": 47025,
+      "avgScore": 581
+    },
+    {
+      "universityCode": "0289",
+      "universityName": "大连民族大学(国家专项计划)[公办]",
+      "majorGroup": "网络工程",
+      "planCount": 0,
+      "minScore": 575,
+      "minRank": 50224,
+      "avgScore": 578
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

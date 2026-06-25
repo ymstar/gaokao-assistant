@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1216,
+      "universityCode": "1358",
+      "universityName": "山东大学威海分校(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "数学类",
+      "majorNote": "含数学与应用数学、信息与计算科学、统计学专业",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1217,
+      "universityCode": "1358",
+      "universityName": "山东大学威海分校(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "物理学类",
+      "majorNote": "含物理学专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1218,
+      "universityCode": "1358",
+      "universityName": "山东大学威海分校(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "海洋科学类",
+      "majorNote": "含海洋科学、海洋资源开发技术专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1219,
+      "universityCode": "1358",
+      "universityName": "山东大学威海分校(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "电子信息类(智能工程新工科实验班)",
+      "majorNote": "含计算机科学与技术、电子科学与技术、机器人工程、低空技术与工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6600
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

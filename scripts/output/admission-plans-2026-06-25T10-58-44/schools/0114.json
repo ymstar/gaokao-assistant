@@ -1,0 +1,137 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 52,
+      "universityCode": "0114",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "数学类(应用数学和统计)",
+      "majorNote": "含数学与应用数学、信息与计算科学、统计学专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 53,
+      "universityCode": "0114",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "应用化学(新材料、新能源与智能传感)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 54,
+      "universityCode": "0114",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "生物技术(生物智造与医药健康)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 55,
+      "universityCode": "0114",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "机械类(机器人、智能制造与新能源车辆)",
+      "majorNote": "含机械工程、智能制造工程、机器人工程、车辆工程、物流工程、工业设计专业；一、二年级在北京校区，三、四年级在雄安校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 56,
+      "universityCode": "0114",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "冶金工程(低碳智慧冶金和战略金属提取)",
+      "majorNote": "特殊培养政策详见学校本科招生网。一、二年级在北京校区，三、四年级在雄安校区",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 57,
+      "universityCode": "0114",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "能源动力类",
+      "majorNote": "含能源与动力工程、新能源科学与工程、环境工程、环境科学专业；一、二年级在北京校区，三、四年级在雄安校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 58,
+      "universityCode": "0114",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "智能建造(智慧城市与工程诊治)",
+      "majorNote": "大一学年结束可分流至智能建造、建筑环境与能源应用工程、土木工程专业。大一学年结束后可参加未来城市创新班选拔，特殊培养政策详见学校本科招生网。一、二年级在北京校区，三、四年级在雄安校区",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 59,
+      "universityCode": "0114",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "矿业类(战略资源绿色智能开发)",
+      "majorNote": "含智能采矿工程、采矿工程、矿物加工工程、工程力学专业；入学后可参与采矿工程国际班选拔（与北语西班牙语联合学士学位项目。特殊培养政策详见学校本科招生网。一、二年级在北京校区，三、四年级在雄安校区",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 60,
+      "universityCode": "0114",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "安全工程(智慧安全)",
+      "majorNote": "大一学年结束后可分流至安全工程、职业卫生工程专业。一、二年级在北京校区，三、四年级在雄安校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 61,
+      "universityCode": "0114",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorCode": "10",
+      "majorName": "大数据管理与应用(大数据与金融试验班)",
+      "majorNote": "大一学年结束后可分流至大数据管理与应用、信息管理与信息系统、金融工程专业，其中大数据管理与应用专业整体分流接收比例50%",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

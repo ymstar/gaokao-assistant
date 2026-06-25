@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 20728,
+      "universityCode": "2786",
+      "universityName": "浙江树人学院[民办]",
+      "majorCode": "02",
+      "majorName": "应用化学",
+      "majorNote": "杭州校区",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 33000
+    },
+    {
+      "index": 20729,
+      "universityCode": "2786",
+      "universityName": "浙江树人学院[民办]",
+      "majorCode": "03",
+      "majorName": "通信工程",
+      "majorNote": "绍兴校区",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 33000
+    },
+    {
+      "index": 20730,
+      "universityCode": "2786",
+      "universityName": "浙江树人学院[民办]",
+      "majorCode": "04",
+      "majorName": "环境生态工程",
+      "majorNote": "杭州校区",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 33000
+    },
+    {
+      "index": 20731,
+      "universityCode": "2786",
+      "universityName": "浙江树人学院[民办]",
+      "majorCode": "05",
+      "majorName": "食品科学与工程",
+      "majorNote": "杭州校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 33000
+    },
+    {
+      "index": 20732,
+      "universityCode": "2786",
+      "universityName": "浙江树人学院[民办]",
+      "majorCode": "06",
+      "majorName": "生物工程",
+      "majorNote": "杭州校区",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 33000
+    },
+    {
+      "index": 20733,
+      "universityCode": "2786",
+      "universityName": "浙江树人学院[民办]",
+      "majorCode": "07",
+      "majorName": "医学检验技术",
+      "majorNote": "杭州校区",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 33000
+    },
+    {
+      "index": 20734,
+      "universityCode": "2786",
+      "universityName": "浙江树人学院[民办]",
+      "majorCode": "08",
+      "majorName": "护理学",
+      "majorNote": "杭州校区",
+      "subjectRequirement": "生物",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 33000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

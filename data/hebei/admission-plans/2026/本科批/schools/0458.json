@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3188,
+      "universityCode": "0458",
+      "universityName": "广西财经学院(南宁市)[公办]",
+      "majorCode": "05",
+      "majorName": "金融科技",
+      "majorNote": "第一学年在武鸣校区，第二至第四学年在明秀或相思湖校区",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 3189,
+      "universityCode": "0458",
+      "universityName": "广西财经学院(南宁市)[公办]",
+      "majorCode": "06",
+      "majorName": "数据科学",
+      "majorNote": "第一学年在武鸣校区，第二至第四学年在明秀或相思湖校区",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 3190,
+      "universityCode": "0458",
+      "universityName": "广西财经学院(南宁市)[公办]",
+      "majorCode": "07",
+      "majorName": "计算机科学与技术",
+      "majorNote": "第一学年在武鸣校区，第二至第四学年在明秀或相思湖校区",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 3191,
+      "universityCode": "0458",
+      "universityName": "广西财经学院(南宁市)[公办]",
+      "majorCode": "08",
+      "majorName": "计算机科学与技术(中澳2+2学分互认联合培养项目)",
+      "majorNote": "与澳大利亚麦考瑞大学联合培养，采用“2+2”模式；前两年在我校学习，学费为4600元/学年；后两年赴澳学习，出国费用另计（澳方学费约46300澳元/学年），满足授予条件可获中澳双学士学位证。考生应具备较好的英语基础，报考前请务必查阅学校招生章程和项目招生简章",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 3192,
+      "universityCode": "0458",
+      "universityName": "广西财经学院(南宁市)[公办]",
+      "majorCode": "09",
+      "majorName": "会计学",
+      "majorNote": "第一学年在武鸣校区，第二至第四学年在明秀或相思湖校区",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 3193,
+      "universityCode": "0458",
+      "universityName": "广西财经学院(南宁市)[公办]",
+      "majorCode": "10",
+      "majorName": "金融数学(中外合作办学)",
+      "majorNote": "中匈合作办学，实行“3+1”模式，前三年在我校学习，第四年可赴匈牙利德布勒森大学留学，满足授予条件可获中匈双学士学位证。第四年不出国的学生按35000元／学年收费，只发我校金融数学专业本科毕业证及学士学位证",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 3194,
+      "universityCode": "0458",
+      "universityName": "广西财经学院(南宁市)[公办]",
+      "majorCode": "11",
+      "majorName": "数字媒体技术(中外合作办学)",
+      "majorNote": "中英合作办学，实行“4+0”办学模式，合作院校为英国奇切斯特大学。学生四年均在我校就读，符合双方学校毕业条件和学位授予条件的，可获得中方院校毕业证、学士学位证和外方院校学士学位证。学费最终收费标准以价格主管相关部门批复为准",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 42500
+    },
+    {
+      "index": 3195,
+      "universityCode": "0458",
+      "universityName": "广西财经学院(南宁市)[公办]",
+      "majorCode": "12",
+      "majorName": "会计学(中外合作办学)",
+      "majorNote": "中澳合作办学，实行“3+1”模式，前三年在我校学习，第四年可赴澳大利亚国立管理与商业学院留学，满足授予条件可获中澳双学士学位证。第四年不出国的学生按30000元／学年收费，只发我校会计学专业本科毕业证及学士学位证",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 30000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

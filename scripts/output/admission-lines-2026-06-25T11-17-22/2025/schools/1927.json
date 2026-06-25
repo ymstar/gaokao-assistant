@@ -1,0 +1,79 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1927",
+      "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+      "majorGroup": "应用化学",
+      "planCount": 0,
+      "minScore": 611,
+      "minRank": 19367,
+      "avgScore": 613
+    },
+    {
+      "universityCode": "1927",
+      "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+      "majorGroup": "材料类",
+      "planCount": 0,
+      "minScore": 610,
+      "minRank": 20009,
+      "avgScore": 612
+    },
+    {
+      "universityCode": "1927",
+      "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+      "majorGroup": "勘查技术与工程",
+      "planCount": 0,
+      "minScore": 604,
+      "minRank": 24100,
+      "avgScore": 605
+    },
+    {
+      "universityCode": "1927",
+      "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+      "majorGroup": "资源勘查工程",
+      "planCount": 0,
+      "minScore": 603,
+      "minRank": 24833,
+      "avgScore": 606
+    },
+    {
+      "universityCode": "1927",
+      "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+      "majorGroup": "管理科学与工程类",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 26287,
+      "avgScore": 602
+    },
+    {
+      "universityCode": "1927",
+      "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+      "majorGroup": "测绘工程",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 26287,
+      "avgScore": 602
+    },
+    {
+      "universityCode": "1927",
+      "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+      "majorGroup": "建筑环境与能源应用工程",
+      "planCount": 0,
+      "minScore": 596,
+      "minRank": 30194,
+      "avgScore": 596
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

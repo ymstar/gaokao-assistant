@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 306,
+      "universityCode": "0393",
+      "universityName": "福州大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "数学类",
+      "majorNote": "含数学与应用数学、信息与计算科学专业；第一学年在福州市铜盘校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5460
+    },
+    {
+      "index": 307,
+      "universityCode": "0393",
+      "universityName": "福州大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "化学",
+      "majorNote": "不招色弱、色盲、单色识别不全的考生，第一学年在福州市铜盘校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5460
+    },
+    {
+      "index": 308,
+      "universityCode": "0393",
+      "universityName": "福州大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "高分子材料与工程",
+      "majorNote": "不招色弱、色盲、单色识别不全的考生，第一学年在福州市铜盘校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5460
+    },
+    {
+      "index": 309,
+      "universityCode": "0393",
+      "universityName": "福州大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "建筑学",
+      "majorNote": "第一学年在福州市铜盘校区培养",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 5460
+    },
+    {
+      "index": 310,
+      "universityCode": "0393",
+      "universityName": "福州大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "信息管理与信息系统",
+      "majorNote": "不招单色识别不全的考生，第一学年在福州市铜盘校区培养",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5460
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

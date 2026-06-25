@@ -1,0 +1,25 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2556",
+      "universityName": "中国民用航空飞行学院(国家专项计划)[公办]",
+      "majorGroup": "交通运输(空中交通管制、飞行签派、航行情报)",
+      "planCount": 0,
+      "minScore": 561,
+      "minRank": 44969,
+      "avgScore": 561
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

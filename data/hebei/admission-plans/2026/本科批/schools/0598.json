@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 4204,
+      "universityCode": "0598",
+      "universityName": "河北大学(保定市)(国际本科学术互认课程项目)[公办]",
+      "majorCode": "04",
+      "majorName": "金融学",
+      "majorNote": "单科成绩要求：外语>=105；该专业为本科学术互认课程(ISEC)项目高收费专业，采用英语或中英双语授课，国内就读期间学费为28000元/年。若申请国外学习，国外学习阶段学费按国外大学收费标准由国外大学收取。请考生报考前务必咨询高校或查看学校章程，以免因为学费影响入学;不招不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+      "subjectRequirement": "不限",
+      "planCount": 90,
+      "duration": 4,
+      "tuition": 28000
+    },
+    {
+      "index": 4205,
+      "universityCode": "0598",
+      "universityName": "河北大学(保定市)(国际本科学术互认课程项目)[公办]",
+      "majorCode": "05",
+      "majorName": "国际经济与贸易",
+      "majorNote": "单科成绩要求：外语>=105；该专业为本科学术互认课程(ISEC)项目高收费专业，采用英语或中英双语授课，国内就读期间学费为28000元/年。若申请国外学习，国外学习阶段学费按国外大学收费标准由国外大学收取。请考生报考前务必咨询高校或查看学校章程，以免因为学费影响入学;不招不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+      "subjectRequirement": "不限",
+      "planCount": 60,
+      "duration": 4,
+      "tuition": 28000
+    },
+    {
+      "index": 4206,
+      "universityCode": "0598",
+      "universityName": "河北大学(保定市)(国际本科学术互认课程项目)[公办]",
+      "majorCode": "06",
+      "majorName": "新闻学",
+      "majorNote": "单科成绩要求：外语>=105；该专业为本科学术互认课程(ISEC)项目高收费专业，采用英语或中英双语授课，国内就读期间学费为28000元/年。若申请国外学习，国外学习阶段学费按国外大学收费标准由国外大学收取。请考生报考前务必咨询高校或查看学校章程，以免因为学费影响入学",
+      "subjectRequirement": "不限",
+      "planCount": 40,
+      "duration": 4,
+      "tuition": 28000
+    },
+    {
+      "index": 4207,
+      "universityCode": "0598",
+      "universityName": "河北大学(保定市)(国际本科学术互认课程项目)[公办]",
+      "majorCode": "07",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "单科成绩要求：外语>=105；该专业为本科学术互认课程(ISEC)项目高收费专业，采用英语或中英双语授课，国内就读期间学费为28000元/年。若申请国外学习，国外学习阶段学费按国外大学收费标准由国外大学收取。请考生报考前务必咨询高校或查看学校章程，以免因为学费影响入学",
+      "subjectRequirement": "化学",
+      "planCount": 120,
+      "duration": 4,
+      "tuition": 28000
+    },
+    {
+      "index": 4208,
+      "universityCode": "0598",
+      "universityName": "河北大学(保定市)(国际本科学术互认课程项目)[公办]",
+      "majorCode": "08",
+      "majorName": "软件工程",
+      "majorNote": "单科成绩要求：外语>=105；该专业为本科学术互认课程(ISEC)项目高收费专业，采用英语或中英双语授课，国内就读期间学费为28000元/年。若申请国外学习，国外学习阶段学费按国外大学收费标准由国外大学收取。请考生报考前务必咨询高校或查看学校章程，以免因为学费影响入学",
+      "subjectRequirement": "化学",
+      "planCount": 120,
+      "duration": 4,
+      "tuition": 28000
+    },
+    {
+      "index": 4209,
+      "universityCode": "0598",
+      "universityName": "河北大学(保定市)(国际本科学术互认课程项目)[公办]",
+      "majorCode": "09",
+      "majorName": "信息管理与信息系统",
+      "majorNote": "单科成绩要求：外语>=105；该专业为本科学术互认课程(ISEC)项目高收费专业，采用英语或中英双语授课，国内就读期间学费为28000元/年。若申请国外学习，国外学习阶段学费按国外大学收费标准由国外大学收取。请考生报考前务必咨询高校或查看学校章程，以免因为学费影响入学；不招不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形考生",
+      "subjectRequirement": "不限",
+      "planCount": 120,
+      "duration": 4,
+      "tuition": 28000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

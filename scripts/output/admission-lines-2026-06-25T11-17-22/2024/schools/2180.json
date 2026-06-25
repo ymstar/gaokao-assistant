@@ -1,0 +1,70 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2180",
+      "universityName": "西安电子科技大学(国家专项计划)[公办]",
+      "majorGroup": "电子信息类(通信)",
+      "planCount": 0,
+      "minScore": 629,
+      "minRank": 4896,
+      "avgScore": 632
+    },
+    {
+      "universityCode": "2180",
+      "universityName": "西安电子科技大学(国家专项计划)[公办]",
+      "majorGroup": "电子信息类(电子科学、信息物理、空天信息)",
+      "planCount": 0,
+      "minScore": 629,
+      "minRank": 4896,
+      "avgScore": 630
+    },
+    {
+      "universityCode": "2180",
+      "universityName": "西安电子科技大学(国家专项计划)[公办]",
+      "majorGroup": "自动化类(智能制造及智能测控)",
+      "planCount": 0,
+      "minScore": 624,
+      "minRank": 6190,
+      "avgScore": 626
+    },
+    {
+      "universityCode": "2180",
+      "universityName": "西安电子科技大学(国家专项计划)[公办]",
+      "majorGroup": "材料类(电子材料与微纳器件)",
+      "planCount": 0,
+      "minScore": 616,
+      "minRank": 8750,
+      "avgScore": 618
+    },
+    {
+      "universityCode": "2180",
+      "universityName": "西安电子科技大学(国家专项计划)[公办]",
+      "majorGroup": "生物医学工程类(电子信息交叉融合班)",
+      "planCount": 0,
+      "minScore": 612,
+      "minRank": 10308,
+      "avgScore": 615
+    },
+    {
+      "universityCode": "2180",
+      "universityName": "西安电子科技大学(国家专项计划)[公办]",
+      "majorGroup": "管理科学与工程类(数字化与商务智能融合培养)",
+      "planCount": 0,
+      "minScore": 605,
+      "minRank": 13385,
+      "avgScore": 607
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

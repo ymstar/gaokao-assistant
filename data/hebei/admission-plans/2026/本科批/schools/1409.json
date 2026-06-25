@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11004,
+      "universityCode": "1409",
+      "universityName": "山西传媒学院[公办]",
+      "majorCode": "12",
+      "majorName": "传播学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 11005,
+      "universityCode": "1409",
+      "universityName": "山西传媒学院[公办]",
+      "majorCode": "13",
+      "majorName": "网络与新媒体",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4950
+    },
+    {
+      "index": 11006,
+      "universityCode": "1409",
+      "universityName": "山西传媒学院[公办]",
+      "majorCode": "14",
+      "majorName": "智能视听工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5280
+    },
+    {
+      "index": 11007,
+      "universityCode": "1409",
+      "universityName": "山西传媒学院[公办]",
+      "majorCode": "15",
+      "majorName": "文化产业管理",
+      "majorNote": "单色不识别考生不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4950
+    },
+    {
+      "index": 11008,
+      "universityCode": "1409",
+      "universityName": "山西传媒学院[公办]",
+      "majorCode": "16",
+      "majorName": "会展经济与管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4950
+    },
+    {
+      "index": 11009,
+      "universityCode": "1409",
+      "universityName": "山西传媒学院[公办]",
+      "majorCode": "17",
+      "majorName": "电影学",
+      "majorNote": "采用2+2模式培养，前两年在校本部，后两年在汾阳等教学实训基地",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 8580
+    },
+    {
+      "index": 11010,
+      "universityCode": "1409",
+      "universityName": "山西传媒学院[公办]",
+      "majorCode": "18",
+      "majorName": "广播电视编导",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 8580
+    },
+    {
+      "index": 11011,
+      "universityCode": "1409",
+      "universityName": "山西传媒学院[公办]",
+      "majorCode": "19",
+      "majorName": "影视摄影与制作",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 8580
+    },
+    {
+      "index": 11012,
+      "universityCode": "1409",
+      "universityName": "山西传媒学院[公办]",
+      "majorCode": "20",
+      "majorName": "智能影像艺术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 8580
+    },
+    {
+      "index": 11013,
+      "universityCode": "1409",
+      "universityName": "山西传媒学院[公办]",
+      "majorCode": "21",
+      "majorName": "游戏艺术设计",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 8580
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

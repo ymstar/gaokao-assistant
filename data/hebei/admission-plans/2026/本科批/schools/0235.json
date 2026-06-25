@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1626,
+      "universityCode": "0235",
+      "universityName": "巢湖学院(合肥市)[公办]",
+      "majorCode": "01",
+      "majorName": "金融工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 1627,
+      "universityCode": "0235",
+      "universityName": "巢湖学院(合肥市)[公办]",
+      "majorCode": "02",
+      "majorName": "化学工程与工艺",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 1628,
+      "universityCode": "0235",
+      "universityName": "巢湖学院(合肥市)[公办]",
+      "majorCode": "03",
+      "majorName": "环境生态工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 1629,
+      "universityCode": "0235",
+      "universityName": "巢湖学院(合肥市)[公办]",
+      "majorCode": "04",
+      "majorName": "生物工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 4900
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

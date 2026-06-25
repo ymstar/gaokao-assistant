@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 80,
+      "universityCode": "0136",
+      "universityName": "北京师范大学(珠海校区)(优师专项)[公办]",
+      "majorCode": "03",
+      "majorName": "英语",
+      "majorNote": "优师专项；师范类；只招英语语种考生；须口试；面向河北省脱贫县（原集中连片特困县和国家扶贫开发工作重点县）就业",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 81,
+      "universityCode": "0136",
+      "universityName": "北京师范大学(珠海校区)(优师专项)[公办]",
+      "majorCode": "04",
+      "majorName": "数学与应用数学",
+      "majorNote": "优师专项；师范类；面向河北省脱贫县（原集中连片特困县和国家扶贫开发工作重点县）就业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 82,
+      "universityCode": "0136",
+      "universityName": "北京师范大学(珠海校区)(优师专项)[公办]",
+      "majorCode": "05",
+      "majorName": "物理学",
+      "majorNote": "优师专项；师范类；不招色盲考生及单色识别不全考生，详见学校招生章程；面向河北省脱贫县（原集中连片特困县和国家扶贫开发工作重点县）就业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 83,
+      "universityCode": "0136",
+      "universityName": "北京师范大学(珠海校区)(优师专项)[公办]",
+      "majorCode": "06",
+      "majorName": "化学",
+      "majorNote": "优师专项；师范类；不招色弱、色盲考生及单色识别不全考生，详见学校招生章程；面向河北省脱贫县（原集中连片特困县和国家扶贫开发工作重点县）就业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 84,
+      "universityCode": "0136",
+      "universityName": "北京师范大学(珠海校区)(优师专项)[公办]",
+      "majorCode": "07",
+      "majorName": "地理科学",
+      "majorNote": "优师专项；师范类；不招色盲考生及单色识别不全考生，详见学校招生简章；面向河北省脱贫县（原集中连片特困县和国家扶贫开发工作重点县）就业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 85,
+      "universityCode": "0136",
+      "universityName": "北京师范大学(珠海校区)(优师专项)[公办]",
+      "majorCode": "08",
+      "majorName": "生物科学",
+      "majorNote": "优师专项；师范类；不招色弱、色盲考生及单色识别不全考生，详见学校招生章程；面向河北省脱贫县（原集中连片特困县和国家扶贫开发工作重点县）就业",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1379,
+      "universityCode": "1737",
+      "universityName": "武汉大学(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "工科试验班(数智建维与软件类)",
+      "majorNote": "含智能建造、土木工程、给排水科学与工程、工程力学专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1380,
+      "universityCode": "1737",
+      "universityName": "武汉大学(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "电子信息类(地空学院)",
+      "majorNote": "含电波传播与天线专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5850
+    },
+    {
+      "index": 1381,
+      "universityCode": "1737",
+      "universityName": "武汉大学(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "智慧城市与空间规划(含时空智能方向)",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；含智慧城市与空间规划、地理信息科学(时空智能方向)、地理科学(弘毅班)",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

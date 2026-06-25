@@ -1,0 +1,32 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1851,
+      "universityCode": "0265",
+      "universityName": "重庆大学(边防军人子女预科班)[公办]",
+      "majorCode": "01",
+      "majorName": "本科预科班",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；只招通过边防子女资格审查的考生，其他事宜向院校咨询；预科培养合格后，依据考生学业成绩及升本专业志愿，升入电气工程及其自动化、工科试验班（计算机与智能软件）、工科试验班（未来信息）、工科试验班（高端装备与智能制造） 、工科试验班（智慧能源与先进材料）内的相关专业进行培养",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 1,
+      "tuition": 3700
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

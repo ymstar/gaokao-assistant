@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1831,
+      "universityCode": "0256",
+      "universityName": "赤峰大学[公办]",
+      "majorCode": "03",
+      "majorName": "小学教育(数学与科学方向)",
+      "majorNote": "师范类",
+      "subjectRequirement": "不限",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 1832,
+      "universityCode": "0256",
+      "universityName": "赤峰大学[公办]",
+      "majorCode": "04",
+      "majorName": "特殊教育",
+      "majorNote": "师范类",
+      "subjectRequirement": "不限",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 4200
+    },
+    {
+      "index": 1833,
+      "universityCode": "0256",
+      "universityName": "赤峰大学[公办]",
+      "majorCode": "05",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 1834,
+      "universityCode": "0256",
+      "universityName": "赤峰大学[公办]",
+      "majorCode": "06",
+      "majorName": "应用统计学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 1835,
+      "universityCode": "0256",
+      "universityName": "赤峰大学[公办]",
+      "majorCode": "07",
+      "majorName": "建筑环境与能源应用工程(供热、供燃气)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 1836,
+      "universityCode": "0256",
+      "universityName": "赤峰大学[公办]",
+      "majorCode": "08",
+      "majorName": "药学",
+      "majorNote": "",
+      "subjectRequirement": "化学和生物",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 1837,
+      "universityCode": "0256",
+      "universityName": "赤峰大学[公办]",
+      "majorCode": "09",
+      "majorName": "医学检验技术",
+      "majorNote": "",
+      "subjectRequirement": "化学和生物",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

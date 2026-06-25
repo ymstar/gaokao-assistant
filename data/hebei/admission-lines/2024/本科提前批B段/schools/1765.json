@@ -1,0 +1,61 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1765",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "数学与应用数学",
+      "planCount": 0,
+      "minScore": 622,
+      "minRank": 6766,
+      "avgScore": 622
+    },
+    {
+      "universityCode": "1765",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "化学",
+      "planCount": 0,
+      "minScore": 620,
+      "minRank": 7388,
+      "avgScore": 620
+    },
+    {
+      "universityCode": "1765",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "生物科学",
+      "planCount": 0,
+      "minScore": 616,
+      "minRank": 8750,
+      "avgScore": 616
+    },
+    {
+      "universityCode": "1765",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "教育技术学",
+      "planCount": 0,
+      "minScore": 613,
+      "minRank": 9908,
+      "avgScore": 613
+    },
+    {
+      "universityCode": "1765",
+      "universityName": "陕西师范大学(公费师范生)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 611,
+      "minRank": 10715,
+      "avgScore": 611
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

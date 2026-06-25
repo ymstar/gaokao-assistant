@@ -1,0 +1,79 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1674",
+      "universityName": "山东理工大学(国家专项计划)[公办]",
+      "majorGroup": "电气工程及其自动化",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 29456,
+      "avgScore": 580
+    },
+    {
+      "universityCode": "1674",
+      "universityName": "山东理工大学(国家专项计划)[公办]",
+      "majorGroup": "车辆工程",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 34252,
+      "avgScore": 574
+    },
+    {
+      "universityCode": "1674",
+      "universityName": "山东理工大学(国家专项计划)[公办]",
+      "majorGroup": "测控技术与仪器",
+      "planCount": 0,
+      "minScore": 558,
+      "minRank": 47783,
+      "avgScore": 564
+    },
+    {
+      "universityCode": "1674",
+      "universityName": "山东理工大学(国家专项计划)[公办]",
+      "majorGroup": "化学工程与工艺",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 52953,
+      "avgScore": 558
+    },
+    {
+      "universityCode": "1674",
+      "universityName": "山东理工大学(国家专项计划)[公办]",
+      "majorGroup": "农业机械化及其自动化",
+      "planCount": 0,
+      "minScore": 552,
+      "minRank": 53989,
+      "avgScore": 557
+    },
+    {
+      "universityCode": "1674",
+      "universityName": "山东理工大学(国家专项计划)[公办]",
+      "majorGroup": "应用化学",
+      "planCount": 0,
+      "minScore": 545,
+      "minRank": 61567,
+      "avgScore": 550
+    },
+    {
+      "universityCode": "1674",
+      "universityName": "山东理工大学(国家专项计划)[公办]",
+      "majorGroup": "材料科学与工程",
+      "planCount": 0,
+      "minScore": 542,
+      "minRank": 65074,
+      "avgScore": 543
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

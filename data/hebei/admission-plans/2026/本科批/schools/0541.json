@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3607,
+      "universityCode": "0541",
+      "universityName": "哈尔滨金融学院[公办]",
+      "majorCode": "05",
+      "majorName": "金融学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 3608,
+      "universityCode": "0541",
+      "universityName": "哈尔滨金融学院[公办]",
+      "majorCode": "06",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 3609,
+      "universityCode": "0541",
+      "universityName": "哈尔滨金融学院[公办]",
+      "majorCode": "07",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 3610,
+      "universityCode": "0541",
+      "universityName": "哈尔滨金融学院[公办]",
+      "majorCode": "08",
+      "majorName": "会计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 3611,
+      "universityCode": "0541",
+      "universityName": "哈尔滨金融学院[公办]",
+      "majorCode": "09",
+      "majorName": "财务管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 3612,
+      "universityCode": "0541",
+      "universityName": "哈尔滨金融学院[公办]",
+      "majorCode": "10",
+      "majorName": "电子商务",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

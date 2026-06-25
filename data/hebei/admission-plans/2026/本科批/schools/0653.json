@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 4909,
+      "universityCode": "0653",
+      "universityName": "河北农业大学(秦皇岛校区)[公办]",
+      "majorCode": "01",
+      "majorName": "海洋科学类",
+      "majorNote": "含海洋科学、海洋技术、水产养殖学专业",
+      "subjectRequirement": "化学",
+      "planCount": 270,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 4910,
+      "universityCode": "0653",
+      "universityName": "河北农业大学(秦皇岛校区)[公办]",
+      "majorCode": "02",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "教学为制冷机械方向",
+      "subjectRequirement": "化学",
+      "planCount": 60,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 4911,
+      "universityCode": "0653",
+      "universityName": "河北农业大学(秦皇岛校区)[公办]",
+      "majorCode": "03",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 60,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 4912,
+      "universityCode": "0653",
+      "universityName": "河北农业大学(秦皇岛校区)[公办]",
+      "majorCode": "04",
+      "majorName": "环境科学",
+      "majorNote": "教学为海洋环境方向",
+      "subjectRequirement": "化学",
+      "planCount": 60,
+      "duration": 4,
+      "tuition": 4900
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

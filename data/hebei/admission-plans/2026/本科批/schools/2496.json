@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19235,
+      "universityCode": "2496",
+      "universityName": "昆明传媒学院[民办]",
+      "majorCode": "13",
+      "majorName": "艺术教育",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19500
+    },
+    {
+      "index": 19236,
+      "universityCode": "2496",
+      "universityName": "昆明传媒学院[民办]",
+      "majorCode": "14",
+      "majorName": "网络与新媒体",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 19500
+    },
+    {
+      "index": 19237,
+      "universityCode": "2496",
+      "universityName": "昆明传媒学院[民办]",
+      "majorCode": "15",
+      "majorName": "网络工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 19500
+    },
+    {
+      "index": 19238,
+      "universityCode": "2496",
+      "universityName": "昆明传媒学院[民办]",
+      "majorCode": "16",
+      "majorName": "电影制作",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19500
+    },
+    {
+      "index": 19239,
+      "universityCode": "2496",
+      "universityName": "昆明传媒学院[民办]",
+      "majorCode": "17",
+      "majorName": "文化产业管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 19500
+    },
+    {
+      "index": 19240,
+      "universityCode": "2496",
+      "universityName": "昆明传媒学院[民办]",
+      "majorCode": "18",
+      "majorName": "虚拟现实技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 19500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

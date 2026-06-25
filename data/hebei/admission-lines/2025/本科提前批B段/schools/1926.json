@@ -1,0 +1,52 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1926",
+      "universityName": "中国石油大学(北京)克拉玛依校区(国家专项计划)[公办]",
+      "majorGroup": "石油工程",
+      "planCount": 0,
+      "minScore": 589,
+      "minRank": 36180,
+      "avgScore": 590
+    },
+    {
+      "universityCode": "1926",
+      "universityName": "中国石油大学(北京)克拉玛依校区(国家专项计划)[公办]",
+      "majorGroup": "化学工程与工艺",
+      "planCount": 0,
+      "minScore": 586,
+      "minRank": 38943,
+      "avgScore": 597
+    },
+    {
+      "universityCode": "1926",
+      "universityName": "中国石油大学(北京)克拉玛依校区(国家专项计划)[公办]",
+      "majorGroup": "资源勘查工程",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 45972,
+      "avgScore": 580
+    },
+    {
+      "universityCode": "1926",
+      "universityName": "中国石油大学(北京)克拉玛依校区(国家专项计划)[公办]",
+      "majorGroup": "环境工程(油气生产加工环境保护)",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 52384,
+      "avgScore": 575
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

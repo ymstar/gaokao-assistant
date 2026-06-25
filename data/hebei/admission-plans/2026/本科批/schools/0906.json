@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 6998,
+      "universityCode": "0906",
+      "universityName": "黄山学院[公办]",
+      "majorCode": "02",
+      "majorName": "生物技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 6999,
+      "universityCode": "0906",
+      "universityName": "黄山学院[公办]",
+      "majorCode": "03",
+      "majorName": "智能制造工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 7000,
+      "universityCode": "0906",
+      "universityName": "黄山学院[公办]",
+      "majorCode": "04",
+      "majorName": "化学工程与工艺",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 7001,
+      "universityCode": "0906",
+      "universityName": "黄山学院[公办]",
+      "majorCode": "05",
+      "majorName": "制药工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5635
+    },
+    {
+      "index": 7002,
+      "universityCode": "0906",
+      "universityName": "黄山学院[公办]",
+      "majorCode": "06",
+      "majorName": "食品科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 7003,
+      "universityCode": "0906",
+      "universityName": "黄山学院[公办]",
+      "majorCode": "07",
+      "majorName": "烹饪与营养教育",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 7004,
+      "universityCode": "0906",
+      "universityName": "黄山学院[公办]",
+      "majorCode": "08",
+      "majorName": "林学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 7005,
+      "universityCode": "0906",
+      "universityName": "黄山学院[公办]",
+      "majorCode": "09",
+      "majorName": "市场营销",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5290
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

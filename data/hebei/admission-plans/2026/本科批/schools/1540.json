@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11905,
+      "universityCode": "1540",
+      "universityName": "沈阳建筑大学(国际本科学术互认课程项目)[公办]",
+      "majorCode": "01",
+      "majorName": "电气工程及其自动化(国际本科学术互认课程项目)",
+      "majorNote": "国际本科学术互认课程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 25000
+    },
+    {
+      "index": 11906,
+      "universityCode": "1540",
+      "universityName": "沈阳建筑大学(国际本科学术互认课程项目)[公办]",
+      "majorCode": "02",
+      "majorName": "道路桥梁与渡河工程(国际本科学术互认课程项目)",
+      "majorNote": "国际本科学术互认课程",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 25000
+    },
+    {
+      "index": 11907,
+      "universityCode": "1540",
+      "universityName": "沈阳建筑大学(国际本科学术互认课程项目)[公办]",
+      "majorCode": "03",
+      "majorName": "工程管理(国际本科学术互认课程项目)",
+      "majorNote": "国际本科学术互认课程",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 25000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

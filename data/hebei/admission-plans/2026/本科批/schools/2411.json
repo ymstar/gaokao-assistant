@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 18755,
+      "universityCode": "2411",
+      "universityName": "哈尔滨信息工程学院[民办]",
+      "majorCode": "03",
+      "majorName": "网络与新媒体",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 26000
+    },
+    {
+      "index": 18756,
+      "universityCode": "2411",
+      "universityName": "哈尔滨信息工程学院[民办]",
+      "majorCode": "04",
+      "majorName": "电气工程与智能控制",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 27000
+    },
+    {
+      "index": 18757,
+      "universityCode": "2411",
+      "universityName": "哈尔滨信息工程学院[民办]",
+      "majorCode": "05",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 27000
+    },
+    {
+      "index": 18758,
+      "universityCode": "2411",
+      "universityName": "哈尔滨信息工程学院[民办]",
+      "majorCode": "06",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 27000
+    },
+    {
+      "index": 18759,
+      "universityCode": "2411",
+      "universityName": "哈尔滨信息工程学院[民办]",
+      "majorCode": "07",
+      "majorName": "自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 27000
+    },
+    {
+      "index": 18760,
+      "universityCode": "2411",
+      "universityName": "哈尔滨信息工程学院[民办]",
+      "majorCode": "08",
+      "majorName": "机器人工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 27000
+    },
+    {
+      "index": 18761,
+      "universityCode": "2411",
+      "universityName": "哈尔滨信息工程学院[民办]",
+      "majorCode": "09",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 24,
+      "duration": 4,
+      "tuition": 27000
+    },
+    {
+      "index": 18762,
+      "universityCode": "2411",
+      "universityName": "哈尔滨信息工程学院[民办]",
+      "majorCode": "10",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 27000
+    },
+    {
+      "index": 18763,
+      "universityCode": "2411",
+      "universityName": "哈尔滨信息工程学院[民办]",
+      "majorCode": "11",
+      "majorName": "数字媒体技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 27000
+    },
+    {
+      "index": 18764,
+      "universityCode": "2411",
+      "universityName": "哈尔滨信息工程学院[民办]",
+      "majorCode": "12",
+      "majorName": "财务管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 26000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1478",
+      "universityName": "山东大学威海分校(国家专项计划)[公办]",
+      "majorGroup": "计算机类",
+      "planCount": 0,
+      "minScore": 633,
+      "minRank": 4796,
+      "avgScore": 633
+    },
+    {
+      "universityCode": "1478",
+      "universityName": "山东大学威海分校(国家专项计划)[公办]",
+      "majorGroup": "智能制造工程",
+      "planCount": 0,
+      "minScore": 624,
+      "minRank": 6968,
+      "avgScore": 625
+    },
+    {
+      "universityCode": "1478",
+      "universityName": "山东大学威海分校(国家专项计划)[公办]",
+      "majorGroup": "经济学类",
+      "planCount": 0,
+      "minScore": 622,
+      "minRank": 7513,
+      "avgScore": 622
+    },
+    {
+      "universityCode": "1478",
+      "universityName": "山东大学威海分校(国家专项计划)[公办]",
+      "majorGroup": "海洋科学",
+      "planCount": 0,
+      "minScore": 616,
+      "minRank": 9339,
+      "avgScore": 616
+    },
+    {
+      "universityCode": "1478",
+      "universityName": "山东大学威海分校(国家专项计划)[公办]",
+      "majorGroup": "工商管理类",
+      "planCount": 0,
+      "minScore": 611,
+      "minRank": 11071,
+      "avgScore": 614
+    },
+    {
+      "universityCode": "1478",
+      "universityName": "山东大学威海分校(国家专项计划)[公办]",
+      "majorGroup": "海洋资源开发技术",
+      "planCount": 0,
+      "minScore": 608,
+      "minRank": 12287,
+      "avgScore": 608
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

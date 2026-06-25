@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 6316,
+      "universityCode": "0845",
+      "universityName": "湖南文理学院(常德市)[公办]",
+      "majorCode": "05",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 6317,
+      "universityCode": "0845",
+      "universityName": "湖南文理学院(常德市)[公办]",
+      "majorCode": "06",
+      "majorName": "生物科学",
+      "majorNote": "师范类；色弱、色盲、单色不识别考生谨慎填报",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 6318,
+      "universityCode": "0845",
+      "universityName": "湖南文理学院(常德市)[公办]",
+      "majorCode": "07",
+      "majorName": "土木工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5900
+    },
+    {
+      "index": 6319,
+      "universityCode": "0845",
+      "universityName": "湖南文理学院(常德市)[公办]",
+      "majorCode": "08",
+      "majorName": "制药工程",
+      "majorNote": "色弱、色盲、单色不识别考生谨慎填报",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5900
+    },
+    {
+      "index": 6320,
+      "universityCode": "0845",
+      "universityName": "湖南文理学院(常德市)[公办]",
+      "majorCode": "09",
+      "majorName": "药学",
+      "majorNote": "色弱、色盲考生谨慎填报",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 7500
+    },
+    {
+      "index": 6321,
+      "universityCode": "0845",
+      "universityName": "湖南文理学院(常德市)[公办]",
+      "majorCode": "10",
+      "majorName": "大数据管理与应用",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 6322,
+      "universityCode": "0845",
+      "universityName": "湖南文理学院(常德市)[公办]",
+      "majorCode": "11",
+      "majorName": "机械设计制造及其自动化(中外合作办学)",
+      "majorNote": "非英语语种考生慎重填报。合作高校：美国科罗拉多州立大学普韦布洛分校",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 6323,
+      "universityCode": "0845",
+      "universityName": "湖南文理学院(常德市)[公办]",
+      "majorCode": "12",
+      "majorName": "信息管理与信息系统(中外合作办学)",
+      "majorNote": "非英语语种考生慎重填报。合作高校：加拿大菲莎河谷大学。单色不识别考生谨慎填报",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 18000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 9064,
+      "universityCode": "1171",
+      "universityName": "牡丹江医科大学[公办]",
+      "majorCode": "01",
+      "majorName": "制药工程",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 9065,
+      "universityCode": "1171",
+      "universityName": "牡丹江医科大学[公办]",
+      "majorCode": "02",
+      "majorName": "生物医学工程",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 9066,
+      "universityCode": "1171",
+      "universityName": "牡丹江医科大学[公办]",
+      "majorCode": "03",
+      "majorName": "临床医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学和生物",
+      "planCount": 12,
+      "duration": 5,
+      "tuition": 4400
+    },
+    {
+      "index": 9067,
+      "universityCode": "1171",
+      "universityName": "牡丹江医科大学[公办]",
+      "majorCode": "04",
+      "majorName": "麻醉学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学和生物",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 4400
+    },
+    {
+      "index": 9068,
+      "universityCode": "1171",
+      "universityName": "牡丹江医科大学[公办]",
+      "majorCode": "05",
+      "majorName": "医学影像学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 5500
+    },
+    {
+      "index": 9069,
+      "universityCode": "1171",
+      "universityName": "牡丹江医科大学[公办]",
+      "majorCode": "06",
+      "majorName": "口腔医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 4800
+    },
+    {
+      "index": 9070,
+      "universityCode": "1171",
+      "universityName": "牡丹江医科大学[公办]",
+      "majorCode": "07",
+      "majorName": "预防医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 5,
+      "tuition": 4000
+    },
+    {
+      "index": 9071,
+      "universityCode": "1171",
+      "universityName": "牡丹江医科大学[公办]",
+      "majorCode": "08",
+      "majorName": "药学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 9072,
+      "universityCode": "1171",
+      "universityName": "牡丹江医科大学[公办]",
+      "majorCode": "09",
+      "majorName": "医学检验技术",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学和生物",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4400
+    },
+    {
+      "index": 9073,
+      "universityCode": "1171",
+      "universityName": "牡丹江医科大学[公办]",
+      "majorCode": "10",
+      "majorName": "康复治疗学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学和生物",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4400
+    },
+    {
+      "index": 9074,
+      "universityCode": "1171",
+      "universityName": "牡丹江医科大学[公办]",
+      "majorCode": "11",
+      "majorName": "护理学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学和生物",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

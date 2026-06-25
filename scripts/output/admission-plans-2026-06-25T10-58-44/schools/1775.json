@@ -1,0 +1,113 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1409,
+      "universityCode": "1775",
+      "universityName": "西安交通大学(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "工科试验班(智能过程与装备)",
+      "majorNote": "含化学工程与工艺(智能化工方向)、化学工程与工艺、过程装备与控制工程专业；不招色盲、色弱、单色不识别考生，详见院校章程；录取分数不低于特殊类型招生录取控制分数线上60分",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1410,
+      "universityCode": "1775",
+      "universityName": "西安交通大学(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "工科试验班(智慧人居)",
+      "majorNote": "含人居环境科学与技术专业；录取分数不低于特殊类型招生录取控制分数线上60分",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1411,
+      "universityCode": "1775",
+      "universityName": "西安交通大学(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "工科试验班(智能感知与仪器)",
+      "majorNote": "含测控技术与仪器、测控技术与仪器(智能感知方向)专业；录取分数不低于特殊类型招生录取控制分数线上60分",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1412,
+      "universityCode": "1775",
+      "universityName": "西安交通大学(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "工科试验班(管理类)",
+      "majorNote": "含大数据管理与应用、工商管理、工业工程专业；不招单色不识别考生，详见院校章程；录取分数不低于特殊类型招生录取控制分数线上60分",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1413,
+      "universityCode": "1775",
+      "universityName": "西安交通大学(高校专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "医学试验班(医学类)",
+      "majorNote": "含基础医学、法医学、预防医学专业；不招色盲、色弱、单色不识别考生，详见院校章程；录取分数不低于特殊类型招生录取控制分数线上60分",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 7150
+    },
+    {
+      "index": 1414,
+      "universityCode": "1775",
+      "universityName": "西安交通大学(高校专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "经济学类",
+      "majorNote": "含经济学、经济统计学、财政学、金融学(数智金融方向)、金融工程、国际经济与贸易、贸易经济、电子商务专业；不招单色不识别考生，详见院校章程；录取分数不低于特殊类型招生录取控制分数线上60分",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1415,
+      "universityCode": "1775",
+      "universityName": "西安交通大学(高校专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "车辆工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线上60分",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1416,
+      "universityCode": "1775",
+      "universityName": "西安交通大学(高校专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "临床医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程；录取分数不低于特殊类型招生录取控制分数线上60分",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 7150
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

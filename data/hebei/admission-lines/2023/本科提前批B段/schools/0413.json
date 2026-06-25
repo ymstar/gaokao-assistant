@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0413",
+      "universityName": "对外经济贸易大学(国家专项计划)[公办]",
+      "majorGroup": "人工智能",
+      "planCount": 0,
+      "minScore": 625,
+      "minRank": 6698,
+      "avgScore": 625
+    },
+    {
+      "universityCode": "0413",
+      "universityName": "对外经济贸易大学(国家专项计划)[公办]",
+      "majorGroup": "外国语言文学类",
+      "planCount": 0,
+      "minScore": 624,
+      "minRank": 6968,
+      "avgScore": 624
+    },
+    {
+      "universityCode": "0413",
+      "universityName": "对外经济贸易大学(国家专项计划)[公办]",
+      "majorGroup": "电子商务类",
+      "planCount": 0,
+      "minScore": 607,
+      "minRank": 12700,
+      "avgScore": 608
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

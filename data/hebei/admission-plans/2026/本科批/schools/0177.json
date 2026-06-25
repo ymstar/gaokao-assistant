@@ -1,0 +1,32 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1154,
+      "universityCode": "0177",
+      "universityName": "沧州师范学院(按高考文化课成绩录取的艺术类专业)[公办]",
+      "majorCode": "02",
+      "majorName": "广播电视编导",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 30,
+      "duration": 4,
+      "tuition": 8000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

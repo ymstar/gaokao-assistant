@@ -1,0 +1,34 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0284",
+      "universityName": "大连交通大学(国家专项计划)[公办]",
+      "majorGroup": "交通运输",
+      "planCount": 0,
+      "minScore": 604,
+      "minRank": 24100,
+      "avgScore": 604
+    },
+    {
+      "universityCode": "0284",
+      "universityName": "大连交通大学(国家专项计划)[公办]",
+      "majorGroup": "车辆工程",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 26287,
+      "avgScore": 601
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

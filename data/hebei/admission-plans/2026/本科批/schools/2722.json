@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 20388,
+      "universityCode": "2722",
+      "universityName": "西安外事学院[民办]",
+      "majorCode": "29",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 29900
+    },
+    {
+      "index": 20389,
+      "universityCode": "2722",
+      "universityName": "西安外事学院[民办]",
+      "majorCode": "30",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 29900
+    },
+    {
+      "index": 20390,
+      "universityCode": "2722",
+      "universityName": "西安外事学院[民办]",
+      "majorCode": "31",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31100
+    },
+    {
+      "index": 20391,
+      "universityCode": "2722",
+      "universityName": "西安外事学院[民办]",
+      "majorCode": "32",
+      "majorName": "机器人工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 29900
+    },
+    {
+      "index": 20392,
+      "universityCode": "2722",
+      "universityName": "西安外事学院[民办]",
+      "majorCode": "33",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 31100
+    },
+    {
+      "index": 20393,
+      "universityCode": "2722",
+      "universityName": "西安外事学院[民办]",
+      "majorCode": "34",
+      "majorName": "物联网工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 29900
+    },
+    {
+      "index": 20394,
+      "universityCode": "2722",
+      "universityName": "西安外事学院[民办]",
+      "majorCode": "35",
+      "majorName": "生物医学工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 29900
+    },
+    {
+      "index": 20395,
+      "universityCode": "2722",
+      "universityName": "西安外事学院[民办]",
+      "majorCode": "36",
+      "majorName": "护理学",
+      "majorNote": "",
+      "subjectRequirement": "生物",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 31100
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

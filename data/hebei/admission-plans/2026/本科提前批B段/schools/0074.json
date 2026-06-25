@@ -1,0 +1,113 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1,
+      "universityCode": "0074",
+      "universityName": "北方民族大学(银川市)(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "数学与应用数学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4400
+    },
+    {
+      "index": 2,
+      "universityCode": "0074",
+      "universityName": "北方民族大学(银川市)(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 3,
+      "universityCode": "0074",
+      "universityName": "北方民族大学(银川市)(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "材料科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 4,
+      "universityCode": "0074",
+      "universityName": "北方民族大学(银川市)(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 5,
+      "universityCode": "0074",
+      "universityName": "北方民族大学(银川市)(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 6,
+      "universityCode": "0074",
+      "universityName": "北方民族大学(银川市)(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "计算机科学与技术",
+      "majorNote": "单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4400
+    },
+    {
+      "index": 7,
+      "universityCode": "0074",
+      "universityName": "北方民族大学(银川市)(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "道路桥梁与渡河工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 8,
+      "universityCode": "0074",
+      "universityName": "北方民族大学(银川市)(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "化学工程与工艺",
+      "majorNote": "色弱、色盲、单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4800
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

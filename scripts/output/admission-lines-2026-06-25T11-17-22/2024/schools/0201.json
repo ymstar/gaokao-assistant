@@ -1,0 +1,115 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0201",
+      "universityName": "沧州师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向沧州市新华区就业",
+      "planCount": 0,
+      "minScore": 581,
+      "minRank": 27901,
+      "avgScore": 590
+    },
+    {
+      "universityCode": "0201",
+      "universityName": "沧州师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向沧州市东光县就业",
+      "planCount": 0,
+      "minScore": 575,
+      "minRank": 32673,
+      "avgScore": 575
+    },
+    {
+      "universityCode": "0201",
+      "universityName": "沧州师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向沧州市黄骅市就业",
+      "planCount": 0,
+      "minScore": 574,
+      "minRank": 33476,
+      "avgScore": 575
+    },
+    {
+      "universityCode": "0201",
+      "universityName": "沧州师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向沧州市任丘市就业",
+      "planCount": 0,
+      "minScore": 567,
+      "minRank": 39432,
+      "avgScore": 576
+    },
+    {
+      "universityCode": "0201",
+      "universityName": "沧州师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向沧州市肃宁县就业",
+      "planCount": 0,
+      "minScore": 556,
+      "minRank": 49791,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0201",
+      "universityName": "沧州师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向沧州市沧县就业",
+      "planCount": 0,
+      "minScore": 555,
+      "minRank": 50808,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0201",
+      "universityName": "沧州师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向沧州市海兴县就业",
+      "planCount": 0,
+      "minScore": 548,
+      "minRank": 58236,
+      "avgScore": 552
+    },
+    {
+      "universityCode": "0201",
+      "universityName": "沧州师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向沧州市盐山县就业",
+      "planCount": 0,
+      "minScore": 548,
+      "minRank": 58236,
+      "avgScore": 561
+    },
+    {
+      "universityCode": "0201",
+      "universityName": "沧州师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向沧州市南皮县就业",
+      "planCount": 0,
+      "minScore": 548,
+      "minRank": 58236,
+      "avgScore": 550
+    },
+    {
+      "universityCode": "0201",
+      "universityName": "沧州师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向沧州市河间市就业",
+      "planCount": 0,
+      "minScore": 547,
+      "minRank": 59388,
+      "avgScore": 556
+    },
+    {
+      "universityCode": "0201",
+      "universityName": "沧州师范学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向沧州市青县就业",
+      "planCount": 0,
+      "minScore": 545,
+      "minRank": 61567,
+      "avgScore": 554
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1648,
+      "universityCode": "2070",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "理科试验班(大数据分析与商务智能)",
+      "majorNote": "含管理科学专业；在通州校区就读；含贸易经济、管理科学、会计学、财务管理、市场营销、工商管理专业。学院内专业任选，毕业时认定专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 1649,
+      "universityCode": "2070",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "理科试验班(中科院联合培养化学英才方向、生命资源方向)",
+      "majorNote": "含化学、环境科学与工程专业；在中关村校区就读；学院内专业任选，毕业时认定专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 1650,
+      "universityCode": "2070",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "数学类(智能数学与数据计算卓越计划)",
+      "majorNote": "含数学与应用数学、数据计算及应用专业；在中关村校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 1651,
+      "universityCode": "2070",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "量子信息科学",
+      "majorNote": "在中关村校区就读；量子信息科学包括量子计算、通讯、精密测量等，是量子科技的主体",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 1652,
+      "universityCode": "2070",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorCode": "10",
+      "majorName": "大数据管理与应用(数据资源、数据智能方向)",
+      "majorNote": "在通州校区就读；聚焦数据全生命周期管理、智能分析应用等核心方向",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

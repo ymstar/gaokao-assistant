@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 5923,
+      "universityCode": "0802",
+      "universityName": "湖北医药学院(十堰市)[公办]",
+      "majorCode": "01",
+      "majorName": "临床医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 5200
+    },
+    {
+      "index": 5924,
+      "universityCode": "0802",
+      "universityName": "湖北医药学院(十堰市)[公办]",
+      "majorCode": "02",
+      "majorName": "麻醉学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 5200
+    },
+    {
+      "index": 5925,
+      "universityCode": "0802",
+      "universityName": "湖北医药学院(十堰市)[公办]",
+      "majorCode": "03",
+      "majorName": "医学影像学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 5200
+    },
+    {
+      "index": 5926,
+      "universityCode": "0802",
+      "universityName": "湖北医药学院(十堰市)[公办]",
+      "majorCode": "04",
+      "majorName": "精神医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 5200
+    },
+    {
+      "index": 5927,
+      "universityCode": "0802",
+      "universityName": "湖北医药学院(十堰市)[公办]",
+      "majorCode": "05",
+      "majorName": "儿科学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 5200
+    },
+    {
+      "index": 5928,
+      "universityCode": "0802",
+      "universityName": "湖北医药学院(十堰市)[公办]",
+      "majorCode": "06",
+      "majorName": "口腔医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 5200
+    },
+    {
+      "index": 5929,
+      "universityCode": "0802",
+      "universityName": "湖北医药学院(十堰市)[公办]",
+      "majorCode": "07",
+      "majorName": "眼视光学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 5930,
+      "universityCode": "0802",
+      "universityName": "湖北医药学院(十堰市)[公办]",
+      "majorCode": "08",
+      "majorName": "康复治疗学(中外合作办学)",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程；非英语语种考生慎重报考",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 35000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2026",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "数学类",
+      "planCount": 0,
+      "minScore": 621,
+      "minRank": 7805,
+      "avgScore": 621
+    },
+    {
+      "universityCode": "2026",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "电子信息类",
+      "planCount": 0,
+      "minScore": 612,
+      "minRank": 10718,
+      "avgScore": 614
+    },
+    {
+      "universityCode": "2026",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "药学",
+      "planCount": 0,
+      "minScore": 598,
+      "minRank": 16589,
+      "avgScore": 599
+    },
+    {
+      "universityCode": "2026",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "土木工程",
+      "planCount": 0,
+      "minScore": 591,
+      "minRank": 20057,
+      "avgScore": 592
+    },
+    {
+      "universityCode": "2026",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "食品科学与工程类",
+      "planCount": 0,
+      "minScore": 586,
+      "minRank": 22825,
+      "avgScore": 587
+    },
+    {
+      "universityCode": "2026",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "自然保护与环境生态类",
+      "planCount": 0,
+      "minScore": 582,
+      "minRank": 25093,
+      "avgScore": 583
+    },
+    {
+      "universityCode": "2026",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "园林",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 26949,
+      "avgScore": 580
+    },
+    {
+      "universityCode": "2026",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "纺织工程",
+      "planCount": 0,
+      "minScore": 578,
+      "minRank": 27571,
+      "avgScore": 578
+    },
+    {
+      "universityCode": "2026",
+      "universityName": "西南大学(重庆市)(国家专项计划)[公办]",
+      "majorGroup": "植物生产类",
+      "planCount": 0,
+      "minScore": 578,
+      "minRank": 27571,
+      "avgScore": 582
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

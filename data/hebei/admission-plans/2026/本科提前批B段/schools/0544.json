@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 348,
+      "universityCode": "0544",
+      "universityName": "哈尔滨理工大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 3500
+    },
+    {
+      "index": 349,
+      "universityCode": "0544",
+      "universityName": "哈尔滨理工大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "材料成型及控制工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 3500
+    },
+    {
+      "index": 350,
+      "universityCode": "0544",
+      "universityName": "哈尔滨理工大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "机械电子工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 351,
+      "universityCode": "0544",
+      "universityName": "哈尔滨理工大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "光电信息材料与器件",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

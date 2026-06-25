@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17359,
+      "universityCode": "2173",
+      "universityName": "江苏师范大学科文学院[独立学院]",
+      "majorCode": "03",
+      "majorName": "经济统计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 17360,
+      "universityCode": "2173",
+      "universityName": "江苏师范大学科文学院[独立学院]",
+      "majorCode": "04",
+      "majorName": "数字经济",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 17361,
+      "universityCode": "2173",
+      "universityName": "江苏师范大学科文学院[独立学院]",
+      "majorCode": "05",
+      "majorName": "金融工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 18000
+    },
+    {
+      "index": 17362,
+      "universityCode": "2173",
+      "universityName": "江苏师范大学科文学院[独立学院]",
+      "majorCode": "06",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 17363,
+      "universityCode": "2173",
+      "universityName": "江苏师范大学科文学院[独立学院]",
+      "majorCode": "07",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 17364,
+      "universityCode": "2173",
+      "universityName": "江苏师范大学科文学院[独立学院]",
+      "majorCode": "08",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 17365,
+      "universityCode": "2173",
+      "universityName": "江苏师范大学科文学院[独立学院]",
+      "majorCode": "09",
+      "majorName": "机器人工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 17366,
+      "universityCode": "2173",
+      "universityName": "江苏师范大学科文学院[独立学院]",
+      "majorCode": "10",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 20000
+    },
+    {
+      "index": 17367,
+      "universityCode": "2173",
+      "universityName": "江苏师范大学科文学院[独立学院]",
+      "majorCode": "11",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 22000
+    },
+    {
+      "index": 17368,
+      "universityCode": "2173",
+      "universityName": "江苏师范大学科文学院[独立学院]",
+      "majorCode": "12",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 20000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1953",
+      "universityName": "中央民族大学(国家专项计划)[公办]",
+      "majorGroup": "信息与计算科学",
+      "planCount": 0,
+      "minScore": 629,
+      "minRank": 9827,
+      "avgScore": 630
+    },
+    {
+      "universityCode": "1953",
+      "universityName": "中央民族大学(国家专项计划)[公办]",
+      "majorGroup": "统计学类",
+      "planCount": 0,
+      "minScore": 628,
+      "minRank": 10271,
+      "avgScore": 629
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

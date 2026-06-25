@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2280",
+      "universityName": "中国传媒大学(国家专项计划)[公办]",
+      "majorGroup": "通信工程",
+      "planCount": 0,
+      "minScore": 615,
+      "minRank": 9678,
+      "avgScore": 616
+    },
+    {
+      "universityCode": "2280",
+      "universityName": "中国传媒大学(国家专项计划)[公办]",
+      "majorGroup": "数据科学与大数据技术",
+      "planCount": 0,
+      "minScore": 613,
+      "minRank": 10360,
+      "avgScore": 616
+    },
+    {
+      "universityCode": "2280",
+      "universityName": "中国传媒大学(国家专项计划)[公办]",
+      "majorGroup": "信息管理与信息系统",
+      "planCount": 0,
+      "minScore": 610,
+      "minRank": 11481,
+      "avgScore": 610
+    },
+    {
+      "universityCode": "2280",
+      "universityName": "中国传媒大学(国家专项计划)[公办]",
+      "majorGroup": "广播电视工程(智能视听技术方向)",
+      "planCount": 0,
+      "minScore": 606,
+      "minRank": 13151,
+      "avgScore": 609
+    },
+    {
+      "universityCode": "2280",
+      "universityName": "中国传媒大学(国家专项计划)[公办]",
+      "majorGroup": "新闻学",
+      "planCount": 0,
+      "minScore": 600,
+      "minRank": 15687,
+      "avgScore": 602
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

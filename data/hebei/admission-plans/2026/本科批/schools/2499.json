@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19241,
+      "universityCode": "2499",
+      "universityName": "昆明文理学院[民办]",
+      "majorCode": "07",
+      "majorName": "数字经济",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21000
+    },
+    {
+      "index": 19242,
+      "universityCode": "2499",
+      "universityName": "昆明文理学院[民办]",
+      "majorCode": "08",
+      "majorName": "数学与应用数学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21000
+    },
+    {
+      "index": 19243,
+      "universityCode": "2499",
+      "universityName": "昆明文理学院[民办]",
+      "majorCode": "09",
+      "majorName": "土木工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21000
+    },
+    {
+      "index": 19244,
+      "universityCode": "2499",
+      "universityName": "昆明文理学院[民办]",
+      "majorCode": "10",
+      "majorName": "工程造价",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2538",
+      "universityName": "中国地质大学(武汉)(国家专项计划)[公办]",
+      "majorGroup": "计算机类",
+      "planCount": 0,
+      "minScore": 610,
+      "minRank": 11140,
+      "avgScore": 612
+    },
+    {
+      "universityCode": "2538",
+      "universityName": "中国地质大学(武汉)(国家专项计划)[公办]",
+      "majorGroup": "机械类",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 15387,
+      "avgScore": 604
+    },
+    {
+      "universityCode": "2538",
+      "universityName": "中国地质大学(武汉)(国家专项计划)[公办]",
+      "majorGroup": "地质类(资源能源)",
+      "planCount": 0,
+      "minScore": 587,
+      "minRank": 23707,
+      "avgScore": 587
+    },
+    {
+      "universityCode": "2538",
+      "universityName": "中国地质大学(武汉)(国家专项计划)[公办]",
+      "majorGroup": "应用化学",
+      "planCount": 0,
+      "minScore": 584,
+      "minRank": 25721,
+      "avgScore": 586
+    },
+    {
+      "universityCode": "2538",
+      "universityName": "中国地质大学(武汉)(国家专项计划)[公办]",
+      "majorGroup": "地质学类",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 29456,
+      "avgScore": 581
+    },
+    {
+      "universityCode": "2538",
+      "universityName": "中国地质大学(武汉)(国家专项计划)[公办]",
+      "majorGroup": "地质类",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 29456,
+      "avgScore": 581
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

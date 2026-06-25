@@ -1,0 +1,25 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1396",
+      "universityName": "上海外国语大学(国家专项计划)[公办]",
+      "majorGroup": "管理科学与工程类(卓越管理人才计划)",
+      "planCount": 0,
+      "minScore": 611,
+      "minRank": 19367,
+      "avgScore": 612
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

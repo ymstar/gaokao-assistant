@@ -1,0 +1,29 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1508,
+      "universityCode": "1951",
+      "universityName": "云南大学(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "光电信息科学与工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学和生物",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

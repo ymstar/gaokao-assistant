@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 2692,
+      "universityCode": "0366",
+      "universityName": "东南大学[公办]",
+      "majorCode": "05",
+      "majorName": "工科试验班(智能制造与智能系统)",
+      "majorNote": "含机器人工程、自动化、智能感知工程、智能车辆工程、测控技术与仪器、机械工程、医疗器械与装备工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 22,
+      "duration": 4,
+      "tuition": 6380
+    },
+    {
+      "index": 2693,
+      "universityCode": "0366",
+      "universityName": "东南大学[公办]",
+      "majorCode": "06",
+      "majorName": "工科试验班(吴健雄班)",
+      "majorNote": "含信息工程(等四年制理工科专业)专业",
+      "subjectRequirement": "化学",
+      "planCount": 12,
+      "duration": 4,
+      "tuition": 6380
+    },
+    {
+      "index": 2694,
+      "universityCode": "0366",
+      "universityName": "东南大学[公办]",
+      "majorCode": "07",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 12,
+      "duration": 4,
+      "tuition": 6380
+    },
+    {
+      "index": 2695,
+      "universityCode": "0366",
+      "universityName": "东南大学[公办]",
+      "majorCode": "08",
+      "majorName": "电子信息类",
+      "majorNote": "含信息工程、电子科学与技术、海洋信息工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 25,
+      "duration": 4,
+      "tuition": 6380
+    },
+    {
+      "index": 2696,
+      "universityCode": "0366",
+      "universityName": "东南大学[公办]",
+      "majorCode": "09",
+      "majorName": "集成电路设计与集成系统",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 6380
+    },
+    {
+      "index": 2697,
+      "universityCode": "0366",
+      "universityName": "东南大学[公办]",
+      "majorCode": "10",
+      "majorName": "计算机类",
+      "majorNote": "含计算机科学与技术、人工智能、软件工程、网络空间安全专业",
+      "subjectRequirement": "化学",
+      "planCount": 23,
+      "duration": 4,
+      "tuition": 6380
+    },
+    {
+      "index": 2698,
+      "universityCode": "0366",
+      "universityName": "东南大学[公办]",
+      "majorCode": "11",
+      "majorName": "生物医学工程(学制七年本硕连读)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 6380
+    },
+    {
+      "index": 2699,
+      "universityCode": "0366",
+      "universityName": "东南大学[公办]",
+      "majorCode": "12",
+      "majorName": "未来机器人(未来技术班)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 2700,
+      "universityCode": "0366",
+      "universityName": "东南大学[公办]",
+      "majorCode": "13",
+      "majorName": "机器人工程(中外合作办学)",
+      "majorNote": "第一、二学年由东南大学一蒙纳士大学国际学院(苏州)管理，第三、四学年赴澳大利亚蒙纳士大学学习，期间学费按照澳方标准收取",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 80000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

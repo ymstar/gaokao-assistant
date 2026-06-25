@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1099,
+      "universityCode": "0169",
+      "universityName": "亳州学院[公办]",
+      "majorCode": "04",
+      "majorName": "商务英语",
+      "majorNote": "只招英语语种考生",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 1100,
+      "universityCode": "0169",
+      "universityName": "亳州学院[公办]",
+      "majorCode": "05",
+      "majorName": "酿酒工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 1101,
+      "universityCode": "0169",
+      "universityName": "亳州学院[公办]",
+      "majorCode": "06",
+      "majorName": "中药学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 5720
+    },
+    {
+      "index": 1102,
+      "universityCode": "0169",
+      "universityName": "亳州学院[公办]",
+      "majorCode": "07",
+      "majorName": "文化产业管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

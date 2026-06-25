@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1476",
+      "universityName": "山东大学(国家专项计划)[公办]",
+      "majorGroup": "电气工程及其自动化",
+      "planCount": 0,
+      "minScore": 640,
+      "minRank": 3450,
+      "avgScore": 640
+    },
+    {
+      "universityCode": "1476",
+      "universityName": "山东大学(国家专项计划)[公办]",
+      "majorGroup": "自动化类",
+      "planCount": 0,
+      "minScore": 635,
+      "minRank": 4398,
+      "avgScore": 636
+    },
+    {
+      "universityCode": "1476",
+      "universityName": "山东大学(国家专项计划)[公办]",
+      "majorGroup": "临床医学(五年制)",
+      "planCount": 0,
+      "minScore": 635,
+      "minRank": 4398,
+      "avgScore": 635
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

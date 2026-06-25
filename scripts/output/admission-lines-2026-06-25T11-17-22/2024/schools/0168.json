@@ -1,0 +1,88 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0168",
+      "universityName": "北京物资学院(国家专项计划)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 592,
+      "minRank": 20511,
+      "avgScore": 592
+    },
+    {
+      "universityCode": "0168",
+      "universityName": "北京物资学院(国家专项计划)[公办]",
+      "majorGroup": "人工智能",
+      "planCount": 0,
+      "minScore": 574,
+      "minRank": 33476,
+      "avgScore": 574
+    },
+    {
+      "universityCode": "0168",
+      "universityName": "北京物资学院(国家专项计划)[公办]",
+      "majorGroup": "数据科学与大数据技术",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 34252,
+      "avgScore": 573
+    },
+    {
+      "universityCode": "0168",
+      "universityName": "北京物资学院(国家专项计划)[公办]",
+      "majorGroup": "物流工程",
+      "planCount": 0,
+      "minScore": 572,
+      "minRank": 35109,
+      "avgScore": 572
+    },
+    {
+      "universityCode": "0168",
+      "universityName": "北京物资学院(国家专项计划)[公办]",
+      "majorGroup": "应用统计学",
+      "planCount": 0,
+      "minScore": 572,
+      "minRank": 35109,
+      "avgScore": 572
+    },
+    {
+      "universityCode": "0168",
+      "universityName": "北京物资学院(国家专项计划)[公办]",
+      "majorGroup": "物联网工程",
+      "planCount": 0,
+      "minScore": 571,
+      "minRank": 35924,
+      "avgScore": 573
+    },
+    {
+      "universityCode": "0168",
+      "universityName": "北京物资学院(国家专项计划)[公办]",
+      "majorGroup": "信息管理与信息系统(数智化管理实验班)",
+      "planCount": 0,
+      "minScore": 559,
+      "minRank": 46811,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0168",
+      "universityName": "北京物资学院(国家专项计划)[公办]",
+      "majorGroup": "电子商务",
+      "planCount": 0,
+      "minScore": 557,
+      "minRank": 48790,
+      "avgScore": 557
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

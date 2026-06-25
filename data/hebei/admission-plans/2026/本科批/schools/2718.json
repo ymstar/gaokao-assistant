@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 20308,
+      "universityCode": "2718",
+      "universityName": "西安欧亚学院[民办]",
+      "majorCode": "19",
+      "majorName": "电子信息工程",
+      "majorNote": "含国际电子工程师订单班",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 30800
+    },
+    {
+      "index": 20309,
+      "universityCode": "2718",
+      "universityName": "西安欧亚学院[民办]",
+      "majorCode": "20",
+      "majorName": "通信工程",
+      "majorNote": "含信息安全订单班",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 30800
+    },
+    {
+      "index": 20310,
+      "universityCode": "2718",
+      "universityName": "西安欧亚学院[民办]",
+      "majorCode": "21",
+      "majorName": "软件工程",
+      "majorNote": "含数字技术订单班",
+      "subjectRequirement": "化学",
+      "planCount": 23,
+      "duration": 4,
+      "tuition": 30800
+    },
+    {
+      "index": 20311,
+      "universityCode": "2718",
+      "universityName": "西安欧亚学院[民办]",
+      "majorCode": "22",
+      "majorName": "物联网工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 30800
+    },
+    {
+      "index": 20312,
+      "universityCode": "2718",
+      "universityName": "西安欧亚学院[民办]",
+      "majorCode": "23",
+      "majorName": "新媒体技术",
+      "majorNote": "含星辰云智媒技术、华商数字文旅订单班",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 29800
+    },
+    {
+      "index": 20313,
+      "universityCode": "2718",
+      "universityName": "西安欧亚学院[民办]",
+      "majorCode": "24",
+      "majorName": "智能建造",
+      "majorNote": "含国际工程师订单班",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 28600
+    },
+    {
+      "index": 20314,
+      "universityCode": "2718",
+      "universityName": "西安欧亚学院[民办]",
+      "majorCode": "25",
+      "majorName": "工程管理",
+      "majorNote": "含易达科技订单班",
+      "subjectRequirement": "不限",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 28600
+    },
+    {
+      "index": 20315,
+      "universityCode": "2718",
+      "universityName": "西安欧亚学院[民办]",
+      "majorCode": "26",
+      "majorName": "工程造价",
+      "majorNote": "含高力国际订单班",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 28600
+    },
+    {
+      "index": 20316,
+      "universityCode": "2718",
+      "universityName": "西安欧亚学院[民办]",
+      "majorCode": "27",
+      "majorName": "大数据管理与应用",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 29800
+    },
+    {
+      "index": 20317,
+      "universityCode": "2718",
+      "universityName": "西安欧亚学院[民办]",
+      "majorCode": "28",
+      "majorName": "软件工程(中外合作办学)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 18,
+      "duration": 4,
+      "tuition": 56800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

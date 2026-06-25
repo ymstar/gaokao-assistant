@@ -1,0 +1,44 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17760,
+      "universityCode": "2211",
+      "universityName": "天津商业大学宝德学院(按高考文化课成绩录取的艺术类专业)[独立学院]",
+      "majorCode": "03",
+      "majorName": "戏剧影视文学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 22000
+    },
+    {
+      "index": 17761,
+      "universityCode": "2211",
+      "universityName": "天津商业大学宝德学院(按高考文化课成绩录取的艺术类专业)[独立学院]",
+      "majorCode": "04",
+      "majorName": "广播电视编导",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 22000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

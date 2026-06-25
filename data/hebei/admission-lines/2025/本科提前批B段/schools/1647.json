@@ -1,0 +1,124 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(智能制造类)",
+      "planCount": 0,
+      "minScore": 663,
+      "minRank": 1345,
+      "avgScore": 664
+    },
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(航天航空类)",
+      "planCount": 0,
+      "minScore": 662,
+      "minRank": 1447,
+      "avgScore": 663
+    },
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "电子科学与技术",
+      "planCount": 0,
+      "minScore": 660,
+      "minRank": 1688,
+      "avgScore": 661
+    },
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(智能感知与仪器)",
+      "planCount": 0,
+      "minScore": 659,
+      "minRank": 1816,
+      "avgScore": 660
+    },
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(生命科学类)",
+      "planCount": 0,
+      "minScore": 656,
+      "minRank": 2224,
+      "avgScore": 656
+    },
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(材料创新设计与智能制备)",
+      "planCount": 0,
+      "minScore": 655,
+      "minRank": 2366,
+      "avgScore": 656
+    },
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(智能过程与装备)",
+      "planCount": 0,
+      "minScore": 653,
+      "minRank": 2699,
+      "avgScore": 654
+    },
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(管理类)",
+      "planCount": 0,
+      "minScore": 647,
+      "minRank": 4006,
+      "avgScore": 649
+    },
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(化学类)",
+      "planCount": 0,
+      "minScore": 646,
+      "minRank": 4252,
+      "avgScore": 646
+    },
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "医学试验班(医学类)",
+      "planCount": 0,
+      "minScore": 646,
+      "minRank": 4252,
+      "avgScore": 646
+    },
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "经济学类",
+      "planCount": 0,
+      "minScore": 642,
+      "minRank": 5268,
+      "avgScore": 642
+    },
+    {
+      "universityCode": "1647",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "护理学",
+      "planCount": 0,
+      "minScore": 621,
+      "minRank": 13587,
+      "avgScore": 626
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

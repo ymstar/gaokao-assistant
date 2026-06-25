@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 18523,
+      "universityCode": "2348",
+      "universityName": "福州外语外贸学院[民办]",
+      "majorCode": "03",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "第一学年在滨海校区培养，第二至第四学年在长乐校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 34280
+    },
+    {
+      "index": 18524,
+      "universityCode": "2348",
+      "universityName": "福州外语外贸学院[民办]",
+      "majorCode": "04",
+      "majorName": "无人驾驶航空器系统工程",
+      "majorNote": "第一学年在滨海校区培养，第二至第四学年在长乐校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 34280
+    },
+    {
+      "index": 18525,
+      "universityCode": "2348",
+      "universityName": "福州外语外贸学院[民办]",
+      "majorCode": "05",
+      "majorName": "财务管理",
+      "majorNote": "第一学年在滨海校区培养，第二至第四学年在长乐校区培养",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31840
+    },
+    {
+      "index": 18526,
+      "universityCode": "2348",
+      "universityName": "福州外语外贸学院[民办]",
+      "majorCode": "06",
+      "majorName": "审计学",
+      "majorNote": "第一学年在滨海校区培养，第二至第四学年在长乐校区培养",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31840
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

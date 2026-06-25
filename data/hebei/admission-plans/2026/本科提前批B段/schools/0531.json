@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 336,
+      "universityCode": "0531",
+      "universityName": "哈尔滨工程大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "应用物理学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 337,
+      "universityCode": "0531",
+      "universityName": "哈尔滨工程大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "新能源材料与器件",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 338,
+      "universityCode": "0531",
+      "universityName": "哈尔滨工程大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "能源与动力工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 339,
+      "universityCode": "0531",
+      "universityName": "哈尔滨工程大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "化学工程与工艺",
+      "majorNote": "不招色弱、色盲、单色异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

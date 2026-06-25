@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 8583,
+      "universityCode": "1091",
+      "universityName": "廊坊师范学院(国际本科学术互认课程项目)[公办]",
+      "majorCode": "04",
+      "majorName": "国际经济与贸易",
+      "majorNote": "该专业为国际本科学术互认课程项目高收费专业，采用“4+0”培养合作模式，四年就读于廊坊师范学院。录取的考生入学后不得转专业。部分课程采用英语授课，对学生英语水平要求较高。不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+      "subjectRequirement": "不限",
+      "planCount": 50,
+      "duration": 4,
+      "tuition": 25000
+    },
+    {
+      "index": 8584,
+      "universityCode": "1091",
+      "universityName": "廊坊师范学院(国际本科学术互认课程项目)[公办]",
+      "majorCode": "05",
+      "majorName": "会计学",
+      "majorNote": "该专业为国际本科学术互认课程项目高收费专业，采用“4+0”培养合作模式，四年就读于廊坊师范学院。录取的考生入学后不得转专业。部分课程采用英语授课，对学生英语水平要求较高。不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+      "subjectRequirement": "不限",
+      "planCount": 50,
+      "duration": 4,
+      "tuition": 25000
+    },
+    {
+      "index": 8585,
+      "universityCode": "1091",
+      "universityName": "廊坊师范学院(国际本科学术互认课程项目)[公办]",
+      "majorCode": "06",
+      "majorName": "财务管理",
+      "majorNote": "该专业为国际本科学术互认课程项目高收费专业，采用“4+0”培养合作模式，四年就读于廊坊师范学院。录取的考生入学后不得转专业。部分课程采用英语授课，对学生英语水平要求较高。不招不能准确识别红、黄、绿、兰、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者",
+      "subjectRequirement": "不限",
+      "planCount": 50,
+      "duration": 4,
+      "tuition": 25000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

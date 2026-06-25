@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 20474,
+      "universityCode": "2740",
+      "universityName": "新疆昆仑科技学院[民办]",
+      "majorCode": "03",
+      "majorName": "汉语言文学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 25080
+    },
+    {
+      "index": 20475,
+      "universityCode": "2740",
+      "universityName": "新疆昆仑科技学院[民办]",
+      "majorCode": "04",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 27170
+    },
+    {
+      "index": 20476,
+      "universityCode": "2740",
+      "universityName": "新疆昆仑科技学院[民办]",
+      "majorCode": "05",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 27170
+    },
+    {
+      "index": 20477,
+      "universityCode": "2740",
+      "universityName": "新疆昆仑科技学院[民办]",
+      "majorCode": "06",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 9,
+      "duration": 4,
+      "tuition": 27170
+    },
+    {
+      "index": 20478,
+      "universityCode": "2740",
+      "universityName": "新疆昆仑科技学院[民办]",
+      "majorCode": "07",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 27170
+    },
+    {
+      "index": 20479,
+      "universityCode": "2740",
+      "universityName": "新疆昆仑科技学院[民办]",
+      "majorCode": "08",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 27170
+    },
+    {
+      "index": 20480,
+      "universityCode": "2740",
+      "universityName": "新疆昆仑科技学院[民办]",
+      "majorCode": "09",
+      "majorName": "无人驾驶航空器系统工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 27170
+    },
+    {
+      "index": 20481,
+      "universityCode": "2740",
+      "universityName": "新疆昆仑科技学院[民办]",
+      "majorCode": "10",
+      "majorName": "财务管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 25080
+    },
+    {
+      "index": 20482,
+      "universityCode": "2740",
+      "universityName": "新疆昆仑科技学院[民办]",
+      "majorCode": "11",
+      "majorName": "低空技术与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 27170
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

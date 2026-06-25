@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3549,
+      "universityCode": "0523",
+      "universityName": "桂林旅游学院[公办]",
+      "majorCode": "08",
+      "majorName": "数据科学与大数据技术(中外合作办学)",
+      "majorNote": "中外合作办学高收费专业；学生完成四年国内学习可获得本校毕业证、学位证及外方学位证",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 59800
+    },
+    {
+      "index": 3550,
+      "universityCode": "0523",
+      "universityName": "桂林旅游学院[公办]",
+      "majorCode": "09",
+      "majorName": "旅游管理(中外合作办学)",
+      "majorNote": "中外合作办学高收费专业；学生完成四年国内学习可获得本校毕业证、学位证及外方学位证",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 59800
+    },
+    {
+      "index": 3551,
+      "universityCode": "0523",
+      "universityName": "桂林旅游学院[公办]",
+      "majorCode": "10",
+      "majorName": "酒店管理(中外合作办学)",
+      "majorNote": "中外合作办学高收费专业；学生完成四年国内学习可获得本校毕业证和学位证并可申请外方学术资格认证证书，达到语言要求可申请赴外方学习1.5年，毕业可获得本校毕业证、学位证及外方学位证",
+      "subjectRequirement": "不限",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 39300
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19871,
+      "universityCode": "2618",
+      "universityName": "上海杉达学院[民办]",
+      "majorCode": "08",
+      "majorName": "机械电子工程",
+      "majorNote": "就读校区详见我校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 19872,
+      "universityCode": "2618",
+      "universityName": "上海杉达学院[民办]",
+      "majorCode": "09",
+      "majorName": "电气工程与智能控制",
+      "majorNote": "就读校区详见我校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 19873,
+      "universityCode": "2618",
+      "universityName": "上海杉达学院[民办]",
+      "majorCode": "10",
+      "majorName": "计算机科学与技术",
+      "majorNote": "就读校区详见我校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 19874,
+      "universityCode": "2618",
+      "universityName": "上海杉达学院[民办]",
+      "majorCode": "11",
+      "majorName": "软件工程",
+      "majorNote": "就读校区详见我校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 19875,
+      "universityCode": "2618",
+      "universityName": "上海杉达学院[民办]",
+      "majorCode": "12",
+      "majorName": "智能科学与技术",
+      "majorNote": "就读校区详见我校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 19876,
+      "universityCode": "2618",
+      "universityName": "上海杉达学院[民办]",
+      "majorCode": "13",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "就读校区详见我校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 19877,
+      "universityCode": "2618",
+      "universityName": "上海杉达学院[民办]",
+      "majorCode": "14",
+      "majorName": "土木工程",
+      "majorNote": "就读校区详见我校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 19878,
+      "universityCode": "2618",
+      "universityName": "上海杉达学院[民办]",
+      "majorCode": "15",
+      "majorName": "建筑电气与智能化",
+      "majorNote": "就读校区详见我校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 19879,
+      "universityCode": "2618",
+      "universityName": "上海杉达学院[民办]",
+      "majorCode": "16",
+      "majorName": "护理学",
+      "majorNote": "就读校区详见我校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 35000
+    },
+    {
+      "index": 19880,
+      "universityCode": "2618",
+      "universityName": "上海杉达学院[民办]",
+      "majorCode": "17",
+      "majorName": "劳动与社会保障",
+      "majorNote": "就读校区详见我校招生章程",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 35000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

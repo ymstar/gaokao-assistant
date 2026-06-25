@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1267,
+      "universityCode": "1511",
+      "universityName": "上海外国语大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "管理科学与工程类(卓越管理人才计划)",
+      "majorNote": "含信息管理与信息系统(数据智能与商务分析)、大数据管理与应用(数智金融与量化投资)专业",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 1268,
+      "universityCode": "1511",
+      "universityName": "上海外国语大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "工商管理类(卓越管理人才计划)",
+      "majorNote": "含工商管理(企业数智化管理)、市场营销(大数据与智能营销)、财务管理(智能会计与智慧财务)、公共关系学(新技术与数智公关)专业",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

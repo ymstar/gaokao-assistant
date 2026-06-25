@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17395,
+      "universityCode": "2177",
+      "universityName": "江西师范大学科学技术学院[独立学院]",
+      "majorCode": "04",
+      "majorName": "数字经济",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 14500
+    },
+    {
+      "index": 17396,
+      "universityCode": "2177",
+      "universityName": "江西师范大学科学技术学院[独立学院]",
+      "majorCode": "05",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 14500
+    },
+    {
+      "index": 17397,
+      "universityCode": "2177",
+      "universityName": "江西师范大学科学技术学院[独立学院]",
+      "majorCode": "06",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 14500
+    },
+    {
+      "index": 17398,
+      "universityCode": "2177",
+      "universityName": "江西师范大学科学技术学院[独立学院]",
+      "majorCode": "07",
+      "majorName": "会计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 13000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

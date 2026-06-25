@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2342",
+      "universityName": "中央财经大学(国家专项计划)[公办]",
+      "majorGroup": "经济与贸易类",
+      "planCount": 0,
+      "minScore": 632,
+      "minRank": 5009,
+      "avgScore": 638
+    },
+    {
+      "universityCode": "2342",
+      "universityName": "中央财经大学(国家专项计划)[公办]",
+      "majorGroup": "工商管理类(商学院)",
+      "planCount": 0,
+      "minScore": 628,
+      "minRank": 5897,
+      "avgScore": 628
+    },
+    {
+      "universityCode": "2342",
+      "universityName": "中央财经大学(国家专项计划)[公办]",
+      "majorGroup": "电子商务类",
+      "planCount": 0,
+      "minScore": 617,
+      "minRank": 9004,
+      "avgScore": 617
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

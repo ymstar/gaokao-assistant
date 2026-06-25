@@ -1,0 +1,52 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1039",
+      "universityName": "江南大学(国家专项计划)[公办]",
+      "majorGroup": "机械工程",
+      "planCount": 0,
+      "minScore": 599,
+      "minRank": 16135,
+      "avgScore": 600
+    },
+    {
+      "universityCode": "1039",
+      "universityName": "江南大学(国家专项计划)[公办]",
+      "majorGroup": "服装设计与工程",
+      "planCount": 0,
+      "minScore": 581,
+      "minRank": 25677,
+      "avgScore": 587
+    },
+    {
+      "universityCode": "1039",
+      "universityName": "江南大学(国家专项计划)[公办]",
+      "majorGroup": "小学教育(师范)",
+      "planCount": 0,
+      "minScore": 576,
+      "minRank": 28891,
+      "avgScore": 578
+    },
+    {
+      "universityCode": "1039",
+      "universityName": "江南大学(国家专项计划)[公办]",
+      "majorGroup": "环境科学",
+      "planCount": 0,
+      "minScore": 575,
+      "minRank": 29516,
+      "avgScore": 580
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 14414,
+      "universityCode": "1833",
+      "universityName": "西南政法大学(重庆市)[公办]",
+      "majorCode": "17",
+      "majorName": "经济统计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6048
+    },
+    {
+      "index": 14415,
+      "universityCode": "1833",
+      "universityName": "西南政法大学(重庆市)[公办]",
+      "majorCode": "18",
+      "majorName": "法学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 9,
+      "duration": 4,
+      "tuition": 6048
+    },
+    {
+      "index": 14416,
+      "universityCode": "1833",
+      "universityName": "西南政法大学(重庆市)[公办]",
+      "majorCode": "19",
+      "majorName": "法学(涉外法治拔尖班)",
+      "majorNote": "法学(涉外法治拔尖班)，在我校民商法学院进行管理",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6048
+    },
+    {
+      "index": 14417,
+      "universityCode": "1833",
+      "universityName": "西南政法大学(重庆市)[公办]",
+      "majorCode": "20",
+      "majorName": "法学(法律审计拔尖班)",
+      "majorNote": "法学(法律审计拔尖班)，在我校行政法学院进行管理",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6048
+    },
+    {
+      "index": 14418,
+      "universityCode": "1833",
+      "universityName": "西南政法大学(重庆市)[公办]",
+      "majorCode": "21",
+      "majorName": "法学(科技法学拔尖班)",
+      "majorNote": "法学(科技法学拔尖班)，在我校人工智能法学院进行管理",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6048
+    },
+    {
+      "index": 14419,
+      "universityCode": "1833",
+      "universityName": "西南政法大学(重庆市)[公办]",
+      "majorCode": "22",
+      "majorName": "法学(联合学士学位)",
+      "majorNote": "法学（西南政法大学）+网络空间安全（重庆邮电大学）联合学士学位项目。第一、第二、第四学年在西南政法大学住宿就读，第三学年在重庆邮电大学住宿就读",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6048
+    },
+    {
+      "index": 14420,
+      "universityCode": "1833",
+      "universityName": "西南政法大学(重庆市)[公办]",
+      "majorCode": "23",
+      "majorName": "知识产权",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6048
+    },
+    {
+      "index": 14421,
+      "universityCode": "1833",
+      "universityName": "西南政法大学(重庆市)[公办]",
+      "majorCode": "24",
+      "majorName": "海外利益安全",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6048
+    },
+    {
+      "index": 14422,
+      "universityCode": "1833",
+      "universityName": "西南政法大学(重庆市)[公办]",
+      "majorCode": "25",
+      "majorName": "刑事科学技术(证据科技特色班)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6048
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

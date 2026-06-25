@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 500,
+      "universityCode": "0071",
+      "universityName": "北部湾大学[公办]",
+      "majorCode": "04",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 501,
+      "universityCode": "0071",
+      "universityName": "北部湾大学[公办]",
+      "majorCode": "05",
+      "majorName": "物理学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 502,
+      "universityCode": "0071",
+      "universityName": "北部湾大学[公办]",
+      "majorCode": "06",
+      "majorName": "应用气象学",
+      "majorNote": "不招色盲者",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 503,
+      "universityCode": "0071",
+      "universityName": "北部湾大学[公办]",
+      "majorCode": "07",
+      "majorName": "海洋科学",
+      "majorNote": "不招色盲色弱者",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 504,
+      "universityCode": "0071",
+      "universityName": "北部湾大学[公办]",
+      "majorCode": "08",
+      "majorName": "化学工程与工艺",
+      "majorNote": "不招色盲色弱者",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 505,
+      "universityCode": "0071",
+      "universityName": "北部湾大学[公办]",
+      "majorCode": "09",
+      "majorName": "能源化学工程",
+      "majorNote": "不招色盲色弱者",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 506,
+      "universityCode": "0071",
+      "universityName": "北部湾大学[公办]",
+      "majorCode": "10",
+      "majorName": "船舶与海洋工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 507,
+      "universityCode": "0071",
+      "universityName": "北部湾大学[公办]",
+      "majorCode": "11",
+      "majorName": "海洋工程与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 508,
+      "universityCode": "0071",
+      "universityName": "北部湾大学[公办]",
+      "majorCode": "12",
+      "majorName": "生物制药",
+      "majorNote": "不招色盲色弱者",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4600
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

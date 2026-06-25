@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 12001,
+      "universityCode": "1547",
+      "universityName": "沈阳体育学院[公办]",
+      "majorCode": "03",
+      "majorName": "运动人体科学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 12002,
+      "universityCode": "1547",
+      "universityName": "沈阳体育学院[公办]",
+      "majorCode": "04",
+      "majorName": "运动康复",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 12003,
+      "universityCode": "1547",
+      "universityName": "沈阳体育学院[公办]",
+      "majorCode": "05",
+      "majorName": "体育经济与管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 12004,
+      "universityCode": "1547",
+      "universityName": "沈阳体育学院[公办]",
+      "majorCode": "06",
+      "majorName": "体育经济与管理(中外合作办学)",
+      "majorNote": "合作学校是波兰格但斯克希尼亚德茨基体育学院，“3+1”培养模式",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 50000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

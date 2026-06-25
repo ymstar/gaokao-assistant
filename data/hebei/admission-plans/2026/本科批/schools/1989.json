@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15688,
+      "universityCode": "1989",
+      "universityName": "浙江传媒学院(按高考文化课成绩录取的艺术类专业)[公办]",
+      "majorCode": "05",
+      "majorName": "戏剧影视文学",
+      "majorNote": "桐乡乌镇校区",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 9000
+    },
+    {
+      "index": 15689,
+      "universityCode": "1989",
+      "universityName": "浙江传媒学院(按高考文化课成绩录取的艺术类专业)[公办]",
+      "majorCode": "06",
+      "majorName": "广播电视编导",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 10300
+    },
+    {
+      "index": 15690,
+      "universityCode": "1989",
+      "universityName": "浙江传媒学院(按高考文化课成绩录取的艺术类专业)[公办]",
+      "majorCode": "07",
+      "majorName": "摄影",
+      "majorNote": "桐乡乌镇校区",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 10300
+    },
+    {
+      "index": 15691,
+      "universityCode": "1989",
+      "universityName": "浙江传媒学院(按高考文化课成绩录取的艺术类专业)[公办]",
+      "majorCode": "08",
+      "majorName": "数字媒体艺术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 10300
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10118,
+      "universityCode": "1278",
+      "universityName": "宁夏职业技术大学[公办]",
+      "majorCode": "03",
+      "majorName": "机械电子工程技术",
+      "majorNote": "学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 10119,
+      "universityCode": "1278",
+      "universityName": "宁夏职业技术大学[公办]",
+      "majorCode": "04",
+      "majorName": "电气工程及自动化",
+      "majorNote": "学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 10120,
+      "universityCode": "1278",
+      "universityName": "宁夏职业技术大学[公办]",
+      "majorCode": "05",
+      "majorName": "应用化工技术",
+      "majorNote": "学费待定，最终以宁夏回族自治区发展和改革委员会、财政厅和教育厅批复标准执行",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

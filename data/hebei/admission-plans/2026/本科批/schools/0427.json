@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3078,
+      "universityCode": "0427",
+      "universityName": "赣南医科大学(赣州市)[公办]",
+      "majorCode": "01",
+      "majorName": "生物医学科学",
+      "majorNote": "不招色弱、色盲、单色识别不全的考生。该专业学生第一学年在龙南校区培养，后期在蓉江、章贡等校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4790
+    },
+    {
+      "index": 3079,
+      "universityCode": "0427",
+      "universityName": "赣南医科大学(赣州市)[公办]",
+      "majorCode": "02",
+      "majorName": "临床医学",
+      "majorNote": "不招色弱、色盲、单色识别不全的考生。该专业学生第一学年在蓉江校区培养，后期在蓉江、章贡等校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 4790
+    },
+    {
+      "index": 3080,
+      "universityCode": "0427",
+      "universityName": "赣南医科大学(赣州市)[公办]",
+      "majorCode": "03",
+      "majorName": "预防医学",
+      "majorNote": "不招色弱、色盲、单色识别不全的考生。该专业学生第一学年在蓉江校区培养，后期在蓉江、章贡等校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 4790
+    },
+    {
+      "index": 3081,
+      "universityCode": "0427",
+      "universityName": "赣南医科大学(赣州市)[公办]",
+      "majorCode": "04",
+      "majorName": "法医学",
+      "majorNote": "不招色弱、色盲、单色识别不全的考生。该专业学生第一学年在蓉江校区培养，后期在蓉江、章贡等校区培养",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 4790
+    },
+    {
+      "index": 3082,
+      "universityCode": "0427",
+      "universityName": "赣南医科大学(赣州市)[公办]",
+      "majorCode": "05",
+      "majorName": "护理学",
+      "majorNote": "不招色弱、色盲、单色识别不全的考生。该专业学生第一学年在龙南校区培养，后期在蓉江、章贡等校区培养。身高低于1.67米的男生和身高低于1.58米的女生慎报",
+      "subjectRequirement": "生物",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4790
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

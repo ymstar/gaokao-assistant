@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1446,
+      "universityCode": "1816",
+      "universityName": "西南财经大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "金融学类",
+      "majorNote": "含金融学、金融学(证券与期货方向)、金融学(双语实验班)、信用管理(金融智能风控)专业",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5760
+    },
+    {
+      "index": 1447,
+      "universityCode": "1816",
+      "universityName": "西南财经大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "经济与贸易类",
+      "majorNote": "含国际商务(双语实验班)、国际经济与贸易(双语实验班)专业",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 8000
+    },
+    {
+      "index": 1448,
+      "universityCode": "1816",
+      "universityName": "西南财经大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "计算机类",
+      "majorNote": "含人工智能、计算机科学与技术、网络空间安全、数据科学与大数据技术专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 1449,
+      "universityCode": "1816",
+      "universityName": "西南财经大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "管理科学与工程类",
+      "majorNote": "含计算金融、大数据管理与应用、信息管理与信息系统专业",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5760
+    },
+    {
+      "index": 1450,
+      "universityCode": "1816",
+      "universityName": "西南财经大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "工商管理类",
+      "majorNote": "含工商管理、工商管理(双语实验班)、市场营销、供应链管理、人力资源管理专业",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5760
+    },
+    {
+      "index": 1451,
+      "universityCode": "1816",
+      "universityName": "西南财经大学(国家专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "劳动与社会保障(社保与金融学双学位)",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5760
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

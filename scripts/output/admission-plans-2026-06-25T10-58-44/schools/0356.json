@@ -1,0 +1,113 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 273,
+      "universityCode": "0356",
+      "universityName": "东北师范大学(公费师范生)[公办]",
+      "majorCode": "05",
+      "majorName": "教育技术学(智能教育)",
+      "majorNote": "国家公费师范生；师范类；本专业为本研衔接公费教育，履约任教范围：石家庄市（不含长安区、桥西区、新华区、裕华区和高新区）、秦皇岛市，具体要求详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 274,
+      "universityCode": "0356",
+      "universityName": "东北师范大学(公费师范生)[公办]",
+      "majorCode": "06",
+      "majorName": "英语",
+      "majorNote": "国家公费师范生；师范类；只招英语语种考生；本专业为本研衔接公费教育，履约任教范围：石家庄市（不含长安区、桥西区、新华区、裕华区和高新区）、唐山市、邯郸市、邢台市、定州市、张家口市、承德市、沧州市、衡水市，具体要求详询院校",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 275,
+      "universityCode": "0356",
+      "universityName": "东北师范大学(公费师范生)[公办]",
+      "majorCode": "07",
+      "majorName": "数学与应用数学",
+      "majorNote": "国家公费师范生；师范类；本专业为本研衔接公费教育，履约任教范围：石家庄市（不含长安区、桥西区、新华区、裕华区和高新区）、秦皇岛市、邯郸市、保定市、定州市、张家口市、承德市、廊坊市、衡水市，具体要求详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 276,
+      "universityCode": "0356",
+      "universityName": "东北师范大学(公费师范生)[公办]",
+      "majorCode": "08",
+      "majorName": "物理学",
+      "majorNote": "国家公费师范生；师范类；本专业为本研衔接公费教育，履约任教范围：秦皇岛市、邯郸市、邢台市、保定市、定州市、张家口市、承德市、沧州市、衡水市，具体要求详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 277,
+      "universityCode": "0356",
+      "universityName": "东北师范大学(公费师范生)[公办]",
+      "majorCode": "09",
+      "majorName": "化学",
+      "majorNote": "国家公费师范生；师范类；不招色弱、色盲、单色不识别考生；本专业为本研衔接公费教育，履约任教范围：石家庄市（不含长安区、桥西区、新华区、裕华区和高新区）、邯郸市、邢台市、定州市、张家口市、承德市、沧州市、衡水市，具体要求详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 278,
+      "universityCode": "0356",
+      "universityName": "东北师范大学(公费师范生)[公办]",
+      "majorCode": "10",
+      "majorName": "地理科学",
+      "majorNote": "国家公费师范生；师范类；不招色盲、单色不识别考生；本专业为本研衔接公费教育，履约任教范围：秦皇岛市、邯郸市、张家口市、沧州市、衡水市，具体要求详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 279,
+      "universityCode": "0356",
+      "universityName": "东北师范大学(公费师范生)[公办]",
+      "majorCode": "11",
+      "majorName": "生物科学",
+      "majorNote": "国家公费师范生；师范类；不招色弱、色盲、单色不识别考生；本专业为本研衔接公费教育，履约任教范围：邯郸市、承德市、廊坊市、衡水市，具体要求详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 280,
+      "universityCode": "0356",
+      "universityName": "东北师范大学(公费师范生)[公办]",
+      "majorCode": "12",
+      "majorName": "心理学",
+      "majorNote": "国家公费师范生；师范类；不招色弱、色盲、单色不识别考生；本专业为本研衔接公费教育，履约任教范围：石家庄市（不含长安区、桥西区、新华区、裕华区和高新区）、廊坊市，具体要求详询院校",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

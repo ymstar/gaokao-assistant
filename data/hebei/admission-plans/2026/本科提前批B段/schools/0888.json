@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1097,
+      "universityCode": "0888",
+      "universityName": "华中农业大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "机械类",
+      "majorNote": "含机械设计制造及其自动化、机械电子工程、自动化、机器人工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5850
+    },
+    {
+      "index": 1098,
+      "universityCode": "0888",
+      "universityName": "华中农业大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5850
+    },
+    {
+      "index": 1099,
+      "universityCode": "0888",
+      "universityName": "华中农业大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "生物工程",
+      "majorNote": "不招收色盲考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5850
+    },
+    {
+      "index": 1100,
+      "universityCode": "0888",
+      "universityName": "华中农业大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "动物科学(国家卓越农林人才计划)",
+      "majorNote": "不招收色盲考生",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1101,
+      "universityCode": "0888",
+      "universityName": "华中农业大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "水产类",
+      "majorNote": "含水产养殖学(国家卓越农林人才计划)、水族科学与技术专业；不招收色盲考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

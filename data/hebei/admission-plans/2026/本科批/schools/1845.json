@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 14474,
+      "universityCode": "1845",
+      "universityName": "咸阳师范学院[公办]",
+      "majorCode": "08",
+      "majorName": "小学教育",
+      "majorNote": "师范类",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 14475,
+      "universityCode": "1845",
+      "universityName": "咸阳师范学院[公办]",
+      "majorCode": "09",
+      "majorName": "物理学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5250
+    },
+    {
+      "index": 14476,
+      "universityCode": "1845",
+      "universityName": "咸阳师范学院[公办]",
+      "majorCode": "10",
+      "majorName": "化学",
+      "majorNote": "师范类；不招色弱、色盲、单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5250
+    },
+    {
+      "index": 14477,
+      "universityCode": "1845",
+      "universityName": "咸阳师范学院[公办]",
+      "majorCode": "11",
+      "majorName": "材料化学",
+      "majorNote": "不招色弱、色盲、单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 14478,
+      "universityCode": "1845",
+      "universityName": "咸阳师范学院[公办]",
+      "majorCode": "12",
+      "majorName": "人工智能",
+      "majorNote": "不招单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 14479,
+      "universityCode": "1845",
+      "universityName": "咸阳师范学院[公办]",
+      "majorCode": "13",
+      "majorName": "机器人工程",
+      "majorNote": "不招单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 14480,
+      "universityCode": "1845",
+      "universityName": "咸阳师范学院[公办]",
+      "majorCode": "14",
+      "majorName": "计算机科学与技术",
+      "majorNote": "不招单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 14481,
+      "universityCode": "1845",
+      "universityName": "咸阳师范学院[公办]",
+      "majorCode": "15",
+      "majorName": "智能科学与技术",
+      "majorNote": "不招单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 14482,
+      "universityCode": "1845",
+      "universityName": "咸阳师范学院[公办]",
+      "majorCode": "16",
+      "majorName": "物流管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 14483,
+      "universityCode": "1845",
+      "universityName": "咸阳师范学院[公办]",
+      "majorCode": "17",
+      "majorName": "学前教育(中外合作办学)",
+      "majorNote": "师范类；不招色弱、色盲、单色不识别考生；入校后不能转专业，学制4年，采用“3+1”模式,即前三年在咸阳师范学院学习，第四年赴英国伦敦城市大学学习，达到两校毕业和学位授予条件，同时授予咸阳师范学院本科毕业证书、学士学位证书和英国伦敦城市大学学士学位证书",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 38000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

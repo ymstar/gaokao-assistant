@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1138,
+      "universityCode": "1077",
+      "universityName": "兰州大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "地理科学类(含基地班)",
+      "majorNote": "含自然地理与资源环境、人文地理与城乡规划、地理信息科学专业；根据本人意愿分流。进入基地班须选拔",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 1139,
+      "universityCode": "1077",
+      "universityName": "兰州大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "化学工程与工艺(智慧化工创新班)",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 1140,
+      "universityCode": "1077",
+      "universityName": "兰州大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "预防医学(智慧大健康创新班)",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校招生章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 6200
+    },
+    {
+      "index": 1141,
+      "universityCode": "1077",
+      "universityName": "兰州大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "工商管理类(电力交易与碳管理创新班)",
+      "majorNote": "含会计学、人力资源管理、行政管理、信息管理与信息系统专业；不招单色不识别考生，详见院校招生章程。根据本人意愿分流",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

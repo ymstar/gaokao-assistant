@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 12463,
+      "universityCode": "1608",
+      "universityName": "苏州工学院(苏州市)[公办]",
+      "majorCode": "02",
+      "majorName": "新能源汽车工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 12464,
+      "universityCode": "1608",
+      "universityName": "苏州工学院(苏州市)[公办]",
+      "majorCode": "03",
+      "majorName": "纺织工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 12465,
+      "universityCode": "1608",
+      "universityName": "苏州工学院(苏州市)[公办]",
+      "majorCode": "04",
+      "majorName": "应急技术与管理",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5800
+    },
+    {
+      "index": 12466,
+      "universityCode": "1608",
+      "universityName": "苏州工学院(苏州市)[公办]",
+      "majorCode": "05",
+      "majorName": "生物制药",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

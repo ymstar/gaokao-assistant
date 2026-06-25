@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1768",
+      "universityName": "苏州大学(国家专项计划)[公办]",
+      "majorGroup": "冶金工程",
+      "planCount": 0,
+      "minScore": 594,
+      "minRank": 18450,
+      "avgScore": 594
+    },
+    {
+      "universityCode": "1768",
+      "universityName": "苏州大学(国家专项计划)[公办]",
+      "majorGroup": "预防医学",
+      "planCount": 0,
+      "minScore": 592,
+      "minRank": 19512,
+      "avgScore": 592
+    },
+    {
+      "universityCode": "1768",
+      "universityName": "苏州大学(国家专项计划)[公办]",
+      "majorGroup": "纺织工程",
+      "planCount": 0,
+      "minScore": 587,
+      "minRank": 22232,
+      "avgScore": 587
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1677,
+      "universityCode": "2085",
+      "universityName": "中国石油大学(华东)(青岛市)(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "应用化学",
+      "majorNote": "入学后可选拔进入智能化工类特色班、能源化工拔尖班、化学拔尖班",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1678,
+      "universityCode": "2085",
+      "universityName": "中国石油大学(华东)(青岛市)(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "过程装备与控制工程",
+      "majorNote": "入学后可选拔进入碳中和未来班",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1679,
+      "universityCode": "2085",
+      "universityName": "中国石油大学(华东)(青岛市)(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "材料类",
+      "majorNote": "含材料成型及控制工程、材料科学与工程、新能源材料与器件、电子信息材料专业；学生分流时可自由选择类内专业",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1680,
+      "universityCode": "2085",
+      "universityName": "中国石油大学(华东)(青岛市)(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "勘查技术与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1681,
+      "universityCode": "2085",
+      "universityName": "中国石油大学(华东)(青岛市)(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "资源勘查工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1682,
+      "universityCode": "2085",
+      "universityName": "中国石油大学(华东)(青岛市)(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "石油工程",
+      "majorNote": "入学后可选拔进入石油工程类（未来）特色班",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1683,
+      "universityCode": "2085",
+      "universityName": "中国石油大学(华东)(青岛市)(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "管理科学与工程类",
+      "majorNote": "含工程管理、信息管理与信息系统专业；学生分流时可自由选择类内专业；入学后可选拔进入经济管理实验班、会计学ACCA方向班，详见院校招生网站",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

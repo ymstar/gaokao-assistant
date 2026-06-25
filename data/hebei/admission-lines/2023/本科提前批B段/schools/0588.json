@@ -1,0 +1,70 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0588",
+      "universityName": "哈尔滨工业大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(先进材料与智能制造类)",
+      "planCount": 0,
+      "minScore": 640,
+      "minRank": 3450,
+      "avgScore": 643
+    },
+    {
+      "universityCode": "0588",
+      "universityName": "哈尔滨工业大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(新材料化工类)",
+      "planCount": 0,
+      "minScore": 640,
+      "minRank": 3450,
+      "avgScore": 640
+    },
+    {
+      "universityCode": "0588",
+      "universityName": "哈尔滨工业大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(智能土木类)",
+      "planCount": 0,
+      "minScore": 637,
+      "minRank": 3975,
+      "avgScore": 638
+    },
+    {
+      "universityCode": "0588",
+      "universityName": "哈尔滨工业大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(生态环境类)",
+      "planCount": 0,
+      "minScore": 636,
+      "minRank": 4187,
+      "avgScore": 636
+    },
+    {
+      "universityCode": "0588",
+      "universityName": "哈尔滨工业大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(智能交通类)",
+      "planCount": 0,
+      "minScore": 635,
+      "minRank": 4398,
+      "avgScore": 637
+    },
+    {
+      "universityCode": "0588",
+      "universityName": "哈尔滨工业大学(国家专项计划)[公办]",
+      "majorGroup": "建筑环境与能源应用工程",
+      "planCount": 0,
+      "minScore": 635,
+      "minRank": 4398,
+      "avgScore": 635
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

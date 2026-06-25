@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15417,
+      "universityCode": "1943",
+      "universityName": "右江民族医学院(百色市)[公办]",
+      "majorCode": "01",
+      "majorName": "生物医学工程",
+      "majorNote": "色弱、色盲、单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 15418,
+      "universityCode": "1943",
+      "universityName": "右江民族医学院(百色市)[公办]",
+      "majorCode": "02",
+      "majorName": "临床医学",
+      "majorNote": "色弱、色盲、单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 5,
+      "tuition": 5400
+    },
+    {
+      "index": 15419,
+      "universityCode": "1943",
+      "universityName": "右江民族医学院(百色市)[公办]",
+      "majorCode": "03",
+      "majorName": "医学影像学",
+      "majorNote": "色弱、色盲、单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 5400
+    },
+    {
+      "index": 15420,
+      "universityCode": "1943",
+      "universityName": "右江民族医学院(百色市)[公办]",
+      "majorCode": "04",
+      "majorName": "预防医学",
+      "majorNote": "色弱、色盲、单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 5400
+    },
+    {
+      "index": 15421,
+      "universityCode": "1943",
+      "universityName": "右江民族医学院(百色市)[公办]",
+      "majorCode": "05",
+      "majorName": "药学",
+      "majorNote": "色弱、色盲、单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5400
+    },
+    {
+      "index": 15422,
+      "universityCode": "1943",
+      "universityName": "右江民族医学院(百色市)[公办]",
+      "majorCode": "06",
+      "majorName": "医学检验技术",
+      "majorNote": "色弱、色盲、单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5400
+    },
+    {
+      "index": 15423,
+      "universityCode": "1943",
+      "universityName": "右江民族医学院(百色市)[公办]",
+      "majorCode": "07",
+      "majorName": "医学影像技术",
+      "majorNote": "色弱、色盲、单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5400
+    },
+    {
+      "index": 15424,
+      "universityCode": "1943",
+      "universityName": "右江民族医学院(百色市)[公办]",
+      "majorCode": "08",
+      "majorName": "公共事业管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4600
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

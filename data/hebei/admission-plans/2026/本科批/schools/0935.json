@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 7356,
+      "universityCode": "0935",
+      "universityName": "吉林体育学院(长春市)[公办]",
+      "majorCode": "03",
+      "majorName": "社会工作",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 7357,
+      "universityCode": "0935",
+      "universityName": "吉林体育学院(长春市)[公办]",
+      "majorCode": "04",
+      "majorName": "康复治疗",
+      "majorNote": "职业教育本科",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5600
+    },
+    {
+      "index": 7358,
+      "universityCode": "0935",
+      "universityName": "吉林体育学院(长春市)[公办]",
+      "majorCode": "05",
+      "majorName": "智慧健康养老管理",
+      "majorNote": "职业教育本科",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

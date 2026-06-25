@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 838,
+      "universityCode": "0118",
+      "universityName": "北京理工大学[公办]",
+      "majorCode": "05",
+      "majorName": "工科试验班(卓越班)",
+      "majorNote": "含具身智能、人工智能、机器人工程、低空技术与工程、数据科学与大数据技术、计算机科学与技术、电子信息工程、光电信息科学与工程、智能感知工程、网络空间安全专业；全校理工专业任选，全院士团队导师，校区任选(大四、研究生可选珠海)，方向任选（可选本校超常规学制或港大联培）",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 839,
+      "universityCode": "0118",
+      "universityName": "北京理工大学[公办]",
+      "majorCode": "06",
+      "majorName": "工科试验班(未来精工技术)",
+      "majorNote": "含具身智能、人工智能、机器人工程、低空技术与工程、数据科学与大数据技术、计算机科学与技术、电子信息工程、光电信息科学与工程、智能感知工程、网络空间安全专业；全校理工专业任选，全院士团队导师，校区任选(大四、研究生可选珠海)，面向“智能无人+”方向",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 840,
+      "universityCode": "0118",
+      "universityName": "北京理工大学[公办]",
+      "majorCode": "07",
+      "majorName": "工科试验班(徐特立英才班)",
+      "majorNote": "含具身智能、人工智能、机器人工程、低空技术与工程、数据科学与大数据技术、计算机科学与技术、电子信息工程、光电信息科学与工程、智能感知工程、网络空间安全专业；全校理工专业任选，含智能班、领军班、协和医班，小班化、精英化、国际化培养",
+      "subjectRequirement": "化学",
+      "planCount": 20,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 841,
+      "universityCode": "0118",
+      "universityName": "北京理工大学[公办]",
+      "majorCode": "08",
+      "majorName": "工科试验班(航空航天与机电类)",
+      "majorNote": "含低空技术与工程、飞行器设计与工程、飞行器动力工程、航空航天工程、武器发射工程、探测制导与控制技术、工程力学、武器系统与工程、弹药工程与爆炸技术、特种能源技术与工程、安全工程、机械电子工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 14,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 842,
+      "universityCode": "0118",
+      "universityName": "北京理工大学[公办]",
+      "majorCode": "09",
+      "majorName": "工科试验班(信息科学技术)",
+      "majorNote": "含具身智能、自动化、电气工程及其自动化、机器人工程、计算机科学与技术、软件工程、人工智能、数据科学与大数据技术、信息对抗技术、网络空间安全、密码科学与技术专业",
+      "subjectRequirement": "化学",
+      "planCount": 41,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 843,
+      "universityCode": "0118",
+      "universityName": "北京理工大学[公办]",
+      "majorCode": "10",
+      "majorName": "工科试验班(电子信息实验班)",
+      "majorNote": "含电子信息工程、通信工程、光电信息科学与工程、测控技术与仪器、智能感知工程、电子科学与技术、微电子科学与工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 43,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 844,
+      "universityCode": "0118",
+      "universityName": "北京理工大学[公办]",
+      "majorCode": "11",
+      "majorName": "会计学(中外合作办学)",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 78000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

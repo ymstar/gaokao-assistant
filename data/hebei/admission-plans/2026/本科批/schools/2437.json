@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19044,
+      "universityCode": "2437",
+      "universityName": "黑龙江工商学院(哈尔滨市)[民办]",
+      "majorCode": "05",
+      "majorName": "英语",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 24800
+    },
+    {
+      "index": 19045,
+      "universityCode": "2437",
+      "universityName": "黑龙江工商学院(哈尔滨市)[民办]",
+      "majorCode": "06",
+      "majorName": "机械电子工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 20,
+      "duration": 4,
+      "tuition": 25800
+    },
+    {
+      "index": 19046,
+      "universityCode": "2437",
+      "universityName": "黑龙江工商学院(哈尔滨市)[民办]",
+      "majorCode": "07",
+      "majorName": "车辆工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 25800
+    },
+    {
+      "index": 19047,
+      "universityCode": "2437",
+      "universityName": "黑龙江工商学院(哈尔滨市)[民办]",
+      "majorCode": "08",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 25800
+    },
+    {
+      "index": 19048,
+      "universityCode": "2437",
+      "universityName": "黑龙江工商学院(哈尔滨市)[民办]",
+      "majorCode": "09",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 26,
+      "duration": 4,
+      "tuition": 25800
+    },
+    {
+      "index": 19049,
+      "universityCode": "2437",
+      "universityName": "黑龙江工商学院(哈尔滨市)[民办]",
+      "majorCode": "10",
+      "majorName": "会计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 24800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

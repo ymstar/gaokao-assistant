@@ -1,0 +1,29 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1258,
+      "universityCode": "1490",
+      "universityName": "上海交通大学(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "自然科学试验班",
+      "majorNote": "含化学生物学、化学、化学工程与工艺、环境科学与工程、生物技术、生物工程、海洋科学(化学、生物与地质海洋)、药学、临床药学(五年制)、心理学专业；录取分数不低于特殊类型招生录取控制分数线上70分。含生物技术-人工智能双学士学位项目、化学-材料科学与工程双学士学位项目",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 7000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

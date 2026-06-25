@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11685,
+      "universityCode": "1525",
+      "universityName": "深圳北理莫斯科大学[中外合作办学]",
+      "majorCode": "15",
+      "majorName": "金融科技(中外合作办学)",
+      "majorNote": "单科成绩要求：数学>=95，外语>=110；1.单色识别不全者慎重报考；2.英语教学为主，非英语考生慎重报考；3.仅注册深圳北理莫斯科大学学籍，毕业达到要求，颁发深圳北理莫斯科大学学历学位证书",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 50000
+    },
+    {
+      "index": 11686,
+      "universityCode": "1525",
+      "universityName": "深圳北理莫斯科大学[中外合作办学]",
+      "majorCode": "16",
+      "majorName": "国际经济与贸易(中外合作办学)",
+      "majorNote": "单科成绩要求：数学>=95，外语>=110；1.单色识别不全者慎重报考；2.英语教学为主，非英语考生慎重报考；3.仅注册深圳北理莫斯科大学学籍，毕业达到要求，颁发深圳北理莫斯科大学学历学位证书",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 50000
+    },
+    {
+      "index": 11687,
+      "universityCode": "1525",
+      "universityName": "深圳北理莫斯科大学[中外合作办学]",
+      "majorCode": "17",
+      "majorName": "智能感知工程(中外合作办学)",
+      "majorNote": "单科成绩要求：数学>=95，外语>=110；1.仅注册深圳北理莫斯科大学学籍，毕业达到要求，颁发深圳北理莫斯科大学学历学位证书；2.不招色盲色弱者",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 50000
+    },
+    {
+      "index": 11688,
+      "universityCode": "1525",
+      "universityName": "深圳北理莫斯科大学[中外合作办学]",
+      "majorCode": "18",
+      "majorName": "电子与计算机工程(中外合作办学)",
+      "majorNote": "单科成绩要求：数学>=95，外语>=110；1.单色识别不全者慎重报考；2.仅注册深圳北理莫斯科大学学籍，毕业达到要求，颁发深圳北理莫斯科大学学历学位证书",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 50000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 9593,
+      "universityCode": "1222",
+      "universityName": "南京中医药大学[公办]",
+      "majorCode": "01",
+      "majorName": "中医学(拔尖创新人才培养模式改革5+3一体化)",
+      "majorNote": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 7400
+    },
+    {
+      "index": 9594,
+      "universityCode": "1222",
+      "universityName": "南京中医药大学[公办]",
+      "majorCode": "02",
+      "majorName": "中医学",
+      "majorNote": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 7400
+    },
+    {
+      "index": 9595,
+      "universityCode": "1222",
+      "universityName": "南京中医药大学[公办]",
+      "majorCode": "03",
+      "majorName": "中西医临床医学",
+      "majorNote": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 7400
+    },
+    {
+      "index": 9596,
+      "universityCode": "1222",
+      "universityName": "南京中医药大学[公办]",
+      "majorCode": "04",
+      "majorName": "中药学",
+      "majorNote": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 7400
+    },
+    {
+      "index": 9597,
+      "universityCode": "1222",
+      "universityName": "南京中医药大学[公办]",
+      "majorCode": "05",
+      "majorName": "中药制药",
+      "majorNote": "色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7400
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

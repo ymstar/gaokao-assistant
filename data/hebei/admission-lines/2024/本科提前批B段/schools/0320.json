@@ -1,0 +1,88 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0320",
+      "universityName": "重庆大学(国家专项计划)[公办]",
+      "majorGroup": "光电信息科学与工程",
+      "planCount": 0,
+      "minScore": 628,
+      "minRank": 5164,
+      "avgScore": 628
+    },
+    {
+      "universityCode": "0320",
+      "universityName": "重庆大学(国家专项计划)[公办]",
+      "majorGroup": "安全工程",
+      "planCount": 0,
+      "minScore": 624,
+      "minRank": 6190,
+      "avgScore": 624
+    },
+    {
+      "universityCode": "0320",
+      "universityName": "重庆大学(国家专项计划)[公办]",
+      "majorGroup": "化学",
+      "planCount": 0,
+      "minScore": 615,
+      "minRank": 9146,
+      "avgScore": 615
+    },
+    {
+      "universityCode": "0320",
+      "universityName": "重庆大学(国家专项计划)[公办]",
+      "majorGroup": "生物科学",
+      "planCount": 0,
+      "minScore": 614,
+      "minRank": 9515,
+      "avgScore": 614
+    },
+    {
+      "universityCode": "0320",
+      "universityName": "重庆大学(国家专项计划)[公办]",
+      "majorGroup": "冶金工程",
+      "planCount": 0,
+      "minScore": 610,
+      "minRank": 11140,
+      "avgScore": 610
+    },
+    {
+      "universityCode": "0320",
+      "universityName": "重庆大学(国家专项计划)[公办]",
+      "majorGroup": "智能采矿工程",
+      "planCount": 0,
+      "minScore": 606,
+      "minRank": 12898,
+      "avgScore": 606
+    },
+    {
+      "universityCode": "0320",
+      "universityName": "重庆大学(国家专项计划)[公办]",
+      "majorGroup": "建筑类",
+      "planCount": 0,
+      "minScore": 604,
+      "minRank": 13836,
+      "avgScore": 609
+    },
+    {
+      "universityCode": "0320",
+      "universityName": "重庆大学(国家专项计划)[公办]",
+      "majorGroup": "城市地下空间工程",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 15387,
+      "avgScore": 601
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

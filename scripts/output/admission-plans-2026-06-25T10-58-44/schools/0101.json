@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 34,
+      "universityCode": "0101",
+      "universityName": "北京化工大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "理科试验班(绿色化学)",
+      "majorNote": "含应用化学、能源化学、资源化学专业；不招色盲色弱、单色识别异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 35,
+      "universityCode": "0101",
+      "universityName": "北京化工大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "数字经济",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 36,
+      "universityCode": "0101",
+      "universityName": "北京化工大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "环境工程(国家卓越工程师学院)",
+      "majorNote": "不招色盲色弱、单色识别异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 37,
+      "universityCode": "0101",
+      "universityName": "北京化工大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "环境工程(环工、大数据双学士学位)",
+      "majorNote": "不招色盲色弱、单色识别异常考生，“环境工程-大数据管理与应用”双学士学位复合型人才培养项目",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 38,
+      "universityCode": "0101",
+      "universityName": "北京化工大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "安全工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

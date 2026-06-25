@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 687,
+      "universityCode": "0090",
+      "universityName": "北京工商大学[公办]",
+      "majorCode": "01",
+      "majorName": "应用化学(日化创新实验班)",
+      "majorNote": "不招收色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 688,
+      "universityCode": "0090",
+      "universityName": "北京工商大学[公办]",
+      "majorCode": "02",
+      "majorName": "材料类",
+      "majorNote": "含高分子材料与工程(环境友好高分子、新型智能高分子)、功能材料(先进新材料、高端电子材料)、高分子材料与工程(新材料智造与智能财务双学士学位项目)专业；不招收色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 689,
+      "universityCode": "0090",
+      "universityName": "北京工商大学[公办]",
+      "majorCode": "03",
+      "majorName": "高分子材料与工程(求真书院实验班)",
+      "majorNote": "不招收色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 690,
+      "universityCode": "0090",
+      "universityName": "北京工商大学[公办]",
+      "majorCode": "04",
+      "majorName": "光电信息科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 691,
+      "universityCode": "0090",
+      "universityName": "北京工商大学[公办]",
+      "majorCode": "05",
+      "majorName": "数据科学与大数据技术(创新书院实验班)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 692,
+      "universityCode": "0090",
+      "universityName": "北京工商大学[公办]",
+      "majorCode": "06",
+      "majorName": "香料香精技术与工程",
+      "majorNote": "不招收色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 693,
+      "universityCode": "0090",
+      "universityName": "北京工商大学[公办]",
+      "majorCode": "07",
+      "majorName": "化妆品技术与工程(卓越工程班、化妆品与营销双学士学位项目)",
+      "majorNote": "不招收色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 694,
+      "universityCode": "0090",
+      "universityName": "北京工商大学[公办]",
+      "majorCode": "08",
+      "majorName": "环境工程(碳中和实验班、可持续工程方向)",
+      "majorNote": "不招收色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 695,
+      "universityCode": "0090",
+      "universityName": "北京工商大学[公办]",
+      "majorCode": "09",
+      "majorName": "食品科学与工程类",
+      "majorNote": "含食品科学与工程、食品质量与安全、食品营养与健康、食品营养与健康(营养健康科学与数字营销管理双学士学位项目)专业；不招收色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 696,
+      "universityCode": "0090",
+      "universityName": "北京工商大学[公办]",
+      "majorCode": "10",
+      "majorName": "生物工程(生物智造方向)",
+      "majorNote": "不招收色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 697,
+      "universityCode": "0090",
+      "universityName": "北京工商大学[公办]",
+      "majorCode": "11",
+      "majorName": "食品科学与工程(中外合作办学)",
+      "majorNote": "与爱尔兰考克大学联合培养，四年学费生活费等费用合计人民币60万元左右。建议英语语种考生报考。不招收色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

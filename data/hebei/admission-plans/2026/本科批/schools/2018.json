@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15924,
+      "universityCode": "2018",
+      "universityName": "浙江药科职业大学[公办]",
+      "majorCode": "02",
+      "majorName": "化妆品工程技术",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "不限",
+      "planCount": 12,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 15925,
+      "universityCode": "2018",
+      "universityName": "浙江药科职业大学[公办]",
+      "majorCode": "03",
+      "majorName": "制药工程技术",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 15926,
+      "universityCode": "2018",
+      "universityName": "浙江药科职业大学[公办]",
+      "majorCode": "04",
+      "majorName": "药品质量管理",
+      "majorNote": "不招色盲考生",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 15927,
+      "universityCode": "2018",
+      "universityName": "浙江药科职业大学[公办]",
+      "majorCode": "05",
+      "majorName": "康复工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 20,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 15928,
+      "universityCode": "2018",
+      "universityName": "浙江药科职业大学[公办]",
+      "majorCode": "06",
+      "majorName": "生物制药技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 15929,
+      "universityCode": "2018",
+      "universityName": "浙江药科职业大学[公办]",
+      "majorCode": "07",
+      "majorName": "药学",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "不限",
+      "planCount": 13,
+      "duration": 4,
+      "tuition": 7590
+    },
+    {
+      "index": 15930,
+      "universityCode": "2018",
+      "universityName": "浙江药科职业大学[公办]",
+      "majorCode": "08",
+      "majorName": "企业数字化管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 6000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1417,
+      "universityCode": "1776",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "工科试验班(智能过程与装备)",
+      "majorNote": "含化学工程与工艺(智能化工方向)、化学工程与工艺、过程装备与控制工程专业；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1418,
+      "universityCode": "1776",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "工科试验班(智能感知与仪器)",
+      "majorNote": "含测控技术与仪器、测控技术与仪器(智能感知方向)专业",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1419,
+      "universityCode": "1776",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "工科试验班(管理类)",
+      "majorNote": "含大数据管理与应用、工商管理、工业工程专业；不招单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1420,
+      "universityCode": "1776",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "理科试验班(物理领军班)",
+      "majorNote": "含材料物理、光电信息科学与工程、应用物理学、应用物理学(吴有训英才班)专业；不招色盲、单色不识别考生，详见院校章程；专业分流时，100%类内专业任选",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1421,
+      "universityCode": "1776",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "医学试验班(医学类)",
+      "majorNote": "含基础医学、法医学、预防医学专业；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 7150
+    },
+    {
+      "index": 1422,
+      "universityCode": "1776",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "经济学类",
+      "majorNote": "含经济学、经济统计学、财政学、金融学(数智金融方向)、金融工程、国际经济与贸易、贸易经济、电子商务专业；不招单色不识别考生，详见院校章程",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1423,
+      "universityCode": "1776",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "化学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5250
+    },
+    {
+      "index": 1424,
+      "universityCode": "1776",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "车辆工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1425,
+      "universityCode": "1776",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorCode": "10",
+      "majorName": "飞行器动力工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1426,
+      "universityCode": "1776",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorCode": "11",
+      "majorName": "临床医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 7150
+    },
+    {
+      "index": 1427,
+      "universityCode": "1776",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorCode": "12",
+      "majorName": "护理学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 7150
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

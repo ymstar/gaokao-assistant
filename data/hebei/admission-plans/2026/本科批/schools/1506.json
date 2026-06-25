@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11572,
+      "universityCode": "1506",
+      "universityName": "上海商学院[公办]",
+      "majorCode": "07",
+      "majorName": "商务经济学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11573,
+      "universityCode": "1506",
+      "universityName": "上海商学院[公办]",
+      "majorCode": "08",
+      "majorName": "金融学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11574,
+      "universityCode": "1506",
+      "universityName": "上海商学院[公办]",
+      "majorCode": "09",
+      "majorName": "应用统计学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 11575,
+      "universityCode": "1506",
+      "universityName": "上海商学院[公办]",
+      "majorCode": "10",
+      "majorName": "食品质量与安全",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 7000
+    },
+    {
+      "index": 11576,
+      "universityCode": "1506",
+      "universityName": "上海商学院[公办]",
+      "majorCode": "11",
+      "majorName": "信息管理与信息系统",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11577,
+      "universityCode": "1506",
+      "universityName": "上海商学院[公办]",
+      "majorCode": "12",
+      "majorName": "市场营销",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11578,
+      "universityCode": "1506",
+      "universityName": "上海商学院[公办]",
+      "majorCode": "13",
+      "majorName": "财务管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11579,
+      "universityCode": "1506",
+      "universityName": "上海商学院[公办]",
+      "majorCode": "14",
+      "majorName": "零售业管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11580,
+      "universityCode": "1506",
+      "universityName": "上海商学院[公办]",
+      "majorCode": "15",
+      "majorName": "旅游管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

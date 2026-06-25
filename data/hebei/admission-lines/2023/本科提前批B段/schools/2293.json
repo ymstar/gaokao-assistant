@@ -1,0 +1,34 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2293",
+      "universityName": "中国矿业大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "电气工程及其自动化",
+      "planCount": 0,
+      "minScore": 610,
+      "minRank": 11481,
+      "avgScore": 612
+    },
+    {
+      "universityCode": "2293",
+      "universityName": "中国矿业大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "地质类",
+      "planCount": 0,
+      "minScore": 591,
+      "minRank": 20057,
+      "avgScore": 592
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

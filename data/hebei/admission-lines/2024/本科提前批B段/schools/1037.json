@@ -1,0 +1,70 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1037",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorGroup": "电气工程及其自动化",
+      "planCount": 0,
+      "minScore": 625,
+      "minRank": 5911,
+      "avgScore": 626
+    },
+    {
+      "universityCode": "1037",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorGroup": "自动化",
+      "planCount": 0,
+      "minScore": 623,
+      "minRank": 6477,
+      "avgScore": 623
+    },
+    {
+      "universityCode": "1037",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorGroup": "能源与动力工程",
+      "planCount": 0,
+      "minScore": 621,
+      "minRank": 7068,
+      "avgScore": 621
+    },
+    {
+      "universityCode": "1037",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorGroup": "机械工程",
+      "planCount": 0,
+      "minScore": 616,
+      "minRank": 8750,
+      "avgScore": 616
+    },
+    {
+      "universityCode": "1037",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorGroup": "会计学",
+      "planCount": 0,
+      "minScore": 602,
+      "minRank": 14866,
+      "avgScore": 606
+    },
+    {
+      "universityCode": "1037",
+      "universityName": "华北电力大学(保定)(国家专项计划)[公办]",
+      "majorGroup": "工程造价",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 15387,
+      "avgScore": 601
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

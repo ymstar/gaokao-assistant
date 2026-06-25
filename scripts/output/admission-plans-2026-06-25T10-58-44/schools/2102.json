@@ -1,0 +1,53 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1697,
+      "universityCode": "2102",
+      "universityName": "中南财经政法大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "哲学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1698,
+      "universityCode": "2102",
+      "universityName": "中南财经政法大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "外国语言文学类",
+      "majorNote": "含英语、商务英语专业；只招英语语种考生；可全部进入双学位实验班",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4500
+    },
+    {
+      "index": 1699,
+      "universityCode": "2102",
+      "universityName": "中南财经政法大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "工商管理类",
+      "majorNote": "含工商管理、工商管理(商务分析方向)、工商管理(AI应用与管理方向)、工商管理(数智农商管理方向)、市场营销(数智营销方向)、人力资源管理、旅游管理、供应链管理专业；本专业类内专业任选",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

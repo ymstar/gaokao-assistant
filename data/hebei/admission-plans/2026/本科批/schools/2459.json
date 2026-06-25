@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19104,
+      "universityCode": "2459",
+      "universityName": "黄河科技学院(郑州市)[民办]",
+      "majorCode": "04",
+      "majorName": "法学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 15000
+    },
+    {
+      "index": 19105,
+      "universityCode": "2459",
+      "universityName": "黄河科技学院(郑州市)[民办]",
+      "majorCode": "05",
+      "majorName": "商务英语",
+      "majorNote": "只招英语语种考生",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 15000
+    },
+    {
+      "index": 19106,
+      "universityCode": "2459",
+      "universityName": "黄河科技学院(郑州市)[民办]",
+      "majorCode": "06",
+      "majorName": "通信工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 16000
+    },
+    {
+      "index": 19107,
+      "universityCode": "2459",
+      "universityName": "黄河科技学院(郑州市)[民办]",
+      "majorCode": "07",
+      "majorName": "医学检验技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 17000
+    },
+    {
+      "index": 19108,
+      "universityCode": "2459",
+      "universityName": "黄河科技学院(郑州市)[民办]",
+      "majorCode": "08",
+      "majorName": "工商管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 15000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

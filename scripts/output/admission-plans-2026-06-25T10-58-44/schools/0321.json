@@ -1,0 +1,65 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 219,
+      "universityCode": "0321",
+      "universityName": "大连民族大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "通信工程(新工科实验班)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 220,
+      "universityCode": "0321",
+      "universityName": "大连民族大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 221,
+      "universityCode": "0321",
+      "universityName": "大连民族大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 222,
+      "universityCode": "0321",
+      "universityName": "大连民族大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "网络工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5200
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

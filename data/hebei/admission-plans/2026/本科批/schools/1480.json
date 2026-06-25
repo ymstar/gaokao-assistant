@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11478,
+      "universityCode": "1480",
+      "universityName": "上海对外经贸大学[公办]",
+      "majorCode": "06",
+      "majorName": "金融学(应用统计学双学士学位)",
+      "majorNote": "金融学-应用统计学双学士学位复合型人才培养项目",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11479,
+      "universityCode": "1480",
+      "universityName": "上海对外经贸大学[公办]",
+      "majorCode": "07",
+      "majorName": "国际经济与贸易",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11480,
+      "universityCode": "1480",
+      "universityName": "上海对外经贸大学[公办]",
+      "majorCode": "08",
+      "majorName": "日语(商务方向)",
+      "majorNote": "只招英语、日语语种考生；入学后教学外语语种为日语",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11481,
+      "universityCode": "1480",
+      "universityName": "上海对外经贸大学[公办]",
+      "majorCode": "09",
+      "majorName": "会计学(国际会计方向)",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11482,
+      "universityCode": "1480",
+      "universityName": "上海对外经贸大学[公办]",
+      "majorCode": "10",
+      "majorName": "审计学(注册会计师方向)",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11483,
+      "universityCode": "1480",
+      "universityName": "上海对外经贸大学[公办]",
+      "majorCode": "11",
+      "majorName": "电子商务",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 11484,
+      "universityCode": "1480",
+      "universityName": "上海对外经贸大学[公办]",
+      "majorCode": "12",
+      "majorName": "英语(中外合作办学)(中英合作)",
+      "majorNote": "只招英语语种考生；4+0模式",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19500
+    },
+    {
+      "index": 11485,
+      "universityCode": "1480",
+      "universityName": "上海对外经贸大学[公办]",
+      "majorCode": "13",
+      "majorName": "国际商务(中外合作办学)(中澳合作)",
+      "majorNote": "4+0模式",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19500
+    },
+    {
+      "index": 11486,
+      "universityCode": "1480",
+      "universityName": "上海对外经贸大学[公办]",
+      "majorCode": "14",
+      "majorName": "物流管理(中外合作办学)(中澳合作)",
+      "majorNote": "4+0模式",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 19500
+    },
+    {
+      "index": 11487,
+      "universityCode": "1480",
+      "universityName": "上海对外经贸大学[公办]",
+      "majorCode": "15",
+      "majorName": "会展经济与管理(中外合作办学)(中德合作)",
+      "majorNote": "4+0模式",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 19500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

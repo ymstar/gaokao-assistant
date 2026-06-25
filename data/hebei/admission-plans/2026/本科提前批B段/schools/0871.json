@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1053,
+      "universityCode": "0871",
+      "universityName": "华东师范大学(公费师范生)[公办]",
+      "majorCode": "04",
+      "majorName": "数学与应用数学",
+      "majorNote": "国家公费师范生；师范类；本专业为本研衔接公费教育，履约任教范围：邯郸市、定州市、承德市、沧州市、衡水市具体要求详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 1054,
+      "universityCode": "0871",
+      "universityName": "华东师范大学(公费师范生)[公办]",
+      "majorCode": "05",
+      "majorName": "物理学",
+      "majorNote": "国家公费师范生；师范类；本专业为本研衔接公费教育，履约任教范围：邯郸市、定州市、承德市、廊坊市、衡水市，具体要求详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

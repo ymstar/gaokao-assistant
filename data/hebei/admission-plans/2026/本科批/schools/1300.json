@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10198,
+      "universityCode": "1300",
+      "universityName": "齐齐哈尔医学院(八协计划)[公办]",
+      "majorCode": "01",
+      "majorName": "制药工程",
+      "majorNote": "八协计划，招加试蒙古语文考生；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 10199,
+      "universityCode": "1300",
+      "universityName": "齐齐哈尔医学院(八协计划)[公办]",
+      "majorCode": "02",
+      "majorName": "生物医学工程",
+      "majorNote": "八协计划，招加试蒙古语文考生；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学和生物",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 10200,
+      "universityCode": "1300",
+      "universityName": "齐齐哈尔医学院(八协计划)[公办]",
+      "majorCode": "03",
+      "majorName": "医学影像学",
+      "majorNote": "八协计划，招加试蒙古语文考生；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学和生物",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 6500
+    },
+    {
+      "index": 10201,
+      "universityCode": "1300",
+      "universityName": "齐齐哈尔医学院(八协计划)[公办]",
+      "majorCode": "04",
+      "majorName": "药学",
+      "majorNote": "八协计划，招加试蒙古语文考生；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

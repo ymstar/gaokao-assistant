@@ -1,0 +1,7 @@
+{
+  "skills": {
+    "human-pen": {
+      "path": ".claude/skills/human-pen/skill.md"
+    }
+  }
+}

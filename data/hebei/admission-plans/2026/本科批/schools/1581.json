@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 12314,
+      "universityCode": "1581",
+      "universityName": "四川工程职业技术大学(德阳市)[公办]",
+      "majorCode": "06",
+      "majorName": "智能建造工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5720
+    },
+    {
+      "index": 12315,
+      "universityCode": "1581",
+      "universityName": "四川工程职业技术大学(德阳市)[公办]",
+      "majorCode": "07",
+      "majorName": "机械设计制造及自动化",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5720
+    },
+    {
+      "index": 12316,
+      "universityCode": "1581",
+      "universityName": "四川工程职业技术大学(德阳市)[公办]",
+      "majorCode": "08",
+      "majorName": "智能制造工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5720
+    },
+    {
+      "index": 12317,
+      "universityCode": "1581",
+      "universityName": "四川工程职业技术大学(德阳市)[公办]",
+      "majorCode": "09",
+      "majorName": "数控技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5720
+    },
+    {
+      "index": 12318,
+      "universityCode": "1581",
+      "universityName": "四川工程职业技术大学(德阳市)[公办]",
+      "majorCode": "10",
+      "majorName": "材料成型及控制工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5720
+    },
+    {
+      "index": 12319,
+      "universityCode": "1581",
+      "universityName": "四川工程职业技术大学(德阳市)[公办]",
+      "majorCode": "11",
+      "majorName": "机械电子工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5720
+    },
+    {
+      "index": 12320,
+      "universityCode": "1581",
+      "universityName": "四川工程职业技术大学(德阳市)[公办]",
+      "majorCode": "12",
+      "majorName": "电气工程及自动化",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5720
+    },
+    {
+      "index": 12321,
+      "universityCode": "1581",
+      "universityName": "四川工程职业技术大学(德阳市)[公办]",
+      "majorCode": "13",
+      "majorName": "新能源汽车工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5720
+    },
+    {
+      "index": 12322,
+      "universityCode": "1581",
+      "universityName": "四川工程职业技术大学(德阳市)[公办]",
+      "majorCode": "14",
+      "majorName": "电子信息工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5720
+    },
+    {
+      "index": 12323,
+      "universityCode": "1581",
+      "universityName": "四川工程职业技术大学(德阳市)[公办]",
+      "majorCode": "15",
+      "majorName": "卫星通信工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5720
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

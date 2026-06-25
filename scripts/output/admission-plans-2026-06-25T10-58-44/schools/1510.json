@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1265,
+      "universityCode": "1510",
+      "universityName": "上海外国语大学(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "国际经济与贸易(日语)",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线上30分",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 1266,
+      "universityCode": "1510",
+      "universityName": "上海外国语大学(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "商务英语",
+      "majorNote": "只招英语语种考生；须口试合格；录取分数不低于特殊类型招生录取控制分数线上30分",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 7150
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

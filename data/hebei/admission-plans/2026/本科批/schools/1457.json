@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11337,
+      "universityCode": "1457",
+      "universityName": "陕西学前师范学院[公办]",
+      "majorCode": "07",
+      "majorName": "学前教育",
+      "majorNote": "师范类；不招收色盲、色弱考生",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5350
+    },
+    {
+      "index": 11338,
+      "universityCode": "1457",
+      "universityName": "陕西学前师范学院[公办]",
+      "majorCode": "08",
+      "majorName": "人工智能教育",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 11339,
+      "universityCode": "1457",
+      "universityName": "陕西学前师范学院[公办]",
+      "majorCode": "09",
+      "majorName": "英语",
+      "majorNote": "师范类；请非英语语种考生慎报",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 11340,
+      "universityCode": "1457",
+      "universityName": "陕西学前师范学院[公办]",
+      "majorCode": "10",
+      "majorName": "翻译",
+      "majorNote": "请非英语语种考生慎报",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 11341,
+      "universityCode": "1457",
+      "universityName": "陕西学前师范学院[公办]",
+      "majorCode": "11",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5250
+    },
+    {
+      "index": 11342,
+      "universityCode": "1457",
+      "universityName": "陕西学前师范学院[公办]",
+      "majorCode": "12",
+      "majorName": "数据计算及应用",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11343,
+      "universityCode": "1457",
+      "universityName": "陕西学前师范学院[公办]",
+      "majorCode": "13",
+      "majorName": "应用化学",
+      "majorNote": "不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11344,
+      "universityCode": "1457",
+      "universityName": "陕西学前师范学院[公办]",
+      "majorCode": "15",
+      "majorName": "应用统计学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11345,
+      "universityCode": "1457",
+      "universityName": "陕西学前师范学院[公办]",
+      "majorCode": "16",
+      "majorName": "物联网工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11346,
+      "universityCode": "1457",
+      "universityName": "陕西学前师范学院[公办]",
+      "majorCode": "17",
+      "majorName": "食品科学与工程",
+      "majorNote": "不招收色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 11347,
+      "universityCode": "1457",
+      "universityName": "陕西学前师范学院[公办]",
+      "majorCode": "18",
+      "majorName": "内部审计",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

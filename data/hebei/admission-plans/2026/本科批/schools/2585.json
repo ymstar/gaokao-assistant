@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19736,
+      "universityCode": "2585",
+      "universityName": "山东工程职业技术大学(济南市)[民办]",
+      "majorCode": "08",
+      "majorName": "智能建造工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21800
+    },
+    {
+      "index": 19737,
+      "universityCode": "2585",
+      "universityName": "山东工程职业技术大学(济南市)[民办]",
+      "majorCode": "09",
+      "majorName": "物联网工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21800
+    },
+    {
+      "index": 19738,
+      "universityCode": "2585",
+      "universityName": "山东工程职业技术大学(济南市)[民办]",
+      "majorCode": "10",
+      "majorName": "大数据工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 21800
+    },
+    {
+      "index": 19739,
+      "universityCode": "2585",
+      "universityName": "山东工程职业技术大学(济南市)[民办]",
+      "majorCode": "11",
+      "majorName": "现代通信工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 21800
+    },
+    {
+      "index": 19740,
+      "universityCode": "2585",
+      "universityName": "山东工程职业技术大学(济南市)[民办]",
+      "majorCode": "12",
+      "majorName": "金融科技应用",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 21800
+    },
+    {
+      "index": 19741,
+      "universityCode": "2585",
+      "universityName": "山东工程职业技术大学(济南市)[民办]",
+      "majorCode": "13",
+      "majorName": "机械设计制造及自动化(中外合作办学)",
+      "majorNote": "与白俄罗斯戈梅利国立技术大学合作",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 45800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

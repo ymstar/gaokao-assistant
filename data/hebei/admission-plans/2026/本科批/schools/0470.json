@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3257,
+      "universityCode": "0470",
+      "universityName": "广西民族师范学院(崇左市)[公办]",
+      "majorCode": "08",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 3258,
+      "universityCode": "0470",
+      "universityName": "广西民族师范学院(崇左市)[公办]",
+      "majorCode": "09",
+      "majorName": "网络工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 3259,
+      "universityCode": "0470",
+      "universityName": "广西民族师范学院(崇左市)[公办]",
+      "majorCode": "10",
+      "majorName": "物联网工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 3260,
+      "universityCode": "0470",
+      "universityName": "广西民族师范学院(崇左市)[公办]",
+      "majorCode": "11",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 3261,
+      "universityCode": "0470",
+      "universityName": "广西民族师范学院(崇左市)[公办]",
+      "majorCode": "12",
+      "majorName": "食品科学与工程",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

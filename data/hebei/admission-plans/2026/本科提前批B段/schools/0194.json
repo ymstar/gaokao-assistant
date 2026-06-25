@@ -1,0 +1,161 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 144,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "地球物理学类(地球物理与智能探测)",
+      "majorNote": "含地球物理学、勘查技术与工程专业；本专业类内分流任选",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 145,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "地质学类",
+      "majorNote": "含地质学、资源勘查工程、矿物加工工程、碳储科学与工程专业；本专业类内分流任选；地质学，不招色盲、色弱、单色不识别考生，详见院校章程；资源勘查工程、矿物加工工程，不招色盲、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 146,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "机械类(智能制造)",
+      "majorNote": "含智能制造工程、机械设计制造及其自动化、机械电子工程专业；本专业类内分流任选",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 147,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "车辆工程",
+      "majorNote": "按类招，含车辆工程、智能车辆工程、汽车服务工程，上述三个专业分流任选",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 148,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "自动化类",
+      "majorNote": "含自动化、机器人工程、交通设备与控制工程专业；本专业类内分流任选",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 149,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "土木类(绿色建造与智慧能源)",
+      "majorNote": "含土木工程、建筑环境与能源应用工程、给排水科学与工程专业；本专业类内分流任选",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 150,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "城市地下空间工程(城市智慧更新)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 151,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "道路桥梁与渡河工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 152,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "道路桥梁与渡河工程(智能交通双语班)",
+      "majorNote": "非英语语种考生谨慎填报",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 153,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "10",
+      "majorName": "地质工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 154,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "11",
+      "majorName": "土地整治工程(土地信息化)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 155,
+      "universityCode": "0194",
+      "universityName": "长安大学(国家专项计划)[公办]",
+      "majorCode": "12",
+      "majorName": "土地资源管理(国土空间规划)",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19509,
+      "universityCode": "2544",
+      "universityName": "南通理工学院[民办]",
+      "majorCode": "04",
+      "majorName": "金融工程",
+      "majorNote": "海安校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 25300
+    },
+    {
+      "index": 19510,
+      "universityCode": "2544",
+      "universityName": "南通理工学院[民办]",
+      "majorCode": "05",
+      "majorName": "汽车服务工程",
+      "majorNote": "第一年海安校区就读，后三年南通校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 31400
+    },
+    {
+      "index": 19511,
+      "universityCode": "2544",
+      "universityName": "南通理工学院[民办]",
+      "majorCode": "06",
+      "majorName": "金属材料工程",
+      "majorNote": "第一年海安校区就读，后三年南通校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 28600
+    },
+    {
+      "index": 19512,
+      "universityCode": "2544",
+      "universityName": "南通理工学院[民办]",
+      "majorCode": "07",
+      "majorName": "智能装备与系统",
+      "majorNote": "第一年海安校区就读，后三年南通校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 28600
+    },
+    {
+      "index": 19513,
+      "universityCode": "2544",
+      "universityName": "南通理工学院[民办]",
+      "majorCode": "08",
+      "majorName": "智能建造",
+      "majorNote": "海安校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 28600
+    },
+    {
+      "index": 19514,
+      "universityCode": "2544",
+      "universityName": "南通理工学院[民办]",
+      "majorCode": "09",
+      "majorName": "安全工程",
+      "majorNote": "海安校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 28600
+    },
+    {
+      "index": 19515,
+      "universityCode": "2544",
+      "universityName": "南通理工学院[民办]",
+      "majorCode": "10",
+      "majorName": "大数据管理与应用",
+      "majorNote": "前两年海安校区就读，后两年南通校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 25300
+    },
+    {
+      "index": 19516,
+      "universityCode": "2544",
+      "universityName": "南通理工学院[民办]",
+      "majorCode": "11",
+      "majorName": "标准化工程",
+      "majorNote": "前两年海安校区就读，后两年南通校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 25300
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

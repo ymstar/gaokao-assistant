@@ -1,0 +1,52 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2134",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "测绘类(含卓越工程师教育培养计划)",
+      "planCount": 0,
+      "minScore": 635,
+      "minRank": 3628,
+      "avgScore": 637
+    },
+    {
+      "universityCode": "2134",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(土木类)",
+      "planCount": 0,
+      "minScore": 627,
+      "minRank": 5409,
+      "avgScore": 630
+    },
+    {
+      "universityCode": "2134",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(空间信息与智慧城市)",
+      "planCount": 0,
+      "minScore": 626,
+      "minRank": 5657,
+      "avgScore": 631
+    },
+    {
+      "universityCode": "2134",
+      "universityName": "武汉大学(国家专项计划)[公办]",
+      "majorGroup": "公共卫生与预防医学类",
+      "planCount": 0,
+      "minScore": 618,
+      "minRank": 8071,
+      "avgScore": 625
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

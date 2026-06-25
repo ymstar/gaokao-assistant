@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 681,
+      "universityCode": "0089",
+      "universityName": "北京服装学院[公办]",
+      "majorCode": "03",
+      "majorName": "工业设计",
+      "majorNote": "不招色盲、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 682,
+      "universityCode": "0089",
+      "universityName": "北京服装学院[公办]",
+      "majorCode": "04",
+      "majorName": "智能交互设计",
+      "majorNote": "不招色盲、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 683,
+      "universityCode": "0089",
+      "universityName": "北京服装学院[公办]",
+      "majorCode": "05",
+      "majorName": "高分子材料与工程",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 684,
+      "universityCode": "0089",
+      "universityName": "北京服装学院[公办]",
+      "majorCode": "06",
+      "majorName": "智能工程与创意设计",
+      "majorNote": "不招色盲、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 685,
+      "universityCode": "0089",
+      "universityName": "北京服装学院[公办]",
+      "majorCode": "07",
+      "majorName": "服装设计与工程",
+      "majorNote": "不招色盲、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 686,
+      "universityCode": "0089",
+      "universityName": "北京服装学院[公办]",
+      "majorCode": "08",
+      "majorName": "轻化工程",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

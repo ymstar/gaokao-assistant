@@ -1,0 +1,44 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10429,
+      "universityCode": "1328",
+      "universityName": "清华大学[公办]",
+      "majorCode": "06",
+      "majorName": "理科试验班(理科各专业)",
+      "majorNote": "含交叉工程(等专业)专业",
+      "subjectRequirement": "化学",
+      "planCount": 43,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 10430,
+      "universityCode": "1328",
+      "universityName": "清华大学[公办]",
+      "majorCode": "07",
+      "majorName": "临床医学类",
+      "majorNote": "含临床医学(协和)、临床医学(卓越医师科学班)专业",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 8,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2025",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "数学与应用数学",
+      "planCount": 0,
+      "minScore": 627,
+      "minRank": 6150,
+      "avgScore": 629
+    },
+    {
+      "universityCode": "2025",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "生物科学",
+      "planCount": 0,
+      "minScore": 626,
+      "minRank": 6430,
+      "avgScore": 626
+    },
+    {
+      "universityCode": "2025",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "英语",
+      "planCount": 0,
+      "minScore": 624,
+      "minRank": 6968,
+      "avgScore": 624
+    },
+    {
+      "universityCode": "2025",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "物理学",
+      "planCount": 0,
+      "minScore": 624,
+      "minRank": 6968,
+      "avgScore": 625
+    },
+    {
+      "universityCode": "2025",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "思想政治教育",
+      "planCount": 0,
+      "minScore": 622,
+      "minRank": 7513,
+      "avgScore": 622
+    },
+    {
+      "universityCode": "2025",
+      "universityName": "西南大学(重庆市)(公费师范生)[公办]",
+      "majorGroup": "化学",
+      "planCount": 0,
+      "minScore": 622,
+      "minRank": 7513,
+      "avgScore": 622
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

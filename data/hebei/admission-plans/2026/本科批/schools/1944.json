@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15425,
+      "universityCode": "1944",
+      "universityName": "榆林大学[公办]",
+      "majorCode": "03",
+      "majorName": "数字经济",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 15426,
+      "universityCode": "1944",
+      "universityName": "榆林大学[公办]",
+      "majorCode": "04",
+      "majorName": "金融工程",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 15427,
+      "universityCode": "1944",
+      "universityName": "榆林大学[公办]",
+      "majorCode": "05",
+      "majorName": "生物科学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 15428,
+      "universityCode": "1944",
+      "universityName": "榆林大学[公办]",
+      "majorCode": "06",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 15429,
+      "universityCode": "1944",
+      "universityName": "榆林大学[公办]",
+      "majorCode": "07",
+      "majorName": "化学工程与工艺",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 15430,
+      "universityCode": "1944",
+      "universityName": "榆林大学[公办]",
+      "majorCode": "08",
+      "majorName": "精细化工",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 15431,
+      "universityCode": "1944",
+      "universityName": "榆林大学[公办]",
+      "majorCode": "09",
+      "majorName": "植物科学与技术",
+      "majorNote": "农林类；国际创意学院项目",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 28000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

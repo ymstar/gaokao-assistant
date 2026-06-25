@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19694,
+      "universityCode": "2578",
+      "universityName": "三江学院[民办]",
+      "majorCode": "03",
+      "majorName": "知识产权",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 25300
+    },
+    {
+      "index": 19695,
+      "universityCode": "2578",
+      "universityName": "三江学院[民办]",
+      "majorCode": "04",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 28600
+    },
+    {
+      "index": 19696,
+      "universityCode": "2578",
+      "universityName": "三江学院[民办]",
+      "majorCode": "05",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31400
+    },
+    {
+      "index": 19697,
+      "universityCode": "2578",
+      "universityName": "三江学院[民办]",
+      "majorCode": "06",
+      "majorName": "网络工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 28600
+    },
+    {
+      "index": 19698,
+      "universityCode": "2578",
+      "universityName": "三江学院[民办]",
+      "majorCode": "07",
+      "majorName": "智能科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 28600
+    },
+    {
+      "index": 19699,
+      "universityCode": "2578",
+      "universityName": "三江学院[民办]",
+      "majorCode": "08",
+      "majorName": "土木工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 9,
+      "duration": 4,
+      "tuition": 31400
+    },
+    {
+      "index": 19700,
+      "universityCode": "2578",
+      "universityName": "三江学院[民办]",
+      "majorCode": "09",
+      "majorName": "建筑学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 31400
+    },
+    {
+      "index": 19701,
+      "universityCode": "2578",
+      "universityName": "三江学院[民办]",
+      "majorCode": "10",
+      "majorName": "电子商务及法律",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 25300
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

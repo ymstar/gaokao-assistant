@@ -1,0 +1,52 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1924",
+      "universityName": "中国石油大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "工商管理类",
+      "planCount": 0,
+      "minScore": 620,
+      "minRank": 14098,
+      "avgScore": 620
+    },
+    {
+      "universityCode": "1924",
+      "universityName": "中国石油大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "经济学类",
+      "planCount": 0,
+      "minScore": 617,
+      "minRank": 15775,
+      "avgScore": 617
+    },
+    {
+      "universityCode": "1924",
+      "universityName": "中国石油大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "化学工程与工艺",
+      "planCount": 0,
+      "minScore": 617,
+      "minRank": 15775,
+      "avgScore": 617
+    },
+    {
+      "universityCode": "1924",
+      "universityName": "中国石油大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "勘查技术与工程",
+      "planCount": 0,
+      "minScore": 605,
+      "minRank": 23383,
+      "avgScore": 610
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

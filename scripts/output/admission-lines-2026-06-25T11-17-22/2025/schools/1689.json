@@ -1,0 +1,97 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1689",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "机械类",
+      "planCount": 0,
+      "minScore": 632,
+      "minRank": 8622,
+      "avgScore": 632
+    },
+    {
+      "universityCode": "1689",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "材料类",
+      "planCount": 0,
+      "minScore": 617,
+      "minRank": 15775,
+      "avgScore": 617
+    },
+    {
+      "universityCode": "1689",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "经济与贸易类",
+      "planCount": 0,
+      "minScore": 616,
+      "minRank": 16339,
+      "avgScore": 616
+    },
+    {
+      "universityCode": "1689",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "工商管理类",
+      "planCount": 0,
+      "minScore": 612,
+      "minRank": 18720,
+      "avgScore": 612
+    },
+    {
+      "universityCode": "1689",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "测绘类",
+      "planCount": 0,
+      "minScore": 611,
+      "minRank": 19367,
+      "avgScore": 611
+    },
+    {
+      "universityCode": "1689",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "物流管理与工程类",
+      "planCount": 0,
+      "minScore": 602,
+      "minRank": 25574,
+      "avgScore": 603
+    },
+    {
+      "universityCode": "1689",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "消防工程",
+      "planCount": 0,
+      "minScore": 596,
+      "minRank": 30194,
+      "avgScore": 596
+    },
+    {
+      "universityCode": "1689",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "土木工程",
+      "planCount": 0,
+      "minScore": 593,
+      "minRank": 32692,
+      "avgScore": 596
+    },
+    {
+      "universityCode": "1689",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "建筑学",
+      "planCount": 0,
+      "minScore": 579,
+      "minRank": 45972,
+      "avgScore": 585
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

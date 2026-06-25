@@ -1,0 +1,52 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0591",
+      "universityName": "哈尔滨工业大学(威海)(国家专项计划)[公办]",
+      "majorGroup": "车辆工程(卓越优才计划)",
+      "planCount": 0,
+      "minScore": 633,
+      "minRank": 4796,
+      "avgScore": 634
+    },
+    {
+      "universityCode": "0591",
+      "universityName": "哈尔滨工业大学(威海)(国家专项计划)[公办]",
+      "majorGroup": "智能材料与结构(卓越优才计划)",
+      "planCount": 0,
+      "minScore": 626,
+      "minRank": 6430,
+      "avgScore": 629
+    },
+    {
+      "universityCode": "0591",
+      "universityName": "哈尔滨工业大学(威海)(国家专项计划)[公办]",
+      "majorGroup": "化学工程与工艺(卓越优才计划)",
+      "planCount": 0,
+      "minScore": 621,
+      "minRank": 7805,
+      "avgScore": 626
+    },
+    {
+      "universityCode": "0591",
+      "universityName": "哈尔滨工业大学(威海)(国家专项计划)[公办]",
+      "majorGroup": "海洋技术(卓越优才计划)",
+      "planCount": 0,
+      "minScore": 617,
+      "minRank": 9004,
+      "avgScore": 620
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

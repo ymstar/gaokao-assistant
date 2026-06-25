@@ -1,0 +1,25 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1875",
+      "universityName": "沈阳农业大学(国家专项计划)[公办]",
+      "majorGroup": "园艺",
+      "planCount": 0,
+      "minScore": 528,
+      "minRank": 82247,
+      "avgScore": 529
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

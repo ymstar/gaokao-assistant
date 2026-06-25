@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 13386,
+      "universityCode": "1731",
+      "universityName": "五邑大学(江门市)[公办]",
+      "majorCode": "02",
+      "majorName": "汉语言文学",
+      "majorNote": "含汉语言文学、新媒体与文化传播等培养模块，入学后分流",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5050
+    },
+    {
+      "index": 13387,
+      "universityCode": "1731",
+      "universityName": "五邑大学(江门市)[公办]",
+      "majorCode": "03",
+      "majorName": "电子信息工程",
+      "majorNote": "请单色识别不全考生慎重报考；含集成电路、微电子、低空技术与工程、储能科学与工程、电子信息工程、半导体绿色光源、光电工程、信息安全、应急装备与技术工程等培养模块，入学后分流",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 13388,
+      "universityCode": "1731",
+      "universityName": "五邑大学(江门市)[公办]",
+      "majorCode": "04",
+      "majorName": "纺织工程",
+      "majorNote": "请色盲色弱考生慎重报考；含纺织智能检测与标准化、非织造材料与工程、纺织化学与清洁生产、染整、现代纺织技术与应用、针织品设计与服装等培养模块，入学后分流",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 13389,
+      "universityCode": "1731",
+      "universityName": "五邑大学(江门市)[公办]",
+      "majorCode": "05",
+      "majorName": "交通工程",
+      "majorNote": "请色盲色弱考生慎重报考；含智能装备、轨道交通自动化、轨道交通电气化、轨道交通车辆工程、轨道交通智慧运营、数字供应链、智慧交通、智慧路桥、防灾减灾科学与工程等培养模块，入学后分流",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 13390,
+      "universityCode": "1731",
+      "universityName": "五邑大学(江门市)[公办]",
+      "majorCode": "06",
+      "majorName": "食品科学与工程",
+      "majorNote": "请色盲色弱考生慎重报考",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

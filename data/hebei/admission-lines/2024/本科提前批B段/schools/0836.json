@@ -1,0 +1,52 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0836",
+      "universityName": "河北中医药大学(国家专项计划)[公办]",
+      "majorGroup": "中医学",
+      "planCount": 0,
+      "minScore": 546,
+      "minRank": 60449,
+      "avgScore": 552
+    },
+    {
+      "universityCode": "0836",
+      "universityName": "河北中医药大学(国家专项计划)[公办]",
+      "majorGroup": "中西医临床医学",
+      "planCount": 0,
+      "minScore": 530,
+      "minRank": 79669,
+      "avgScore": 535
+    },
+    {
+      "universityCode": "0836",
+      "universityName": "河北中医药大学(国家专项计划)[公办]",
+      "majorGroup": "针灸推拿学",
+      "planCount": 0,
+      "minScore": 526,
+      "minRank": 84920,
+      "avgScore": 531
+    },
+    {
+      "universityCode": "0836",
+      "universityName": "河北中医药大学(国家专项计划)[公办]",
+      "majorGroup": "中药学",
+      "planCount": 0,
+      "minScore": 525,
+      "minRank": 86309,
+      "avgScore": 529
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

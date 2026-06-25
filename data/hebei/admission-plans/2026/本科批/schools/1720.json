@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 13344,
+      "universityCode": "1720",
+      "universityName": "温州理工学院[公办]",
+      "majorCode": "01",
+      "majorName": "金融科技",
+      "majorNote": "不招单色不识别考生，详见院校章程",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 13345,
+      "universityCode": "1720",
+      "universityName": "温州理工学院[公办]",
+      "majorCode": "02",
+      "majorName": "应用统计学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4800
+    },
+    {
+      "index": 13346,
+      "universityCode": "1720",
+      "universityName": "温州理工学院[公办]",
+      "majorCode": "03",
+      "majorName": "机械工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6300
+    },
+    {
+      "index": 13347,
+      "universityCode": "1720",
+      "universityName": "温州理工学院[公办]",
+      "majorCode": "04",
+      "majorName": "新能源汽车工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 13348,
+      "universityCode": "1720",
+      "universityName": "温州理工学院[公办]",
+      "majorCode": "05",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 13349,
+      "universityCode": "1720",
+      "universityName": "温州理工学院[公办]",
+      "majorCode": "06",
+      "majorName": "人工智能",
+      "majorNote": "不招单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 13350,
+      "universityCode": "1720",
+      "universityName": "温州理工学院[公办]",
+      "majorCode": "07",
+      "majorName": "机器人工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 6300
+    },
+    {
+      "index": 13351,
+      "universityCode": "1720",
+      "universityName": "温州理工学院[公办]",
+      "majorCode": "08",
+      "majorName": "物联网工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 13352,
+      "universityCode": "1720",
+      "universityName": "温州理工学院[公办]",
+      "majorCode": "09",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "不招单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 13353,
+      "universityCode": "1720",
+      "universityName": "温州理工学院[公办]",
+      "majorCode": "10",
+      "majorName": "土木工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 13354,
+      "universityCode": "1720",
+      "universityName": "温州理工学院[公办]",
+      "majorCode": "11",
+      "majorName": "建筑环境与能源应用工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

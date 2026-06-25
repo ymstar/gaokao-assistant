@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10407,
+      "universityCode": "1323",
+      "universityName": "青海民族大学[公办]",
+      "majorCode": "07",
+      "majorName": "生物科学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 10408,
+      "universityCode": "1323",
+      "universityName": "青海民族大学[公办]",
+      "majorCode": "08",
+      "majorName": "统计学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 10409,
+      "universityCode": "1323",
+      "universityName": "青海民族大学[公办]",
+      "majorCode": "09",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 10410,
+      "universityCode": "1323",
+      "universityName": "青海民族大学[公办]",
+      "majorCode": "10",
+      "majorName": "交通运输",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 10411,
+      "universityCode": "1323",
+      "universityName": "青海民族大学[公办]",
+      "majorCode": "11",
+      "majorName": "药物制剂",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

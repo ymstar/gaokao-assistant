@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1397,
+      "universityCode": "1765",
+      "universityName": "西安电子科技大学(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "数学类(数学、统计与信息、计算机科学深度融合培养)",
+      "majorNote": "含数学与应用数学、信息与计算科学、统计学专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1398,
+      "universityCode": "1765",
+      "universityName": "西安电子科技大学(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "材料类(电子材料与微纳器件)",
+      "majorNote": "含材料科学与工程、电子信息材料、智能材料与结构专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1399,
+      "universityCode": "1765",
+      "universityName": "西安电子科技大学(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "电子信息类(通信)",
+      "majorNote": "含通信工程、信息工程、空间信息与数字技术专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1400,
+      "universityCode": "1765",
+      "universityName": "西安电子科技大学(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "自动化类(智能制造及智能测控)",
+      "majorNote": "含机械设计制造及其自动化、工业设计、电子封装技术、电气工程及其自动化、自动化、测控技术与仪器、机器人工程专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1401,
+      "universityCode": "1765",
+      "universityName": "西安电子科技大学(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "计算机类",
+      "majorNote": "含计算机科学与技术、软件工程专业；录取分数不低于特殊类型招生录取控制分数线；大类包含专业“软件工程”一、二年级每人每年学费6600元，大三、大四按学分计，每学分不超过400元，总学分不高于80学分",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1402,
+      "universityCode": "1765",
+      "universityName": "西安电子科技大学(高校专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "生物医学工程类(电子信息交叉融合培养)",
+      "majorNote": "含生物医学工程、智能医学工程专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

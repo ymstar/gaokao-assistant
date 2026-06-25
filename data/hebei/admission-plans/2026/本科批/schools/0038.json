@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 337,
+      "universityCode": "0038",
+      "universityName": "安徽职业技术大学[公办]",
+      "majorCode": "05",
+      "majorName": "生态环境工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 338,
+      "universityCode": "0038",
+      "universityName": "安徽职业技术大学[公办]",
+      "majorCode": "06",
+      "majorName": "智能制造工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 339,
+      "universityCode": "0038",
+      "universityName": "安徽职业技术大学[公办]",
+      "majorCode": "07",
+      "majorName": "人工智能工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5390
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 9608,
+      "universityCode": "1226",
+      "universityName": "南宁师范大学(南宁市)[公办]",
+      "majorCode": "03",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5520
+    },
+    {
+      "index": 9609,
+      "universityCode": "1226",
+      "universityName": "南宁师范大学(南宁市)[公办]",
+      "majorCode": "05",
+      "majorName": "通信工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5509
+    },
+    {
+      "index": 9610,
+      "universityCode": "1226",
+      "universityName": "南宁师范大学(南宁市)[公办]",
+      "majorCode": "06",
+      "majorName": "化学(中外合作办学)",
+      "majorNote": "合作高校：哈萨克斯坦欧亚国立大学。不招色盲色弱及单色不能识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 45000
+    },
+    {
+      "index": 9611,
+      "universityCode": "1226",
+      "universityName": "南宁师范大学(南宁市)[公办]",
+      "majorCode": "07",
+      "majorName": "应用化学(中外合作办学)",
+      "majorNote": "合作高校：哈萨克斯坦欧亚国立大学。不招色盲色弱及单色不能识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 45000
+    },
+    {
+      "index": 9612,
+      "universityCode": "1226",
+      "universityName": "南宁师范大学(南宁市)[公办]",
+      "majorCode": "08",
+      "majorName": "生物科学(中外合作办学)",
+      "majorNote": "合作高校：哈萨克斯坦欧亚国立大学。不招色盲色弱及单色不能识别考生",
+      "subjectRequirement": "化学和生物",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 45000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

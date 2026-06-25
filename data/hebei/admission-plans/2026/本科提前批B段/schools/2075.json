@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1653,
+      "universityCode": "2075",
+      "universityName": "中国人民警察大学(廊坊市)(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "消防工程",
+      "majorNote": "非公安专业，自主就业。无须参加河北省公安厅组织的政治考察、面试、体检和体能测评且合格。具体标准详见学校《招生章程》",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 1654,
+      "universityCode": "2075",
+      "universityName": "中国人民警察大学(廊坊市)(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "抢险救援指挥与技术",
+      "majorNote": "非公安专业，自主就业。无须参加河北省公安厅组织的政治考察、面试、体检和体能测评且合格。具体标准详见学校《招生章程》。不建议女生报考",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4900
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

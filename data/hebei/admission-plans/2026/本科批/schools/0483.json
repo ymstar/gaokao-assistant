@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3294,
+      "universityCode": "0483",
+      "universityName": "广州大学[公办]",
+      "majorCode": "08",
+      "majorName": "物理学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 3295,
+      "universityCode": "0483",
+      "universityName": "广州大学[公办]",
+      "majorCode": "09",
+      "majorName": "化学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 3296,
+      "universityCode": "0483",
+      "universityName": "广州大学[公办]",
+      "majorCode": "10",
+      "majorName": "生物科学",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 3297,
+      "universityCode": "0483",
+      "universityName": "广州大学[公办]",
+      "majorCode": "11",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 3298,
+      "universityCode": "0483",
+      "universityName": "广州大学[公办]",
+      "majorCode": "12",
+      "majorName": "电子信息工程",
+      "majorNote": "不招色盲",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 3299,
+      "universityCode": "0483",
+      "universityName": "广州大学[公办]",
+      "majorCode": "13",
+      "majorName": "机器人工程",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 3300,
+      "universityCode": "0483",
+      "universityName": "广州大学[公办]",
+      "majorCode": "14",
+      "majorName": "信息安全",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 3301,
+      "universityCode": "0483",
+      "universityName": "广州大学[公办]",
+      "majorCode": "15",
+      "majorName": "网络空间安全",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6850
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

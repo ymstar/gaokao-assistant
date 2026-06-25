@@ -1,0 +1,61 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2551",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "新闻学",
+      "planCount": 0,
+      "minScore": 561,
+      "minRank": 44969,
+      "avgScore": 561
+    },
+    {
+      "universityCode": "2551",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 557,
+      "minRank": 48790,
+      "avgScore": 559
+    },
+    {
+      "universityCode": "2551",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "财务管理",
+      "planCount": 0,
+      "minScore": 550,
+      "minRank": 56080,
+      "avgScore": 550
+    },
+    {
+      "universityCode": "2551",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "工商管理",
+      "planCount": 0,
+      "minScore": 537,
+      "minRank": 70986,
+      "avgScore": 537
+    },
+    {
+      "universityCode": "2551",
+      "universityName": "中国劳动关系学院(国家专项计划)[公办]",
+      "majorGroup": "酒店管理",
+      "planCount": 0,
+      "minScore": 524,
+      "minRank": 87643,
+      "avgScore": 528
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "临床医学",
+      "planCount": 0,
+      "minScore": 578,
+      "minRank": 30257,
+      "avgScore": 579
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "能源动力类",
+      "planCount": 0,
+      "minScore": 575,
+      "minRank": 32673,
+      "avgScore": 582
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 574,
+      "minRank": 33476,
+      "avgScore": 576
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "金融学",
+      "planCount": 0,
+      "minScore": 554,
+      "minRank": 51876,
+      "avgScore": 560
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "经济统计学",
+      "planCount": 0,
+      "minScore": 550,
+      "minRank": 56080,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "中西医临床医学",
+      "planCount": 0,
+      "minScore": 549,
+      "minRank": 57150,
+      "avgScore": 555
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "碳储科学与工程",
+      "planCount": 0,
+      "minScore": 540,
+      "minRank": 67377,
+      "avgScore": 551
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "中医学",
+      "planCount": 0,
+      "minScore": 540,
+      "minRank": 67377,
+      "avgScore": 544
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "环境工程",
+      "planCount": 0,
+      "minScore": 534,
+      "minRank": 74627,
+      "avgScore": 538
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "生物科学类",
+      "planCount": 0,
+      "minScore": 532,
+      "minRank": 77131,
+      "avgScore": 538
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "药学",
+      "planCount": 0,
+      "minScore": 529,
+      "minRank": 80942,
+      "avgScore": 535
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "药物制剂",
+      "planCount": 0,
+      "minScore": 529,
+      "minRank": 80942,
+      "avgScore": 531
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "测绘工程",
+      "planCount": 0,
+      "minScore": 527,
+      "minRank": 83566,
+      "avgScore": 530
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "材料类",
+      "planCount": 0,
+      "minScore": 526,
+      "minRank": 84920,
+      "avgScore": 538
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "护理学",
+      "planCount": 0,
+      "minScore": 525,
+      "minRank": 86309,
+      "avgScore": 531
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "地质工程",
+      "planCount": 0,
+      "minScore": 521,
+      "minRank": 91697,
+      "avgScore": 524
+    },
+    {
+      "universityCode": "1043",
+      "universityName": "华北理工大学(国家专项计划)[公办]",
+      "majorGroup": "矿业类",
+      "planCount": 0,
+      "minScore": 515,
+      "minRank": 99972,
+      "avgScore": 523
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

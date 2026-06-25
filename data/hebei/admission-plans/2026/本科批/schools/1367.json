@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10709,
+      "universityCode": "1367",
+      "universityName": "山东航空学院[公办]",
+      "majorCode": "01",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 10710,
+      "universityCode": "1367",
+      "universityName": "山东航空学院[公办]",
+      "majorCode": "02",
+      "majorName": "通信工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 10711,
+      "universityCode": "1367",
+      "universityName": "山东航空学院[公办]",
+      "majorCode": "03",
+      "majorName": "土木工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 10712,
+      "universityCode": "1367",
+      "universityName": "山东航空学院[公办]",
+      "majorCode": "04",
+      "majorName": "交通运输(民航机务工程方向)",
+      "majorNote": "适宜男生就读，女生慎报；入职身体要求无色盲色弱等，符合中国民用航空局相关文件规定的有关岗位身体标准和条件；因专业培养需要，安排英语语种教学，非英语语种考生慎报",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 10713,
+      "universityCode": "1367",
+      "universityName": "山东航空学院[公办]",
+      "majorCode": "05",
+      "majorName": "交通工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 10714,
+      "universityCode": "1367",
+      "universityName": "山东航空学院[公办]",
+      "majorCode": "06",
+      "majorName": "飞行器制造工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 10715,
+      "universityCode": "1367",
+      "universityName": "山东航空学院[公办]",
+      "majorCode": "07",
+      "majorName": "飞行器动力工程",
+      "majorNote": "因专业培养需要，安排英语语种教学，非英语语种慎报",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

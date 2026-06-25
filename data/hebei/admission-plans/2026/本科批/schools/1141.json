@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 8893,
+      "universityCode": "1141",
+      "universityName": "六盘水师范学院[公办]",
+      "majorCode": "01",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4200
+    },
+    {
+      "index": 8894,
+      "universityCode": "1141",
+      "universityName": "六盘水师范学院[公办]",
+      "majorCode": "02",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "不招色盲考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4200
+    },
+    {
+      "index": 8895,
+      "universityCode": "1141",
+      "universityName": "六盘水师范学院[公办]",
+      "majorCode": "03",
+      "majorName": "资源循环科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4200
+    },
+    {
+      "index": 8896,
+      "universityCode": "1141",
+      "universityName": "六盘水师范学院[公办]",
+      "majorCode": "04",
+      "majorName": "采矿工程",
+      "majorNote": "不招色盲考生。因工作需要，建议女生慎报",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4200
+    },
+    {
+      "index": 8897,
+      "universityCode": "1141",
+      "universityName": "六盘水师范学院[公办]",
+      "majorCode": "05",
+      "majorName": "安全工程",
+      "majorNote": "不招色盲考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4200
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

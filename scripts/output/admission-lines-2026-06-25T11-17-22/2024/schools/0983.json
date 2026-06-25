@@ -1,0 +1,70 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0983",
+      "universityName": "湖南大学(国家专项计划)[公办]",
+      "majorGroup": "化学类",
+      "planCount": 0,
+      "minScore": 612,
+      "minRank": 10308,
+      "avgScore": 614
+    },
+    {
+      "universityCode": "0983",
+      "universityName": "湖南大学(国家专项计划)[公办]",
+      "majorGroup": "给排水科学与工程",
+      "planCount": 0,
+      "minScore": 612,
+      "minRank": 10308,
+      "avgScore": 613
+    },
+    {
+      "universityCode": "0983",
+      "universityName": "湖南大学(国家专项计划)[公办]",
+      "majorGroup": "药学",
+      "planCount": 0,
+      "minScore": 606,
+      "minRank": 12898,
+      "avgScore": 607
+    },
+    {
+      "universityCode": "0983",
+      "universityName": "湖南大学(国家专项计划)[公办]",
+      "majorGroup": "环境科学与工程类",
+      "planCount": 0,
+      "minScore": 602,
+      "minRank": 14866,
+      "avgScore": 605
+    },
+    {
+      "universityCode": "0983",
+      "universityName": "湖南大学(国家专项计划)[公办]",
+      "majorGroup": "建筑环境与能源应用工程(低碳建筑实验班)",
+      "planCount": 0,
+      "minScore": 597,
+      "minRank": 17561,
+      "avgScore": 599
+    },
+    {
+      "universityCode": "0983",
+      "universityName": "湖南大学(国家专项计划)[公办]",
+      "majorGroup": "建筑学",
+      "planCount": 0,
+      "minScore": 590,
+      "minRank": 21772,
+      "avgScore": 594
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

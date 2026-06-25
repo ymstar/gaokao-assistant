@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 323,
+      "universityCode": "0497",
+      "universityName": "贵州大学(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "生物科学",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；不招色弱色盲及单色识别不全者",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 324,
+      "universityCode": "0497",
+      "universityName": "贵州大学(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 325,
+      "universityCode": "0497",
+      "universityName": "贵州大学(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "材料科学与工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 326,
+      "universityCode": "0497",
+      "universityName": "贵州大学(高校专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 327,
+      "universityCode": "0497",
+      "universityName": "贵州大学(高校专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "自动化",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 328,
+      "universityCode": "0497",
+      "universityName": "贵州大学(高校专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "药学",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；不招色弱色盲及单色识别不全者",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

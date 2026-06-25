@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1625",
+      "universityName": "上海交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班类(信息类)",
+      "planCount": 0,
+      "minScore": 667,
+      "minRank": 608,
+      "avgScore": 667
+    },
+    {
+      "universityCode": "1625",
+      "universityName": "上海交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班类(机电类)",
+      "planCount": 0,
+      "minScore": 663,
+      "minRank": 845,
+      "avgScore": 665
+    },
+    {
+      "universityCode": "1625",
+      "universityName": "上海交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班类(材料学院)",
+      "planCount": 0,
+      "minScore": 660,
+      "minRank": 1043,
+      "avgScore": 662
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

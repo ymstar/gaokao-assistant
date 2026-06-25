@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17656,
+      "universityCode": "2202",
+      "universityName": "上海师范大学天华学院[独立学院]",
+      "majorCode": "03",
+      "majorName": "电子信息工程(双语教学)",
+      "majorNote": "国际课程合作，含智能终端与边缘AI、低空智能网联方向（含入企实训）",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 48000
+    },
+    {
+      "index": 17657,
+      "universityCode": "2202",
+      "universityName": "上海师范大学天华学院[独立学院]",
+      "majorCode": "04",
+      "majorName": "人工智能",
+      "majorNote": "校企联合培养，含智能机器人、大模型应用方向",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 48000
+    },
+    {
+      "index": 17658,
+      "universityCode": "2202",
+      "universityName": "上海师范大学天华学院[独立学院]",
+      "majorCode": "05",
+      "majorName": "财务管理(双语教学，国际注册会计师培养)",
+      "majorNote": "以ACCA官方科目建培养体系，学历+ACCA证书同步双修，享3门免考，全科合格可申请伦敦大学会计硕士",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 48000
+    },
+    {
+      "index": 17659,
+      "universityCode": "2202",
+      "universityName": "上海师范大学天华学院[独立学院]",
+      "majorCode": "06",
+      "majorName": "财务管理(双语教学，特许金融分析师培养)",
+      "majorNote": "国际课程合作，特许金融分析师方向。与美国西弗吉尼亚大学联合培养",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 48000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

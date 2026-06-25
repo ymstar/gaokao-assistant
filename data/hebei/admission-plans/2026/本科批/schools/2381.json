@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 18605,
+      "universityCode": "2381",
+      "universityName": "广州软件学院[民办]",
+      "majorCode": "01",
+      "majorName": "电子信息工程",
+      "majorNote": "办学地点：广州校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 32000
+    },
+    {
+      "index": 18606,
+      "universityCode": "2381",
+      "universityName": "广州软件学院[民办]",
+      "majorCode": "02",
+      "majorName": "人工智能",
+      "majorNote": "办学地点：江门校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 32000
+    },
+    {
+      "index": 18607,
+      "universityCode": "2381",
+      "universityName": "广州软件学院[民办]",
+      "majorCode": "03",
+      "majorName": "自动化",
+      "majorNote": "办学地点：江门校区",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 32000
+    },
+    {
+      "index": 18608,
+      "universityCode": "2381",
+      "universityName": "广州软件学院[民办]",
+      "majorCode": "04",
+      "majorName": "机器人工程",
+      "majorNote": "办学地点：江门校区",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 32000
+    },
+    {
+      "index": 18609,
+      "universityCode": "2381",
+      "universityName": "广州软件学院[民办]",
+      "majorCode": "05",
+      "majorName": "计算机科学与技术",
+      "majorNote": "办学地点：第一至二学年江门校区，第三至四学年广州校区",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 32000
+    },
+    {
+      "index": 18610,
+      "universityCode": "2381",
+      "universityName": "广州软件学院[民办]",
+      "majorCode": "06",
+      "majorName": "软件工程",
+      "majorNote": "办学地点：第一至二学年江门校区，第三至四学年广州校区",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 32000
+    },
+    {
+      "index": 18611,
+      "universityCode": "2381",
+      "universityName": "广州软件学院[民办]",
+      "majorCode": "07",
+      "majorName": "网络工程",
+      "majorNote": "办学地点：广州校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 32000
+    },
+    {
+      "index": 18612,
+      "universityCode": "2381",
+      "universityName": "广州软件学院[民办]",
+      "majorCode": "08",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "办学地点：江门校区",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 32000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

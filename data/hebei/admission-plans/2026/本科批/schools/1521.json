@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 11640,
+      "universityCode": "1521",
+      "universityName": "韶关学院[公办]",
+      "majorCode": "02",
+      "majorName": "物理学(师范)",
+      "majorNote": "师范类；不招色盲考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 11641,
+      "universityCode": "1521",
+      "universityName": "韶关学院[公办]",
+      "majorCode": "03",
+      "majorName": "生物科学(师范)",
+      "majorNote": "师范类；不招色盲、色弱考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 11642,
+      "universityCode": "1521",
+      "universityName": "韶关学院[公办]",
+      "majorCode": "04",
+      "majorName": "电子信息科学与技术",
+      "majorNote": "不招单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 11643,
+      "universityCode": "1521",
+      "universityName": "韶关学院[公办]",
+      "majorCode": "05",
+      "majorName": "医学检验技术",
+      "majorNote": "不招色盲、色弱考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 6380
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

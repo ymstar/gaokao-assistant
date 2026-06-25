@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 672,
+      "universityCode": "0085",
+      "universityName": "北京第二外国语学院[公办]",
+      "majorCode": "16",
+      "majorName": "数字经济",
+      "majorNote": "单科成绩要求：外语>=90；辅修英语专业，合格者同时授予相应辅修学士学位",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4200
+    },
+    {
+      "index": 673,
+      "universityCode": "0085",
+      "universityName": "北京第二外国语学院[公办]",
+      "majorCode": "17",
+      "majorName": "金融学(数智金融)",
+      "majorNote": "单科成绩要求：外语>=90；辅修英语专业，合格者同时授予相应辅修学士学位",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4200
+    },
+    {
+      "index": 674,
+      "universityCode": "0085",
+      "universityName": "北京第二外国语学院[公办]",
+      "majorCode": "20",
+      "majorName": "英语(辅修智能技术相关专业)",
+      "majorNote": "只招英语语种考生；单科成绩要求：外语>=90；大一在延庆校区；辅修智能科学与技术专业，合格者同时授予相应辅修学士学位",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 675,
+      "universityCode": "0085",
+      "universityName": "北京第二外国语学院[公办]",
+      "majorCode": "21",
+      "majorName": "法语(涉外法治)",
+      "majorNote": "单科成绩要求：外语>=90",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 676,
+      "universityCode": "0085",
+      "universityName": "北京第二外国语学院[公办]",
+      "majorCode": "22",
+      "majorName": "阿拉伯语",
+      "majorNote": "单科成绩要求：外语>=90",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 677,
+      "universityCode": "0085",
+      "universityName": "北京第二外国语学院[公办]",
+      "majorCode": "23",
+      "majorName": "翻译(辅修数字经贸相关专业)",
+      "majorNote": "只招英语语种考生；单科成绩要求：外语>=90；辅修国际经济与贸易专业，合格者同时授予相应辅修学士学位",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 678,
+      "universityCode": "0085",
+      "universityName": "北京第二外国语学院[公办]",
+      "majorCode": "25",
+      "majorName": "智能科学与技术(语言与AI)",
+      "majorNote": "单科成绩要求：外语>=90；辅修英语专业，合格者同时授予相应辅修学士学位",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 679,
+      "universityCode": "0085",
+      "universityName": "北京第二外国语学院[公办]",
+      "majorCode": "26",
+      "majorName": "财务管理(智能财务)",
+      "majorNote": "单科成绩要求：外语>=90；辅修英语专业，合格者可获得相应辅修学士学位",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4200
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

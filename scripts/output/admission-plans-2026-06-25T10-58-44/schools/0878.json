@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1061,
+      "universityCode": "0878",
+      "universityName": "华南理工大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "工科试验班(智能交通与数字建造)",
+      "majorNote": "含智慧交通、智能建造、土木工程、水务工程、工程力学、船舶与海洋工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 1062,
+      "universityCode": "0878",
+      "universityName": "华南理工大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "工科试验班(先进材料)",
+      "majorNote": "含高分子材料与工程、材料科学与工程、功能材料、生物材料专业；不招色盲考生、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 1063,
+      "universityCode": "0878",
+      "universityName": "华南理工大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "工科试验班(生命科学与健康工程)",
+      "majorNote": "含食品科学与工程、食品质量与安全、生物工程、生物制药、生物技术专业；不招色盲考生、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 1064,
+      "universityCode": "0878",
+      "universityName": "华南理工大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "建筑类",
+      "majorNote": "含建筑学、城乡规划专业；其中建筑学专业学制5年",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6850
+    },
+    {
+      "index": 1065,
+      "universityCode": "0878",
+      "universityName": "华南理工大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "临床医学类",
+      "majorNote": "含临床医学、医学影像学专业；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 7660
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

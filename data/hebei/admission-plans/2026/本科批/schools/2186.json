@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17487,
+      "universityCode": "2186",
+      "universityName": "南昌航空大学科技学院[独立学院]",
+      "majorCode": "01",
+      "majorName": "材料成型及控制工程",
+      "majorNote": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 14500
+    },
+    {
+      "index": 17488,
+      "universityCode": "2186",
+      "universityName": "南昌航空大学科技学院[独立学院]",
+      "majorCode": "02",
+      "majorName": "测控技术与仪器",
+      "majorNote": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 14500
+    },
+    {
+      "index": 17489,
+      "universityCode": "2186",
+      "universityName": "南昌航空大学科技学院[独立学院]",
+      "majorCode": "03",
+      "majorName": "金属材料工程",
+      "majorNote": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 14500
+    },
+    {
+      "index": 17490,
+      "universityCode": "2186",
+      "universityName": "南昌航空大学科技学院[独立学院]",
+      "majorCode": "04",
+      "majorName": "焊接技术与工程",
+      "majorNote": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 14500
+    },
+    {
+      "index": 17491,
+      "universityCode": "2186",
+      "universityName": "南昌航空大学科技学院[独立学院]",
+      "majorCode": "05",
+      "majorName": "计算机科学与技术",
+      "majorNote": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 14500
+    },
+    {
+      "index": 17492,
+      "universityCode": "2186",
+      "universityName": "南昌航空大学科技学院[独立学院]",
+      "majorCode": "06",
+      "majorName": "软件工程",
+      "majorNote": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 14500
+    },
+    {
+      "index": 17493,
+      "universityCode": "2186",
+      "universityName": "南昌航空大学科技学院[独立学院]",
+      "majorCode": "07",
+      "majorName": "飞行器制造工程",
+      "majorNote": "请考生仔细阅读我校2026年招生章程中第四章第十一条体检要求",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 14500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

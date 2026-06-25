@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 13652,
+      "universityCode": "1770",
+      "universityName": "西安航空学院[公办]",
+      "majorCode": "01",
+      "majorName": "材料科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 13653,
+      "universityCode": "1770",
+      "universityName": "西安航空学院[公办]",
+      "majorCode": "02",
+      "majorName": "新能源材料与器件",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 13654,
+      "universityCode": "1770",
+      "universityName": "西安航空学院[公办]",
+      "majorCode": "03",
+      "majorName": "交通运输",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 13655,
+      "universityCode": "1770",
+      "universityName": "西安航空学院[公办]",
+      "majorCode": "04",
+      "majorName": "飞行器设计与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 13656,
+      "universityCode": "1770",
+      "universityName": "西安航空学院[公办]",
+      "majorCode": "05",
+      "majorName": "飞行器制造工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 13657,
+      "universityCode": "1770",
+      "universityName": "西安航空学院[公办]",
+      "majorCode": "06",
+      "majorName": "无人驾驶航空器系统工程",
+      "majorNote": "钱学森航空工程实验班",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 13658,
+      "universityCode": "1770",
+      "universityName": "西安航空学院[公办]",
+      "majorCode": "07",
+      "majorName": "信息与计算科学(中外合作办学)",
+      "majorNote": "属于高收费项目",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 50000
+    },
+    {
+      "index": 13659,
+      "universityCode": "1770",
+      "universityName": "西安航空学院[公办]",
+      "majorCode": "08",
+      "majorName": "机械设计制造及其自动化(中外合作办学)",
+      "majorNote": "属于高收费项目",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 50000
+    },
+    {
+      "index": 13660,
+      "universityCode": "1770",
+      "universityName": "西安航空学院[公办]",
+      "majorCode": "09",
+      "majorName": "机械电子工程(中外合作办学)",
+      "majorNote": "前3年在国内，后1.5年在德国，属于高收费项目",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 5,
+      "tuition": 35000
+    },
+    {
+      "index": 13661,
+      "universityCode": "1770",
+      "universityName": "西安航空学院[公办]",
+      "majorCode": "10",
+      "majorName": "自动化(中外合作办学)",
+      "majorNote": "属于高收费项目",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 50000
+    },
+    {
+      "index": 13662,
+      "universityCode": "1770",
+      "universityName": "西安航空学院[公办]",
+      "majorCode": "11",
+      "majorName": "计算机科学与技术(中外合作办学)",
+      "majorNote": "属于高收费项目",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 50000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

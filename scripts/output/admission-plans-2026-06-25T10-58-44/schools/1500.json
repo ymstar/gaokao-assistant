@@ -1,0 +1,29 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1264,
+      "universityCode": "1500",
+      "universityName": "上海理工大学(国家专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "工科试验班(智能化制造类)",
+      "majorNote": "含机械设计制造及其自动化、材料成型及控制工程、工业设计、过程装备与控制工程、车辆工程、材料科学与工程、能源与动力工程、新能源科学与工程、储能科学与工程、机器人工程、土木工程、建筑环境与能源应用工程、交通工程、环境工程、生物医学工程、康复工程、食品科学与工程、食品质量与安全、应用化学、生物技术、医学影像技术、智能医学工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 7000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

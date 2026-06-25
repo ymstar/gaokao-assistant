@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 13538,
+      "universityCode": "1760",
+      "universityName": "武威职业技术大学[公办]",
+      "majorCode": "01",
+      "majorName": "新能源发电工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 13539,
+      "universityCode": "1760",
+      "universityName": "武威职业技术大学[公办]",
+      "majorCode": "02",
+      "majorName": "机械设计制造及自动化",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 13540,
+      "universityCode": "1760",
+      "universityName": "武威职业技术大学[公办]",
+      "majorCode": "03",
+      "majorName": "电气工程及自动化",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 13541,
+      "universityCode": "1760",
+      "universityName": "武威职业技术大学[公办]",
+      "majorCode": "04",
+      "majorName": "人工智能工程技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6500
+    },
+    {
+      "index": 13542,
+      "universityCode": "1760",
+      "universityName": "武威职业技术大学[公办]",
+      "majorCode": "05",
+      "majorName": "放射治疗技术",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

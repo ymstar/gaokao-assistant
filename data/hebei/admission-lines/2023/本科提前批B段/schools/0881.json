@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0881",
+      "universityName": "湖南大学(国家专项计划)[公办]",
+      "majorGroup": "机械类",
+      "planCount": 0,
+      "minScore": 621,
+      "minRank": 7805,
+      "avgScore": 624
+    },
+    {
+      "universityCode": "0881",
+      "universityName": "湖南大学(国家专项计划)[公办]",
+      "majorGroup": "化学类",
+      "planCount": 0,
+      "minScore": 607,
+      "minRank": 12700,
+      "avgScore": 610
+    },
+    {
+      "universityCode": "0881",
+      "universityName": "湖南大学(国家专项计划)[公办]",
+      "majorGroup": "建筑环境与能源应用工程(低碳建筑实验班)",
+      "planCount": 0,
+      "minScore": 603,
+      "minRank": 14383,
+      "avgScore": 605
+    },
+    {
+      "universityCode": "0881",
+      "universityName": "湖南大学(国家专项计划)[公办]",
+      "majorGroup": "环境科学与工程类",
+      "planCount": 0,
+      "minScore": 602,
+      "minRank": 14804,
+      "avgScore": 604
+    },
+    {
+      "universityCode": "0881",
+      "universityName": "湖南大学(国家专项计划)[公办]",
+      "majorGroup": "给排水科学与工程",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 15231,
+      "avgScore": 603
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

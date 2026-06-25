@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1118,
+      "universityCode": "0917",
+      "universityName": "吉林大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "农业机械化及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6830
+    },
+    {
+      "index": 1119,
+      "universityCode": "0917",
+      "universityName": "吉林大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "植物生产类",
+      "majorNote": "农林类；含农学、植物保护、农业资源与环境专业；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学和生物",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6320
+    },
+    {
+      "index": 1120,
+      "universityCode": "0917",
+      "universityName": "吉林大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "动物医学",
+      "majorNote": "农林类；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 5,
+      "tuition": 6320
+    },
+    {
+      "index": 1121,
+      "universityCode": "0917",
+      "universityName": "吉林大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "管理科学与工程类",
+      "majorNote": "含信息管理与信息系统、大数据管理与应用专业；大数据管理与应用专业培养特色方向为：数据资源与数据智能。信息管理与信息系统专业培养特色方向为：信息系统与数智化管理",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6070
+    },
+    {
+      "index": 1122,
+      "universityCode": "0917",
+      "universityName": "吉林大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "农林经济管理(大数据分析与智慧管理)",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6070
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

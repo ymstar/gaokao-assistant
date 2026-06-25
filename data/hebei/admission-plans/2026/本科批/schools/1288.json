@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10128,
+      "universityCode": "1288",
+      "universityName": "莆田学院[公办]",
+      "majorCode": "02",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 10129,
+      "universityCode": "1288",
+      "universityName": "莆田学院[公办]",
+      "majorCode": "03",
+      "majorName": "机器人工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 10130,
+      "universityCode": "1288",
+      "universityName": "莆田学院[公办]",
+      "majorCode": "04",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 10131,
+      "universityCode": "1288",
+      "universityName": "莆田学院[公办]",
+      "majorCode": "05",
+      "majorName": "物联网工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 10132,
+      "universityCode": "1288",
+      "universityName": "莆田学院[公办]",
+      "majorCode": "06",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 10133,
+      "universityCode": "1288",
+      "universityName": "莆田学院[公办]",
+      "majorCode": "07",
+      "majorName": "土木工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5040
+    },
+    {
+      "index": 10134,
+      "universityCode": "1288",
+      "universityName": "莆田学院[公办]",
+      "majorCode": "08",
+      "majorName": "临床医学",
+      "majorNote": "色盲、色弱、单色识别不全者不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 5,
+      "tuition": 6240
+    },
+    {
+      "index": 10135,
+      "universityCode": "1288",
+      "universityName": "莆田学院[公办]",
+      "majorCode": "09",
+      "majorName": "药学",
+      "majorNote": "色盲、色弱、单色识别不全者不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 10136,
+      "universityCode": "1288",
+      "universityName": "莆田学院[公办]",
+      "majorCode": "10",
+      "majorName": "护理学",
+      "majorNote": "色盲、色弱、单色识别不全者不予录取",
+      "subjectRequirement": "生物",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 10137,
+      "universityCode": "1288",
+      "universityName": "莆田学院[公办]",
+      "majorCode": "11",
+      "majorName": "公共事业管理(中外合作办学)",
+      "majorNote": "以培养医疗健康产业管理人才为主，单色识别不全者不予录取，非英语语种考生谨慎报考，前2.5年莆田学院，如达到条件，后1.5年视情况可前往美国新奥尔良大学学习。具体详见招生章程",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 18000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

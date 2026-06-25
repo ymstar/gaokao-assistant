@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17542,
+      "universityCode": "2193",
+      "universityName": "南宁师范大学师园学院[独立学院]",
+      "majorCode": "01",
+      "majorName": "小学教育",
+      "majorNote": "师范类",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 13500
+    },
+    {
+      "index": 17543,
+      "universityCode": "2193",
+      "universityName": "南宁师范大学师园学院[独立学院]",
+      "majorCode": "02",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 14500
+    },
+    {
+      "index": 17544,
+      "universityCode": "2193",
+      "universityName": "南宁师范大学师园学院[独立学院]",
+      "majorCode": "03",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 15000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

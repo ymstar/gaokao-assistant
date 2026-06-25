@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 4323,
+      "universityCode": "0610",
+      "universityName": "河北工业大学(芬兰校区)[公办]",
+      "majorCode": "01",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "河北工业大学芬兰校区招生专业，专业教学培养使用的外语语种为英语，培养模式为“1+3（一年国内加三年芬兰）”,第一学年在天津校区学习，第二至第四学年必须在芬兰学习。学费：国内阶段5800人民币/年；芬兰阶段为12000欧元/年。具体可查看院校招生简章",
+      "subjectRequirement": "化学",
+      "planCount": 13,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 4324,
+      "universityCode": "0610",
+      "universityName": "河北工业大学(芬兰校区)[公办]",
+      "majorCode": "02",
+      "majorName": "能源与动力工程",
+      "majorNote": "河北工业大学芬兰校区招生专业，专业教学培养使用的外语语种为英语，培养模式为“1+3（一年国内加三年芬兰）”,第一学年在天津校区学习，第二至第四学年必须在芬兰学习。学费：国内阶段5800人民币/年；芬兰阶段为12000欧元/年。具体可查看院校招生简章",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 4325,
+      "universityCode": "0610",
+      "universityName": "河北工业大学(芬兰校区)[公办]",
+      "majorCode": "03",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "河北工业大学芬兰校区招生专业，专业教学培养使用的外语语种为英语，培养模式为“1+3（一年国内加三年芬兰）”,第一学年在天津校区学习，第二至第四学年必须在芬兰学习。学费：国内阶段5800人民币/年；芬兰阶段为12000欧元/年。具体可查看院校招生简章",
+      "subjectRequirement": "化学",
+      "planCount": 12,
+      "duration": 4,
+      "tuition": 0
+    },
+    {
+      "index": 4326,
+      "universityCode": "0610",
+      "universityName": "河北工业大学(芬兰校区)[公办]",
+      "majorCode": "04",
+      "majorName": "计算机科学与技术",
+      "majorNote": "不能准确在显示器上识别红、黄、绿、蓝、紫各颜色中任何一种颜色的数码、字母者不予录取。河北工业大学芬兰校区招生专业，专业教学培养使用的外语语种为英语，培养模式为“1+3（一年国内加三年芬兰）”,第一学年在天津校区学习，第二至第四学年必须在芬兰学习。学费：国内阶段5800人民币/年；芬兰阶段为12000欧元/年。具体可查看院校招生简章",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

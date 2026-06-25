@@ -1,0 +1,34 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0805",
+      "universityName": "华东师范大学(优师专项)[公办]",
+      "majorGroup": "物理学",
+      "planCount": 0,
+      "minScore": 621,
+      "minRank": 13587,
+      "avgScore": 622
+    },
+    {
+      "universityCode": "0805",
+      "universityName": "华东师范大学(优师专项)[公办]",
+      "majorGroup": "地理科学",
+      "planCount": 0,
+      "minScore": 611,
+      "minRank": 19367,
+      "avgScore": 611
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

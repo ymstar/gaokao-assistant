@@ -1,0 +1,133 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "临床医学",
+      "planCount": 0,
+      "minScore": 598,
+      "minRank": 16972,
+      "avgScore": 601
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "口腔医学",
+      "planCount": 0,
+      "minScore": 594,
+      "minRank": 19278,
+      "avgScore": 598
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "眼视光医学",
+      "planCount": 0,
+      "minScore": 589,
+      "minRank": 22433,
+      "avgScore": 591
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "麻醉学",
+      "planCount": 0,
+      "minScore": 585,
+      "minRank": 25041,
+      "avgScore": 587
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "医学影像学",
+      "planCount": 0,
+      "minScore": 581,
+      "minRank": 27901,
+      "avgScore": 584
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "儿科学",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 34252,
+      "avgScore": 576
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "中西医临床医学",
+      "planCount": 0,
+      "minScore": 571,
+      "minRank": 35924,
+      "avgScore": 574
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "临床药学",
+      "planCount": 0,
+      "minScore": 566,
+      "minRank": 40370,
+      "avgScore": 567
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "精神医学",
+      "planCount": 0,
+      "minScore": 565,
+      "minRank": 41291,
+      "avgScore": 568
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "医学检验技术",
+      "planCount": 0,
+      "minScore": 563,
+      "minRank": 43129,
+      "avgScore": 566
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "基础医学",
+      "planCount": 0,
+      "minScore": 560,
+      "minRank": 45895,
+      "avgScore": 563
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "法医学",
+      "planCount": 0,
+      "minScore": 560,
+      "minRank": 45895,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0828",
+      "universityName": "河北医科大学(国家专项计划)[公办]",
+      "majorGroup": "公共卫生与预防医学类",
+      "planCount": 0,
+      "minScore": 541,
+      "minRank": 66174,
+      "avgScore": 550
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

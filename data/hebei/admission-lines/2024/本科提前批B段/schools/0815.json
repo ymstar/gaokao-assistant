@@ -1,0 +1,196 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 576,
+      "minRank": 31850,
+      "avgScore": 577
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "英语",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 34252,
+      "avgScore": 574
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "数学与应用数学",
+      "planCount": 0,
+      "minScore": 573,
+      "minRank": 34252,
+      "avgScore": 576
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "会计学",
+      "planCount": 0,
+      "minScore": 570,
+      "minRank": 36748,
+      "avgScore": 570
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "人工智能",
+      "planCount": 0,
+      "minScore": 569,
+      "minRank": 37617,
+      "avgScore": 570
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "信息安全",
+      "planCount": 0,
+      "minScore": 568,
+      "minRank": 38490,
+      "avgScore": 571
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "电气工程及其自动化",
+      "planCount": 0,
+      "minScore": 567,
+      "minRank": 39432,
+      "avgScore": 572
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "电子信息工程",
+      "planCount": 0,
+      "minScore": 567,
+      "minRank": 39432,
+      "avgScore": 570
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "光电信息科学与工程",
+      "planCount": 0,
+      "minScore": 566,
+      "minRank": 40370,
+      "avgScore": 570
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "英语",
+      "planCount": 0,
+      "minScore": 565,
+      "minRank": 41291,
+      "avgScore": 567
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "软件工程",
+      "planCount": 0,
+      "minScore": 562,
+      "minRank": 44007,
+      "avgScore": 565
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "化学",
+      "planCount": 0,
+      "minScore": 562,
+      "minRank": 44007,
+      "avgScore": 567
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "物理学",
+      "planCount": 0,
+      "minScore": 560,
+      "minRank": 45895,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "地理科学",
+      "planCount": 0,
+      "minScore": 558,
+      "minRank": 47783,
+      "avgScore": 561
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "金融工程",
+      "planCount": 0,
+      "minScore": 558,
+      "minRank": 47783,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "应用心理学",
+      "planCount": 0,
+      "minScore": 556,
+      "minRank": 49791,
+      "avgScore": 557
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "空间科学与技术",
+      "planCount": 0,
+      "minScore": 554,
+      "minRank": 51876,
+      "avgScore": 557
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "国际经济与贸易",
+      "planCount": 0,
+      "minScore": 551,
+      "minRank": 55045,
+      "avgScore": 556
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "心理学",
+      "planCount": 0,
+      "minScore": 544,
+      "minRank": 62750,
+      "avgScore": 544
+    },
+    {
+      "universityCode": "0815",
+      "universityName": "河北师范大学(国家专项计划)[公办]",
+      "majorGroup": "劳动与社会保障",
+      "planCount": 0,
+      "minScore": 538,
+      "minRank": 69761,
+      "avgScore": 541
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

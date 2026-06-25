@@ -1,0 +1,142 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "机械类",
+      "planCount": 0,
+      "minScore": 618,
+      "minRank": 8071,
+      "avgScore": 618
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "轨道交通信号与控制",
+      "planCount": 0,
+      "minScore": 618,
+      "minRank": 8071,
+      "avgScore": 618
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "车辆工程",
+      "planCount": 0,
+      "minScore": 614,
+      "minRank": 9515,
+      "avgScore": 614
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "智能制造工程",
+      "planCount": 0,
+      "minScore": 613,
+      "minRank": 9908,
+      "avgScore": 613
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "新能源科学与工程",
+      "planCount": 0,
+      "minScore": 611,
+      "minRank": 10715,
+      "avgScore": 611
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "铁道工程",
+      "planCount": 0,
+      "minScore": 611,
+      "minRank": 10715,
+      "avgScore": 611
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "材料类",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 15387,
+      "avgScore": 601
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "高分子材料与工程",
+      "planCount": 0,
+      "minScore": 601,
+      "minRank": 15387,
+      "avgScore": 601
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "经济与贸易类",
+      "planCount": 0,
+      "minScore": 600,
+      "minRank": 15950,
+      "avgScore": 600
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "工程造价",
+      "planCount": 0,
+      "minScore": 600,
+      "minRank": 15950,
+      "avgScore": 600
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "物流管理与工程类",
+      "planCount": 0,
+      "minScore": 599,
+      "minRank": 16453,
+      "avgScore": 599
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "土木工程",
+      "planCount": 0,
+      "minScore": 597,
+      "minRank": 17561,
+      "avgScore": 597
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "工商管理类",
+      "planCount": 0,
+      "minScore": 593,
+      "minRank": 19893,
+      "avgScore": 593
+    },
+    {
+      "universityCode": "2256",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorGroup": "测绘类",
+      "planCount": 0,
+      "minScore": 593,
+      "minRank": 19893,
+      "avgScore": 593
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

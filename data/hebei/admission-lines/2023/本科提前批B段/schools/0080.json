@@ -1,0 +1,151 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市白沟新城就业",
+      "planCount": 0,
+      "minScore": 559,
+      "minRank": 40851,
+      "avgScore": 559
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市徐水区就业",
+      "planCount": 0,
+      "minScore": 558,
+      "minRank": 41625,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市清苑区就业",
+      "planCount": 0,
+      "minScore": 557,
+      "minRank": 42431,
+      "avgScore": 563
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市曲阳县就业",
+      "planCount": 0,
+      "minScore": 557,
+      "minRank": 42431,
+      "avgScore": 562
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市顺平县就业",
+      "planCount": 0,
+      "minScore": 555,
+      "minRank": 43976,
+      "avgScore": 558
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市满城区就业",
+      "planCount": 0,
+      "minScore": 553,
+      "minRank": 45627,
+      "avgScore": 557
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市涿州市就业",
+      "planCount": 0,
+      "minScore": 544,
+      "minRank": 53343,
+      "avgScore": 547
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市定兴县就业",
+      "planCount": 0,
+      "minScore": 543,
+      "minRank": 54267,
+      "avgScore": 553
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市望都县就业",
+      "planCount": 0,
+      "minScore": 541,
+      "minRank": 56064,
+      "avgScore": 541
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市高碑店市就业",
+      "planCount": 0,
+      "minScore": 541,
+      "minRank": 56064,
+      "avgScore": 549
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市唐县就业",
+      "planCount": 0,
+      "minScore": 539,
+      "minRank": 57829,
+      "avgScore": 544
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市安国市就业",
+      "planCount": 0,
+      "minScore": 538,
+      "minRank": 58780,
+      "avgScore": 540
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市蠡县就业",
+      "planCount": 0,
+      "minScore": 536,
+      "minRank": 60653,
+      "avgScore": 537
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市博野县就业",
+      "planCount": 0,
+      "minScore": 535,
+      "minRank": 61651,
+      "avgScore": 536
+    },
+    {
+      "universityCode": "0080",
+      "universityName": "保定学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向保定市易县就业",
+      "planCount": 0,
+      "minScore": 532,
+      "minRank": 64617,
+      "avgScore": 534
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17721,
+      "universityCode": "2208",
+      "universityName": "天津财经大学珠江学院[独立学院]",
+      "majorCode": "06",
+      "majorName": "经济统计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 24,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 17722,
+      "universityCode": "2208",
+      "universityName": "天津财经大学珠江学院[独立学院]",
+      "majorCode": "07",
+      "majorName": "数字经济",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 11,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 17723,
+      "universityCode": "2208",
+      "universityName": "天津财经大学珠江学院[独立学院]",
+      "majorCode": "08",
+      "majorName": "金融学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 20,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 17724,
+      "universityCode": "2208",
+      "universityName": "天津财经大学珠江学院[独立学院]",
+      "majorCode": "09",
+      "majorName": "金融科技",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 17725,
+      "universityCode": "2208",
+      "universityName": "天津财经大学珠江学院[独立学院]",
+      "majorCode": "10",
+      "majorName": "国际经济与贸易",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 17726,
+      "universityCode": "2208",
+      "universityName": "天津财经大学珠江学院[独立学院]",
+      "majorCode": "11",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 31,
+      "duration": 4,
+      "tuition": 23000
+    },
+    {
+      "index": 17727,
+      "universityCode": "2208",
+      "universityName": "天津财经大学珠江学院[独立学院]",
+      "majorCode": "12",
+      "majorName": "大数据管理与应用",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 19,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 17728,
+      "universityCode": "2208",
+      "universityName": "天津财经大学珠江学院[独立学院]",
+      "majorCode": "13",
+      "majorName": "工商管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 19000
+    },
+    {
+      "index": 17729,
+      "universityCode": "2208",
+      "universityName": "天津财经大学珠江学院[独立学院]",
+      "majorCode": "14",
+      "majorName": "会计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 14,
+      "duration": 4,
+      "tuition": 19500
+    },
+    {
+      "index": 17730,
+      "universityCode": "2208",
+      "universityName": "天津财经大学珠江学院[独立学院]",
+      "majorCode": "15",
+      "majorName": "审计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 11,
+      "duration": 4,
+      "tuition": 19000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

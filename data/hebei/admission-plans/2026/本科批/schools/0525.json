@@ -1,0 +1,116 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3553,
+      "universityCode": "0525",
+      "universityName": "桂林医科大学[公办]",
+      "majorCode": "01",
+      "majorName": "基础医学",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 6480
+    },
+    {
+      "index": 3554,
+      "universityCode": "0525",
+      "universityName": "桂林医科大学[公办]",
+      "majorCode": "02",
+      "majorName": "临床医学",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 5,
+      "tuition": 7500
+    },
+    {
+      "index": 3555,
+      "universityCode": "0525",
+      "universityName": "桂林医科大学[公办]",
+      "majorCode": "03",
+      "majorName": "医学影像学",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 5,
+      "tuition": 6480
+    },
+    {
+      "index": 3556,
+      "universityCode": "0525",
+      "universityName": "桂林医科大学[公办]",
+      "majorCode": "04",
+      "majorName": "食品卫生与营养学(中澳学分互认联合培养项目)",
+      "majorNote": "单科成绩要求：外语>=90；不招色盲、色弱考生；与澳大利亚昆士兰大学合作，采取3+2分段培养模式，第四、五学年需赴澳大利亚学习，英语教学，非英语考生谨慎报考；费用另计（项目服务费68000元人民币/生、澳方高校学费约58,056澳元/学年），具体事项详见学校招生章程及项目简章",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6480
+    },
+    {
+      "index": 3557,
+      "universityCode": "0525",
+      "universityName": "桂林医科大学[公办]",
+      "majorCode": "05",
+      "majorName": "药学(中澳学分互认联合培养项目)",
+      "majorNote": "单科成绩要求：外语>=90；不招色盲、色弱考生；与澳大利亚麦考瑞大学合作，采取2+2分段培养模式，第三、四学年需赴澳大利亚学习，英语教学，非英语考生谨慎报考；费用另计（项目服务费43000元人民币/生、澳方高校学费约45,600澳元/学年），具体事项详见学校招生章程及项目简章",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6480
+    },
+    {
+      "index": 3558,
+      "universityCode": "0525",
+      "universityName": "桂林医科大学[公办]",
+      "majorCode": "06",
+      "majorName": "医学检验技术(中澳学分互认联合培养项目)",
+      "majorNote": "单科成绩要求：外语>=90；不招色盲、色弱考生；与澳大利亚昆士兰大学合作，采取3+2分段培养模式，第四、五学年需赴澳大利亚学习，英语教学，非英语考生谨慎报考；费用另计（项目服务费68000元人民币/生、澳方高校学费约58,056澳元/学年），具体事项详见学校招生章程及项目简章",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6480
+    },
+    {
+      "index": 3559,
+      "universityCode": "0525",
+      "universityName": "桂林医科大学[公办]",
+      "majorCode": "07",
+      "majorName": "康复治疗学",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6480
+    },
+    {
+      "index": 3560,
+      "universityCode": "0525",
+      "universityName": "桂林医科大学[公办]",
+      "majorCode": "08",
+      "majorName": "智能医学工程(中澳学分互认联合培养项目)",
+      "majorNote": "单科成绩要求：外语>=90；不招色盲、色弱考生；与澳大利亚麦考瑞大学合作，采取3+2分段培养模式。第四、五学年需赴澳大利亚学习，英语教学，非英语考生谨慎报考；费用另计（项目服务费68000元人民币/生、澳方高校学费约46,300澳元/学年），具体事项详见学校招生章程及项目简章",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6480
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

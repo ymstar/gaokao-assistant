@@ -1,0 +1,104 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15692,
+      "universityCode": "1990",
+      "universityName": "浙江大学[公办]",
+      "majorCode": "08",
+      "majorName": "工科试验班(竺可桢学院图灵班)",
+      "majorNote": "含计算机科学与技术专业",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6900
+    },
+    {
+      "index": 15693,
+      "universityCode": "1990",
+      "universityName": "浙江大学[公办]",
+      "majorCode": "09",
+      "majorName": "工科试验班(竺可桢学院卓越工程师班)",
+      "majorNote": "含机械工程、自动化、储能科学与工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 15694,
+      "universityCode": "1990",
+      "universityName": "浙江大学[公办]",
+      "majorCode": "10",
+      "majorName": "工科试验班(计算机)",
+      "majorNote": "含计算机科学与技术、软件工程、信息安全专业",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 15695,
+      "universityCode": "1990",
+      "universityName": "浙江大学[公办]",
+      "majorCode": "11",
+      "majorName": "工科试验班(自动化与光电)",
+      "majorNote": "含自动化、光电信息科学与工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 6900
+    },
+    {
+      "index": 15696,
+      "universityCode": "1990",
+      "universityName": "浙江大学[公办]",
+      "majorCode": "12",
+      "majorName": "工科试验班(智能科学与创新)",
+      "majorNote": "含人工智能、智能工程与创意设计专业",
+      "subjectRequirement": "化学",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 15697,
+      "universityCode": "1990",
+      "universityName": "浙江大学[公办]",
+      "majorCode": "13",
+      "majorName": "工科试验班(智能制造与机器人创新班)",
+      "majorNote": "含机械工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 15698,
+      "universityCode": "1990",
+      "universityName": "浙江大学[公办]",
+      "majorCode": "14",
+      "majorName": "工科试验班(EE类)",
+      "majorNote": "含电气工程及其自动化(爱迪生班)、电子信息工程(爱迪生班)、电子科学与技术(香农班)、信息工程(香农班)专业",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 6000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

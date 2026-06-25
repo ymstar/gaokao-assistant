@@ -1,0 +1,52 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0716",
+      "universityName": "河北农业大学(国家专项计划)[公办]",
+      "majorGroup": "计算机类",
+      "planCount": 0,
+      "minScore": 544,
+      "minRank": 53343,
+      "avgScore": 546
+    },
+    {
+      "universityCode": "0716",
+      "universityName": "河北农业大学(国家专项计划)[公办]",
+      "majorGroup": "电气类",
+      "planCount": 0,
+      "minScore": 540,
+      "minRank": 56917,
+      "avgScore": 544
+    },
+    {
+      "universityCode": "0716",
+      "universityName": "河北农业大学(国家专项计划)[公办]",
+      "majorGroup": "机械类",
+      "planCount": 0,
+      "minScore": 532,
+      "minRank": 64617,
+      "avgScore": 535
+    },
+    {
+      "universityCode": "0716",
+      "universityName": "河北农业大学(国家专项计划)[公办]",
+      "majorGroup": "土木类",
+      "planCount": 0,
+      "minScore": 517,
+      "minRank": 80365,
+      "avgScore": 522
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

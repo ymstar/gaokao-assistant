@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 449,
+      "universityCode": "0609",
+      "universityName": "河北工程大学(邯郸市)(免费医学定向生)[公办]",
+      "majorCode": "01",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向邯郸市大名县就业，色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 15,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 450,
+      "universityCode": "0609",
+      "universityName": "河北工程大学(邯郸市)(免费医学定向生)[公办]",
+      "majorCode": "02",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向邯郸市峰峰矿区就业，色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 451,
+      "universityCode": "0609",
+      "universityName": "河北工程大学(邯郸市)(免费医学定向生)[公办]",
+      "majorCode": "03",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向邯郸市鸡泽县就业，色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 452,
+      "universityCode": "0609",
+      "universityName": "河北工程大学(邯郸市)(免费医学定向生)[公办]",
+      "majorCode": "04",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向邯郸市冀南新区就业，色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 0
+    },
+    {
+      "index": 453,
+      "universityCode": "0609",
+      "universityName": "河北工程大学(邯郸市)(免费医学定向生)[公办]",
+      "majorCode": "05",
+      "majorName": "临床医学",
+      "majorNote": "国家免费医学生；定向邯郸市临漳县就业，色弱、色盲、不能准确识别红、黄、绿、蓝、紫各种颜色中任何一种颜色的导线、按键、信号灯、几何图形者不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 0
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

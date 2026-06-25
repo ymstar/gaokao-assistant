@@ -1,0 +1,70 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0943",
+      "universityName": "华东理工大学(上海市)(国家专项计划)[公办]",
+      "majorGroup": "计算机科学与技术",
+      "planCount": 0,
+      "minScore": 625,
+      "minRank": 6698,
+      "avgScore": 625
+    },
+    {
+      "universityCode": "0943",
+      "universityName": "华东理工大学(上海市)(国家专项计划)[公办]",
+      "majorGroup": "数学与应用数学",
+      "planCount": 0,
+      "minScore": 618,
+      "minRank": 8703,
+      "avgScore": 618
+    },
+    {
+      "universityCode": "0943",
+      "universityName": "华东理工大学(上海市)(国家专项计划)[公办]",
+      "majorGroup": "能源与动力工程",
+      "planCount": 0,
+      "minScore": 613,
+      "minRank": 10360,
+      "avgScore": 614
+    },
+    {
+      "universityCode": "0943",
+      "universityName": "华东理工大学(上海市)(国家专项计划)[公办]",
+      "majorGroup": "经济学",
+      "planCount": 0,
+      "minScore": 605,
+      "minRank": 13587,
+      "avgScore": 611
+    },
+    {
+      "universityCode": "0943",
+      "universityName": "华东理工大学(上海市)(国家专项计划)[公办]",
+      "majorGroup": "高分子材料与工程",
+      "planCount": 0,
+      "minScore": 604,
+      "minRank": 14006,
+      "avgScore": 605
+    },
+    {
+      "universityCode": "0943",
+      "universityName": "华东理工大学(上海市)(国家专项计划)[公办]",
+      "majorGroup": "环境工程",
+      "planCount": 0,
+      "minScore": 599,
+      "minRank": 16135,
+      "avgScore": 599
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 13816,
+      "universityCode": "1785",
+      "universityName": "西安外国语大学[公办]",
+      "majorCode": "19",
+      "majorName": "金融学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 13817,
+      "universityCode": "1785",
+      "universityName": "西安外国语大学[公办]",
+      "majorCode": "20",
+      "majorName": "英语",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5400
+    },
+    {
+      "index": 13818,
+      "universityCode": "1785",
+      "universityName": "西安外国语大学[公办]",
+      "majorCode": "21",
+      "majorName": "英语",
+      "majorNote": "师范类",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5400
+    },
+    {
+      "index": 13819,
+      "universityCode": "1785",
+      "universityName": "西安外国语大学[公办]",
+      "majorCode": "22",
+      "majorName": "德语",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5400
+    },
+    {
+      "index": 13820,
+      "universityCode": "1785",
+      "universityName": "西安外国语大学[公办]",
+      "majorCode": "23",
+      "majorName": "葡萄牙语",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5400
+    },
+    {
+      "index": 13821,
+      "universityCode": "1785",
+      "universityName": "西安外国语大学[公办]",
+      "majorCode": "24",
+      "majorName": "翻译",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5400
+    },
+    {
+      "index": 13822,
+      "universityCode": "1785",
+      "universityName": "西安外国语大学[公办]",
+      "majorCode": "25",
+      "majorName": "商务英语",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5400
+    },
+    {
+      "index": 13823,
+      "universityCode": "1785",
+      "universityName": "西安外国语大学[公办]",
+      "majorCode": "26",
+      "majorName": "网络与新媒体",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 13824,
+      "universityCode": "1785",
+      "universityName": "西安外国语大学[公办]",
+      "majorCode": "27",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 13825,
+      "universityCode": "1785",
+      "universityName": "西安外国语大学[公办]",
+      "majorCode": "28",
+      "majorName": "大数据管理与应用",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

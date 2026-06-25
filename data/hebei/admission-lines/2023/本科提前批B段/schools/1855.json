@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1855",
+      "universityName": "天津医科大学(国家专项计划)[公办]",
+      "majorGroup": "医学技术类",
+      "planCount": 0,
+      "minScore": 608,
+      "minRank": 12287,
+      "avgScore": 608
+    },
+    {
+      "universityCode": "1855",
+      "universityName": "天津医科大学(国家专项计划)[公办]",
+      "majorGroup": "药学类",
+      "planCount": 0,
+      "minScore": 599,
+      "minRank": 16135,
+      "avgScore": 599
+    },
+    {
+      "universityCode": "1855",
+      "universityName": "天津医科大学(国家专项计划)[公办]",
+      "majorGroup": "预防医学",
+      "planCount": 0,
+      "minScore": 598,
+      "minRank": 16589,
+      "avgScore": 598
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

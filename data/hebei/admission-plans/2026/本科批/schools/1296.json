@@ -1,0 +1,44 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 10160,
+      "universityCode": "1296",
+      "universityName": "齐鲁师范学院[公办]",
+      "majorCode": "01",
+      "majorName": "数据计算及应用(中外合作办学)(与白俄罗斯格洛德诺杨克库帕尔国立大学合作)",
+      "majorNote": "高收费专业，请务必详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 45000
+    },
+    {
+      "index": 10161,
+      "universityCode": "1296",
+      "universityName": "齐鲁师范学院[公办]",
+      "majorCode": "02",
+      "majorName": "人工智能(中外合作办学)(与白俄罗斯格洛德诺杨克库帕尔国立大学合作)",
+      "majorNote": "高收费专业，请务必详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 45000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

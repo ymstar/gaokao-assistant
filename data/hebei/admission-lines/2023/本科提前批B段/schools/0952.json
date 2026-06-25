@@ -1,0 +1,79 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0952",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "农学",
+      "planCount": 0,
+      "minScore": 556,
+      "minRank": 43165,
+      "avgScore": 565
+    },
+    {
+      "universityCode": "0952",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "设施农业科学与工程",
+      "planCount": 0,
+      "minScore": 549,
+      "minRank": 49073,
+      "avgScore": 550
+    },
+    {
+      "universityCode": "0952",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "园艺",
+      "planCount": 0,
+      "minScore": 548,
+      "minRank": 49919,
+      "avgScore": 548
+    },
+    {
+      "universityCode": "0952",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "林学(低碳林业)",
+      "planCount": 0,
+      "minScore": 546,
+      "minRank": 51613,
+      "avgScore": 559
+    },
+    {
+      "universityCode": "0952",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "植物保护",
+      "planCount": 0,
+      "minScore": 537,
+      "minRank": 59730,
+      "avgScore": 547
+    },
+    {
+      "universityCode": "0952",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "森林保护",
+      "planCount": 0,
+      "minScore": 534,
+      "minRank": 62613,
+      "avgScore": 537
+    },
+    {
+      "universityCode": "0952",
+      "universityName": "华南农业大学(国家专项计划)[公办]",
+      "majorGroup": "草业科学",
+      "planCount": 0,
+      "minScore": 534,
+      "minRank": 62613,
+      "avgScore": 540
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

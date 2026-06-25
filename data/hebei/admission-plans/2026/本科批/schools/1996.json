@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 15707,
+      "universityCode": "1996",
+      "universityName": "浙江工商大学(杭州市)[公办]",
+      "majorCode": "04",
+      "majorName": "新闻传播学类",
+      "majorNote": "含新闻学、网络与新媒体专业",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5300
+    },
+    {
+      "index": 15708,
+      "universityCode": "1996",
+      "universityName": "浙江工商大学(杭州市)[公办]",
+      "majorCode": "05",
+      "majorName": "环境科学与工程类",
+      "majorNote": "含环境科学、环境工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 15709,
+      "universityCode": "1996",
+      "universityName": "浙江工商大学(杭州市)[公办]",
+      "majorCode": "06",
+      "majorName": "食品科学与工程类",
+      "majorNote": "含食品科学与工程、食品质量与安全专业",
+      "subjectRequirement": "化学",
+      "planCount": 12,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 15710,
+      "universityCode": "1996",
+      "universityName": "浙江工商大学(杭州市)[公办]",
+      "majorCode": "07",
+      "majorName": "工商管理类(含营销、智能双学士学位项目)",
+      "majorNote": "含工商管理、市场营销、人力资源管理、国际商务专业；不招单色不识别考生，详见院校章程",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6095
+    },
+    {
+      "index": 15711,
+      "universityCode": "1996",
+      "universityName": "浙江工商大学(杭州市)[公办]",
+      "majorCode": "08",
+      "majorName": "公共管理类",
+      "majorNote": "含行政管理、土地资源管理、文化产业管理专业；含慈善管理。不招单色不识别考生，详见院校章程",
+      "subjectRequirement": "不限",
+      "planCount": 7,
+      "duration": 4,
+      "tuition": 5300
+    },
+    {
+      "index": 15712,
+      "universityCode": "1996",
+      "universityName": "浙江工商大学(杭州市)[公办]",
+      "majorCode": "09",
+      "majorName": "电子商务类",
+      "majorNote": "含电子商务、物流管理专业",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5300
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

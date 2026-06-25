@@ -1,0 +1,52 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2318",
+      "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+      "majorGroup": "机械类(智能装备工程)",
+      "planCount": 0,
+      "minScore": 602,
+      "minRank": 14804,
+      "avgScore": 605
+    },
+    {
+      "universityCode": "2318",
+      "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+      "majorGroup": "地理信息科学",
+      "planCount": 0,
+      "minScore": 592,
+      "minRank": 19512,
+      "avgScore": 592
+    },
+    {
+      "universityCode": "2318",
+      "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+      "majorGroup": "材料类",
+      "planCount": 0,
+      "minScore": 588,
+      "minRank": 21691,
+      "avgScore": 592
+    },
+    {
+      "universityCode": "2318",
+      "universityName": "中国石油大学(华东)(国家专项计划)[公办]",
+      "majorGroup": "化学",
+      "planCount": 0,
+      "minScore": 586,
+      "minRank": 22825,
+      "avgScore": 586
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

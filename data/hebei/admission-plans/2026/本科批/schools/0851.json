@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 6380,
+      "universityCode": "0851",
+      "universityName": "湖州学院[公办]",
+      "majorCode": "08",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 6381,
+      "universityCode": "0851",
+      "universityName": "湖州学院[公办]",
+      "majorCode": "09",
+      "majorName": "新能源汽车工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 6382,
+      "universityCode": "0851",
+      "universityName": "湖州学院[公办]",
+      "majorCode": "10",
+      "majorName": "材料化学",
+      "majorNote": "不招收色盲考生",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 6383,
+      "universityCode": "0851",
+      "universityName": "湖州学院[公办]",
+      "majorCode": "11",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 6384,
+      "universityCode": "0851",
+      "universityName": "湖州学院[公办]",
+      "majorCode": "12",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 6385,
+      "universityCode": "0851",
+      "universityName": "湖州学院[公办]",
+      "majorCode": "13",
+      "majorName": "光电信息科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 6386,
+      "universityCode": "0851",
+      "universityName": "湖州学院[公办]",
+      "majorCode": "14",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 6387,
+      "universityCode": "0851",
+      "universityName": "湖州学院[公办]",
+      "majorCode": "15",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 6388,
+      "universityCode": "0851",
+      "universityName": "湖州学院[公办]",
+      "majorCode": "16",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 6389,
+      "universityCode": "0851",
+      "universityName": "湖州学院[公办]",
+      "majorCode": "17",
+      "majorName": "生物工程",
+      "majorNote": "不招收色盲考生",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

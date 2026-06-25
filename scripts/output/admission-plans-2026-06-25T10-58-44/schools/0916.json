@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1112,
+      "universityCode": "0916",
+      "universityName": "吉林大学(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "土木类",
+      "majorNote": "含土木工程、地质工程专业；录取分数不低于特殊类型招生录取控制分数线；实行“类内专业分流任选”，100%按照学生意愿分流",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6830
+    },
+    {
+      "index": 1113,
+      "universityCode": "0916",
+      "universityName": "吉林大学(高校专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "道路桥梁与渡河工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6830
+    },
+    {
+      "index": 1114,
+      "universityCode": "0916",
+      "universityName": "吉林大学(高校专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "地质类",
+      "majorNote": "含地质学、资源勘查工程、土地资源管理专业；录取分数不低于特殊类型招生录取控制分数线；不招单色不识别考生；实行“类内专业分流任选”，100%按照学生意愿分流",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6070
+    },
+    {
+      "index": 1115,
+      "universityCode": "0916",
+      "universityName": "吉林大学(高校专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "勘查技术与工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；按类招。含勘查技术与工程、地球物理学、地理信息科学、测绘工程。实行“类内专业分流任选”，100%按照学生意愿分流",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6320
+    },
+    {
+      "index": 1116,
+      "universityCode": "0916",
+      "universityName": "吉林大学(高校专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "植物生产类",
+      "majorNote": "农林类；含农学、植物保护、农业资源与环境专业；录取分数不低于特殊类型招生录取控制分数线；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学和生物",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6320
+    },
+    {
+      "index": 1117,
+      "universityCode": "0916",
+      "universityName": "吉林大学(高校专项计划)[公办]",
+      "majorCode": "10",
+      "majorName": "动物医学",
+      "majorNote": "农林类；录取分数不低于特殊类型招生录取控制分数线；不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 6320
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

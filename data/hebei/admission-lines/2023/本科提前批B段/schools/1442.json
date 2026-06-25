@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1442",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班类(能源与电气)",
+      "planCount": 0,
+      "minScore": 683,
+      "minRank": 109,
+      "avgScore": 685
+    },
+    {
+      "universityCode": "1442",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班类(机械、航空与动力)",
+      "planCount": 0,
+      "minScore": 677,
+      "minRank": 245,
+      "avgScore": 680
+    },
+    {
+      "universityCode": "1442",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班类(为先书院)",
+      "planCount": 0,
+      "minScore": 675,
+      "minRank": 294,
+      "avgScore": 676
+    },
+    {
+      "universityCode": "1442",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(秀钟书院)",
+      "planCount": 0,
+      "minScore": 671,
+      "minRank": 416,
+      "avgScore": 672
+    },
+    {
+      "universityCode": "1442",
+      "universityName": "清华大学(国家专项计划)[公办]",
+      "majorGroup": "土木类",
+      "planCount": 0,
+      "minScore": 669,
+      "minRank": 508,
+      "avgScore": 671
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

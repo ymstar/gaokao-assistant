@@ -1,0 +1,32 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 12752,
+      "universityCode": "1629",
+      "universityName": "太原学院(边防军人子女预科班)[公办]",
+      "majorCode": "02",
+      "majorName": "本科预科班",
+      "majorNote": "只招通过边防子女资格审查的考生,其它事宜向院校咨询",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 1,
+      "tuition": 4950
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

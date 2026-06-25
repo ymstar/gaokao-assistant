@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2306",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "计算机类",
+      "planCount": 0,
+      "minScore": 665,
+      "minRank": 725,
+      "avgScore": 665
+    },
+    {
+      "universityCode": "2306",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "财政学类",
+      "planCount": 0,
+      "minScore": 659,
+      "minRank": 1110,
+      "avgScore": 659
+    },
+    {
+      "universityCode": "2306",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "人力资源管理(经管试验班)",
+      "planCount": 0,
+      "minScore": 650,
+      "minRank": 1984,
+      "avgScore": 650
+    },
+    {
+      "universityCode": "2306",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(化学拔尖班)",
+      "planCount": 0,
+      "minScore": 647,
+      "minRank": 2368,
+      "avgScore": 651
+    },
+    {
+      "universityCode": "2306",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "应用心理学",
+      "planCount": 0,
+      "minScore": 643,
+      "minRank": 2941,
+      "avgScore": 649
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

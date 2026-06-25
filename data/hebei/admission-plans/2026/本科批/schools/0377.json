@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 2726,
+      "universityCode": "0377",
+      "universityName": "鄂尔多斯应用技术学院[公办]",
+      "majorCode": "02",
+      "majorName": "机械工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 2727,
+      "universityCode": "0377",
+      "universityName": "鄂尔多斯应用技术学院[公办]",
+      "majorCode": "03",
+      "majorName": "汽车服务工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 2728,
+      "universityCode": "0377",
+      "universityName": "鄂尔多斯应用技术学院[公办]",
+      "majorCode": "04",
+      "majorName": "材料化学",
+      "majorNote": "不录取患有轻度色觉异常（俗称色弱）、色觉异常Ⅱ度（俗称色盲）的考生",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 2729,
+      "universityCode": "0377",
+      "universityName": "鄂尔多斯应用技术学院[公办]",
+      "majorCode": "05",
+      "majorName": "电子信息科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 2730,
+      "universityCode": "0377",
+      "universityName": "鄂尔多斯应用技术学院[公办]",
+      "majorCode": "06",
+      "majorName": "电子信息科学与技术(电子系统与机载设备方向)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 2731,
+      "universityCode": "0377",
+      "universityName": "鄂尔多斯应用技术学院[公办]",
+      "majorCode": "07",
+      "majorName": "自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 2732,
+      "universityCode": "0377",
+      "universityName": "鄂尔多斯应用技术学院[公办]",
+      "majorCode": "08",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 2733,
+      "universityCode": "0377",
+      "universityName": "鄂尔多斯应用技术学院[公办]",
+      "majorCode": "09",
+      "majorName": "数据科学与大数据技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 2734,
+      "universityCode": "0377",
+      "universityName": "鄂尔多斯应用技术学院[公办]",
+      "majorCode": "10",
+      "majorName": "化学工程与工艺",
+      "majorNote": "不录取患有色觉异常Ⅱ度（俗称色盲）的考生",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 2735,
+      "universityCode": "0377",
+      "universityName": "鄂尔多斯应用技术学院[公办]",
+      "majorCode": "11",
+      "majorName": "飞行器运维工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 2736,
+      "universityCode": "0377",
+      "universityName": "鄂尔多斯应用技术学院[公办]",
+      "majorCode": "12",
+      "majorName": "财务管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4200
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

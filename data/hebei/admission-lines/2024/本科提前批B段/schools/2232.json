@@ -1,0 +1,52 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2232",
+      "universityName": "西北农林科技大学(国家专项计划)[公办]",
+      "majorGroup": "资源环境科学",
+      "planCount": 0,
+      "minScore": 598,
+      "minRank": 16972,
+      "avgScore": 602
+    },
+    {
+      "universityCode": "2232",
+      "universityName": "西北农林科技大学(国家专项计划)[公办]",
+      "majorGroup": "动物科学",
+      "planCount": 0,
+      "minScore": 590,
+      "minRank": 21772,
+      "avgScore": 593
+    },
+    {
+      "universityCode": "2232",
+      "universityName": "西北农林科技大学(国家专项计划)[公办]",
+      "majorGroup": "水土保持与荒漠化防治",
+      "planCount": 0,
+      "minScore": 586,
+      "minRank": 24360,
+      "avgScore": 589
+    },
+    {
+      "universityCode": "2232",
+      "universityName": "西北农林科技大学(国家专项计划)[公办]",
+      "majorGroup": "园艺(园艺类)",
+      "planCount": 0,
+      "minScore": 583,
+      "minRank": 26440,
+      "avgScore": 587
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

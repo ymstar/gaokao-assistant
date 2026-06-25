@@ -1,0 +1,125 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 432,
+      "universityCode": "0604",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "经济统计学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 433,
+      "universityCode": "0604",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "法学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 434,
+      "universityCode": "0604",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "数学类",
+      "majorNote": "含数学与应用数学、信息与计算科学、应用统计学专业",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 435,
+      "universityCode": "0604",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "计算机类",
+      "majorNote": "含通信工程、软件工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 8,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 436,
+      "universityCode": "0604",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "土木工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 4900
+    },
+    {
+      "index": 437,
+      "universityCode": "0604",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorCode": "10",
+      "majorName": "水利类",
+      "majorNote": "含地下水科学与工程、水文与水资源工程专业",
+      "subjectRequirement": "化学",
+      "planCount": 10,
+      "duration": 4,
+      "tuition": 5390
+    },
+    {
+      "index": 438,
+      "universityCode": "0604",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorCode": "11",
+      "majorName": "工商管理类",
+      "majorNote": "含会计学、审计学专业；财会方向",
+      "subjectRequirement": "不限",
+      "planCount": 9,
+      "duration": 4,
+      "tuition": 5060
+    },
+    {
+      "index": 439,
+      "universityCode": "0604",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorCode": "12",
+      "majorName": "物流管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 440,
+      "universityCode": "0604",
+      "universityName": "河北地质大学(国家专项计划)[公办]",
+      "majorCode": "13",
+      "majorName": "电子商务",
+      "majorNote": "数智化运营",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 19258,
+      "universityCode": "2505",
+      "universityName": "兰州信息科技学院[民办]",
+      "majorCode": "01",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 22800
+    },
+    {
+      "index": 19259,
+      "universityCode": "2505",
+      "universityName": "兰州信息科技学院[民办]",
+      "majorCode": "02",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 15,
+      "duration": 4,
+      "tuition": 22800
+    },
+    {
+      "index": 19260,
+      "universityCode": "2505",
+      "universityName": "兰州信息科技学院[民办]",
+      "majorCode": "03",
+      "majorName": "电子信息工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 22800
+    },
+    {
+      "index": 19261,
+      "universityCode": "2505",
+      "universityName": "兰州信息科技学院[民办]",
+      "majorCode": "04",
+      "majorName": "人工智能",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 9,
+      "duration": 4,
+      "tuition": 25800
+    },
+    {
+      "index": 19262,
+      "universityCode": "2505",
+      "universityName": "兰州信息科技学院[民办]",
+      "majorCode": "05",
+      "majorName": "机器人工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 25800
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 3282,
+      "universityCode": "0476",
+      "universityName": "广西医科大学(南宁市)[公办]",
+      "majorCode": "01",
+      "majorName": "生物医学工程",
+      "majorNote": "不招色盲、色弱及单色识别不全考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 3283,
+      "universityCode": "0476",
+      "universityName": "广西医科大学(南宁市)[公办]",
+      "majorCode": "02",
+      "majorName": "预防医学",
+      "majorNote": "不招色盲、色弱及单色识别不全考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 7500
+    },
+    {
+      "index": 3284,
+      "universityCode": "0476",
+      "universityName": "广西医科大学(南宁市)[公办]",
+      "majorCode": "03",
+      "majorName": "临床药学",
+      "majorNote": "不招色盲、色弱及单色识别不全考生",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 5,
+      "tuition": 6400
+    },
+    {
+      "index": 3285,
+      "universityCode": "0476",
+      "universityName": "广西医科大学(南宁市)[公办]",
+      "majorCode": "04",
+      "majorName": "护理学",
+      "majorNote": "不招色盲、色弱及单色识别不全考生；建议女生身高不低于155cm，男生身高不低于166cm",
+      "subjectRequirement": "生物",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6400
+    },
+    {
+      "index": 3286,
+      "universityCode": "0476",
+      "universityName": "广西医科大学(南宁市)[公办]",
+      "majorCode": "05",
+      "majorName": "健康服务与管理",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 901,
+      "universityCode": "0677",
+      "universityName": "河北中医药大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "中医学",
+      "majorNote": "色盲、色弱不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 9,
+      "duration": 5,
+      "tuition": 5700
+    },
+    {
+      "index": 902,
+      "universityCode": "0677",
+      "universityName": "河北中医药大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "中西医临床医学",
+      "majorNote": "色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 17,
+      "duration": 5,
+      "tuition": 5700
+    },
+    {
+      "index": 903,
+      "universityCode": "0677",
+      "universityName": "河北中医药大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "中药学",
+      "majorNote": "色盲、色弱不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5700
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

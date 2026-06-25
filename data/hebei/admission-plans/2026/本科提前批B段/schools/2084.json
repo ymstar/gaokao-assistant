@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1672,
+      "universityCode": "2084",
+      "universityName": "中国石油大学(华东)(青岛市)(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "应用化学",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；入学后可选拔进入智能化工类特色班、能源化工拔尖班、化学拔尖班",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1673,
+      "universityCode": "2084",
+      "universityName": "中国石油大学(华东)(青岛市)(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "地质学",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1674,
+      "universityCode": "2084",
+      "universityName": "中国石油大学(华东)(青岛市)(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "材料类",
+      "majorNote": "含材料成型及控制工程、材料科学与工程、新能源材料与器件、电子信息材料专业；录取分数不低于特殊类型招生录取控制分数线；学生分流时可自由选择类内专业",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1675,
+      "universityCode": "2084",
+      "universityName": "中国石油大学(华东)(青岛市)(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "化工与制药类(智能化工)",
+      "majorNote": "含化工安全工程、化学工程与工艺、能源化学工程专业；录取分数不低于特殊类型招生录取控制分数线；学生分流时可自由选择类内专业；入学后可选拔进入智能化工类特色班、能源化工拔尖班、化学拔尖班",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    },
+    {
+      "index": 1676,
+      "universityCode": "2084",
+      "universityName": "中国石油大学(华东)(青岛市)(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "资源勘查工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6600
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

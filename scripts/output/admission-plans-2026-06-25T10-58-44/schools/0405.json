@@ -1,0 +1,41 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 314,
+      "universityCode": "0405",
+      "universityName": "复旦大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "物理学类",
+      "majorNote": "含物理学专业；含物理学-人工智能双学士学位",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 7700
+    },
+    {
+      "index": 315,
+      "universityCode": "0405",
+      "universityName": "复旦大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "核工程与核技术",
+      "majorNote": "含聚变方向，含核物理拔尖班。含核工程与核技术-国际政治（全球领导力）双学士学位",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 7000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

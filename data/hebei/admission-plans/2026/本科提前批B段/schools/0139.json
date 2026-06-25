@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 86,
+      "universityCode": "0139",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "运动人体科学",
+      "majorNote": "色弱、色盲考生不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 87,
+      "universityCode": "0139",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "运动康复",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 88,
+      "universityCode": "0139",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "英语",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 89,
+      "universityCode": "0139",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "新闻学",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 90,
+      "universityCode": "0139",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "应用心理学",
+      "majorNote": "色弱、色盲考生不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 91,
+      "universityCode": "0139",
+      "universityName": "北京体育大学(国家专项计划)[公办]",
+      "majorCode": "10",
+      "majorName": "体育经济与管理",
+      "majorNote": "单色不识别考生不予录取",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

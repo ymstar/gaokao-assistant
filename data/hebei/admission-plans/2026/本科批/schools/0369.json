@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 2701,
+      "universityCode": "0369",
+      "universityName": "东莞理工学院[公办]",
+      "majorCode": "02",
+      "majorName": "知识产权",
+      "majorNote": "在莞城校区就读",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5050
+    },
+    {
+      "index": 2702,
+      "universityCode": "0369",
+      "universityName": "东莞理工学院[公办]",
+      "majorCode": "03",
+      "majorName": "应用化学(含教育部卓越计划班)",
+      "majorNote": "在松山湖校区就读；色盲、色弱考生不建议报考",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 2703,
+      "universityCode": "0369",
+      "universityName": "东莞理工学院[公办]",
+      "majorCode": "04",
+      "majorName": "工业设计",
+      "majorNote": "在莞城校区就读；色盲考生不建议报考",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 2704,
+      "universityCode": "0369",
+      "universityName": "东莞理工学院[公办]",
+      "majorCode": "05",
+      "majorName": "材料类",
+      "majorNote": "含高分子材料与工程、金属材料工程、材料科学与工程专业；在松山湖校区就读；色盲、色弱考生不建议报考;第三学期开学前专业分流",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 2705,
+      "universityCode": "0369",
+      "universityName": "东莞理工学院[公办]",
+      "majorCode": "06",
+      "majorName": "电子信息工程(含教育部卓越计划班)",
+      "majorNote": "在松山湖校区就读；单色不识别考生不建议报考",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 2706,
+      "universityCode": "0369",
+      "universityName": "东莞理工学院[公办]",
+      "majorCode": "07",
+      "majorName": "土木工程",
+      "majorNote": "在松山湖校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 2707,
+      "universityCode": "0369",
+      "universityName": "东莞理工学院[公办]",
+      "majorCode": "08",
+      "majorName": "道路桥梁与渡河工程",
+      "majorNote": "在松山湖校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 2708,
+      "universityCode": "0369",
+      "universityName": "东莞理工学院[公办]",
+      "majorCode": "09",
+      "majorName": "环境工程",
+      "majorNote": "在松山湖校区就读；色盲、色弱考生不建议报考",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 2709,
+      "universityCode": "0369",
+      "universityName": "东莞理工学院[公办]",
+      "majorCode": "10",
+      "majorName": "食品营养与健康",
+      "majorNote": "在松山湖校区就读；色盲、色弱考生不建议报考",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 2710,
+      "universityCode": "0369",
+      "universityName": "东莞理工学院[公办]",
+      "majorCode": "11",
+      "majorName": "工程管理",
+      "majorNote": "在松山湖校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5710
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

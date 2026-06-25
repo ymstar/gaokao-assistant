@@ -1,0 +1,52 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2560",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "计算机类(英才班)",
+      "planCount": 0,
+      "minScore": 657,
+      "minRank": 928,
+      "avgScore": 657
+    },
+    {
+      "universityCode": "2560",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班类(物理学拔尖班，含严济慈物理学英才班)",
+      "planCount": 0,
+      "minScore": 644,
+      "minRank": 2192,
+      "avgScore": 646
+    },
+    {
+      "universityCode": "2560",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "社会科学试验班(管理学科类)",
+      "planCount": 0,
+      "minScore": 642,
+      "minRank": 2473,
+      "avgScore": 644
+    },
+    {
+      "universityCode": "2560",
+      "universityName": "中国人民大学(国家专项计划)[公办]",
+      "majorGroup": "理科试验班(化学与生命资源拔尖班)",
+      "planCount": 0,
+      "minScore": 642,
+      "minRank": 2473,
+      "avgScore": 647
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

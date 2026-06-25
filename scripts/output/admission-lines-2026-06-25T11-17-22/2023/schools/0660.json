@@ -1,0 +1,151 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市察北管理区就业",
+      "planCount": 0,
+      "minScore": 495,
+      "minRank": 106586,
+      "avgScore": 504
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市桥东区就业",
+      "planCount": 0,
+      "minScore": 486,
+      "minRank": 118152,
+      "avgScore": 503
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市桥西区就业",
+      "planCount": 0,
+      "minScore": 486,
+      "minRank": 118152,
+      "avgScore": 489
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市赤城县就业",
+      "planCount": 0,
+      "minScore": 485,
+      "minRank": 119480,
+      "avgScore": 488
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市崇礼区就业",
+      "planCount": 0,
+      "minScore": 482,
+      "minRank": 123430,
+      "avgScore": 484
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市张北县就业",
+      "planCount": 0,
+      "minScore": 481,
+      "minRank": 124810,
+      "avgScore": 487
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市沽源县就业",
+      "planCount": 0,
+      "minScore": 480,
+      "minRank": 126177,
+      "avgScore": 481
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市怀来县就业",
+      "planCount": 0,
+      "minScore": 479,
+      "minRank": 127535,
+      "avgScore": 482
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市康保县就业",
+      "planCount": 0,
+      "minScore": 479,
+      "minRank": 127535,
+      "avgScore": 482
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市尚义县就业",
+      "planCount": 0,
+      "minScore": 477,
+      "minRank": 130222,
+      "avgScore": 478
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市万全区就业",
+      "planCount": 0,
+      "minScore": 477,
+      "minRank": 130222,
+      "avgScore": 480
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市蔚县就业",
+      "planCount": 0,
+      "minScore": 476,
+      "minRank": 131523,
+      "avgScore": 477
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市下花园区就业",
+      "planCount": 0,
+      "minScore": 476,
+      "minRank": 131523,
+      "avgScore": 479
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市宣化区就业",
+      "planCount": 0,
+      "minScore": 475,
+      "minRank": 132896,
+      "avgScore": 483
+    },
+    {
+      "universityCode": "0660",
+      "universityName": "河北北方学院(免费医学定向生)[公办]",
+      "majorGroup": "临床医学*定向张家口市阳原县就业",
+      "planCount": 0,
+      "minScore": 474,
+      "minRank": 134240,
+      "avgScore": 475
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

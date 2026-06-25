@@ -1,0 +1,52 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1682",
+      "universityName": "西南财经大学(成都市)(国家专项计划)[公办]",
+      "majorGroup": "计算机类",
+      "planCount": 0,
+      "minScore": 630,
+      "minRank": 9436,
+      "avgScore": 630
+    },
+    {
+      "universityCode": "1682",
+      "universityName": "西南财经大学(成都市)(国家专项计划)[公办]",
+      "majorGroup": "管理科学与工程类",
+      "planCount": 0,
+      "minScore": 620,
+      "minRank": 14098,
+      "avgScore": 620
+    },
+    {
+      "universityCode": "1682",
+      "universityName": "西南财经大学(成都市)(国家专项计划)[公办]",
+      "majorGroup": "经济与贸易类",
+      "planCount": 0,
+      "minScore": 614,
+      "minRank": 17521,
+      "avgScore": 614
+    },
+    {
+      "universityCode": "1682",
+      "universityName": "西南财经大学(成都市)(国家专项计划)[公办]",
+      "majorGroup": "工商管理类",
+      "planCount": 0,
+      "minScore": 609,
+      "minRank": 20698,
+      "avgScore": 609
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

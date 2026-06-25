@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 8236,
+      "universityCode": "1058",
+      "universityName": "康复大学[公办]",
+      "majorCode": "01",
+      "majorName": "生物信息学",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 8237,
+      "universityCode": "1058",
+      "universityName": "康复大学[公办]",
+      "majorCode": "02",
+      "majorName": "神经科学",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 8238,
+      "universityCode": "1058",
+      "universityName": "康复大学[公办]",
+      "majorCode": "03",
+      "majorName": "生物医学工程",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 8239,
+      "universityCode": "1058",
+      "universityName": "康复大学[公办]",
+      "majorCode": "04",
+      "majorName": "生物医学工程(智能机器人方向)",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 8240,
+      "universityCode": "1058",
+      "universityName": "康复大学[公办]",
+      "majorCode": "05",
+      "majorName": "临床医学",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 5,
+      "tuition": 6000
+    },
+    {
+      "index": 8241,
+      "universityCode": "1058",
+      "universityName": "康复大学[公办]",
+      "majorCode": "06",
+      "majorName": "康复物理治疗",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 8242,
+      "universityCode": "1058",
+      "universityName": "康复大学[公办]",
+      "majorCode": "07",
+      "majorName": "康复物理治疗(肌骨康复方向)",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 8243,
+      "universityCode": "1058",
+      "universityName": "康复大学[公办]",
+      "majorCode": "08",
+      "majorName": "康复作业治疗",
+      "majorNote": "不招色盲、色弱考生；前1.5年在康复大学就读，后2.5年在北京中国康复研究中心就读",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 8244,
+      "universityCode": "1058",
+      "universityName": "康复大学[公办]",
+      "majorCode": "09",
+      "majorName": "智能医学工程",
+      "majorNote": "不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

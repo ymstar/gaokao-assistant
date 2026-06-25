@@ -1,0 +1,149 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1480,
+      "universityCode": "1825",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "应用心理学",
+      "majorNote": "在成都犀浦校区就读；色弱、色盲、单色不识别考生不予录取",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 1481,
+      "universityCode": "1825",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "土木工程",
+      "majorNote": "在成都犀浦校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 1482,
+      "universityCode": "1825",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "智能建造",
+      "majorNote": "在成都东部国际校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 1483,
+      "universityCode": "1825",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "测绘类",
+      "majorNote": "含测绘工程、遥感科学与技术、地理信息科学专业；在成都犀浦校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 1484,
+      "universityCode": "1825",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "地质工程",
+      "majorNote": "在成都犀浦校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 1485,
+      "universityCode": "1825",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "建筑类",
+      "majorNote": "含城乡规划、风景园林专业；在成都犀浦校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 1486,
+      "universityCode": "1825",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorCode": "08",
+      "majorName": "城市设计",
+      "majorNote": "在成都东部国际校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 1487,
+      "universityCode": "1825",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorCode": "09",
+      "majorName": "安全工程",
+      "majorNote": "在成都犀浦校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 1488,
+      "universityCode": "1825",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorCode": "10",
+      "majorName": "信息管理与信息系统",
+      "majorNote": "在成都九里校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5760
+    },
+    {
+      "index": 1489,
+      "universityCode": "1825",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorCode": "11",
+      "majorName": "应急管理",
+      "majorNote": "在成都九里校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5760
+    },
+    {
+      "index": 1490,
+      "universityCode": "1825",
+      "universityName": "西南交通大学(国家专项计划)[公办]",
+      "majorCode": "12",
+      "majorName": "工商管理",
+      "majorNote": "在成都九里校区就读",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5760
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

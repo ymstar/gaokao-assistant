@@ -1,0 +1,140 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 2247,
+      "universityCode": "0316",
+      "universityName": "大连理工大学[公办]",
+      "majorCode": "06",
+      "majorName": "工程力学(力学工科基础拔尖计划班)",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 2248,
+      "universityCode": "0316",
+      "universityName": "大连理工大学[公办]",
+      "majorCode": "07",
+      "majorName": "智能制造工程(创新班)",
+      "majorNote": "含智能制造工程、机械设计制造及其自动化、智能车辆工程、测控技术与仪器，上述四个专业分流任选",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 2249,
+      "universityCode": "0316",
+      "universityName": "大连理工大学[公办]",
+      "majorCode": "08",
+      "majorName": "储能科学与工程(新工科拔尖班)",
+      "majorNote": "含储能科学与工程、过程装备与控制工程、化学工程与工艺、安全工程，上述专业分流任选。不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 2250,
+      "universityCode": "0316",
+      "universityName": "大连理工大学[公办]",
+      "majorCode": "09",
+      "majorName": "电子信息类(创新班)",
+      "majorNote": "含电子信息工程、计算机科学与技术、未来机器人、人工智能、自动化、电气工程及其自动化、光电信息科学与工程、生物医学工程专业；本专业类内分流任选",
+      "subjectRequirement": "化学",
+      "planCount": 16,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 2251,
+      "universityCode": "0316",
+      "universityName": "大连理工大学[公办]",
+      "majorCode": "10",
+      "majorName": "人工智能(新工科大师班)",
+      "majorNote": "一生一策特区式拔尖人才培养：院士及国家级人才担任导师；量身定制培养方案；全校理工类专业任选，按所选专业收学费；在读期间可到行业领军企业实习，并有机会通过“连理全球计划”到世界知名大学联合培养",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 2252,
+      "universityCode": "0316",
+      "universityName": "大连理工大学[公办]",
+      "majorCode": "11",
+      "majorName": "人工智能(未来卓越班)",
+      "majorNote": "全校理工类专业任选，按所选专业收学费",
+      "subjectRequirement": "化学",
+      "planCount": 68,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 2253,
+      "universityCode": "0316",
+      "universityName": "大连理工大学[公办]",
+      "majorCode": "12",
+      "majorName": "数学与应用数学(中外合作办学)",
+      "majorNote": "与白俄罗斯国立大学合作，零起点学习俄语，部分课程采用英语授课，非英语语种考生慎重报考",
+      "subjectRequirement": "化学",
+      "planCount": 6,
+      "duration": 4,
+      "tuition": 60000
+    },
+    {
+      "index": 2254,
+      "universityCode": "0316",
+      "universityName": "大连理工大学[公办]",
+      "majorCode": "13",
+      "majorName": "应用物理学(中外合作办学)",
+      "majorNote": "不招色盲考生。与白俄罗斯国立大学合作，零起点学习俄语，部分课程采用英语授课，非英语语种考生慎重报考",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 60000
+    },
+    {
+      "index": 2255,
+      "universityCode": "0316",
+      "universityName": "大连理工大学[公办]",
+      "majorCode": "14",
+      "majorName": "工程力学(中外合作办学)",
+      "majorNote": "与白俄罗斯国立大学合作，零起点学习俄语，部分课程采用英语授课，非英语语种考生慎重报考",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 60000
+    },
+    {
+      "index": 2256,
+      "universityCode": "0316",
+      "universityName": "大连理工大学[公办]",
+      "majorCode": "15",
+      "majorName": "计算机类(中外合作办学)",
+      "majorNote": "含软件工程(中外合作办学)、数字媒体技术(中外合作办学)、物联网工程(中外合作办学)专业；就读大连开发区校区。与日本立命馆大学合作，零起点学习日语，部分课程采用英语、日语授课，非英语语种考生慎重报考",
+      "subjectRequirement": "化学",
+      "planCount": 13,
+      "duration": 4,
+      "tuition": 98000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

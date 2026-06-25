@@ -1,0 +1,43 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "2536",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "软件工程",
+      "planCount": 0,
+      "minScore": 615,
+      "minRank": 9146,
+      "avgScore": 615
+    },
+    {
+      "universityCode": "2536",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "数据计算及应用",
+      "planCount": 0,
+      "minScore": 608,
+      "minRank": 12000,
+      "avgScore": 608
+    },
+    {
+      "universityCode": "2536",
+      "universityName": "中国地质大学(北京)(国家专项计划)[公办]",
+      "majorGroup": "遥感科学与技术",
+      "planCount": 0,
+      "minScore": 608,
+      "minRank": 12000,
+      "avgScore": 608
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

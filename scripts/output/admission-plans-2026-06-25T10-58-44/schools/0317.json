@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 209,
+      "universityCode": "0317",
+      "universityName": "大连理工大学(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "材料类",
+      "majorNote": "含电子信息材料、金属材料工程、功能材料、材料成型及控制工程专业；录取分数不低于特殊类型招生录取控制分数线；本专业类内分流任选。入校后可选拔进入材料中日精英班",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 210,
+      "universityCode": "0317",
+      "universityName": "大连理工大学(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "电子信息类",
+      "majorNote": "含电子信息工程、计算机科学与技术、未来机器人、自动化、电气工程及其自动化、光电信息科学与工程、生物医学工程专业；录取分数不低于特殊类型招生录取控制分数线；本专业类内分流任选",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 211,
+      "universityCode": "0317",
+      "universityName": "大连理工大学(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "智能建造",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；含智能建造、水利水电工程、港口航道与海岸工程、建筑环境与能源应用工程、土木工程，上述五个专业分流任选",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 212,
+      "universityCode": "0317",
+      "universityName": "大连理工大学(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "船舶与海洋工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6240
+    },
+    {
+      "index": 213,
+      "universityCode": "0317",
+      "universityName": "大连理工大学(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "临床医学(创新班)",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；不招色盲、色弱考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 5,
+      "tuition": 6600
+    },
+    {
+      "index": 214,
+      "universityCode": "0317",
+      "universityName": "大连理工大学(高校专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "大数据管理与应用",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；含大数据管理与应用、信息管理与信息系统、金融科技，上述三个专业分流任选",
+      "subjectRequirement": "不限",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 6240
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0823",
+      "universityName": "衡水学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向衡水市故城县就业",
+      "planCount": 0,
+      "minScore": 544,
+      "minRank": 53343,
+      "avgScore": 546
+    },
+    {
+      "universityCode": "0823",
+      "universityName": "衡水学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向衡水市冀州区就业",
+      "planCount": 0,
+      "minScore": 541,
+      "minRank": 56064,
+      "avgScore": 549
+    },
+    {
+      "universityCode": "0823",
+      "universityName": "衡水学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向衡水市枣强县就业",
+      "planCount": 0,
+      "minScore": 539,
+      "minRank": 57829,
+      "avgScore": 541
+    },
+    {
+      "universityCode": "0823",
+      "universityName": "衡水学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向衡水市饶阳县就业",
+      "planCount": 0,
+      "minScore": 537,
+      "minRank": 59730,
+      "avgScore": 537
+    },
+    {
+      "universityCode": "0823",
+      "universityName": "衡水学院(公费师范生)[公办]",
+      "majorGroup": "小学教育*定向衡水市安平县就业",
+      "planCount": 0,
+      "minScore": 537,
+      "minRank": 59730,
+      "avgScore": 537
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

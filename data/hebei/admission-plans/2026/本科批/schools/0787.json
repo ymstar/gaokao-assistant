@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 5856,
+      "universityCode": "0787",
+      "universityName": "湖北科技学院(咸宁市)[公办]",
+      "majorCode": "01",
+      "majorName": "应用化学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 5857,
+      "universityCode": "0787",
+      "universityName": "湖北科技学院(咸宁市)[公办]",
+      "majorCode": "02",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 5858,
+      "universityCode": "0787",
+      "universityName": "湖北科技学院(咸宁市)[公办]",
+      "majorCode": "03",
+      "majorName": "光电信息科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 5859,
+      "universityCode": "0787",
+      "universityName": "湖北科技学院(咸宁市)[公办]",
+      "majorCode": "04",
+      "majorName": "电子信息科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 5860,
+      "universityCode": "0787",
+      "universityName": "湖北科技学院(咸宁市)[公办]",
+      "majorCode": "05",
+      "majorName": "临床医学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 5,
+      "tuition": 5200
+    },
+    {
+      "index": 5861,
+      "universityCode": "0787",
+      "universityName": "湖北科技学院(咸宁市)[公办]",
+      "majorCode": "06",
+      "majorName": "药学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 5862,
+      "universityCode": "0787",
+      "universityName": "湖北科技学院(咸宁市)[公办]",
+      "majorCode": "07",
+      "majorName": "药物制剂",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 5863,
+      "universityCode": "0787",
+      "universityName": "湖北科技学院(咸宁市)[公办]",
+      "majorCode": "08",
+      "majorName": "化妆品科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4000
+    },
+    {
+      "index": 5864,
+      "universityCode": "0787",
+      "universityName": "湖北科技学院(咸宁市)[公办]",
+      "majorCode": "09",
+      "majorName": "护理学",
+      "majorNote": "不招色盲、色弱、单色不识别考生，详见院校章程",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 8882,
+      "universityCode": "1137",
+      "universityName": "岭南师范学院(湛江市)[公办]",
+      "majorCode": "08",
+      "majorName": "物理学(师范)",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 8883,
+      "universityCode": "1137",
+      "universityName": "岭南师范学院(湛江市)[公办]",
+      "majorCode": "09",
+      "majorName": "化学(师范)",
+      "majorNote": "师范类；不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 8884,
+      "universityCode": "1137",
+      "universityName": "岭南师范学院(湛江市)[公办]",
+      "majorCode": "10",
+      "majorName": "生物技术",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学和生物",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 8885,
+      "universityCode": "1137",
+      "universityName": "岭南师范学院(湛江市)[公办]",
+      "majorCode": "11",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "不招单色识别不全者",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 8886,
+      "universityCode": "1137",
+      "universityName": "岭南师范学院(湛江市)[公办]",
+      "majorCode": "12",
+      "majorName": "电子信息工程",
+      "majorNote": "不招单色识别不全者",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 8887,
+      "universityCode": "1137",
+      "universityName": "岭南师范学院(湛江市)[公办]",
+      "majorCode": "13",
+      "majorName": "机器人工程",
+      "majorNote": "不招单色识别不全者",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 8888,
+      "universityCode": "1137",
+      "universityName": "岭南师范学院(湛江市)[公办]",
+      "majorCode": "14",
+      "majorName": "软件工程",
+      "majorNote": "不招单色识别不全者",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 8000
+    },
+    {
+      "index": 8889,
+      "universityCode": "1137",
+      "universityName": "岭南师范学院(湛江市)[公办]",
+      "majorCode": "15",
+      "majorName": "制药工程",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 8890,
+      "universityCode": "1137",
+      "universityName": "岭南师范学院(湛江市)[公办]",
+      "majorCode": "16",
+      "majorName": "食品科学与工程",
+      "majorNote": "不招色盲色弱",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 8891,
+      "universityCode": "1137",
+      "universityName": "岭南师范学院(湛江市)[公办]",
+      "majorCode": "17",
+      "majorName": "电力工程及自动化",
+      "majorNote": "职业本科，不招单色识别不全者",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    },
+    {
+      "index": 8892,
+      "universityCode": "1137",
+      "universityName": "岭南师范学院(湛江市)[公办]",
+      "majorCode": "18",
+      "majorName": "机械电子工程技术",
+      "majorNote": "职业本科，不招单色识别不全者",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5710
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

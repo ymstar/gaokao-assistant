@@ -1,0 +1,88 @@
+{
+  "year": 2025,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1948",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "遥感科学与技术",
+      "planCount": 0,
+      "minScore": 647,
+      "minRank": 4006,
+      "avgScore": 648
+    },
+    {
+      "universityCode": "1948",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "化学类",
+      "planCount": 0,
+      "minScore": 636,
+      "minRank": 7186,
+      "avgScore": 637
+    },
+    {
+      "universityCode": "1948",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "海洋科学",
+      "planCount": 0,
+      "minScore": 634,
+      "minRank": 7879,
+      "avgScore": 635
+    },
+    {
+      "universityCode": "1948",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "药学(深圳)",
+      "planCount": 0,
+      "minScore": 633,
+      "minRank": 8236,
+      "avgScore": 634
+    },
+    {
+      "universityCode": "1948",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "环境科学与工程类(含永銮创新班)",
+      "planCount": 0,
+      "minScore": 631,
+      "minRank": 9012,
+      "avgScore": 632
+    },
+    {
+      "universityCode": "1948",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "地理科学类",
+      "planCount": 0,
+      "minScore": 628,
+      "minRank": 10271,
+      "avgScore": 628
+    },
+    {
+      "universityCode": "1948",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "预防医学(广州)",
+      "planCount": 0,
+      "minScore": 627,
+      "minRank": 10703,
+      "avgScore": 629
+    },
+    {
+      "universityCode": "1948",
+      "universityName": "中山大学(国家专项计划)[公办]",
+      "majorGroup": "心理学",
+      "planCount": 0,
+      "minScore": 625,
+      "minRank": 11635,
+      "avgScore": 627
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.759Z",
+    "totalEntries": 1402,
+    "universityCount": 185
+  }
+}

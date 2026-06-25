@@ -1,0 +1,70 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0128",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorGroup": "自动化类",
+      "planCount": 0,
+      "minScore": 635,
+      "minRank": 4398,
+      "avgScore": 635
+    },
+    {
+      "universityCode": "0128",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorGroup": "材料科学与工程",
+      "planCount": 0,
+      "minScore": 615,
+      "minRank": 9678,
+      "avgScore": 615
+    },
+    {
+      "universityCode": "0128",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorGroup": "应用化学",
+      "planCount": 0,
+      "minScore": 610,
+      "minRank": 11481,
+      "avgScore": 610
+    },
+    {
+      "universityCode": "0128",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorGroup": "土木类",
+      "planCount": 0,
+      "minScore": 598,
+      "minRank": 16589,
+      "avgScore": 604
+    },
+    {
+      "universityCode": "0128",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorGroup": "矿业类",
+      "planCount": 0,
+      "minScore": 596,
+      "minRank": 17507,
+      "avgScore": 600
+    },
+    {
+      "universityCode": "0128",
+      "universityName": "北京科技大学(国家专项计划)[公办]",
+      "majorGroup": "冶金工程",
+      "planCount": 0,
+      "minScore": 595,
+      "minRank": 18004,
+      "avgScore": 603
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

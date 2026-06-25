@@ -1,0 +1,32 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 13726,
+      "universityCode": "1777",
+      "universityName": "西安交通大学(中外合作办学)[公办]",
+      "majorCode": "02",
+      "majorName": "碳中和科学与工程(中外合作办学)",
+      "majorNote": "在海南校区就读；合作高校为加拿大不列颠哥伦比亚大学，国内期间学费为15万元/年，国外期间学费由外方按照其标准收取，详情咨询院校",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 150000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

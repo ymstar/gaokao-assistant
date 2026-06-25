@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 14193,
+      "universityCode": "1821",
+      "universityName": "西南大学(荣昌校区)[公办]",
+      "majorCode": "02",
+      "majorName": "动物科学",
+      "majorNote": "农林类；不招色盲、单色识别不全考生",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 14194,
+      "universityCode": "1821",
+      "universityName": "西南大学(荣昌校区)[公办]",
+      "majorCode": "03",
+      "majorName": "动物医学类(五年制)",
+      "majorNote": "农林类；含动物医学(五年制)、兽医公共卫生(五年制)专业；不招色盲、单色识别不全考生",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 5,
+      "tuition": 5200
+    },
+    {
+      "index": 14195,
+      "universityCode": "1821",
+      "universityName": "西南大学(荣昌校区)[公办]",
+      "majorCode": "04",
+      "majorName": "水产类",
+      "majorNote": "农林类；含水产养殖学、水族科学与技术专业",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 5200
+    },
+    {
+      "index": 14196,
+      "universityCode": "1821",
+      "universityName": "西南大学(荣昌校区)[公办]",
+      "majorCode": "05",
+      "majorName": "管理科学与工程类",
+      "majorNote": "含信息管理与信息系统、大数据管理与应用专业",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 6000
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "0406",
+      "universityName": "东南大学(国家专项计划)[公办]",
+      "majorGroup": "临床医学类(5年)",
+      "planCount": 0,
+      "minScore": 636,
+      "minRank": 4187,
+      "avgScore": 636
+    },
+    {
+      "universityCode": "0406",
+      "universityName": "东南大学(国家专项计划)[公办]",
+      "majorGroup": "生物医学工程类",
+      "planCount": 0,
+      "minScore": 626,
+      "minRank": 6430,
+      "avgScore": 630
+    },
+    {
+      "universityCode": "0406",
+      "universityName": "东南大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(土木交通材料实验班)",
+      "planCount": 0,
+      "minScore": 626,
+      "minRank": 6430,
+      "avgScore": 630
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

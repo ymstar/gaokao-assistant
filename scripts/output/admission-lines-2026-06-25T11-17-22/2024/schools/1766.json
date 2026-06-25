@@ -1,0 +1,70 @@
+{
+  "year": 2024,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1766",
+      "universityName": "陕西师范大学(国家专项计划)[公办]",
+      "majorGroup": "化学",
+      "planCount": 0,
+      "minScore": 607,
+      "minRank": 12449,
+      "avgScore": 607
+    },
+    {
+      "universityCode": "1766",
+      "universityName": "陕西师范大学(国家专项计划)[公办]",
+      "majorGroup": "化学类",
+      "planCount": 0,
+      "minScore": 604,
+      "minRank": 13836,
+      "avgScore": 604
+    },
+    {
+      "universityCode": "1766",
+      "universityName": "陕西师范大学(国家专项计划)[公办]",
+      "majorGroup": "心理学类",
+      "planCount": 0,
+      "minScore": 597,
+      "minRank": 17561,
+      "avgScore": 597
+    },
+    {
+      "universityCode": "1766",
+      "universityName": "陕西师范大学(国家专项计划)[公办]",
+      "majorGroup": "物理学",
+      "planCount": 0,
+      "minScore": 591,
+      "minRank": 21147,
+      "avgScore": 595
+    },
+    {
+      "universityCode": "1766",
+      "universityName": "陕西师范大学(国家专项计划)[公办]",
+      "majorGroup": "食品科学与工程类",
+      "planCount": 0,
+      "minScore": 590,
+      "minRank": 21772,
+      "avgScore": 590
+    },
+    {
+      "universityCode": "1766",
+      "universityName": "陕西师范大学(国家专项计划)[公办]",
+      "majorGroup": "地理科学",
+      "planCount": 0,
+      "minScore": 587,
+      "minRank": 23707,
+      "avgScore": 587
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.681Z",
+    "totalEntries": 1393,
+    "universityCount": 185
+  }
+}

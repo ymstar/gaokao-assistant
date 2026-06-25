@@ -1,0 +1,92 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 5120,
+      "universityCode": "0680",
+      "universityName": "河池学院[公办]",
+      "majorCode": "05",
+      "majorName": "英语",
+      "majorNote": "师范类；只招英语语种考生",
+      "subjectRequirement": "不限",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4200
+    },
+    {
+      "index": 5121,
+      "universityCode": "0680",
+      "universityName": "河池学院[公办]",
+      "majorCode": "06",
+      "majorName": "信息与计算科学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 5122,
+      "universityCode": "0680",
+      "universityName": "河池学院[公办]",
+      "majorCode": "07",
+      "majorName": "应用统计学",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 5123,
+      "universityCode": "0680",
+      "universityName": "河池学院[公办]",
+      "majorCode": "08",
+      "majorName": "机械设计制造及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 5124,
+      "universityCode": "0680",
+      "universityName": "河池学院[公办]",
+      "majorCode": "09",
+      "majorName": "电气工程及其自动化",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 4600
+    },
+    {
+      "index": 5125,
+      "universityCode": "0680",
+      "universityName": "河池学院[公办]",
+      "majorCode": "10",
+      "majorName": "网络空间安全",
+      "majorNote": "不招色盲",
+      "subjectRequirement": "化学",
+      "planCount": 5,
+      "duration": 4,
+      "tuition": 4600
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

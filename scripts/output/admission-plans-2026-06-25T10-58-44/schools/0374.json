@@ -1,0 +1,53 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 300,
+      "universityCode": "0374",
+      "universityName": "对外经济贸易大学(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "金融学类",
+      "majorNote": "含金融学、金融学(国际金融与市场)、经济与金融、投资学、保险学专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    },
+    {
+      "index": 301,
+      "universityCode": "0374",
+      "universityName": "对外经济贸易大学(高校专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "外国语言文学类",
+      "majorNote": "含商务英语(含与金融学、法学、会计学双学士学位项目)、翻译(含与金融学、法学、会计学双学士学位项目)、英语(含与金融学、法学、会计学双学士学位项目)专业；只招英语语种考生；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 6000
+    },
+    {
+      "index": 302,
+      "universityCode": "0374",
+      "universityName": "对外经济贸易大学(高校专项计划)[公办]",
+      "majorCode": "07",
+      "majorName": "工商管理类(项目选拔进入，分流时专业任选)",
+      "majorNote": "含会计学、财务管理、人力资源管理、市场营销、工商管理、会计学(北邮计算机联合学士学位培养项目)、会计学(北邮金科联合学士学位培养项目)专业；录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "不限",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5000
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}

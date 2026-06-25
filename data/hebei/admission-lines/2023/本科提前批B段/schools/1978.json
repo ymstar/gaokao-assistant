@@ -1,0 +1,97 @@
+{
+  "year": 2023,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "universityCode": "1978",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(电信学部信通学院)",
+      "planCount": 0,
+      "minScore": 654,
+      "minRank": 1558,
+      "avgScore": 655
+    },
+    {
+      "universityCode": "1978",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(机械学院)",
+      "planCount": 0,
+      "minScore": 650,
+      "minRank": 1984,
+      "avgScore": 651
+    },
+    {
+      "universityCode": "1978",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(经金学院)",
+      "planCount": 0,
+      "minScore": 645,
+      "minRank": 2643,
+      "avgScore": 646
+    },
+    {
+      "universityCode": "1978",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(生命学院)",
+      "planCount": 0,
+      "minScore": 643,
+      "minRank": 2941,
+      "avgScore": 644
+    },
+    {
+      "universityCode": "1978",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(材料学院)",
+      "planCount": 0,
+      "minScore": 640,
+      "minRank": 3450,
+      "avgScore": 645
+    },
+    {
+      "universityCode": "1978",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(化工学院)",
+      "planCount": 0,
+      "minScore": 633,
+      "minRank": 4796,
+      "avgScore": 635
+    },
+    {
+      "universityCode": "1978",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "医学试验班(医学部法医学院)",
+      "planCount": 0,
+      "minScore": 630,
+      "minRank": 5449,
+      "avgScore": 630
+    },
+    {
+      "universityCode": "1978",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "工科试验班(人居学院)",
+      "planCount": 0,
+      "minScore": 628,
+      "minRank": 5897,
+      "avgScore": 636
+    },
+    {
+      "universityCode": "1978",
+      "universityName": "西安交通大学(国家专项计划)[公办]",
+      "majorGroup": "护理学",
+      "planCount": 0,
+      "minScore": 606,
+      "minRank": 13151,
+      "avgScore": 614
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/lnwc",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T11:17:22.591Z",
+    "totalEntries": 1374,
+    "universityCount": 186
+  }
+}

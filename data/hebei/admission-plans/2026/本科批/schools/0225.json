@@ -1,0 +1,68 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1599,
+      "universityCode": "0225",
+      "universityName": "长治学院[公办]",
+      "majorCode": "04",
+      "majorName": "数学与应用数学",
+      "majorNote": "师范类",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4950
+    },
+    {
+      "index": 1600,
+      "universityCode": "0225",
+      "universityName": "长治学院[公办]",
+      "majorCode": "05",
+      "majorName": "化学生物学",
+      "majorNote": "不招色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 4950
+    },
+    {
+      "index": 1601,
+      "universityCode": "0225",
+      "universityName": "长治学院[公办]",
+      "majorCode": "06",
+      "majorName": "生物技术",
+      "majorNote": "不招色盲、色弱、单色识别能力异常考生",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 4950
+    },
+    {
+      "index": 1602,
+      "universityCode": "0225",
+      "universityName": "长治学院[公办]",
+      "majorCode": "07",
+      "majorName": "网络工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 5280
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

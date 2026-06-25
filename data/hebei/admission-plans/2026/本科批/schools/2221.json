@@ -1,0 +1,128 @@
+{
+  "year": 2026,
+  "batch": "本科批",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 17824,
+      "universityCode": "2221",
+      "universityName": "西安科技大学高新学院[独立学院]",
+      "majorCode": "04",
+      "majorName": "人文教育",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 27000
+    },
+    {
+      "index": 17825,
+      "universityCode": "2221",
+      "universityName": "西安科技大学高新学院[独立学院]",
+      "majorCode": "05",
+      "majorName": "网络与新媒体",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 27000
+    },
+    {
+      "index": 17826,
+      "universityCode": "2221",
+      "universityName": "西安科技大学高新学院[独立学院]",
+      "majorCode": "06",
+      "majorName": "新能源科学与工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 28000
+    },
+    {
+      "index": 17827,
+      "universityCode": "2221",
+      "universityName": "西安科技大学高新学院[独立学院]",
+      "majorCode": "07",
+      "majorName": "计算机科学与技术",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 28000
+    },
+    {
+      "index": 17828,
+      "universityCode": "2221",
+      "universityName": "西安科技大学高新学院[独立学院]",
+      "majorCode": "08",
+      "majorName": "计算机科学与技术",
+      "majorNote": "SQAAD国际项目",
+      "subjectRequirement": "化学",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 42800
+    },
+    {
+      "index": 17829,
+      "universityCode": "2221",
+      "universityName": "西安科技大学高新学院[独立学院]",
+      "majorCode": "09",
+      "majorName": "软件工程",
+      "majorNote": "",
+      "subjectRequirement": "化学",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 28000
+    },
+    {
+      "index": 17830,
+      "universityCode": "2221",
+      "universityName": "西安科技大学高新学院[独立学院]",
+      "majorCode": "10",
+      "majorName": "大数据管理与应用",
+      "majorNote": "",
+      "subjectRequirement": "不限",
+      "planCount": 2,
+      "duration": 4,
+      "tuition": 28000
+    },
+    {
+      "index": 17831,
+      "universityCode": "2221",
+      "universityName": "西安科技大学高新学院[独立学院]",
+      "majorCode": "11",
+      "majorName": "财务管理",
+      "majorNote": "SQAAD国际项目",
+      "subjectRequirement": "不限",
+      "planCount": 3,
+      "duration": 4,
+      "tuition": 42800
+    },
+    {
+      "index": 17832,
+      "universityCode": "2221",
+      "universityName": "西安科技大学高新学院[独立学院]",
+      "majorCode": "12",
+      "majorName": "计算机科学与技术(中外合作办学)",
+      "majorNote": "与新西兰惠灵顿理工学院合作举办，考生录取后不允许转专业，学制4年，引进外方课程门数占全部课程门数的三分之一，由西安科技大学高新学院与新西兰惠灵顿理工学院联合培养，完成本专业人才培养方案规定课程，并达到双方毕业条件与学位授予标准后，可获得西安科技大学高新学院颁发的计算机科学与技术专业本科毕业证书、工学学士学位证书与新西兰惠灵顿理工学院颁发的信息技术（软件开发专业）学士学位证书，详询院校",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 49600
+    }
+  ],
+  "meta": {
+    "year": 2026,
+    "batch": "本科批",
+    "group": "物理类",
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:49:24.249Z",
+    "totalEntries": 20842,
+    "totalPlans": 206906,
+    "universityCount": 1263
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "batch": "本科提前批B段",
+  "group": "物理类",
+  "entries": [
+    {
+      "index": 1539,
+      "universityCode": "2039",
+      "universityName": "中国地质大学(北京)(高校专项计划)[公办]",
+      "majorCode": "01",
+      "majorName": "材料类",
+      "majorNote": "含材料科学与工程、材料化学、材料物理、新能源材料与器件、矿物加工工程专业；录取分数不低于特殊类型招生录取控制分数线；一年级在北京校区，二年级起在雄安校区；不招色盲、色弱、不招单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1540,
+      "universityCode": "2039",
+      "universityName": "中国地质大学(北京)(高校专项计划)[公办]",
+      "majorCode": "02",
+      "majorName": "土木工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1541,
+      "universityCode": "2039",
+      "universityName": "中国地质大学(北京)(高校专项计划)[公办]",
+      "majorCode": "03",
+      "majorName": "测绘工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；一年级在北京校区，二年级起在雄安校区；不招单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1542,
+      "universityCode": "2039",
+      "universityName": "中国地质大学(北京)(高校专项计划)[公办]",
+      "majorCode": "04",
+      "majorName": "地下水科学与工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；不招色盲、色弱、单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1543,
+      "universityCode": "2039",
+      "universityName": "中国地质大学(北京)(高校专项计划)[公办]",
+      "majorCode": "05",
+      "majorName": "环境工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；一年级在北京校区，二年级起在雄安校区；不招色盲、色弱、单色不识别考生",
+      "subjectRequirement": "化学",
+      "planCount": 4,
+      "duration": 4,
+      "tuition": 5500
+    },
+    {
+      "index": 1544,
+      "universityCode": "2039",
+      "universityName": "中国地质大学(北京)(高校专项计划)[公办]",
+      "majorCode": "06",
+      "majorName": "环境生态工程",
+      "majorNote": "录取分数不低于特殊类型招生录取控制分数线；一年级在北京校区，二年级起在雄安校区",
+      "subjectRequirement": "化学",
+      "planCount": 1,
+      "duration": 4,
+      "tuition": 5500
+    }
+  ],
+  "meta": {
+    "source": "河北省教育考试院",
+    "sourceUrl": "https://gk.hebeea.edu.cn:88/xxcx/xxcxzx/zsjhIframe",
+    "publishedAt": "2026-06-25",
+    "quality": "official",
+    "updatedAt": "2026-06-25T10:58:44.884Z",
+    "totalEntries": 1717,
+    "totalPlans": 4387,
+    "universityCount": 280
+  }
+}
