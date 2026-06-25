@@ -1,20 +1,59 @@
-import { MatchResult, MatchType, YearDetail } from '@/types/admission-line';
-import { ScoreRankData, SubjectGroup, ScoreRankEntry } from '@/types/score-rank';
-import { AdmissionBatchData, AdmissionRecord } from '@/types/admission-record';
+import { MatchResult, MatchType, YearDetail, AdmissionLineEntry } from '@/types/admission-line';
+import { ScoreRankData, SubjectGroup } from '@/types/score-rank';
 import { findRankByScore } from '@/lib/utils/score-rank';
+import { UniversityPlanIndex } from '@/lib/data/admission-plans';
+
+// ============================================================
+// 分类阈值
+// ============================================================
+
+const CHONG_THRESHOLD = -0.05;  // gapRatio > -5% → 冲
+const BAO_THRESHOLD = -0.20;    // gapRatio ≤ -20% → 保
 
 function classifyMatch(userRank: number, targetMinRank: number): MatchType {
   if (targetMinRank <= 0) return '冲';
   const gapRatio = (userRank - targetMinRank) / targetMinRank;
-  if (gapRatio <= -0.20) return '保';
-  if (gapRatio <= -0.05) return '稳';
+  if (gapRatio <= BAO_THRESHOLD) return '保';
+  if (gapRatio <= CHONG_THRESHOLD) return '稳';
   return '冲';
 }
 
-function scoreToRank(entries: ScoreRankEntry[], score: number): number | null {
-  const result = findRankByScore(entries, score);
-  return result ? result.rank : null;
+function median(values: number[]): number {
+  if (values.length === 0) return 0;
+  const sorted = [...values].sort((a, b) => a - b);
+  const mid = Math.floor(sorted.length / 2);
+  return sorted.length % 2 === 0 ? Math.round((sorted[mid - 1] + sorted[mid]) / 2) : sorted[mid];
 }
+
+function computeRiskFactor(yearCount: number, planChangeRatio: number): 'low' | 'medium' | 'high' {
+  if (yearCount === 1 || planChangeRatio < -0.30) return 'high';
+  if (yearCount >= 3 && planChangeRatio >= 0) return 'low';
+  if (yearCount >= 3 && planChangeRatio >= -0.15) return 'low';
+  return 'medium';
+}
+
+// ============================================================
+// 分组内部类型
+// ============================================================
+
+interface YearEntryGroup {
+  year: number;
+  entries: AdmissionLineEntry[];
+}
+
+interface UniGroup {
+  code: string;
+  name: string;
+  yearGroups: YearEntryGroup[];
+}
+
+// ============================================================
+// 主匹配函数
+//
+// @param allLineData — 多年的 AdmissionLineData，每年包含一批 entries
+// @param planUniversities — 2026 plan index (来自 loadAdmissionPlanIndex)
+// @param matchMode — 位次策略: balanced (中位数) | conservative (最低位次/最难进) | aggressive (最高位次/最好进)
+// ============================================================
 
 export function matchSchools(
   userScore: number,
@@ -22,111 +61,141 @@ export function matchSchools(
   group: SubjectGroup,
   batch: string,
   scoreRankData: ScoreRankData[],
-  admissionData: AdmissionBatchData[]
+  allLineData: { year: number; entries: AdmissionLineEntry[] }[],
+  planUniversities: UniversityPlanIndex[],
+  matchMode: 'balanced' | 'conservative' | 'aggressive' = 'balanced'
 ): MatchResult[] {
-  // 1. 查用户位次
+  // ---- 1. 查用户位次 ----
   const sortedRankYears = scoreRankData
     .filter(d => d.group === group).map(d => d.year).sort((a, b) => b - a);
   const rankYear = sortedRankYears.find(y => y <= year) || sortedRankYears[0];
   const yearScoreData = rankYear !== undefined
     ? scoreRankData.find(d => d.year === rankYear && d.group === group) : undefined;
   if (!yearScoreData) return [];
-  const userRank = scoreToRank(yearScoreData.entries, userScore);
-  if (!userRank) return [];
+  const userRankResult = findRankByScore(yearScoreData.entries, userScore);
+  if (!userRankResult) return [];
+  const userRank = userRankResult.rank;
 
-  // 2. 筛选批次数据
-  const relevantData = admissionData.filter(d => d.batch === batch && d.group === group);
-  if (relevantData.length === 0) return [];
+  // ---- 2. 构建 plan 索引 ----
+  const planMap = new Map<string, UniversityPlanIndex>();
+  for (const p of planUniversities) {
+    planMap.set(p.universityCode, p);
+  }
 
-  // 3. 按院校聚合，保留各年各专业明细
-  type UniYearRaw = { year: number; records: AdmissionRecord[] };
-  const uniMap = new Map<string, { code: string; name: string; yearData: UniYearRaw[] }>();
+  // ---- 3. 按 (universityCode, year) 分组 ----
+  const grouped = new Map<string, UniGroup>();
 
-  for (const batchData of relevantData) {
-    const entries = scoreRankData.find(d => d.year === batchData.year && d.group === group)?.entries;
-    if (!entries) continue;
-
-    const byUni = new Map<string, AdmissionRecord[]>();
-    for (const r of batchData.records) {
-      if (r.minScore <= 0) continue;
-      const key = r.universityName;
-      if (!byUni.has(key)) byUni.set(key, []);
-      byUni.get(key)!.push(r);
-    }
-
-    for (const [name, records] of byUni) {
-      if (!uniMap.has(name)) {
-        uniMap.set(name, { code: records[0].universityCode, name, yearData: [] });
+  for (const ld of allLineData) {
+    for (const e of ld.entries) {
+      if (e.minScore <= 0) continue;
+      const code = e.universityCode;
+      if (!grouped.has(code)) {
+        grouped.set(code, { code, name: e.universityName, yearGroups: [] });
       }
-      uniMap.get(name)!.yearData.push({ year: batchData.year, records });
+      const g = grouped.get(code)!;
+      let yg = g.yearGroups.find(y => y.year === ld.year);
+      if (!yg) {
+        yg = { year: ld.year, entries: [] };
+        g.yearGroups.push(yg);
+      }
+      yg.entries.push(e);
     }
   }
 
-  // 4. 计算匹配结果
-  const sortedYears = relevantData.map(d => d.year).sort((a, b) => b - a);
+  // ---- 4. 匹配每个院校 ----
+  const sortedYears = [...new Set(allLineData.map(d => d.year))].sort((a, b) => b - a);
   const results: MatchResult[] = [];
 
-  for (const [, uni] of uniMap) {
-    // 构建各年详情（含专业位次）
-    const yearDetails: YearDetail[] = uni.yearData
-      .sort((a, b) => b.year - a.year)
-      .map(yd => {
-        const entries = scoreRankData.find(d => d.year === yd.year && d.group === group)?.entries;
-        const sorted = [...yd.records].sort((a, b) => b.minScore - a.minScore);
-        return {
-          year: yd.year,
-          minScore: Math.min(...sorted.map(r => r.minScore)),
-          avgVolunteerNum: Math.round(sorted.reduce((s, r) => s + r.volunteerNum, 0) / sorted.length * 10) / 10,
-          majors: sorted.map(r => {
-            const rank = entries ? (scoreToRank(entries, r.minScore) || 0) : 0;
-            return {
-              majorName: r.majorName,
-              minScore: r.minScore,
-              minRank: rank,
-              volunteerNum: r.volunteerNum,
-              matchType: rank > 0 ? classifyMatch(userRank, rank) : '冲',
-            };
-          }),
-        };
-      });
+  for (const [, g] of grouped) {
+    // 4a. 过滤：必须在 2026 plan 中
+    const planInfo = planMap.get(g.code);
+    if (!planInfo) continue;
 
-    // 各年最低分 → 位次
-    const yearRanks: { year: number; minScore: number; minRank: number }[] = [];
-    for (const yd of uni.yearData) {
-      const entries = scoreRankData.find(d => d.year === yd.year && d.group === group)?.entries;
-      if (!entries) continue;
-      const minScore = Math.min(...yd.records.map(r => r.minScore));
-      const minRank = scoreToRank(entries, minScore);
-      if (!minRank) continue;
-      yearRanks.push({ year: yd.year, minScore, minRank });
+    g.yearGroups.sort((a, b) => b.year - a.year);
+
+    // 4b. 各年位次（按 matchMode）
+    const yearRanks: { year: number; minScore: number; rank: number }[] = [];
+    for (const yg of g.yearGroups) {
+      const ranks = yg.entries.map(e => e.minRank).filter(r => r > 0);
+      const scores = yg.entries.map(e => e.minScore).filter(s => s > 0);
+      if (ranks.length === 0) continue;
+
+      let rank: number;
+      switch (matchMode) {
+        case 'conservative':
+          rank = Math.min(...ranks); // 最低位次数值 → 最高录取难度
+          break;
+        case 'aggressive':
+          rank = Math.max(...ranks); // 最高位次数值 → 最好进
+          break;
+        case 'balanced':
+        default:
+          rank = median(ranks);
+          break;
+      }
+
+      yearRanks.push({ year: yg.year, minScore: Math.min(...scores), rank });
     }
 
     if (yearRanks.length === 0) continue;
 
-    // 加权平均位次
+    // 4c. 加权平均位次
     const weights = sortedYears.map((y, i) => {
       const yr = yearRanks.find(r => r.year === y);
       return yr ? { weight: sortedYears.length - i, data: yr } : null;
-    }).filter(Boolean) as { weight: number; data: { year: number; minScore: number; minRank: number } }[];
+    }).filter(Boolean) as { weight: number; data: { year: number; minScore: number; rank: number } }[];
 
     if (weights.length === 0) continue;
 
     const totalWeight = weights.reduce((s, w) => s + w.weight, 0);
     const weightedAvgRank = Math.round(
-      weights.reduce((s, w) => s + w.data.minRank * w.weight, 0) / totalWeight
+      weights.reduce((s, w) => s + w.data.rank * w.weight, 0) / totalWeight
     );
 
     const latest = weights[0].data;
+
+    // 4d. 分类
     const matchType = classifyMatch(userRank, weightedAvgRank);
 
+    // 4e. 置信度
     let confidence: 'high' | 'medium' | 'low' = 'medium';
     if (weights.length >= 3) confidence = 'high';
     else if (weights.length === 1) confidence = 'low';
 
+    // 4f. planChangeRatio + riskFactor
+    const historicalPlanCounts = g.yearGroups.map(yg =>
+      yg.entries.reduce((s, e) => s + (e.planCount || 0), 0)
+    ).filter(p => p > 0);
+    const avgPlanCount = historicalPlanCounts.length > 0
+      ? Math.round(historicalPlanCounts.reduce((s, p) => s + p, 0) / historicalPlanCounts.length)
+      : planInfo.totalPlans;
+    const planChangeRatio = avgPlanCount > 0
+      ? (planInfo.totalPlans - avgPlanCount) / avgPlanCount
+      : 0;
+    const riskFactor = computeRiskFactor(weights.length, planChangeRatio);
+
+    // 4g. 构建 YearDetail
+    const yearDetails: YearDetail[] = g.yearGroups
+      .sort((a, b) => b.year - a.year)
+      .map(yg => ({
+        year: yg.year,
+        minScore: Math.min(...yg.entries.map(e => e.minScore)),
+        avgVolunteerNum: 0,
+        majors: yg.entries
+          .sort((a, b) => b.minScore - a.minScore)
+          .map(e => ({
+            majorName: e.majorGroup,
+            minScore: e.minScore,
+            minRank: e.minRank,
+            volunteerNum: 0,
+            matchType: e.minRank > 0 ? classifyMatch(userRank, e.minRank) : '冲' as MatchType,
+          })),
+      }));
+
     results.push({
-      universityCode: uni.code,
-      universityName: uni.name,
-      majorGroup: `${yearDetails[0]?.majors.length || 0}个专业`,
+      universityCode: g.code,
+      universityName: g.name,
+      majorGroup: `${g.yearGroups[0]?.entries.length || 0}个专业组`,
       batch,
       matchType,
       targetMinScore: latest.minScore,
@@ -137,10 +206,17 @@ export function matchSchools(
       rankGap: userRank - weightedAvgRank,
       confidence,
       yearDetails,
+      riskFactor,
+      planSummary: {
+        planCount2026: planInfo.totalPlans,
+        avgPlanCount,
+        planChangeRatio: Math.round(planChangeRatio * 100) / 100,
+      },
+      matchMode,
     });
   }
 
-  // 5. 排序
+  // ---- 5. 排序 ----
   const typeOrder: Record<MatchType, number> = { '冲': 0, '稳': 1, '保': 2 };
   results.sort((a, b) => {
     const t = typeOrder[a.matchType] - typeOrder[b.matchType];

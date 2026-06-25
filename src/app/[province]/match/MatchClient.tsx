@@ -61,6 +61,17 @@ function MatchCard({ result }: { result: MatchResult }) {
   const [expanded, setExpanded] = useState(false);
   const hasDetails = result.yearDetails && result.yearDetails.length > 0;
 
+  const riskColors = {
+    'low': { bg: 'bg-green-50', text: 'text-green-600', label: '🟢 低' },
+    'medium': { bg: 'bg-amber-50', text: 'text-amber-600', label: '🟡 中' },
+    'high': { bg: 'bg-red-50', text: 'text-red-600', label: '🔴 高' },
+  };
+
+  const riskInfo = result.riskFactor ? riskColors[result.riskFactor] : null;
+  const planChangePercent = result.planSummary
+    ? `${result.planSummary.planChangeRatio >= 0 ? '+' : ''}${(result.planSummary.planChangeRatio * 100).toFixed(0)}%`
+    : null;
+
   return (
     <div className={`bg-white rounded-xl border ${colors.border} overflow-hidden hover:shadow-md transition-all`}>
       <button type="button" onClick={() => hasDetails && setExpanded(!expanded)}
@@ -98,6 +109,11 @@ function MatchCard({ result }: { result: MatchResult }) {
         </div>
         <div className="flex flex-col items-end gap-1 shrink-0">
           <span className={`text-[11px] ${conf.color}`}>{conf.label}</span>
+          {riskInfo && (
+            <span className={`text-[11px] px-1.5 py-0.5 rounded ${riskInfo.bg} ${riskInfo.text}`}>
+              {riskInfo.label}风险
+            </span>
+          )}
           {hasDetails && (
             <svg className={`w-4 h-4 text-slate-400 transition-transform ${expanded ? 'rotate-180' : ''}`}
               fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
@@ -106,6 +122,23 @@ function MatchCard({ result }: { result: MatchResult }) {
           )}
         </div>
       </button>
+
+      {/* 2026 计划摘要 */}
+      {result.planSummary && (
+        <div className="px-4 pb-3 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-slate-500">
+          <span>
+            📊 2026计划: <strong className="text-slate-700">{result.planSummary.planCount2026.toLocaleString()}人</strong>
+            {planChangePercent && (
+              <span className={`ml-1 ${result.planSummary.planChangeRatio >= 0 ? 'text-green-600' : 'text-red-600'}`}>
+                (较往年 {planChangePercent})
+              </span>
+            )}
+          </span>
+          {result.matchMode && (
+            <span className="text-slate-400">模式: {result.matchMode === 'balanced' ? '均衡' : result.matchMode === 'conservative' ? '保守' : '激进'}</span>
+          )}
+        </div>
+      )}
 
       {expanded && hasDetails && (
         <div className="border-t border-slate-100 px-4 pb-4 mt-3 overflow-x-auto">
@@ -199,6 +232,7 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
   const [response, setResponse] = useState<MatchResponse | null>(null);
   const [error, setError] = useState('');
   const [batches, setBatches] = useState<string[]>(['本科批', '提前批B段']);
+  const [matchMode, setMatchMode] = useState<'balanced' | 'conservative' | 'aggressive'>('balanced');
   const [matchTab, setMatchTab] = useState<'冲' | '稳' | '保'>('冲');
 
   const availableYears = [...new Set(scoreRankData.map((d) => d.year))].sort((a, b) => b - a);
@@ -247,7 +281,7 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
 
     try {
       const params = new URLSearchParams({
-        score: String(numScore), year: String(year), group, batch,
+        score: String(numScore), year: String(year), group, batch, matchMode,
       });
       const res = await fetch(`/api/${province}/match?${params}`);
       const data = await res.json();
@@ -379,6 +413,16 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
                 className="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all placeholder:text-slate-400" />
             </div>
           </div>
+          <div className="flex flex-wrap items-end gap-6 mb-5">
+            <div>
+              <label className="block text-xs font-medium text-slate-400 mb-1.5">匹配模式</label>
+              <Toggle value={matchMode} onChange={(v) => setMatchMode(v as typeof matchMode)}
+                options={[
+                  { label: '均衡', value: 'balanced' },
+                  { label: '保守', value: 'conservative' },
+                  { label: '激进', value: 'aggressive' },
+                ]} />
+            </div>
           <button type="submit" disabled={loading}
             className="px-6 py-2.5 bg-indigo-600 text-white text-sm font-medium rounded-xl hover:bg-indigo-700 active:bg-indigo-800 disabled:opacity-50 transition-colors">
             {loading ? '匹配中...' : '查询匹配'}

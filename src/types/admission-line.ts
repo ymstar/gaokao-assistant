@@ -11,6 +11,7 @@ export interface AdmissionLineEntry {
   minRank: number;             // 最低位次
   avgScore?: number;           // 平均投档分
   maxScore?: number;           // 最高投档分
+  year?: number;               // 年份（加载时动态注入，方便跨年数据合并后使用）
 }
 
 /** 投档线数据文件结构 */
@@ -63,4 +64,14 @@ export interface MatchResult {
   confidence: 'high' | 'medium' | 'low';
   subjectRequirements?: string;
   yearDetails?: YearDetail[];  // 各年投档详情（含专业明细）
+  /** 竞争风险指标 — 综合计划变化率 + 数据完整度 */
+  riskFactor?: 'low' | 'medium' | 'high';
+  /** 2026 招生计划摘要 */
+  planSummary?: {
+    planCount2026: number;     // 2026 计划数
+    avgPlanCount: number;      // 历年平均计划数
+    planChangeRatio: number;   // 计划变化率 (如 0.15 表示增15%)
+  };
+  /** 匹配模式 */
+  matchMode?: 'balanced' | 'conservative' | 'aggressive';
 }
