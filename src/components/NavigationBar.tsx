@@ -14,6 +14,7 @@ const navItems = [
   { name: '院校库', suffix: '/universities', provinceScoped: false },
   { name: '投档线', suffix: '/admission-lines', provinceScoped: false },
   { name: '招生计划', suffix: '/enrollment-plan', provinceScoped: false },
+  { name: 'AI咨询', suffix: '/chat', provinceScoped: true },
 ];
 
 export function NavigationBar() {
