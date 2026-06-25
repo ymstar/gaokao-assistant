@@ -151,7 +151,7 @@ export async function loadBatchAdmissionLines(
 
   // 注入 year 字段到每条 entry，方便 matchSchools 按 year 跨年分组
   for (const entry of allEntries) {
-    (entry as Record<string, unknown>).year = year;
+    (entry as unknown as Record<string, unknown>).year = year;
   }
 
   setCachedData(cacheKey, data);

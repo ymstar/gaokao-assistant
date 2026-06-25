@@ -423,10 +423,11 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
                   { label: '激进', value: 'aggressive' },
                 ]} />
             </div>
-          <button type="submit" disabled={loading}
-            className="px-6 py-2.5 bg-indigo-600 text-white text-sm font-medium rounded-xl hover:bg-indigo-700 active:bg-indigo-800 disabled:opacity-50 transition-colors">
-            {loading ? '匹配中...' : '查询匹配'}
-          </button>
+            <button type="submit" disabled={loading}
+              className="px-6 py-2.5 bg-indigo-600 text-white text-sm font-medium rounded-xl hover:bg-indigo-700 active:bg-indigo-800 disabled:opacity-50 transition-colors">
+              {loading ? '匹配中...' : '查询匹配'}
+            </button>
+          </div>
         </form>
       </div>
 

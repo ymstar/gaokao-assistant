@@ -129,7 +129,7 @@ function TopSchoolsChart({ schools }: { schools: PlanStats['topSchools'] }) {
           <XAxis type="number" tick={{ fontSize: 11, fill: '#94a3b8' }} />
           <YAxis type="category" dataKey="name" tick={{ fontSize: 10, fill: '#64748b' }} width={100} />
           <Tooltip contentStyle={{ borderRadius: 12, border: '1px solid #e2e8f0', fontSize: 13 }}
-            formatter={(v, _, p) => [`${v} 人`, (p?.payload as Record<string, unknown>)?.fullName || '']} />
+            formatter={(v, _, p) => [`${v} 人`, ((p?.payload as Record<string, unknown>)?.fullName as string) || '']} />
           <Bar dataKey="plans" fill="#6366f1" radius={[0, 4, 4, 0]} />
         </BarChart>
       </ResponsiveContainer>
