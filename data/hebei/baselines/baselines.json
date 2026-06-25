@@ -1,0 +1,14 @@
+{
+  "province": "hebei",
+  "description": "河北省特殊类型招生录取控制分数线（强基线），适用于强基计划、高校专项计划等",
+  "entries": [
+    { "year": 2026, "group": "历史类", "score": 542 },
+    { "year": 2026, "group": "物理类", "score": 510 },
+    { "year": 2025, "group": "历史类", "score": 527 },
+    { "year": 2025, "group": "物理类", "score": 499 },
+    { "year": 2024, "group": "历史类", "score": 506 },
+    { "year": 2024, "group": "物理类", "score": 484 },
+    { "year": 2023, "group": "历史类", "score": 495 },
+    { "year": 2023, "group": "物理类", "score": 492 }
+  ]
+}

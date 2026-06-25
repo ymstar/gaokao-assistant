@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { SubjectGroup, ScoreRankData } from '@/types/score-rank';
+import { ProvinceBaselineEntry } from '@/types/baseline';
 import { ScoreInputForm } from '@/components/score-rank/ScoreInputForm';
 import { RankTable } from '@/components/score-rank/RankTable';
 import { ScoreRankChart } from '@/components/charts/ScoreRankChart';
@@ -10,6 +11,7 @@ import { ScoreRankSearchResult } from '@/types/score-rank';
 
 interface ScoreRankClientProps {
   initialData?: ScoreRankData[];
+  baselines?: ProvinceBaselineEntry[] | null;
 }
 
 function Toggle({ value, onChange, options }: { value: string; onChange: (v: string) => void; options: { label: string; value: string }[] }) {
@@ -32,7 +34,7 @@ function Toggle({ value, onChange, options }: { value: string; onChange: (v: str
   );
 }
 
-export default function ScoreRankClient({ initialData = [] }: ScoreRankClientProps) {
+export default function ScoreRankClient({ initialData = [], baselines = null }: ScoreRankClientProps) {
   const [year, setYear] = useState(2026);
   const [group, setGroup] = useState<SubjectGroup>('物理类');
   const [result, setResult] = useState<ScoreRankSearchResult | null>(null);
@@ -61,6 +63,7 @@ export default function ScoreRankClient({ initialData = [] }: ScoreRankClientPro
 
   const yearData = allData.filter((d) => d.group === group);
   const availableYears = [...new Set(allData.map(d => d.year))].sort((a, b) => b - a);
+  const groupBaselines = baselines?.filter(b => b.group === group) ?? [];
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8 space-y-6">
@@ -96,7 +99,7 @@ export default function ScoreRankClient({ initialData = [] }: ScoreRankClientPro
       <div className="bg-white rounded-2xl border border-slate-200 p-6">
         <h2 className="text-base font-semibold text-slate-900 mb-4">历年排名对比</h2>
         {yearData.length > 0 ? (
-          <ScoreRankChart data={yearData} highlightedScore={searchedScore ?? undefined} />
+          <ScoreRankChart data={yearData} highlightedScore={searchedScore ?? undefined} baselines={groupBaselines} />
         ) : (
           <p className="text-sm text-slate-400 text-center py-12">暂无数据</p>
         )}
@@ -132,7 +135,7 @@ export default function ScoreRankClient({ initialData = [] }: ScoreRankClientPro
           </div>
         </div>
         {yearData.length > 0 ? (
-          <ScoreDistributionChart data={yearData.filter((d) => distYears.has(d.year))} />
+          <ScoreDistributionChart data={yearData.filter((d) => distYears.has(d.year))} baselines={groupBaselines} />
         ) : (
           <p className="text-sm text-slate-400 text-center py-12">暂无数据</p>
         )}

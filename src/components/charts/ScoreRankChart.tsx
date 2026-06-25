@@ -1,6 +1,7 @@
 'use client';
 
 import { ScoreRankData } from '@/types/score-rank';
+import { ProvinceBaselineEntry } from '@/types/baseline';
 import {
   LineChart,
   Line,
@@ -10,16 +11,18 @@ import {
   Tooltip,
   Legend,
   ResponsiveContainer,
+  ReferenceLine,
 } from 'recharts';
 
 interface ScoreRankChartProps {
   data: ScoreRankData[];
   highlightedScore?: number;
+  baselines?: ProvinceBaselineEntry[];
 }
 
 const yearColors = ['#6366f1', '#10b981', '#f59e0b', '#ef4444'];
 
-export function ScoreRankChart({ data, highlightedScore }: ScoreRankChartProps) {
+export function ScoreRankChart({ data, highlightedScore, baselines = [] }: ScoreRankChartProps) {
   const scoreMaps = data.map((yearData) => {
     const map = new Map<number, number>();
     yearData.entries.forEach((e) => map.set(e.score, e.cumulative));
@@ -71,6 +74,28 @@ export function ScoreRankChart({ data, highlightedScore }: ScoreRankChartProps) 
               name={`${yearData.year}`}
             />
           ))}
+          {baselines.map((bl) => {
+            const yearIdx = data.findIndex((d) => d.year === bl.year);
+            if (yearIdx === -1) return null;
+            const color = yearColors[yearIdx % yearColors.length];
+            return (
+              <ReferenceLine
+                key={`baseline-${bl.year}`}
+                x={bl.score}
+                stroke={color}
+                strokeDasharray="6 4"
+                strokeWidth={1.5}
+                strokeOpacity={0.7}
+                label={{
+                  value: `${bl.year} 强基 ${bl.score}`,
+                  position: 'top',
+                  fill: color,
+                  fontSize: 11,
+                  fontWeight: 600,
+                }}
+              />
+            );
+          })}
         </LineChart>
       </ResponsiveContainer>
     </div>

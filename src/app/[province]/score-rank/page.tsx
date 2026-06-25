@@ -1,6 +1,8 @@
 import { notFound } from 'next/navigation';
 import { getProvince } from '@/lib/provinces';
 import { loadAllScoreRankData } from '@/lib/data/score-rank';
+import { loadProvinceBaselines } from '@/lib/data/baselines';
+import { ProvinceBaselineEntry } from '@/types/baseline';
 import ScoreRankClient from './ScoreRankClient';
 
 export default async function ScoreRankPage({ params }: { params: Promise<{ province: string }> }) {
@@ -8,6 +10,10 @@ export default async function ScoreRankPage({ params }: { params: Promise<{ prov
   const province = getProvince(provinceCode);
   if (!province) notFound();
 
-  const data = await loadAllScoreRankData(provinceCode);
-  return <ScoreRankClient initialData={data} />;
+  const [data, baselines] = await Promise.all([
+    loadAllScoreRankData(provinceCode),
+    loadProvinceBaselines(provinceCode),
+  ]);
+
+  return <ScoreRankClient initialData={data} baselines={baselines?.entries ?? null} />;
 }

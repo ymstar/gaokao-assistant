@@ -8,14 +8,13 @@ const STORAGE_KEY = 'gaokao-ai-provider-config';
 
 export const DEFAULT_CONFIG: ProviderConfig = {
   apiKey: '',
-  baseURL: 'https://api.deepseek.com/v1',
-  model: 'deepseek-chat',
+  baseURL: '',
+  model: 'auto',
 };
 
 export const PROVIDER_PRESETS: { name: string; baseURL: string; model: string }[] = [
+  { name: '免费体验', baseURL: '', model: 'auto' },
   { name: 'DeepSeek', baseURL: 'https://api.deepseek.com/v1', model: 'deepseek-chat' },
-  { name: 'Moonshot', baseURL: 'https://api.moonshot.cn/v1', model: 'moonshot-v1-8k' },
-  { name: 'OpenAI', baseURL: 'https://api.openai.com/v1', model: 'gpt-4o' },
 ];
 
 export function loadProviderConfig(): ProviderConfig {
@@ -35,5 +34,7 @@ export function saveProviderConfig(config: ProviderConfig): void {
 }
 
 export function isConfigured(config: ProviderConfig): boolean {
+  // 免费体验通道（model 为 auto）不需要用户配置 apiKey
+  if (config.model === 'auto') return true;
   return config.apiKey.length > 0;
 }

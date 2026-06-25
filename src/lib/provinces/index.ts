@@ -15,6 +15,7 @@ export const provinces: ProvinceConfig[] = [
       universities: true,
       admissionLines: true,
       admissionPlans: false,
+      baselines: true,
     },
   },
 ];

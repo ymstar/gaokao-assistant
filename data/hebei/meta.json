@@ -10,6 +10,7 @@
   "dataAvailable": {
     "scoreRank": true,
     "universities": true,
-    "admissionPlans": false
+    "admissionPlans": false,
+    "baselines": true
   }
 }

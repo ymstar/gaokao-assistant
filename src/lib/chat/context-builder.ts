@@ -1,6 +1,7 @@
 import { loadScoreRankData, loadAllScoreRankData } from '@/lib/data/score-rank';
 import { searchUniversities } from '@/lib/data/universities';
 import { scanAvailableBatches, loadAdmissionData } from '@/lib/data/admission';
+import { loadProvinceBaselines } from '@/lib/data/baselines';
 import { findRankByScore } from '@/lib/utils/score-rank';
 
 export async function buildUserContext(
@@ -32,6 +33,12 @@ export async function buildUserContext(
   if (/排名|位次|排第几|百分比|超越/.test(userMessage) && !scoreMatch) {
     const rankContext = await buildRankSummaryContext(province);
     if (rankContext) parts.push(rankContext);
+  }
+
+  // 检测强基线/特殊类型招生/强基计划相关
+  if (/强基|强基线|特殊类型|控制线|分数线/.test(userMessage)) {
+    const baselineContext = await buildBaselineContext(province);
+    if (baselineContext) parts.push(baselineContext);
   }
 
   return parts.length > 0 ? parts.join('\n\n') : null;
@@ -77,6 +84,12 @@ async function buildUniversityContext(
     const nameMatches = userMessage.match(/[一-龥]{2,8}(?:大学|学院|学校)/g);
     if (!nameMatches || nameMatches.length === 0) return null;
 
+    // 获取最新的可用年份
+    const allData = await loadAllScoreRankData(province);
+    const sortedYears = [...new Set(allData.map(d => d.year))].sort((a, b) => b - a);
+    const latestYear = sortedYears[0];
+    if (!latestYear) return null;
+
     const results: string[] = [];
     const seen = new Set<string>();
 
@@ -84,8 +97,8 @@ async function buildUniversityContext(
       if (seen.has(name)) continue;
       seen.add(name);
 
-      // 搜索院校基本信息
-      const universities = await searchUniversities(province, 2025, '物理类', name);
+      // 搜索院校基本信息（优先物理类）
+      const universities = await searchUniversities(province, latestYear, '物理类', name);
       if (universities.length > 0) {
         const uni = universities[0];
         const info = [
@@ -133,4 +146,28 @@ async function buildRankSummaryContext(province: string): Promise<string | null>
     // 数据加载失败
   }
   return null;
+}
+
+async function buildBaselineContext(province: string): Promise<string | null> {
+  try {
+    const baselines = await loadProvinceBaselines(province);
+    if (!baselines || baselines.entries.length === 0) return null;
+
+    const lines: string[] = [];
+    const byYear = new Map<number, typeof baselines.entries>();
+    for (const e of baselines.entries) {
+      if (!byYear.has(e.year)) byYear.set(e.year, []);
+      byYear.get(e.year)!.push(e);
+    }
+
+    const sortedYears = [...byYear.keys()].sort((a, b) => b - a);
+    for (const year of sortedYears) {
+      const entries = byYear.get(year)!;
+      lines.push(`${year}年：${entries.map(e => `${e.group} ${e.score}分`).join('，')}`);
+    }
+
+    return `【特殊类型招生控制线（强基线）】\n${baselines.description}\n${lines.join('\n')}`;
+  } catch {
+    return null;
+  }
 }

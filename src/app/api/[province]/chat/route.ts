@@ -4,6 +4,14 @@ import { createOpenAI } from '@ai-sdk/openai';
 import { buildSystemPrompt } from '@/lib/ai/system-prompt';
 import { buildUserContext } from '@/lib/chat/context-builder';
 
+// 免费体验模型配置（仅服务端，不会泄漏到浏览器）
+// 部署时需设置环境变量 FREE_LLM_API_KEY 和 FREE_LLM_BASE_URL
+const FREE_TIER = {
+  apiKey: process.env.FREE_LLM_API_KEY || '',
+  baseURL: process.env.FREE_LLM_BASE_URL || '',
+  model: 'auto',
+};
+
 export async function POST(
   request: NextRequest,
   { params }: { params: Promise<{ province: string }> }
@@ -12,7 +20,12 @@ export async function POST(
   const body = await request.json();
   const { messages, providerConfig } = body;
 
-  if (!providerConfig?.apiKey || !providerConfig?.baseURL || !providerConfig?.model) {
+  // 免费体验通道：model 为 auto 时自动注入服务端凭证
+  const effectiveConfig = providerConfig?.model === 'auto'
+    ? { ...providerConfig, apiKey: FREE_TIER.apiKey, baseURL: FREE_TIER.baseURL }
+    : providerConfig;
+
+  if (!effectiveConfig?.apiKey || !effectiveConfig?.baseURL || !effectiveConfig?.model) {
     return Response.json(
       { error: '请先在设置中配置AI模型' },
       { status: 400 }
@@ -21,8 +34,8 @@ export async function POST(
 
   try {
     const provider = createOpenAI({
-      baseURL: providerConfig.baseURL,
-      apiKey: providerConfig.apiKey,
+      baseURL: effectiveConfig.baseURL,
+      apiKey: effectiveConfig.apiKey,
     });
 
     const systemPrompt = await buildSystemPrompt(province);

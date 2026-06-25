@@ -1,6 +1,7 @@
 'use client';
 
 import { ScoreRankData } from '@/types/score-rank';
+import { ProvinceBaselineEntry } from '@/types/baseline';
 import {
   BarChart,
   Bar,
@@ -10,15 +11,17 @@ import {
   Tooltip,
   Legend,
   ResponsiveContainer,
+  ReferenceLine,
 } from 'recharts';
 
 interface ScoreDistributionChartProps {
   data: ScoreRankData[];
+  baselines?: ProvinceBaselineEntry[];
 }
 
 const yearColors = ['#6366f1', '#10b981', '#f59e0b', '#ef4444'];
 
-export function ScoreDistributionChart({ data }: ScoreDistributionChartProps) {
+export function ScoreDistributionChart({ data, baselines = [] }: ScoreDistributionChartProps) {
   const allScores = new Set<number>();
   data.forEach((d) => d.entries.forEach((e) => allScores.add(e.score)));
   const sortedScores = Array.from(allScores).sort((a, b) => b - a);
@@ -70,6 +73,28 @@ export function ScoreDistributionChart({ data }: ScoreDistributionChartProps) {
               radius={[1, 1, 0, 0]}
             />
           ))}
+          {baselines.map((bl) => {
+            const yearIdx = data.findIndex((d) => d.year === bl.year);
+            if (yearIdx === -1) return null;
+            const color = yearColors[yearIdx % yearColors.length];
+            return (
+              <ReferenceLine
+                key={`baseline-${bl.year}`}
+                x={String(bl.score)}
+                stroke={color}
+                strokeDasharray="6 4"
+                strokeWidth={1.5}
+                strokeOpacity={0.7}
+                label={{
+                  value: `${bl.year} 强基 ${bl.score}`,
+                  position: 'top',
+                  fill: color,
+                  fontSize: 11,
+                  fontWeight: 600,
+                }}
+              />
+            );
+          })}
         </BarChart>
       </ResponsiveContainer>
     </div>

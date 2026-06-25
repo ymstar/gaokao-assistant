@@ -14,5 +14,6 @@ export interface ProvinceConfig {
     universities: boolean;
     admissionLines: boolean;
     admissionPlans: boolean;
+    baselines: boolean;
   };
 }
