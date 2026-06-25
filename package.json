@@ -11,6 +11,9 @@
     "scrape:score-rank": "tsx scripts/scrape-score-rank.ts"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^3.0.74",
+    "@ai-sdk/react": "^3.0.211",
+    "ai": "^6.0.209",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^1.21.0",

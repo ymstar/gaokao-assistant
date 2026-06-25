@@ -13,6 +13,7 @@ const navItems = [
   { name: '冲稳保', suffix: '/match', provinceScoped: true },
   { name: '院校库', suffix: '/universities', provinceScoped: false },
   { name: '投档分析', suffix: '/admission-analysis', provinceScoped: false },
+  { name: 'AI咨询', suffix: '/chat', provinceScoped: true },
 ];
 
 export function NavigationBar() {

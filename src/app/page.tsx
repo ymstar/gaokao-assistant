@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { provinces } from '@/lib/provinces';
-import { BookOpen, Calculator, GraduationCap, Target, BarChart3 } from 'lucide-react';
+import { BookOpen, Calculator, GraduationCap, Target, BarChart3, MessageSquare } from 'lucide-react';
 
 const featureCards = [
   { name: '一分一档查询', desc: '查看历年分数排名数据和趋势', icon: BookOpen, path: 'score-rank', color: 'bg-indigo-50 text-indigo-600', provinceScoped: true },
@@ -10,6 +10,7 @@ const featureCards = [
   { name: '冲稳保匹配', desc: '输入分数自动匹配冲、稳、保三档院校', icon: Target, path: 'match', color: 'bg-rose-50 text-rose-600', provinceScoped: true },
   { name: '投档分析', desc: '分析投档数据，洞察志愿号分布与竞争热度', icon: BarChart3, path: 'admission-analysis', color: 'bg-violet-50 text-violet-600', provinceScoped: false },
   { name: '院校库', desc: '查看全国所有院校基本信息', icon: GraduationCap, path: 'universities', color: 'bg-amber-50 text-amber-600', provinceScoped: false },
+  { name: 'AI志愿咨询', desc: '张雪峰风格的智能问答，基于真实数据', icon: MessageSquare, path: 'chat', color: 'bg-cyan-50 text-cyan-600', provinceScoped: true },
 ];
 
 export default function HomePage() {
