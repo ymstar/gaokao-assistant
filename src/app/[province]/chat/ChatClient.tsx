@@ -2,14 +2,15 @@
 
 import { useChat } from '@ai-sdk/react';
 import { DefaultChatTransport } from 'ai';
-import { useState, useEffect, useRef } from 'react';
-import { MessageSquare, AlertTriangle } from 'lucide-react';
+import { useState, useEffect, useRef, useCallback } from 'react';
+import { MessageSquare, AlertTriangle, Trash2 } from 'lucide-react';
 import {
   ProviderConfig,
   DEFAULT_CONFIG,
   loadProviderConfig,
   isConfigured,
 } from '@/lib/ai/provider-config';
+import { loadMessages, saveMessages } from '@/lib/chat/storage';
 import { MessageList } from '@/components/chat/MessageList';
 import { ChatInput } from '@/components/chat/ChatInput';
 import { ProviderSettings } from '@/components/chat/ProviderSettings';
@@ -22,6 +23,9 @@ export default function ChatClient({ province }: ChatClientProps) {
   const [providerConfig, setProviderConfig] = useState<ProviderConfig>(DEFAULT_CONFIG);
   const [hydrated, setHydrated] = useState(false);
   const configRef = useRef<ProviderConfig>(DEFAULT_CONFIG);
+
+  // 持久化：加载历史消息
+  const [initialMessages] = useState(() => loadMessages(province));
 
   useEffect(() => {
     const saved = loadProviderConfig();
@@ -38,13 +42,24 @@ export default function ChatClient({ province }: ChatClientProps) {
   const configured = isConfigured(providerConfig);
   const showNotConfigured = hydrated && !configured;
 
-  const { messages, sendMessage, stop, status, error } = useChat({
+  const { messages, sendMessage, stop, status, error, setMessages } = useChat({
     transport: new DefaultChatTransport({
       api: `/api/${province}/chat`,
       // body 函数通过 ref 读取最新配置，避免闭包陈旧问题
       body: () => ({ providerConfig: configRef.current }),
     }),
+    messages: initialMessages,
   });
+
+  // 持久化：每次 messages 变化时保存到 localStorage
+  useEffect(() => {
+    saveMessages(province, messages);
+  }, [province, messages]);
+
+  // 清空对话
+  const handleClear = useCallback(() => {
+    setMessages([]);
+  }, [setMessages]);
 
   const handleSend = (text: string) => {
     if (!configured) return;
@@ -58,6 +73,16 @@ export default function ChatClient({ province }: ChatClientProps) {
         <div className="flex items-center gap-2">
           <MessageSquare className="w-5 h-5 text-indigo-500" />
           <h1 className="font-semibold text-slate-900">AI 志愿咨询</h1>
+          {messages.length > 0 && (
+            <button
+              onClick={handleClear}
+              className="ml-2 flex items-center gap-1 text-xs text-slate-400 hover:text-red-500 transition-colors"
+              title="清空对话"
+            >
+              <Trash2 className="w-3.5 h-3.5" />
+              清空
+            </button>
+          )}
         </div>
         <ProviderSettings config={providerConfig} onConfigChange={setProviderConfig} hydrated={hydrated} />
       </div>

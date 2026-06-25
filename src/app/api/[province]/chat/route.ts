@@ -5,7 +5,9 @@ import { buildSystemPrompt } from '@/lib/ai/system-prompt';
 import { buildUserContext } from '@/lib/chat/context-builder';
 
 // 免费体验模型配置（仅服务端，不会泄漏到浏览器）
-// 部署时需设置环境变量 FREE_LLM_API_KEY 和 FREE_LLM_BASE_URL
+// 在 Vercel 的 Settings → Environment Variables 中配置：
+//   FREE_LLM_API_KEY — 免费通道的 API Key
+//   FREE_LLM_BASE_URL — 免费通道的 Base URL
 const FREE_TIER = {
   apiKey: process.env.FREE_LLM_API_KEY || '',
   baseURL: process.env.FREE_LLM_BASE_URL || '',
