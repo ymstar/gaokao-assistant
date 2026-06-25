@@ -1,8 +1,10 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { SubjectGroup, ScoreRankData } from '@/types/score-rank';
 import { MatchResult } from '@/types/admission-line';
+import { University } from '@/types/university';
+import UniversityFilterBar, { FilterOptions, FilterValues } from '@/components/UniversityFilterBar';
 
 interface MatchClientProps {
   province: string;
@@ -17,6 +19,15 @@ interface MatchResponse {
   summary: { total: number; chong: number; wen: number; bao: number };
   results: MatchResult[];
   batches?: string[];
+}
+
+/** MatchResult 扩展大学元数据，用于客户端筛选 */
+interface EnrichedResult extends MatchResult {
+  location?: string;
+  city?: string;
+  cityTier?: string;
+  level?: string;
+  tier?: string;
 }
 
 function Toggle({ value, onChange, options }: { value: string; onChange: (v: string) => void; options: { label: string; value: string }[] }) {
@@ -191,6 +202,29 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
   const [matchTab, setMatchTab] = useState<'冲' | '稳' | '保'>('冲');
 
   const availableYears = [...new Set(scoreRankData.map((d) => d.year))].sort((a, b) => b - a);
+  const [universityMap, setUniversityMap] = useState<Map<string, University>>(new Map());
+  const [matchFilters, setMatchFilters] = useState<FilterValues>({ level: 'all' });
+
+  // 匹配结果返回后加载大学元数据
+  useEffect(() => {
+    if (response && response.results.length > 0) {
+      const codes = [...new Set(response.results.map(r => r.universityCode))];
+      const missing = codes.filter(c => !universityMap.has(c));
+      if (missing.length === 0) return;
+
+      fetch('/api/universities/list?pageSize=3000')
+        .then(r => r.json())
+        .then(data => {
+          const allSchools: University[] = data.universities || [];
+          const map = new Map<string, University>();
+          for (const u of allSchools) {
+            map.set(u.code, u);
+          }
+          setUniversityMap(map);
+        })
+        .catch(() => {});
+    }
+  }, [response]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // 首次加载获取可用批次
   useEffect(() => {
@@ -233,9 +267,85 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
     }
   };
 
-  const chongResults = response?.results.filter((r) => r.matchType === '冲') || [];
-  const wenResults = response?.results.filter((r) => r.matchType === '稳') || [];
-  const baoResults = response?.results.filter((r) => r.matchType === '保') || [];
+  // Enrich match results with university metadata
+  const enrichedResults: EnrichedResult[] = useMemo(() => {
+    if (!response?.results) return [];
+    return response.results.map(r => {
+      const uni = universityMap.get(r.universityCode);
+      return {
+        ...r,
+        location: uni?.location,
+        city: uni?.city,
+        cityTier: uni?.cityTier,
+        level: uni?.level,
+        tier: uni?.tier,
+      };
+    });
+  }, [response, universityMap]);
+
+  // Client-side filtering
+  const filteredResults = useMemo(() => {
+    const { keyword, location, level, tier, cityTier } = matchFilters;
+    let filtered = enrichedResults;
+    if (keyword) {
+      const kw = keyword.toLowerCase();
+      filtered = filtered.filter(r =>
+        r.universityName.toLowerCase().includes(kw) ||
+        r.universityCode.includes(keyword) ||
+        (r.location && r.location.toLowerCase().includes(kw)) ||
+        (r.city && r.city.toLowerCase().includes(kw))
+      );
+    }
+    if (location) {
+      filtered = filtered.filter(r => r.location === location);
+    }
+    if (level && level !== 'all') {
+      filtered = filtered.filter(r => r.level === level);
+    }
+    if (tier) {
+      filtered = filtered.filter(r => r.tier?.includes(tier));
+    }
+    if (cityTier) {
+      filtered = filtered.filter(r => r.cityTier === cityTier);
+    }
+    return filtered;
+  }, [enrichedResults, matchFilters]);
+
+  const chongResults = filteredResults.filter((r) => r.matchType === '冲');
+  const wenResults = filteredResults.filter((r) => r.matchType === '稳');
+  const baoResults = filteredResults.filter((r) => r.matchType === '保');
+
+  // Build filter options from match results (only show what's in the results)
+  const matchFilterOptions: FilterOptions = useMemo(() => {
+    const locs = [...new Set(enrichedResults.map(r => r.location))].filter((v): v is string => v !== undefined).sort();
+    const tiers = [...new Set(enrichedResults.map(r => r.tier))].filter((v): v is string => v !== undefined).sort();
+    const cityTierSet = [...new Set(enrichedResults.map(r => r.cityTier))].filter((v): v is string => v !== undefined);
+    const order = ['一线', '新一线', '二线', '三线', '四线', '五线'];
+    const cts = cityTierSet.sort((a, b) => order.indexOf(a) - order.indexOf(b));
+    return { locations: locs, cityTiers: cts, tiers };
+  }, [enrichedResults]);
+
+  const filteredCounts = useMemo(() => ({
+    chong: chongResults.length,
+    wen: wenResults.length,
+    bao: baoResults.length,
+    total: filteredResults.length,
+  }), [chongResults, wenResults, baoResults, filteredResults]);
+
+  // 如果筛选后当前 tab 为空，自动切换到第一个有结果的 tab
+  useEffect(() => {
+    if (filteredResults.length === 0) return;
+    if (matchTab === '冲' && chongResults.length === 0) {
+      if (wenResults.length > 0) setMatchTab('稳');
+      else if (baoResults.length > 0) setMatchTab('保');
+    } else if (matchTab === '稳' && wenResults.length === 0) {
+      if (chongResults.length > 0) setMatchTab('冲');
+      else if (baoResults.length > 0) setMatchTab('保');
+    } else if (matchTab === '保' && baoResults.length === 0) {
+      if (wenResults.length > 0) setMatchTab('稳');
+      else if (chongResults.length > 0) setMatchTab('冲');
+    }
+  }, [matchTab, chongResults.length, wenResults.length, baoResults.length, filteredResults.length]);
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8 space-y-6">
@@ -307,14 +417,30 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
             </div>
             <div className="bg-slate-50 rounded-xl p-4">
               <div className="text-xs text-slate-400">匹配院校</div>
-              <div className="text-2xl font-bold text-indigo-600">{response.summary.total}</div>
+              <div className="text-2xl font-bold text-indigo-600">
+                {filteredCounts.total}
+                {filteredCounts.total !== response.summary.total && (
+                  <span className="text-sm font-normal text-slate-400 ml-1">/ {response.summary.total}</span>
+                )}
+              </div>
             </div>
           </div>
         </div>
       )}
 
       {response && response.summary.total > 0 && (
-        <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden">
+        <div className="space-y-4">
+          {/* 院校筛选器 */}
+          <UniversityFilterBar
+            filters={matchFilters}
+            onChange={setMatchFilters}
+            options={matchFilterOptions}
+            resultCount={filteredCounts.total}
+            onReset={() => setMatchFilters({ level: 'all' })}
+            showSort={false}
+          />
+
+          <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden">
           <div className="flex border-b border-slate-200">
             {([
               { key: '冲' as const, label: '冲一冲', icon: '🚀', count: response.summary.chong, active: 'border-red-500 text-red-600 bg-red-50/50', badge: 'bg-red-100 text-red-600' },
@@ -329,7 +455,7 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
                 {tab.label}
                 <span className={`ml-1.5 px-1.5 py-0.5 rounded-full text-xs ${
                   matchTab === tab.key ? tab.badge : 'bg-slate-100 text-slate-400'
-                }`}>{tab.count}</span>
+                }`}>{filteredCounts[tab.key === '冲' ? 'chong' : tab.key === '稳' ? 'wen' : 'bao']}</span>
               </button>
             ))}
           </div>
@@ -341,6 +467,7 @@ export default function MatchClient({ province, scoreRankData }: MatchClientProp
                 : results.map((r, i) => <MatchCard key={`${r.universityCode}-${i}`} result={r} />);
             })()}
           </div>
+        </div>
         </div>
       )}
 

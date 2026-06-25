@@ -64,6 +64,9 @@ GaoKao/
 │       ├── score-rank/         # 一分一档 (2023-2025)
 │       ├── admission-lines/    # 投档线 (待导入)
 │       └── universities/       # 院校信息
+├── .claude/
+│   └── skills/
+│       └── human-pen/            # 零AI痕迹写作技能
 ├── scripts/                    # 数据抓取和验证脚本
 ├── REQUIREMENTS.md             # 功能需求文档
 └── DATA_SCRAPING.md            # 数据采集指南
@@ -119,6 +122,10 @@ interface MatchResult {
 2. Create `data/[province-code]/meta.json`
 3. Add data directories: `score-rank/`, `admission-lines/`, `universities/`
 4. Add province config in `src/lib/provinces/index.ts`
+
+## Skills
+
+- **human-pen** (`.claude/skills/human-pen/skill.md`) — 零AI痕迹写作技能，覆盖知乎/公众号/小红书/微博四平台。使用 `/human-pen` 触发。
 
 ## Important Notes
 

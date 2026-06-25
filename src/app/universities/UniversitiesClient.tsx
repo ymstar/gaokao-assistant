@@ -1,27 +1,9 @@
 'use client';
 
 import { useState, useCallback, useEffect, useRef } from 'react';
+import { useSearchParams, useRouter } from 'next/navigation';
 import { University } from '@/types/university';
-
-function Toggle({ value, onChange, options }: { value: string; onChange: (v: string) => void; options: { label: string; value: string }[] }) {
-  return (
-    <div className="inline-flex bg-slate-100 rounded-lg p-0.5">
-      {options.map((opt) => (
-        <button
-          key={opt.value}
-          onClick={() => onChange(opt.value)}
-          className={`px-3 py-1.5 rounded-md text-sm font-medium transition-all ${
-            value === opt.value
-              ? 'bg-white text-slate-900 shadow-sm'
-              : 'text-slate-500 hover:text-slate-700'
-          }`}
-        >
-          {opt.label}
-        </button>
-      ))}
-    </div>
-  );
-}
+import UniversityFilterBar, { FilterOptions, FilterValues } from '@/components/UniversityFilterBar';
 
 function SchoolCard({ u }: { u: University }) {
   const hasDetail = !!u.address || !!u.phone;
@@ -103,35 +85,61 @@ function SchoolCard({ u }: { u: University }) {
 }
 
 export default function UniversitiesClient() {
-  const [keyword, setKeyword] = useState('');
-  const [location, setLocation] = useState('');
-  const [level, setLevel] = useState('all');
-  const [tier, setTier] = useState('');
-  const [page, setPage] = useState(1);
+  const searchParams = useSearchParams();
+  const router = useRouter();
+
+  // Initialize from URL params
+  const [filters, setFilters] = useState<FilterValues>(() => ({
+    keyword: searchParams.get('keyword') || undefined,
+    location: searchParams.get('location') || undefined,
+    level: searchParams.get('level') || 'all',
+    tier: searchParams.get('tier') || undefined,
+    cityTier: searchParams.get('cityTier') || undefined,
+    sort: searchParams.get('sort') || undefined,
+  }));
+  const [page, setPage] = useState(parseInt(searchParams.get('page') || '1'));
   const [universities, setUniversities] = useState<University[]>([]);
   const [total, setTotal] = useState(0);
-  const [locations, setLocations] = useState<string[]>([]);
+  const [options, setOptions] = useState<FilterOptions>({ locations: [], cityTiers: [], tiers: [] });
   const [loading, setLoading] = useState(false);
   const pageSize = 50;
-  const keywordRef = useRef(keyword);
+  const isInitialized = useRef(false);
 
-  const fetchUniversities = useCallback(async (opts: { keyword?: string; location?: string; level?: string; tier?: string; page?: number }) => {
+  // Sync URL params on filter/page change
+  const syncUrl = useCallback((newFilters: FilterValues, newPage: number) => {
+    const params = new URLSearchParams();
+    if (newFilters.keyword) params.set('keyword', newFilters.keyword);
+    if (newFilters.location) params.set('location', newFilters.location);
+    if (newFilters.level && newFilters.level !== 'all') params.set('level', newFilters.level);
+    if (newFilters.tier) params.set('tier', newFilters.tier);
+    if (newFilters.cityTier) params.set('cityTier', newFilters.cityTier);
+    if (newFilters.sort) params.set('sort', newFilters.sort);
+    if (newPage > 1) params.set('page', String(newPage));
+    const query = params.toString();
+    router.replace(query ? `?${query}` : window.location.pathname, { scroll: false });
+  }, [router]);
+
+  const fetchUniversities = useCallback(async (currentFilters: FilterValues, currentPage: number) => {
     setLoading(true);
     const params = new URLSearchParams();
-    if (opts.keyword) params.append('keyword', opts.keyword);
-    if (opts.location) params.append('location', opts.location);
-    if (opts.level && opts.level !== 'all') params.append('level', opts.level);
-    if (opts.tier) params.append('tier', opts.tier);
-    params.append('page', String(opts.page || 1));
+    if (currentFilters.keyword) params.append('keyword', currentFilters.keyword);
+    if (currentFilters.location) params.append('location', currentFilters.location);
+    if (currentFilters.level && currentFilters.level !== 'all') params.append('level', currentFilters.level);
+    if (currentFilters.tier) params.append('tier', currentFilters.tier);
+    if (currentFilters.cityTier) params.append('cityTier', currentFilters.cityTier);
+    if (currentFilters.sort) params.append('sort', currentFilters.sort);
+    params.append('page', String(currentPage));
     params.append('pageSize', String(pageSize));
     try {
       const res = await fetch(`/api/universities/list?${params}`);
       const data = await res.json();
       setUniversities(data.universities || []);
       setTotal(data.total || 0);
-      if (data.locations?.length) {
-        setLocations(data.locations);
-      }
+      setOptions({
+        locations: data.locations || [],
+        cityTiers: data.cityTiers || [],
+        tiers: data.tiers || [],
+      });
     } catch (error) {
       console.error('Failed to fetch universities:', error);
     } finally {
@@ -139,31 +147,34 @@ export default function UniversitiesClient() {
     }
   }, []);
 
+  // Initial fetch
   useEffect(() => {
-    fetchUniversities({ page: 1 });
-  }, [fetchUniversities]);
+    if (!isInitialized.current) {
+      isInitialized.current = true;
+      fetchUniversities(filters, page);
+    }
+  }, []);
 
-  const handleSearch = (e: React.FormEvent) => {
-    e.preventDefault();
+  const handleFilterChange = useCallback((newFilters: FilterValues) => {
+    setFilters(newFilters);
     setPage(1);
-    fetchUniversities({ keyword, location, level, tier, page: 1 });
-  };
-
-  const handleFilterChange = (updates: { location?: string; level?: string; tier?: string }) => {
-    const newLocation = updates.location !== undefined ? updates.location : location;
-    const newLevel = updates.level !== undefined ? updates.level : level;
-    const newTier = updates.tier !== undefined ? updates.tier : tier;
-    if (updates.location !== undefined) setLocation(updates.location);
-    if (updates.level !== undefined) setLevel(updates.level);
-    if (updates.tier !== undefined) setTier(updates.tier);
-    setPage(1);
-    fetchUniversities({ keyword, location: newLocation, level: newLevel, tier: newTier, page: 1 });
-  };
+    syncUrl(newFilters, 1);
+    fetchUniversities(newFilters, 1);
+  }, [syncUrl, fetchUniversities]);
 
   const handlePageChange = (newPage: number) => {
     setPage(newPage);
-    fetchUniversities({ keyword, location, level, tier, page: newPage });
+    syncUrl(filters, newPage);
+    fetchUniversities(filters, newPage);
     window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const handleReset = () => {
+    const empty: FilterValues = { level: 'all' };
+    setFilters(empty);
+    setPage(1);
+    syncUrl(empty, 1);
+    fetchUniversities(empty, 1);
   };
 
   const totalPages = Math.ceil(total / pageSize);
@@ -172,64 +183,15 @@ export default function UniversitiesClient() {
     <div className="max-w-6xl mx-auto px-4 py-8 space-y-6">
       <div className="flex items-baseline justify-between">
         <h1 className="text-2xl font-bold text-slate-900">院校库</h1>
-        <span className="text-sm text-slate-400">共 {total.toLocaleString()} 所院校</span>
       </div>
 
-      <div className="bg-white rounded-2xl border border-slate-200 p-6 space-y-4">
-        <div className="flex flex-wrap items-end gap-4">
-          <div className="flex-1 min-w-[200px]">
-            <label className="block text-xs font-medium text-slate-400 mb-1.5">地区</label>
-            <select
-              value={location}
-              onChange={(e) => handleFilterChange({ location: e.target.value })}
-              className="w-full px-3 py-2 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all appearance-none cursor-pointer"
-            >
-              <option value="">全部地区</option>
-              {locations.map((loc) => (
-                <option key={loc} value={loc}>{loc}</option>
-              ))}
-            </select>
-          </div>
-          <div>
-            <label className="block text-xs font-medium text-slate-400 mb-1.5">办学层次</label>
-            <Toggle
-              value={level}
-              onChange={(v) => handleFilterChange({ level: v })}
-              options={[
-                { label: '全部', value: 'all' },
-                { label: '本科', value: '本科' },
-                { label: '高职专科', value: '高职(专科)' },
-              ]}
-            />
-          </div>
-          <div>
-            <label className="block text-xs font-medium text-slate-400 mb-1.5">院校层次</label>
-            <Toggle
-              value={tier}
-              onChange={(v) => handleFilterChange({ tier: v })}
-              options={[
-                { label: '全部', value: '' },
-                { label: '双一流', value: '双一流' },
-              ]}
-            />
-          </div>
-        </div>
-        <form onSubmit={handleSearch} className="flex gap-2">
-          <input
-            type="text"
-            value={keyword}
-            onChange={(e) => setKeyword(e.target.value)}
-            placeholder="搜索院校名称、代码或地区"
-            className="flex-1 px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all placeholder:text-slate-400"
-          />
-          <button
-            type="submit"
-            className="px-5 py-2.5 bg-indigo-600 text-white text-sm font-medium rounded-xl hover:bg-indigo-700 transition-colors"
-          >
-            搜索
-          </button>
-        </form>
-      </div>
+      <UniversityFilterBar
+        filters={filters}
+        onChange={handleFilterChange}
+        options={options}
+        resultCount={total}
+        onReset={handleReset}
+      />
 
       {loading ? (
         <div className="text-center text-slate-400 py-12">加载中...</div>

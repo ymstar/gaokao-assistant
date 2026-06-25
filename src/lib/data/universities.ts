@@ -1,8 +1,24 @@
-import { University } from '@/types/university';
+import { University, CityTier } from '@/types/university';
 import { SubjectGroup } from '@/types/score-rank';
 import { getCachedData, setCachedData } from '@/lib/data/cache';
 import { promises as fs } from 'fs';
 import path from 'path';
+
+/** 院校层次排序权重 */
+const TIER_WEIGHT: Record<string, number> = {
+  '985': 100,
+  '211': 80,
+  '"双一流"建设高校': 60,
+  '双一流': 60,
+};
+
+function getTierWeight(u: University): number {
+  if (!u.tier) return 0;
+  for (const [key, weight] of Object.entries(TIER_WEIGHT)) {
+    if (u.tier.includes(key)) return weight;
+  }
+  return 0;
+}
 
 export async function loadBasicInfo(province: string): Promise<University[]> {
   const cacheKey = `universities-basic:${province}`;
@@ -117,16 +133,18 @@ export interface AllSchoolsFilters {
   location?: string;
   level?: string;
   tier?: string;
+  cityTier?: CityTier;
+  sort?: string;           // tier_asc, tier_desc, name_asc, name_desc
   page?: number;
   pageSize?: number;
 }
 
-/** 搜索全国院校（带筛选和分页） */
+/** 搜索全国院校（带筛选、排序和分页） */
 export async function searchAllUniversities(
   filters: AllSchoolsFilters
 ): Promise<{ universities: University[]; total: number }> {
   const schools = await loadAllSchools();
-  const { keyword, location, level, tier, page = 1, pageSize = 50 } = filters;
+  const { keyword, location, level, tier, cityTier, sort, page = 1, pageSize = 50 } = filters;
 
   let filtered = schools;
 
@@ -152,11 +170,41 @@ export async function searchAllUniversities(
     filtered = filtered.filter(u => u.tier?.includes(tier));
   }
 
+  if (cityTier) {
+    filtered = filtered.filter(u => u.cityTier === cityTier);
+  }
+
+  // 排序
+  if (sort) {
+    const [field, dir] = sort.split('_');
+    const mul = dir === 'desc' ? -1 : 1;
+    if (field === 'tier') {
+      filtered = [...filtered].sort((a, b) => (getTierWeight(a) - getTierWeight(b)) * mul);
+    } else if (field === 'name') {
+      filtered = [...filtered].sort((a, b) => a.name.localeCompare(b.name, 'zh') * mul);
+    }
+  }
+
   const total = filtered.length;
   const start = (page - 1) * pageSize;
   const universities = filtered.slice(start, start + pageSize);
 
   return { universities, total };
+}
+
+/** 获取所有城市等级列表 */
+export async function getAllCityTiers(): Promise<string[]> {
+  const schools = await loadAllSchools();
+  const tiers = [...new Set(schools.map(u => u.cityTier).filter(Boolean))] as string[];
+  const order = ['一线', '新一线', '二线', '三线', '四线', '五线'];
+  return tiers.sort((a, b) => order.indexOf(a) - order.indexOf(b));
+}
+
+/** 获取所有院校层次列表 */
+export async function getAllTiers(): Promise<string[]> {
+  const schools = await loadAllSchools();
+  const tiers = [...new Set(schools.map(u => u.tier).filter(Boolean))] as string[];
+  return tiers.sort();
 }
 
 export async function getUniversityByCode(
