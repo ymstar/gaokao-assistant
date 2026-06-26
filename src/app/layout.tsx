@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { NavigationBar } from "@/components/NavigationBar";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
   title: "高考志愿助手",
@@ -20,6 +21,7 @@ export default function RootLayout({
         <footer className="border-t border-slate-200 bg-white py-6 text-center text-xs text-slate-400">
           数据来源：河北省教育考试院 (hebeea.edu.cn) · 仅供参考，以官方数据为准
         </footer>
+        <Analytics />
       </body>
     </html>
   );
