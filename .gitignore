@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+*.db-shm
+*.db-wal
+*.db
+
+admission-lines/
+scripts/output/
+
+# 招生导入数据（太大，由脚本重建）
+data/河北/
+data/schools/

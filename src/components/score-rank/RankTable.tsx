@@ -1,12 +1,14 @@
 'use client';
 
 import { ScoreRankSearchResult } from '@/types/score-rank';
+import { EquivalentScoreResult } from '@/types/equivalent-score';
 
 interface RankTableProps {
   result: ScoreRankSearchResult | null;
+  equivalentResult?: EquivalentScoreResult | null;
 }
 
-export function RankTable({ result }: RankTableProps) {
+export function RankTable({ result, equivalentResult }: RankTableProps) {
   if (!result) return null;
 
   const stats = [
@@ -32,6 +34,34 @@ export function RankTable({ result }: RankTableProps) {
       <div className="mt-3 text-xs text-slate-400">
         总人数 {result.totalCandidates.toLocaleString()}
       </div>
+
+      {/* 历史等效分 */}
+      {equivalentResult && equivalentResult.equivalents.length > 0 && (
+        <div className="mt-5 pt-4 border-t border-slate-100">
+          <h4 className="text-sm font-medium text-slate-400 mb-3">历史等效分</h4>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+            {equivalentResult.equivalents.map((eq) => (
+              <div key={eq.year} className="bg-indigo-50 rounded-xl p-3 text-center">
+                <div className="text-xs text-slate-400 mb-1">{eq.year} 年</div>
+                <div className="text-lg font-bold text-indigo-600">
+                  {eq.minScore === eq.maxScore
+                    ? `${eq.maxScore} 分`
+                    : `${eq.minScore} ~ ${eq.maxScore} 分`}
+                </div>
+                <div className="text-xs text-slate-400 mt-0.5">
+                  位次 {eq.rankStart.toLocaleString()} ~ {eq.rankEnd.toLocaleString()}
+                </div>
+              </div>
+            ))}
+          </div>
+          {/* 趋势提示 */}
+          <div className="mt-2 text-xs text-slate-400 text-center">
+            {equivalentResult.trend === 'rising' && '近年分数整体上涨 ↗'}
+            {equivalentResult.trend === 'falling' && '近年分数整体下降 ↘'}
+            {equivalentResult.trend === 'stable' && '近年分数相对稳定 →'}
+          </div>
+        </div>
+      )}
     </div>
   );
 }

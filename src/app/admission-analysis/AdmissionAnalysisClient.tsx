@@ -28,7 +28,7 @@ function StatCard({ label, value, sub }: { label: string; value: string | number
   return (
     <div className="bg-white rounded-2xl border border-slate-200 p-5">
       <div className="text-xs font-medium text-slate-400 mb-1">{label}</div>
-      <div className="text-2xl font-bold text-slate-900">{value}</div>
+      <div className="text-xl sm:text-2xl font-bold text-slate-900">{value}</div>
       {sub && <div className="text-xs text-slate-400 mt-1">{sub}</div>}
     </div>
   );
@@ -214,8 +214,8 @@ export default function AdmissionAnalysisClient() {
   const totalPages = Math.ceil(total / pageSize);
 
   return (
-    <div className="max-w-6xl mx-auto px-4 py-8 space-y-6">
-      <h1 className="text-2xl font-bold text-slate-900">投档分析</h1>
+    <div className="max-w-6xl mx-auto px-4 py-6 sm:py-8 space-y-6">
+      <h1 className="text-xl sm:text-2xl font-bold text-slate-900">投档分析</h1>
 
       {/* 筛选栏 */}
       <div className="bg-white rounded-2xl border border-slate-200 p-6 space-y-4">

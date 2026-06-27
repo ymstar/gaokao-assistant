@@ -1,109 +1,65 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { loadSchoolPlan, scanAvailablePlans } from '@/lib/data/admission-plans';
-import { loadSchoolAdmissionLine } from '@/lib/data/admission-lines';
-import { getCachedData, setCachedData } from '@/lib/data/cache';
-import { promises as fs } from 'fs';
-import path from 'path';
-
-// 院校基本信息缓存
-let uniCache: Record<string, Record<string, unknown>> | null = null;
-
-async function loadUniversities(): Promise<Record<string, Record<string, unknown>>> {
-  if (uniCache) return uniCache;
-  const cacheKey = 'universities:common';
-  const cached = getCachedData<Record<string, Record<string, unknown>>>(cacheKey);
-  if (cached) {
-    uniCache = cached;
-    return cached;
-  }
-  const uniPath = path.join(process.cwd(), 'data', 'hebei', 'universities', '_common', '院校基本信息.json');
-  try {
-    const raw = await fs.readFile(uniPath, 'utf-8');
-    const list: Record<string, unknown>[] = JSON.parse(raw);
-    const map: Record<string, Record<string, unknown>> = {};
-    for (const u of list) {
-      map[String(u.code)] = u;
-    }
-    setCachedData(cacheKey, map);
-    uniCache = map;
-    return map;
-  } catch {
-    return {};
-  }
-}
+import { getSchoolById, getImageCode } from '@/lib/db/gaokao-schools';
 
 export async function GET(
   request: NextRequest,
   { params }: { params: Promise<{ code: string }> }
 ) {
   const { code } = await params;
-  const { searchParams } = new URL(request.url);
-  const province = searchParams.get('province') || 'hebei';
+  const schoolId = parseInt(code, 10);
 
-  // 1. 扫描可用批次
-  const planBatches = await scanAvailablePlans(province);
-
-  // 2. 查找该校在哪些批次中有招生计划
-  const planResults: {
-    year: number; batch: string; entryCount: number; totalPlans: number;
-    entries: Record<string, unknown>[];
-  }[] = [];
-
-  for (const pb of planBatches) {
-    const schoolPlan = await loadSchoolPlan(province, pb.year, pb.batch, code);
-    if (schoolPlan && schoolPlan.entries.length > 0) {
-      planResults.push({
-        year: pb.year,
-        batch: pb.batch,
-        entryCount: schoolPlan.entries.length,
-        totalPlans: schoolPlan.entries.reduce((s, e) => s + e.planCount, 0),
-        entries: schoolPlan.entries as unknown as Record<string, unknown>[],
-      });
-    }
+  if (isNaN(schoolId)) {
+    return NextResponse.json({ error: 'Invalid school code' }, { status: 400 });
   }
 
-  // 3. 查找该校在哪些年份/批次中有录取数据
-  const lineResults: {
-    year: number; batch: string; entryCount: number; entries: Record<string, unknown>[];
-  }[] = [];
+  const data = getSchoolById(schoolId);
 
-  const dataDir = path.join(process.cwd(), 'data', province, 'admission-lines');
-  try {
-    const years = await fs.readdir(dataDir);
-    for (const yearStr of years) {
-      const yearNum = parseInt(yearStr);
-      if (isNaN(yearNum)) continue;
-      const yearPath = path.join(dataDir, yearStr);
-      const yearStat = await fs.stat(yearPath);
-      if (!yearStat.isDirectory()) continue;
+  if (!data.school) {
+    return NextResponse.json({ error: 'School not found' }, { status: 404 });
+  }
 
-      const batches = await fs.readdir(yearPath);
-      for (const batch of batches) {
-        const batchPath = path.join(yearPath, batch);
-        const batchStat = await fs.stat(batchPath);
-        if (!batchStat.isDirectory()) continue;
-
-        const schoolLine = await loadSchoolAdmissionLine(province, yearNum, batch, code);
-        if (schoolLine && schoolLine.entries.length > 0) {
-          lineResults.push({
-            year: yearNum,
-            batch,
-            entryCount: schoolLine.entries.length,
-            entries: schoolLine.entries as unknown as Record<string, unknown>[],
-          });
-        }
-      }
-    }
-  } catch { /* no data */ }
-
-  // 4. 查找院校基本信息
-  const uniMap = await loadUniversities();
-  const universityInfo = uniMap[code] || { name: code };
+  // 构建 University 兼容结构
+  const university = {
+    code: String(data.school.school_id),
+    imageCode: getImageCode(data.school.school_id),
+    name: data.school.name,
+    location: data.school.province,
+    city: data.school.city,
+    level: data.school.level === '普通本科' ? '本科' : data.school.level === '专科（高职）' ? '高职(专科)' : data.school.level,
+    tier: data.labels.filter(l => ['985', '211', '双一流'].includes(l.name)).map(l => l.name).join(' ') || undefined,
+    type: data.detail?.type_name || undefined,
+    authority: data.detail?.belong || undefined,
+    address: data.detail?.address || undefined,
+    phone: data.detail?.phone || undefined,
+    officialWebsite: data.detail?.school_site || undefined,
+    admissionWebsite: data.detail?.site || undefined,
+    motto: data.detail?.motto || undefined,
+    createDate: data.detail?.create_date || undefined,
+    area: data.detail?.area || undefined,
+    shortNames: data.detail?.short_names || undefined,
+    content: data.detail?.content || undefined,
+    numSubject: data.detail?.num_subject || undefined,
+    numMaster: data.detail?.num_master || undefined,
+    numDoctor: data.detail?.num_doctor || undefined,
+    numAcademician: data.detail?.num_academician || undefined,
+    numLibrary: data.detail?.num_library || undefined,
+    numLab: data.detail?.num_lab || undefined,
+    recommendMasterRate: data.detail?.recommend_master_rate || undefined,
+    upgradingRate: data.detail?.upgrading_rate || undefined,
+    // 扩展数据
+    rankings: data.rankings,
+    dualClass: data.dualClass,
+    specials: data.specials,
+    xuekeRanks: data.xuekeRanks,
+    academicPoints: data.academicPoints,
+    labels: data.labels,
+    campuses: data.campuses,
+  };
 
   return NextResponse.json({
     code,
-    university: universityInfo,
-    plans: planResults,
-    lines: lineResults,
+    university,
+    plans: [],
+    lines: [],
   });
 }

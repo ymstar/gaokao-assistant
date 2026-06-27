@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { loadScoreRankData } from '@/lib/data/score-rank';
+import { loadScoreRankDataFromDb } from '@/lib/db/score-rank-adapter';
 import { findRankByScore } from '@/lib/utils/score-rank';
 import { SubjectGroup } from '@/types/score-rank';
 
@@ -17,7 +17,7 @@ export async function GET(
     return NextResponse.json({ error: '请输入有效的分数' }, { status: 400 });
   }
 
-  const yearData = await loadScoreRankData(province, year, group);
+  const yearData = loadScoreRankDataFromDb(province, year, group);
   if (!yearData) {
     return NextResponse.json({ error: '未找到该年份和科类的数据' }, { status: 404 });
   }

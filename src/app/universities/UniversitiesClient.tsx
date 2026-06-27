@@ -17,7 +17,9 @@ function SchoolCard({ u, planSummary, lineSummary }: {
       className="bg-white rounded-2xl border border-slate-200 p-5 hover:border-indigo-200 hover:shadow-md transition-all flex gap-4 group cursor-pointer"
     >
       <img
-        src={`https://t1.chei.com.cn/common/xh/${u.code}.jpg`}
+        src={u.imageCode
+          ? `https://t1.chei.com.cn/common/xh/${u.imageCode}.jpg`
+          : `https://t1.chei.com.cn/common/xh/${u.code}.jpg`}
         alt={u.name}
         className="w-14 h-14 rounded-xl object-cover bg-slate-100 shrink-0"
         onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
@@ -202,9 +204,9 @@ export default function UniversitiesClient() {
   const totalPages = Math.ceil(total / pageSize);
 
   return (
-    <div className="max-w-6xl mx-auto px-4 py-8 space-y-6">
+    <div className="max-w-6xl mx-auto px-4 py-6 sm:py-8 space-y-6">
       <div className="flex items-baseline justify-between">
-        <h1 className="text-2xl font-bold text-slate-900">院校库</h1>
+        <h1 className="text-xl sm:text-2xl font-bold text-slate-900">院校库</h1>
       </div>
 
       <UniversityFilterBar
