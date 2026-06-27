@@ -17,6 +17,7 @@
   "dependencies": {
     "@ai-sdk/openai": "^3.0.74",
     "@ai-sdk/react": "^3.0.211",
+    "@vercel/analytics": "^2.0.1",
     "ai": "^6.0.209",
     "better-sqlite3": "^12.11.1",
     "class-variance-authority": "^0.7.1",
