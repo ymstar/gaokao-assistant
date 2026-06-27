@@ -3,7 +3,32 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans SC", sans-serif;
   -webkit-font-smoothing: antialiased;
+  /* Prevent iOS text size adjust after rotation */
+  -webkit-text-size-adjust: 100%;
 }
+
+/* ---------- Mobile-friendly scroll areas ---------- */
+
+/* Make scrollable tables/containers work well on touch */
+@media (max-width: 767px) {
+  .overflow-x-auto {
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .overflow-x-auto::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* ---------- Safe area padding for notched phones ---------- */
+
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+
+/* ---------- Chat markdown ---------- */
 
 .chat-markdown p {
   margin-bottom: 0.5rem;

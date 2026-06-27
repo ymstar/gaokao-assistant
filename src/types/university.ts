@@ -15,6 +15,7 @@ export interface AdmissionScoreEntry {
 export interface University {
   code: string;
   schId?: string;             // 阳光高考平台学校ID
+  imageCode?: string;         // 校徽图片用的 5 位 zs_code
   name: string;
   nameShort?: string;
   location: string;           // 省份

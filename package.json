@@ -10,13 +10,16 @@
     "validate": "tsx scripts/validate-data.ts",
     "scrape:score-rank": "tsx scripts/scrape-score-rank.ts",
     "scrape:admission-lines": "tsx scripts/scrape-admission-lines.ts",
-    "scrape:admission-plans": "tsx scripts/scrape-admission-plans.ts"
+    "scrape:admission-plans": "tsx scripts/scrape-admission-plans.ts",
+    "import:schools": "tsx scripts/import-schools.ts",
+    "import:admission": "tsx scripts/import-admission.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^3.0.74",
     "@ai-sdk/react": "^3.0.211",
     "@vercel/analytics": "^2.0.1",
     "ai": "^6.0.209",
+    "better-sqlite3": "^12.11.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^1.21.0",
@@ -29,6 +32,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/better-sqlite3": "^7.6.13",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
@@ -38,5 +42,10 @@
     "tailwindcss": "^4",
     "tsx": "^4.22.4",
     "typescript": "^5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "better-sqlite3"
+    ]
   }
 }

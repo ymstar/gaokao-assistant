@@ -6,8 +6,8 @@ export const provinces: ProvinceConfig[] = [
     name: '河北省',
     nameShort: '河北',
     currentYear: 2026,
-    examYears: [2023, 2024, 2025, 2026],
-    subjectGroups: ['物理类', '历史类'],
+    examYears: [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+    subjectGroups: ['物理类', '历史类', '理科', '文科'],
     source: '河北省教育考试院',
     sourceUrl: 'https://gk.hebeea.edu.cn/',
     dataAvailable: {

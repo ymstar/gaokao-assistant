@@ -253,12 +253,12 @@ export default function AdmissionLinesClient() {
   const TYPE_OPTIONS = ['国家专项', '公费师范', '优师专项', '免费医学定向', '高校专项', '普通'];
 
   return (
-    <div className="max-w-6xl mx-auto px-4 py-8 space-y-6">
-      <h1 className="text-2xl font-bold text-slate-900">投档线查询</h1>
+    <div className="max-w-6xl mx-auto px-4 py-6 sm:py-8 space-y-6">
+      <h1 className="text-xl sm:text-2xl font-bold text-slate-900">投档线查询</h1>
 
       {/* 筛选栏 */}
-      <div className="bg-white rounded-2xl border border-slate-200 p-6 space-y-4">
-        <div className="flex flex-wrap items-end gap-4">
+      <div className="bg-white rounded-2xl border border-slate-200 p-4 sm:p-6 space-y-4">
+        <div className="flex flex-col sm:flex-row sm:flex-wrap sm:items-end gap-4">
           <div>
             <label className="block text-xs font-medium text-slate-400 mb-1.5">年份</label>
             <Toggle value={String(year)} onChange={v => { setYear(parseInt(v)); setBatch(''); }}
@@ -274,7 +274,7 @@ export default function AdmissionLinesClient() {
           <div>
             <label className="block text-xs font-medium text-slate-400 mb-1.5">计划类型</label>
             <select value={type} onChange={e => setType(e.target.value)}
-              className="px-3 py-1.5 bg-slate-50 border border-slate-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 appearance-none cursor-pointer">
+              className="px-3 py-2 bg-slate-50 border border-slate-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 appearance-none cursor-pointer">
               <option value="">全部</option>
               {TYPE_OPTIONS.map(t => <option key={t} value={t}>{t}</option>)}
             </select>
@@ -282,7 +282,7 @@ export default function AdmissionLinesClient() {
           <div>
             <label className="block text-xs font-medium text-slate-400 mb-1.5">排序</label>
             <select value={sort} onChange={e => setSort(e.target.value)}
-              className="px-3 py-1.5 bg-slate-50 border border-slate-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 appearance-none cursor-pointer">
+              className="px-3 py-2 bg-slate-50 border border-slate-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 appearance-none cursor-pointer">
               <option value="score_desc">分数降序</option>
               <option value="score_asc">分数升序</option>
               <option value="rank_asc">位次升序</option>
@@ -298,17 +298,19 @@ export default function AdmissionLinesClient() {
       </div>
 
       {/* Tab */}
-      <div className="flex gap-1 bg-slate-100 rounded-xl p-1 w-fit">
-        {([
-          { key: 'overview' as const, label: '总览' },
-          { key: 'university' as const, label: '院校汇总' },
-          { key: 'detail' as const, label: '专业组明细' },
-        ]).map(t => (
-          <button key={t.key} onClick={() => handleTabChange(t.key)}
-            className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${tab === t.key ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-500 hover:text-slate-700'}`}>
-            {t.label}
-          </button>
-        ))}
+      <div className="overflow-x-auto sm:overflow-visible">
+        <div className="flex gap-1 bg-slate-100 rounded-xl p-1 w-fit min-w-0">
+          {([
+            { key: 'overview' as const, label: '总览' },
+            { key: 'university' as const, label: '院校汇总' },
+            { key: 'detail' as const, label: '专业组明细' },
+          ]).map(t => (
+            <button key={t.key} onClick={() => handleTabChange(t.key)}
+              className={`px-3 sm:px-4 py-2 rounded-lg text-xs sm:text-sm font-medium whitespace-nowrap transition-all ${tab === t.key ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-500 hover:text-slate-700'}`}>
+              {t.label}
+            </button>
+          ))}
+        </div>
       </div>
 
       {loading ? (

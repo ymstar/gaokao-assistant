@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+*.db-shm
+*.db-wal
+*.db
+
+admission-lines/
+scripts/output/
